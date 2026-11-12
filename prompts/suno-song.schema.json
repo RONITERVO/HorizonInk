@@ -1,0 +1,20 @@
+{
+  "type": "object",
+  "properties": {
+    "title": { "type": "string" },
+    "style": { "type": "string" },
+    "vocal_gender": { "type": "string", "enum": ["f", "m"] },
+    "lyrics": { "type": "string" },
+    "learned_words_used": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "new_words_used": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["title", "style", "vocal_gender", "lyrics", "learned_words_used", "new_words_used"],
+  "additionalProperties": false
+}
+
