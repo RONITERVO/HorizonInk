@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "properties": {
+    "words": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "text": { "type": "string" },
+          "start": { "type": "number", "minimum": 0 },
+          "end": { "type": "number", "exclusiveMinimum": 0 },
+          "language": { "type": "string", "enum": ["es", "en"] },
+          "phrase_id": { "type": "string", "pattern": "^p\\d{3,}$" },
+          "uncertain": { "type": "boolean" }
+        },
+        "required": ["text", "start", "end", "language", "phrase_id", "uncertain"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["words"],
+  "additionalProperties": false
+}
+
