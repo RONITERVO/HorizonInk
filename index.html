@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Horizon Ink — Sunset Lyric Sketchbook</title>
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="scene-canvas" aria-label="3D sunset cliffside lyric game"></canvas>
+
+      <!-- Subtle floating top HUD -->
+      <header id="hud" class="hud hidden">
+        <div class="hud-left">
+          <button id="btn-songs" class="pill-btn" title="Choose Song (Esc)">
+            <span class="pill-icon">♪</span>
+            <span id="hud-song-title">Keep Dancing</span>
+          </button>
+          <button id="btn-play-pause" class="pill-btn icon-only" title="Play / Pause (P)">❚❚</button>
+          <div class="progress-wrap" title="Song Progress">
+            <input id="seek-slider" type="range" min="0" max="100" step="0.1" value="0" />
+            <span id="hud-clock" class="mono-clock">00:00 / 00:00</span>
+          </div>
+        </div>
+
+        <div class="hud-center">
+          <div class="stat-chip caught" title="Words caught & scribed">
+            <span class="stat-label">Caught</span>
+            <strong id="hud-caught">0</strong>
+          </div>
+          <div class="stat-chip streak" title="Current catch streak">
+            <span class="stat-label">Streak</span>
+            <strong id="hud-streak">0</strong>
+          </div>
+          <div class="stat-chip review" title="Words queued to study again">
+            <span class="stat-label">Study Again</span>
+            <strong id="hud-review">0</strong>
+          </div>
+        </div>
+
+        <div class="hud-right">
+          <button id="btn-mode" class="pill-btn" title="Switch Guidance Mode">Guided</button>
+          <button id="btn-study-deck" class="pill-btn accent-soft" title="Open Study Again Deck">
+            Review <span id="hud-deck-badge" class="badge">0</span>
+          </button>
+          <button id="btn-help" class="pill-btn icon-only" title="Controls & Help">?</button>
+        </div>
+      </header>
+
+      <!-- Active bilingual lyric whisper bar (subtle bottom-corner assist) -->
+      <div id="cue-hint" class="cue-hint hidden" aria-live="polite">
+        <div id="cue-lang-badge" class="cue-lang">ES</div>
+        <div class="cue-lines">
+          <div id="cue-target" class="cue-target"></div>
+          <div id="cue-sub" class="cue-sub"></div>
+        </div>
+      </div>
+
+      <!-- Ephemeral floating feedback toast -->
+      <div id="catch-toast" class="catch-toast" aria-live="polite"></div>
+
+      <!-- Title / Song Selection Overlay -->
+      <section id="overlay-menu" class="modal-backdrop">
+        <div class="glass-card menu-card">
+          <div class="menu-header">
+            <div>
+              <p class="eyebrow">1st-Person Sunset Lyric Sketchbook</p>
+              <h1>Horizon Ink</h1>
+              <p class="subtitle">
+                Watch the coastal sunset from the cliff edge while your magical pen writes the living
+                sketchbook on A4 paper. Catch the multilingual firefly words drifting in from the horizon
+                before they pass — wrong catches or late misses never end the song, they simply join your
+                <strong>Study Again</strong> deck.
+              </p>
+            </div>
+            <div class="mode-selector">
+              <label for="select-pace">Firefly Pace</label>
+              <select id="select-pace">
+                <option value="relaxed">Relaxed (4.8s flight)</option>
+                <option value="standard" selected>Standard (4.0s flight)</option>
+                <option value="brisk">Brisk (3.2s flight)</option>
+              </select>
+              <label for="select-assist">Guidance</label>
+              <select id="select-assist">
+                <option value="guided" selected>Guided (Active Glow + Ghost Line)</option>
+                <option value="immersion">Immersion (Pure Listening)</option>
+                <option value="zen">Zen Watch (Auto-Scribe)</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="song-grid" id="song-grid"></div>
+
+          <div class="menu-footer">
+            <div class="custom-loader">
+              <span class="custom-label">Load your own track + Gemini timings:</span>
+              <label class="file-btn">
+                Audio (.mp3/.wav/.m4a)
+                <input id="custom-audio" type="file" accept="audio/*,video/mp4" hidden />
+              </label>
+              <label class="file-btn">
+                Timings (.json/.txt)
+                <input id="custom-json" type="file" accept=".json,.txt" hidden />
+              </label>
+              <button id="btn-play-custom" class="pill-btn primary" disabled>Play Custom</button>
+              <span id="custom-status" class="custom-status"></span>
+            </div>
+            <button id="btn-open-deck-menu" class="pill-btn accent-soft">
+              Study Deck (<span id="menu-deck-count">0</span>)
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Study Again / End-of-Song Review Modal -->
+      <section id="overlay-study" class="modal-backdrop hidden">
+        <div class="glass-card study-card">
+          <div class="study-header">
+            <div>
+              <p id="study-eyebrow" class="eyebrow">No-Fail Study Journal</p>
+              <h2 id="study-title">Words to Study Again</h2>
+            </div>
+            <button id="btn-close-study" class="pill-btn">Back to Cliff</button>
+          </div>
+
+          <div id="study-summary" class="study-summary"></div>
+          <div id="study-list" class="study-list"></div>
+
+          <div class="study-actions">
+            <button id="btn-clear-mastered" class="pill-btn">Clear Mastered</button>
+            <button id="btn-replay-song" class="pill-btn primary">Replay Song</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Help Modal -->
+      <section id="overlay-help" class="modal-backdrop hidden">
+        <div class="glass-card help-card">
+          <div class="study-header">
+            <div>
+              <p class="eyebrow">How to Play</p>
+              <h2>Cliffside Firefly Catching</h2>
+            </div>
+            <button id="btn-close-help" class="pill-btn">Got It</button>
+          </div>
+          <ul class="help-list">
+            <li><strong>Look &amp; Listen:</strong> Native lyrics (e.g. Spanish) are sung first, so their fireflies emerge from the sunset horizon first, followed by their English echoes.</li>
+            <li><strong>Catch Fireflies:</strong> Click or tap any approaching word firefly in 3D space (or hold &amp; sweep through them, or press <kbd>1</kbd>–<kbd>4</kbd> / <kbd>Space</kbd>). Caught words swoop onto your A4 sketchbook as the magical pen writes them in ink.</li>
+            <li><strong>No Game Over:</strong> Catching a decoy or being too late never loses the game. Missed words softly pencil onto the A4 page and save into your <strong>Study Again</strong> deck so you can jump straight back to any phrase and practice it.</li>
+            <li><strong>Camera &amp; Shortcuts:</strong> Move your cursor gently to look around the sunset cliff. <kbd>P</kbd> Play/Pause, <kbd>Esc</kbd> Song Menu, <kbd>R</kbd> Study Deck.</li>
+          </ul>
+        </div>
+      </section>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
+
