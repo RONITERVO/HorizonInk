@@ -1,7 +1,9 @@
-export type Language = "es" | "en";
+export type PrimaryLanguage = "es" | "zh";
+export type Language = PrimaryLanguage | "en";
 
 export type PaceMode = "relaxed" | "standard" | "brisk";
 export type AssistMode = "guided" | "immersion" | "zen";
+export type FireflyLanguageMode = "both" | "primary" | "english";
 
 export interface MusicLyricWord {
   value: string;
@@ -28,17 +30,28 @@ export interface SongManifestEntry {
   id: string;
   title: string;
   subtitle: string;
+  genre: string;
+  primaryLanguage: PrimaryLanguage;
   duration: number;
   wordCount: number;
   audioUrl: string;
   timingUrl: string;
+  timingSource?: "gemini";
   lyricsText?: string;
+}
+
+export interface SongProgressRecord {
+  bestAccuracy: number;
+  bestStreak: number;
+  plays: number;
+  lastPlayedAt: number;
 }
 
 export type WordCatchStatus = "pending" | "caught" | "missed" | "auto";
 
 export interface WordCue {
   id: string;
+  cueKey: string;
   index: number;
   value: string;
   normalized: string;
@@ -62,9 +75,11 @@ export interface FireflyCandidate {
   language: Language;
   isTarget: boolean;
   targetCueId?: string;
+  cueKey?: string;
   spawnTime: number;
   idealTime: number;
   tooLateTime: number;
+  flightSeconds: number;
   // 3D trajectory parameters in world space
   originX: number;
   originY: number;
@@ -72,6 +87,7 @@ export interface FireflyCandidate {
   catchX: number;
   catchY: number;
   catchZ: number;
+  normX: number;
   swayFreq: number;
   swayPhase: number;
   swayAmpX: number;
@@ -102,4 +118,3 @@ export interface GameStats {
   bestStreak: number;
   totalTargets: number;
 }
-

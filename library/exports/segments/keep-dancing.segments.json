@@ -1,0 +1,1978 @@
+{
+  "title": "Keep Dancing",
+  "genre": "Euro-Reggae Pop",
+  "primaryLanguage": "es",
+  "duration": 173.945,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 4.2,
+      "end": 9.9,
+      "primary": "",
+      "translation": "Sun is shining... Here we go!",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Sun",
+          "start": 4.2,
+          "end": 4.8,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 4.8,
+          "end": 5,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "shining...",
+          "start": 5,
+          "end": 6.5,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "Here",
+          "start": 8.7,
+          "end": 9.1,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "we",
+          "start": 9.1,
+          "end": 9.3,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "go!",
+          "start": 9.3,
+          "end": 9.9,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 16.2,
+      "end": 19,
+      "primary": "Salió el sol",
+      "translation": "The sun came out",
+      "words": [
+        {
+          "value": "Salió",
+          "start": 16.2,
+          "end": 16.7,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 16.7,
+          "end": 16.9,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        },
+        {
+          "value": "sol",
+          "start": 16.9,
+          "end": 17.6,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 17.6,
+          "end": 17.8,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        },
+        {
+          "value": "sun",
+          "start": 17.8,
+          "end": 18.2,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "en"
+        },
+        {
+          "value": "came",
+          "start": 18.2,
+          "end": 18.5,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "en"
+        },
+        {
+          "value": "out",
+          "start": 18.5,
+          "end": 19,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 19.4,
+      "end": 22.5,
+      "primary": "En la ciudad",
+      "translation": "In the city",
+      "words": [
+        {
+          "value": "En",
+          "start": 19.4,
+          "end": 19.6,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 19.6,
+          "end": 19.8,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        },
+        {
+          "value": "ciudad",
+          "start": 19.8,
+          "end": 21,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 21,
+          "end": 21.2,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 21.2,
+          "end": 21.4,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        },
+        {
+          "value": "city",
+          "start": 21.4,
+          "end": 22.5,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 23,
+      "end": 26.5,
+      "primary": "Siento mucha",
+      "translation": "I feel a lot of",
+      "words": [
+        {
+          "value": "Siento",
+          "start": 23,
+          "end": 23.8,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "es"
+        },
+        {
+          "value": "mucha",
+          "start": 23.8,
+          "end": 25,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 25,
+          "end": 25.2,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "en"
+        },
+        {
+          "value": "feel",
+          "start": 25.2,
+          "end": 25.5,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 25.5,
+          "end": 25.6,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "en"
+        },
+        {
+          "value": "lot",
+          "start": 25.6,
+          "end": 25.9,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 25.9,
+          "end": 26.5,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 27,
+      "end": 31,
+      "primary": "Felicidad",
+      "translation": "Happiness",
+      "words": [
+        {
+          "value": "Felicidad",
+          "start": 27,
+          "end": 29,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Happiness",
+          "start": 29.1,
+          "end": 31,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 31.3,
+      "end": 33.4,
+      "primary": "Ropa ligera",
+      "translation": "Light clothes",
+      "words": [
+        {
+          "value": "Ropa",
+          "start": 31.3,
+          "end": 31.8,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "es"
+        },
+        {
+          "value": "ligera",
+          "start": 31.8,
+          "end": 32.4,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Light",
+          "start": 32.4,
+          "end": 32.7,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "en"
+        },
+        {
+          "value": "clothes",
+          "start": 32.7,
+          "end": 33.4,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 33.4,
+      "end": 35.5,
+      "primary": "Gafas oscuras",
+      "translation": "Dark glasses",
+      "words": [
+        {
+          "value": "Gafas",
+          "start": 33.4,
+          "end": 33.8,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        },
+        {
+          "value": "oscuras",
+          "start": 33.8,
+          "end": 34.5,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Dark",
+          "start": 34.5,
+          "end": 34.9,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "en"
+        },
+        {
+          "value": "glasses",
+          "start": 34.9,
+          "end": 35.5,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 35.5,
+      "end": 37.4,
+      "primary": "Vamos a hacer",
+      "translation": "Let's go make",
+      "words": [
+        {
+          "value": "Vamos",
+          "start": 35.5,
+          "end": 35.9,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "es"
+        },
+        {
+          "value": "a",
+          "start": 35.9,
+          "end": 36.1,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "es"
+        },
+        {
+          "value": "hacer",
+          "start": 36.1,
+          "end": 36.5,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Let's",
+          "start": 36.5,
+          "end": 36.8,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "en"
+        },
+        {
+          "value": "go",
+          "start": 36.8,
+          "end": 37,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "en"
+        },
+        {
+          "value": "make",
+          "start": 37,
+          "end": 37.4,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 37.4,
+      "end": 40,
+      "primary": "Mil locuras",
+      "translation": "A thousand crazy things",
+      "words": [
+        {
+          "value": "Mil",
+          "start": 37.4,
+          "end": 37.7,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "es"
+        },
+        {
+          "value": "locuras",
+          "start": 37.7,
+          "end": 38.4,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "A",
+          "start": 38.4,
+          "end": 38.5,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        },
+        {
+          "value": "thousand",
+          "start": 38.5,
+          "end": 38.9,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "en"
+        },
+        {
+          "value": "crazy",
+          "start": 38.9,
+          "end": 39.4,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "en"
+        },
+        {
+          "value": "things",
+          "start": 39.4,
+          "end": 40,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 40,
+      "end": 42.9,
+      "primary": "Brisa del mar",
+      "translation": "Sea breeze On my face",
+      "words": [
+        {
+          "value": "Brisa",
+          "start": 40,
+          "end": 40.5,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 40.5,
+          "end": 40.7,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "es"
+        },
+        {
+          "value": "mar",
+          "start": 40.7,
+          "end": 41.1,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sea",
+          "start": 41.1,
+          "end": 41.4,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "breeze",
+          "start": 41.4,
+          "end": 42,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "en"
+        },
+        {
+          "value": "On",
+          "start": 42,
+          "end": 42.2,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 42.2,
+          "end": 42.4,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "en"
+        },
+        {
+          "value": "face",
+          "start": 42.4,
+          "end": 42.9,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 43,
+      "end": 44.9,
+      "primary": "Este es el",
+      "translation": "This is the",
+      "words": [
+        {
+          "value": "Este",
+          "start": 43,
+          "end": 43.4,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "es"
+        },
+        {
+          "value": "es",
+          "start": 43.4,
+          "end": 43.7,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 43.7,
+          "end": 43.9,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "This",
+          "start": 43.9,
+          "end": 44.3,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 44.3,
+          "end": 44.6,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 44.6,
+          "end": 44.9,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 44.9,
+      "end": 46.8,
+      "primary": "Mejor lugar",
+      "translation": "Best place",
+      "words": [
+        {
+          "value": "Mejor",
+          "start": 44.9,
+          "end": 45.3,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "es"
+        },
+        {
+          "value": "lugar",
+          "start": 45.3,
+          "end": 45.9,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Best",
+          "start": 45.9,
+          "end": 46.2,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "en"
+        },
+        {
+          "value": "place",
+          "start": 46.2,
+          "end": 46.8,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 46.9,
+      "end": 50,
+      "primary": "¡Canta conmigo!",
+      "translation": "Sing with me! All day long",
+      "words": [
+        {
+          "value": "¡Canta",
+          "start": 46.9,
+          "end": 47.4,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "es"
+        },
+        {
+          "value": "conmigo!",
+          "start": 47.4,
+          "end": 48,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sing",
+          "start": 48,
+          "end": 48.3,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "with",
+          "start": 48.3,
+          "end": 48.6,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "en"
+        },
+        {
+          "value": "me!",
+          "start": 48.6,
+          "end": 49,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "en"
+        },
+        {
+          "value": "All",
+          "start": 49,
+          "end": 49.3,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "en"
+        },
+        {
+          "value": "day",
+          "start": 49.3,
+          "end": 49.6,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "en"
+        },
+        {
+          "value": "long",
+          "start": 49.6,
+          "end": 50,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 50.1,
+      "end": 52,
+      "primary": "¡Esta feliz",
+      "translation": "This happy",
+      "words": [
+        {
+          "value": "¡Esta",
+          "start": 50.1,
+          "end": 50.5,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "es"
+        },
+        {
+          "value": "feliz",
+          "start": 50.5,
+          "end": 51.1,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "This",
+          "start": 51.1,
+          "end": 51.4,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "en"
+        },
+        {
+          "value": "happy",
+          "start": 51.4,
+          "end": 52,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 52,
+      "end": 54,
+      "primary": "Y linda canción!",
+      "translation": "",
+      "words": [
+        {
+          "value": "Y",
+          "start": 52,
+          "end": 52.2,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        },
+        {
+          "value": "linda",
+          "start": 52.2,
+          "end": 52.8,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "es"
+        },
+        {
+          "value": "canción!",
+          "start": 52.8,
+          "end": 54,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 54.1,
+      "end": 57.6,
+      "primary": "¡Baila en la arena!",
+      "translation": "Dance in the sand! Feel the heat",
+      "words": [
+        {
+          "value": "¡Baila",
+          "start": 54.1,
+          "end": 54.6,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 54.6,
+          "end": 54.8,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 54.8,
+          "end": 55,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "es"
+        },
+        {
+          "value": "arena!",
+          "start": 55,
+          "end": 55.6,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Dance",
+          "start": 55.6,
+          "end": 55.9,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 55.9,
+          "end": 56.1,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 56.1,
+          "end": 56.2,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "sand!",
+          "start": 56.2,
+          "end": 56.6,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "Feel",
+          "start": 56.6,
+          "end": 56.8,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 56.8,
+          "end": 57,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "en"
+        },
+        {
+          "value": "heat",
+          "start": 57,
+          "end": 57.6,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 57.7,
+      "end": 67.5,
+      "primary": "¡Moviendo el cuerpo!",
+      "translation": "Moving the body! To the beat Smile!",
+      "words": [
+        {
+          "value": "¡Moviendo",
+          "start": 57.7,
+          "end": 58.4,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 58.4,
+          "end": 58.6,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "es"
+        },
+        {
+          "value": "cuerpo!",
+          "start": 58.6,
+          "end": 59.2,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Moving",
+          "start": 59.2,
+          "end": 59.5,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 59.5,
+          "end": 59.7,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "en"
+        },
+        {
+          "value": "body!",
+          "start": 59.7,
+          "end": 60.5,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "en"
+        },
+        {
+          "value": "To",
+          "start": 60.5,
+          "end": 60.7,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 60.7,
+          "end": 60.9,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "en"
+        },
+        {
+          "value": "beat",
+          "start": 60.9,
+          "end": 61.5,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "en"
+        },
+        {
+          "value": "Smile!",
+          "start": 65.5,
+          "end": 67.5,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 76.5,
+      "end": 78.6,
+      "primary": "Cielo azul",
+      "translation": "Blue sky",
+      "words": [
+        {
+          "value": "Cielo",
+          "start": 76.5,
+          "end": 77.2,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        },
+        {
+          "value": "azul",
+          "start": 77.2,
+          "end": 77.8,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Blue",
+          "start": 77.8,
+          "end": 78.1,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        },
+        {
+          "value": "sky",
+          "start": 78.1,
+          "end": 78.6,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 78.6,
+      "end": 80.8,
+      "primary": "Sin una nube",
+      "translation": "Without a cloud",
+      "words": [
+        {
+          "value": "Sin",
+          "start": 78.6,
+          "end": 78.8,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "es"
+        },
+        {
+          "value": "una",
+          "start": 78.8,
+          "end": 79.1,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "es"
+        },
+        {
+          "value": "nube",
+          "start": 79.1,
+          "end": 79.7,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Without",
+          "start": 79.7,
+          "end": 80.2,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 80.2,
+          "end": 80.4,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "en"
+        },
+        {
+          "value": "cloud",
+          "start": 80.4,
+          "end": 80.8,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 80.8,
+      "end": 83.2,
+      "primary": "La temperatura",
+      "translation": "The temperature",
+      "words": [
+        {
+          "value": "La",
+          "start": 80.8,
+          "end": 81.1,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "es"
+        },
+        {
+          "value": "temperatura",
+          "start": 81.1,
+          "end": 82.2,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 82.2,
+          "end": 82.4,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        },
+        {
+          "value": "temperature",
+          "start": 82.4,
+          "end": 83.2,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 83.2,
+      "end": 85.5,
+      "primary": "Pronto sube",
+      "translation": "Soon goes up",
+      "words": [
+        {
+          "value": "Pronto",
+          "start": 83.2,
+          "end": 83.7,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "es"
+        },
+        {
+          "value": "sube",
+          "start": 83.7,
+          "end": 84.3,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Soon",
+          "start": 84.3,
+          "end": 84.6,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "en"
+        },
+        {
+          "value": "goes",
+          "start": 84.6,
+          "end": 84.9,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        },
+        {
+          "value": "up",
+          "start": 84.9,
+          "end": 85.5,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 85.5,
+      "end": 87.4,
+      "primary": "Fruta fresca",
+      "translation": "Fresh fruit",
+      "words": [
+        {
+          "value": "Fruta",
+          "start": 85.5,
+          "end": 86,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "es"
+        },
+        {
+          "value": "fresca",
+          "start": 86,
+          "end": 86.6,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Fresh",
+          "start": 86.6,
+          "end": 87,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "en"
+        },
+        {
+          "value": "fruit",
+          "start": 87,
+          "end": 87.4,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 87.5,
+      "end": 89.7,
+      "primary": "Agua de coco",
+      "translation": "Coconut water",
+      "words": [
+        {
+          "value": "Agua",
+          "start": 87.5,
+          "end": 87.8,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 87.8,
+          "end": 88,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "es"
+        },
+        {
+          "value": "coco",
+          "start": 88,
+          "end": 88.6,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Coconut",
+          "start": 88.6,
+          "end": 89.2,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "en"
+        },
+        {
+          "value": "water",
+          "start": 89.2,
+          "end": 89.7,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 89.7,
+      "end": 91.4,
+      "primary": "Me estoy",
+      "translation": "I am",
+      "words": [
+        {
+          "value": "Me",
+          "start": 89.7,
+          "end": 90,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "es"
+        },
+        {
+          "value": "estoy",
+          "start": 90,
+          "end": 90.8,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 90.8,
+          "end": 91,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "en"
+        },
+        {
+          "value": "am",
+          "start": 91,
+          "end": 91.4,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 91.4,
+      "end": 98.2,
+      "primary": "Enamorando un poco",
+      "translation": "Falling in love a little",
+      "words": [
+        {
+          "value": "Enamorando",
+          "start": 91.4,
+          "end": 94,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        },
+        {
+          "value": "un",
+          "start": 94,
+          "end": 94.3,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "es"
+        },
+        {
+          "value": "poco",
+          "start": 94.3,
+          "end": 95.8,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Falling",
+          "start": 95.9,
+          "end": 96.4,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 96.4,
+          "end": 96.6,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "en"
+        },
+        {
+          "value": "love",
+          "start": 96.6,
+          "end": 97,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 97,
+          "end": 97.2,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "en"
+        },
+        {
+          "value": "little",
+          "start": 97.2,
+          "end": 98.2,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 98.9,
+      "end": 101.9,
+      "primary": "Brisa del mar",
+      "translation": "Sea breeze On my face",
+      "words": [
+        {
+          "value": "Brisa",
+          "start": 98.9,
+          "end": 99.4,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 99.4,
+          "end": 99.7,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "es"
+        },
+        {
+          "value": "mar",
+          "start": 99.7,
+          "end": 100.1,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sea",
+          "start": 100.1,
+          "end": 100.4,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "en"
+        },
+        {
+          "value": "breeze",
+          "start": 100.4,
+          "end": 100.9,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "en"
+        },
+        {
+          "value": "On",
+          "start": 100.9,
+          "end": 101.1,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 101.1,
+          "end": 101.3,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "en"
+        },
+        {
+          "value": "face",
+          "start": 101.3,
+          "end": 101.9,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 101.9,
+      "end": 103.7,
+      "primary": "Este es el",
+      "translation": "This is the",
+      "words": [
+        {
+          "value": "Este",
+          "start": 101.9,
+          "end": 102.3,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "es"
+        },
+        {
+          "value": "es",
+          "start": 102.3,
+          "end": 102.5,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 102.5,
+          "end": 102.8,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "This",
+          "start": 102.8,
+          "end": 103.1,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 103.1,
+          "end": 103.4,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 103.4,
+          "end": 103.7,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 103.7,
+      "end": 105.7,
+      "primary": "Mejor lugar",
+      "translation": "Best place",
+      "words": [
+        {
+          "value": "Mejor",
+          "start": 103.7,
+          "end": 104.2,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "es"
+        },
+        {
+          "value": "lugar",
+          "start": 104.2,
+          "end": 104.8,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Best",
+          "start": 104.8,
+          "end": 105.2,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "en"
+        },
+        {
+          "value": "place",
+          "start": 105.2,
+          "end": 105.7,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 105.8,
+      "end": 109,
+      "primary": "¡Canta conmigo!",
+      "translation": "Sing with me! All day long",
+      "words": [
+        {
+          "value": "¡Canta",
+          "start": 105.8,
+          "end": 106.3,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "es"
+        },
+        {
+          "value": "conmigo!",
+          "start": 106.3,
+          "end": 106.9,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sing",
+          "start": 106.9,
+          "end": 107.2,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "en"
+        },
+        {
+          "value": "with",
+          "start": 107.2,
+          "end": 107.5,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "en"
+        },
+        {
+          "value": "me!",
+          "start": 107.5,
+          "end": 107.9,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "en"
+        },
+        {
+          "value": "All",
+          "start": 107.9,
+          "end": 108.2,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "en"
+        },
+        {
+          "value": "day",
+          "start": 108.2,
+          "end": 108.5,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "en"
+        },
+        {
+          "value": "long",
+          "start": 108.5,
+          "end": 109,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 109.1,
+      "end": 110.8,
+      "primary": "¡Esta feliz",
+      "translation": "This happy",
+      "words": [
+        {
+          "value": "¡Esta",
+          "start": 109.1,
+          "end": 109.5,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "es"
+        },
+        {
+          "value": "feliz",
+          "start": 109.5,
+          "end": 110.1,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "This",
+          "start": 110.1,
+          "end": 110.4,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "en"
+        },
+        {
+          "value": "happy",
+          "start": 110.4,
+          "end": 110.8,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 110.9,
+      "end": 121.2,
+      "primary": "Y linda canción!",
+      "translation": "And pretty song! Everybody dance!",
+      "words": [
+        {
+          "value": "Y",
+          "start": 110.9,
+          "end": 111.1,
+          "uncertain": false,
+          "sourceIndex": 172,
+          "language": "es"
+        },
+        {
+          "value": "linda",
+          "start": 111.1,
+          "end": 111.6,
+          "uncertain": false,
+          "sourceIndex": 173,
+          "language": "es"
+        },
+        {
+          "value": "canción!",
+          "start": 111.6,
+          "end": 112.5,
+          "uncertain": false,
+          "sourceIndex": 174,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "And",
+          "start": 112.5,
+          "end": 112.7,
+          "uncertain": false,
+          "sourceIndex": 175,
+          "language": "en"
+        },
+        {
+          "value": "pretty",
+          "start": 112.7,
+          "end": 113.1,
+          "uncertain": false,
+          "sourceIndex": 176,
+          "language": "en"
+        },
+        {
+          "value": "song!",
+          "start": 113.1,
+          "end": 113.8,
+          "uncertain": false,
+          "sourceIndex": 177,
+          "language": "en"
+        },
+        {
+          "value": "Everybody",
+          "start": 118.8,
+          "end": 119.5,
+          "uncertain": false,
+          "sourceIndex": 178,
+          "language": "en"
+        },
+        {
+          "value": "dance!",
+          "start": 119.5,
+          "end": 121.2,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-32",
+      "start": 149.3,
+      "end": 153.2,
+      "primary": "Un verano...",
+      "translation": "A summer... To remember...",
+      "words": [
+        {
+          "value": "Un",
+          "start": 149.3,
+          "end": 149.8,
+          "uncertain": false,
+          "sourceIndex": 180,
+          "language": "es"
+        },
+        {
+          "value": "verano...",
+          "start": 149.8,
+          "end": 150.8,
+          "uncertain": false,
+          "sourceIndex": 181,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "A",
+          "start": 150.8,
+          "end": 151,
+          "uncertain": false,
+          "sourceIndex": 182,
+          "language": "en"
+        },
+        {
+          "value": "summer...",
+          "start": 151,
+          "end": 151.8,
+          "uncertain": false,
+          "sourceIndex": 183,
+          "language": "en"
+        },
+        {
+          "value": "To",
+          "start": 151.8,
+          "end": 152,
+          "uncertain": false,
+          "sourceIndex": 184,
+          "language": "en"
+        },
+        {
+          "value": "remember...",
+          "start": 152,
+          "end": 153.2,
+          "uncertain": false,
+          "sourceIndex": 185,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-33",
+      "start": 153.2,
+      "end": 155.5,
+      "primary": "Para siempre...",
+      "translation": "Forever...",
+      "words": [
+        {
+          "value": "Para",
+          "start": 153.2,
+          "end": 153.7,
+          "uncertain": false,
+          "sourceIndex": 186,
+          "language": "es"
+        },
+        {
+          "value": "siempre...",
+          "start": 153.7,
+          "end": 154.5,
+          "uncertain": false,
+          "sourceIndex": 187,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Forever...",
+          "start": 154.5,
+          "end": 155.5,
+          "uncertain": false,
+          "sourceIndex": 188,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-34",
+      "start": 155.6,
+      "end": 163,
+      "primary": "Sonríe.",
+      "translation": "Goodbye!",
+      "words": [
+        {
+          "value": "Sonríe.",
+          "start": 155.6,
+          "end": 159.5,
+          "uncertain": false,
+          "sourceIndex": 189,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Goodbye!",
+          "start": 162.4,
+          "end": 163,
+          "uncertain": false,
+          "sourceIndex": 190,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

@@ -10,14 +10,14 @@
   {
     "text": "is",
     "start": 4.8,
-    "end": 5.0,
+    "end": 5,
     "language": "en",
     "phrase_id": "p001",
     "uncertain": false
   },
   {
     "text": "shining...",
-    "start": 5.0,
+    "start": 5,
     "end": 6.5,
     "language": "en",
     "phrase_id": "p001",
@@ -98,7 +98,7 @@
   {
     "text": "out",
     "start": 18.5,
-    "end": 19.0,
+    "end": 19,
     "language": "en",
     "phrase_id": "p004",
     "uncertain": false
@@ -122,14 +122,14 @@
   {
     "text": "ciudad",
     "start": 19.8,
-    "end": 21.0,
+    "end": 21,
     "language": "es",
     "phrase_id": "p005",
     "uncertain": false
   },
   {
     "text": "In",
-    "start": 21.0,
+    "start": 21,
     "end": 21.2,
     "language": "en",
     "phrase_id": "p006",
@@ -153,7 +153,7 @@
   },
   {
     "text": "Siento",
-    "start": 23.0,
+    "start": 23,
     "end": 23.8,
     "language": "es",
     "phrase_id": "p007",
@@ -162,14 +162,14 @@
   {
     "text": "mucha",
     "start": 23.8,
-    "end": 25.0,
+    "end": 25,
     "language": "es",
     "phrase_id": "p007",
     "uncertain": false
   },
   {
     "text": "I",
-    "start": 25.0,
+    "start": 25,
     "end": 25.2,
     "language": "en",
     "phrase_id": "p008",
@@ -209,8 +209,8 @@
   },
   {
     "text": "Felicidad",
-    "start": 27.0,
-    "end": 29.0,
+    "start": 27,
+    "end": 29,
     "language": "es",
     "phrase_id": "p009",
     "uncertain": false
@@ -218,7 +218,7 @@
   {
     "text": "Happiness",
     "start": 29.1,
-    "end": 31.0,
+    "end": 31,
     "language": "en",
     "phrase_id": "p010",
     "uncertain": false
@@ -322,14 +322,14 @@
   {
     "text": "go",
     "start": 36.8,
-    "end": 37.0,
+    "end": 37,
     "language": "en",
     "phrase_id": "p016",
     "uncertain": false
   },
   {
     "text": "make",
-    "start": 37.0,
+    "start": 37,
     "end": 37.4,
     "language": "en",
     "phrase_id": "p016",
@@ -378,14 +378,14 @@
   {
     "text": "things",
     "start": 39.4,
-    "end": 40.0,
+    "end": 40,
     "language": "en",
     "phrase_id": "p018",
     "uncertain": false
   },
   {
     "text": "Brisa",
-    "start": 40.0,
+    "start": 40,
     "end": 40.5,
     "language": "es",
     "phrase_id": "p019",
@@ -418,14 +418,14 @@
   {
     "text": "breeze",
     "start": 41.4,
-    "end": 42.0,
+    "end": 42,
     "language": "en",
     "phrase_id": "p020",
     "uncertain": false
   },
   {
     "text": "On",
-    "start": 42.0,
+    "start": 42,
     "end": 42.2,
     "language": "en",
     "phrase_id": "p021",
@@ -449,7 +449,7 @@
   },
   {
     "text": "Este",
-    "start": 43.0,
+    "start": 43,
     "end": 43.4,
     "language": "es",
     "phrase_id": "p022",
@@ -538,14 +538,14 @@
   {
     "text": "conmigo!",
     "start": 47.4,
-    "end": 48.0,
+    "end": 48,
     "language": "es",
     "phrase_id": "p026",
     "uncertain": false
   },
   {
     "text": "Sing",
-    "start": 48.0,
+    "start": 48,
     "end": 48.3,
     "language": "en",
     "phrase_id": "p027",
@@ -562,14 +562,14 @@
   {
     "text": "me!",
     "start": 48.6,
-    "end": 49.0,
+    "end": 49,
     "language": "en",
     "phrase_id": "p027",
     "uncertain": false
   },
   {
     "text": "All",
-    "start": 49.0,
+    "start": 49,
     "end": 49.3,
     "language": "en",
     "phrase_id": "p028",
@@ -586,7 +586,7 @@
   {
     "text": "long",
     "start": 49.6,
-    "end": 50.0,
+    "end": 50,
     "language": "en",
     "phrase_id": "p028",
     "uncertain": false
@@ -618,14 +618,14 @@
   {
     "text": "happy",
     "start": 51.4,
-    "end": 52.0,
+    "end": 52,
     "language": "en",
     "phrase_id": "p030",
     "uncertain": false
   },
   {
     "text": "Y",
-    "start": 52.0,
+    "start": 52,
     "end": 52.2,
     "language": "es",
     "phrase_id": "p031",
@@ -642,7 +642,7 @@
   {
     "text": "canción!",
     "start": 52.8,
-    "end": 54.0,
+    "end": 54,
     "language": "es",
     "phrase_id": "p031",
     "uncertain": false
@@ -666,14 +666,14 @@
   {
     "text": "la",
     "start": 54.8,
-    "end": 55.0,
+    "end": 55,
     "language": "es",
     "phrase_id": "p032",
     "uncertain": false
   },
   {
     "text": "arena!",
-    "start": 55.0,
+    "start": 55,
     "end": 55.6,
     "language": "es",
     "phrase_id": "p032",
@@ -722,14 +722,14 @@
   {
     "text": "the",
     "start": 56.8,
-    "end": 57.0,
+    "end": 57,
     "language": "en",
     "phrase_id": "p034",
     "uncertain": false
   },
   {
     "text": "heat",
-    "start": 57.0,
+    "start": 57,
     "end": 57.6,
     "language": "en",
     "phrase_id": "p034",
@@ -970,14 +970,14 @@
   {
     "text": "Fruta",
     "start": 85.5,
-    "end": 86.0,
+    "end": 86,
     "language": "es",
     "phrase_id": "p047",
     "uncertain": false
   },
   {
     "text": "fresca",
-    "start": 86.0,
+    "start": 86,
     "end": 86.6,
     "language": "es",
     "phrase_id": "p047",
@@ -986,14 +986,14 @@
   {
     "text": "Fresh",
     "start": 86.6,
-    "end": 87.0,
+    "end": 87,
     "language": "en",
     "phrase_id": "p048",
     "uncertain": false
   },
   {
     "text": "fruit",
-    "start": 87.0,
+    "start": 87,
     "end": 87.4,
     "language": "en",
     "phrase_id": "p048",
@@ -1010,14 +1010,14 @@
   {
     "text": "de",
     "start": 87.8,
-    "end": 88.0,
+    "end": 88,
     "language": "es",
     "phrase_id": "p049",
     "uncertain": false
   },
   {
     "text": "coco",
-    "start": 88.0,
+    "start": 88,
     "end": 88.6,
     "language": "es",
     "phrase_id": "p049",
@@ -1042,14 +1042,14 @@
   {
     "text": "Me",
     "start": 89.7,
-    "end": 90.0,
+    "end": 90,
     "language": "es",
     "phrase_id": "p051",
     "uncertain": false
   },
   {
     "text": "estoy",
-    "start": 90.0,
+    "start": 90,
     "end": 90.8,
     "language": "es",
     "phrase_id": "p051",
@@ -1058,14 +1058,14 @@
   {
     "text": "I",
     "start": 90.8,
-    "end": 91.0,
+    "end": 91,
     "language": "en",
     "phrase_id": "p052",
     "uncertain": false
   },
   {
     "text": "am",
-    "start": 91.0,
+    "start": 91,
     "end": 91.4,
     "language": "en",
     "phrase_id": "p052",
@@ -1074,14 +1074,14 @@
   {
     "text": "Enamorando",
     "start": 91.4,
-    "end": 94.0,
+    "end": 94,
     "language": "es",
     "phrase_id": "p053",
     "uncertain": false
   },
   {
     "text": "un",
-    "start": 94.0,
+    "start": 94,
     "end": 94.3,
     "language": "es",
     "phrase_id": "p053",
@@ -1114,14 +1114,14 @@
   {
     "text": "love",
     "start": 96.6,
-    "end": 97.0,
+    "end": 97,
     "language": "en",
     "phrase_id": "p054",
     "uncertain": false
   },
   {
     "text": "a",
-    "start": 97.0,
+    "start": 97,
     "end": 97.2,
     "language": "en",
     "phrase_id": "p054",
@@ -1338,7 +1338,7 @@
   {
     "text": "long",
     "start": 108.5,
-    "end": 109.0,
+    "end": 109,
     "language": "en",
     "phrase_id": "p064",
     "uncertain": false
@@ -1458,14 +1458,14 @@
   {
     "text": "A",
     "start": 150.8,
-    "end": 151.0,
+    "end": 151,
     "language": "en",
     "phrase_id": "p071",
     "uncertain": false
   },
   {
     "text": "summer...",
-    "start": 151.0,
+    "start": 151,
     "end": 151.8,
     "language": "en",
     "phrase_id": "p071",
@@ -1474,14 +1474,14 @@
   {
     "text": "To",
     "start": 151.8,
-    "end": 152.0,
+    "end": 152,
     "language": "en",
     "phrase_id": "p072",
     "uncertain": false
   },
   {
     "text": "remember...",
-    "start": 152.0,
+    "start": 152,
     "end": 153.2,
     "language": "en",
     "phrase_id": "p072",
@@ -1522,7 +1522,7 @@
   {
     "text": "Goodbye!",
     "start": 162.4,
-    "end": 163.0,
+    "end": 163,
     "language": "en",
     "phrase_id": "p076",
     "uncertain": false

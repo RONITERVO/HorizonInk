@@ -1,5 +1,5 @@
 import type { AssistMode, MusicLyricWord, Segment, WordCatchStatus } from "../types";
-import { displaySegmentAt, wordProgress } from "../lyrics/geminiImport";
+import { containsCjk, displaySegmentAt, makeWordKey, wordProgress } from "../lyrics/geminiImport";
 import {
   MusicLyricReactivity,
   resolveSketchbookHorizon,
@@ -66,6 +66,20 @@ export interface PenPaperTarget {
 const MAX_DROPS = 420;
 const MAX_SPLATS = 96;
 const MAX_BIRDS = 5;
+
+function effectiveWordProgress(
+  word: MusicLyricWord,
+  status: WordCatchStatus,
+  seconds: number,
+  caughtAt: number | undefined,
+): number {
+  if (status === "caught" && caughtAt !== undefined && caughtAt > word.start) {
+    if (seconds < caughtAt) return 0;
+    const strokeDuration = Math.max(0.28, word.end - caughtAt);
+    return Math.max(0.04, Math.min(1, (seconds - caughtAt) / strokeDuration));
+  }
+  return wordProgress(word.start, word.end, seconds);
+}
 
 function pseudoRandom(seed: number): number {
   const value = Math.sin(seed * 12.9898) * 43_758.5453;
@@ -648,6 +662,7 @@ export class A4PaperVisualizer {
   private segments: Segment[] = [];
   private duration = 180;
   private inkLandingFlashes = new Map<string, number>();
+  private wordPaperCoords = new Map<string, { u: number; v: number }>();
 
   constructor() {
     this.outputCanvas = document.createElement("canvas");
@@ -667,12 +682,51 @@ export class A4PaperVisualizer {
     this.duration = Math.max(1, duration);
     this.layoutCache.clear();
     this.inkLandingFlashes.clear();
+    this.wordPaperCoords.clear();
     this.reactivity.reset();
     this.engine.reset();
   }
 
+  syncToTime() {
+    this.inkLandingFlashes.clear();
+    this.wordPaperCoords.clear();
+  }
+
   triggerInkFlash(cueId: string, nowSeconds: number) {
     this.inkLandingFlashes.set(cueId, nowSeconds);
+  }
+
+  getWordPaperUv(cueKey?: string): { u: number; v: number } | undefined {
+    if (!cueKey) return undefined;
+    const cached = this.wordPaperCoords.get(cueKey);
+    if (cached) return cached;
+
+    for (const seg of this.segments) {
+      const matchPrimary = seg.words.some((w) => makeWordKey(w) === cueKey);
+      const matchTrans = !matchPrimary && seg.translationWords.some((w) => makeWordKey(w) === cueKey);
+      if (!matchPrimary && !matchTrans) continue;
+      const layout = this.getLayout(seg);
+      if (matchPrimary) {
+        const pw = layout.primary.words.find((w) => w.cueId === cueKey);
+        if (pw) {
+          return {
+            u: (pw.x + pw.width * 0.5) / this.logicalWidth,
+            v: (pw.y + layout.primary.size * 0.5) / this.logicalHeight,
+          };
+        }
+      } else {
+        const tw = layout.translation.words.find((w) => w.cueId === cueKey);
+        if (tw) {
+          const reflY =
+            layout.translation.top + (tw.y - layout.translation.top) * 0.62 + layout.translation.size * 0.4;
+          return {
+            u: (tw.x + tw.width * 0.5) / this.logicalWidth,
+            v: reflY / this.logicalHeight,
+          };
+        }
+      }
+    }
+    return undefined;
   }
 
   private buildTextLayout(words: MusicLyricWord[], requestedSize: number, top: number, maxHeight: number): TextLayout {
@@ -680,11 +734,12 @@ export class A4PaperVisualizer {
     let lines: PlacedWord[][] = [];
     let font = "";
     const ctx = this.context;
+    const isCjk = words.some((w) => containsCjk(w.value));
 
     for (;;) {
-      font = `700 ${size}px "Caveat", cursive`;
+      font = `700 ${size}px "Caveat", "KaiTi", "STKaiti", "Songti SC", "Microsoft YaHei", cursive`;
       ctx.font = font;
-      const space = ctx.measureText(" ").width;
+      const space = isCjk ? size * 0.14 : ctx.measureText(" ").width;
       lines = [[]];
       let used = 0;
       let longest = 0;
@@ -701,7 +756,7 @@ export class A4PaperVisualizer {
           x: used,
           y: 0,
           width: wordWidth,
-          cueId: `${word.start.toFixed(2)}:${word.value}`,
+          cueId: makeWordKey(word),
         });
         used += wordWidth;
       }
@@ -733,7 +788,7 @@ export class A4PaperVisualizer {
   private getLayout(segment: Segment) {
     const existing = this.layoutCache.get(segment);
     if (existing) return existing;
-    const primary = this.buildTextLayout(segment.words, 36, this.logicalHeight * 0.36, this.logicalHeight * 0.21);
+    const primary = this.buildTextLayout(segment.words, 38, this.logicalHeight * 0.37, this.logicalHeight * 0.22);
     const horizon = resolveSketchbookHorizon(
       primary.words.length ? primary.top + primary.height + 7 : undefined,
       this.logicalHeight,
@@ -741,7 +796,7 @@ export class A4PaperVisualizer {
     const translationTop = horizon + 15;
     const translation = this.buildTextLayout(
       segment.translationWords,
-      30,
+      32,
       translationTop,
       (this.logicalHeight - translationTop - 24) / 0.65,
     );
@@ -764,6 +819,7 @@ export class A4PaperVisualizer {
     seconds: number,
     analyser: AnalyserNode | undefined,
     wordStatuses: Map<string, WordCatchStatus>,
+    wordCaughtAt: Map<string, number>,
     assistMode: AssistMode,
     nowMs = performance.now(),
   ): { frame: MusicLyricFrame; penTarget: PenPaperTarget } {
@@ -784,7 +840,12 @@ export class A4PaperVisualizer {
         primary: primaryBounds,
         translation: translationBounds,
         activeWord: active
-          ? { left: active.x, right: active.x + active.width, top: active.y, bottom: active.y + 32 }
+          ? {
+              left: active.x,
+              right: active.x + active.width,
+              top: active.y,
+              bottom: active.y + (layout?.primary.size || 30),
+            }
           : undefined,
       },
       nowMs,
@@ -807,7 +868,7 @@ export class A4PaperVisualizer {
     ctx.save();
     ctx.scale(this.scale, this.scale);
 
-    // Notebook spine shadow, stitched rule & binder holes (exact reference style)
+    // Notebook spine shadow, stitched rule & binder holes (matching NoFocusFolderPlayer VideoRenderer)
     const spine = 22;
     const shade = ctx.createLinearGradient(0, 0, spine, 0);
     shade.addColorStop(0, "#0005");
@@ -821,17 +882,17 @@ export class A4PaperVisualizer {
     ctx.lineTo(spine, this.logicalHeight);
     ctx.stroke();
     ctx.setLineDash([]);
-    for (let y = 62; y < this.logicalHeight - 20; y += this.logicalHeight / 7) {
-      ctx.fillStyle = "#161312";
+    for (let y = 72; y < this.logicalHeight - 12; y += this.logicalHeight / 7) {
+      ctx.fillStyle = "#090909";
       ctx.beginPath();
-      ctx.arc(spine / 2, y, 3.2, 0, Math.PI * 2);
+      ctx.arc(spine / 2, y, 3.5, 0, Math.PI * 2);
       ctx.fill();
     }
 
     // Header title + clock
     ctx.font = '500 19px "Caveat", cursive';
     ctx.textBaseline = "top";
-    ctx.globalAlpha = 0.68;
+    ctx.globalAlpha = 0.65;
     const clock = formatPreciseClock(seconds);
     const clockWidth = ctx.measureText(clock).width;
     let displayTitle = this.title;
@@ -839,9 +900,9 @@ export class A4PaperVisualizer {
       displayTitle = displayTitle.slice(0, -1);
     }
     ctx.fillStyle = "#231e1c";
-    ctx.fillText(displayTitle + (displayTitle !== this.title ? "…" : ""), this.marginLeft, 28);
+    ctx.fillText(displayTitle + (displayTitle !== this.title ? "…" : ""), this.marginLeft, 32);
     ctx.fillStyle = "#184ba5";
-    ctx.fillText(clock, this.logicalWidth - this.marginRight - clockWidth, 28);
+    ctx.fillText(clock, this.logicalWidth - this.marginRight - clockWidth, 32);
     ctx.globalAlpha = 1;
 
     let penTarget: PenPaperTarget = {
@@ -852,14 +913,44 @@ export class A4PaperVisualizer {
       wordProgress: 0,
     };
 
+    this.wordPaperCoords.clear();
     if (layout && segment) {
       const exit = Math.max(0, Math.min(1, (seconds - segment.end) / 0.42));
       const fade = 1 - exit;
 
-      // Primary (native language, e.g. Spanish) above horizon
+      for (const pw of layout.primary.words) {
+        if (pw.cueId) {
+          this.wordPaperCoords.set(pw.cueId, {
+            u: (pw.x + pw.width * 0.5) / this.logicalWidth,
+            v: (pw.y - frame.energy * 4.5 + layout.primary.size * 0.5) / this.logicalHeight,
+          });
+        }
+      }
+      for (const tw of layout.translation.words) {
+        if (tw.cueId) {
+          const reflY =
+            layout.translation.top + (tw.y - layout.translation.top) * 0.62 + layout.translation.size * 0.4;
+          this.wordPaperCoords.set(tw.cueId, {
+            u: (tw.x + tw.width * 0.5) / this.logicalWidth,
+            v: reflY / this.logicalHeight,
+          });
+        }
+      }
+
+      // Primary (native language, e.g. Spanish / Chinese) above horizon
       ctx.save();
       ctx.translate(0, -frame.energy * 4.5);
-      this.paintWordLayer(ctx, layout.primary, seconds, false, fade, wordStatuses, assistMode, nowMs / 1000);
+      this.paintWordLayer(
+        ctx,
+        layout.primary,
+        seconds,
+        false,
+        fade,
+        wordStatuses,
+        wordCaughtAt,
+        assistMode,
+        nowMs / 1000,
+      );
       ctx.restore();
 
       // Translation (English) reflected in water below horizon
@@ -870,27 +961,46 @@ export class A4PaperVisualizer {
       ctx.translate(this.center, layout.translation.top);
       ctx.transform(1, 0, Math.sin((seconds * Math.PI) / 4) * 0.022, 0.62, 0, Math.sin((seconds * Math.PI) / 4) * 2);
       ctx.translate(-this.center, -layout.translation.top);
-      ctx.filter = `blur(${1.7 * this.scale}px)`;
+      ctx.filter = `blur(${2.1 * this.scale}px)`;
       this.paintWordLayer(
         ctx,
         layout.translation,
         seconds,
         true,
-        fade * 0.56,
+        fade * 0.45,
         wordStatuses,
+        wordCaughtAt,
         assistMode,
         nowMs / 1000,
       );
       ctx.restore();
 
-      // Compute flying pen position on A4 paper
-      if (active) {
-        const isTrans = layout.translation.words.includes(active);
-        const prog = wordProgress(active.start, active.end, seconds);
-        const drawX = active.x + active.width * prog;
+      // Only actively ink/write caught or zen-auto words whose ink stroke is sweeping (0 < prog < 1).
+      const writingCandidates: Array<{ word: PlacedWord; isTrans: boolean; prog: number }> = [];
+      const collectWriting = (list: PlacedWord[], isTrans: boolean) => {
+        for (const w of list) {
+          const cueKey = w.cueId ?? makeWordKey(w);
+          const st = assistMode === "zen" ? "auto" : (wordStatuses.get(cueKey) ?? "pending");
+          if (st !== "caught" && st !== "auto") continue;
+          const prog = effectiveWordProgress(w, st, seconds, wordCaughtAt.get(cueKey));
+          if (prog > 0 && prog < 1) {
+            writingCandidates.push({ word: w, isTrans, prog });
+          }
+        }
+      };
+      collectWriting(layout.primary.words, false);
+      collectWriting(layout.translation.words, true);
+
+      const activeWriting =
+        writingCandidates.find((c) => seconds >= c.word.start && seconds < c.word.end) ??
+        writingCandidates[writingCandidates.length - 1];
+
+      if (activeWriting) {
+        const { word, isTrans, prog } = activeWriting;
+        const drawX = word.x + word.width * prog;
         const drawY = isTrans
-          ? layout.translation.top + (active.y - layout.translation.top) * 0.62 + layout.translation.size * 0.4
-          : active.y - frame.energy * 4.5 + layout.primary.size * 0.58;
+          ? layout.translation.top + (word.y - layout.translation.top) * 0.62 + layout.translation.size * 0.4
+          : word.y - frame.energy * 4.5 + layout.primary.size * 0.58;
         penTarget = {
           u: drawX / this.logicalWidth,
           v: drawY / this.logicalHeight,
@@ -899,13 +1009,13 @@ export class A4PaperVisualizer {
           wordProgress: prog,
         };
       } else {
-        // Hover poised near the next upcoming word in the segment
+        // Hover poised near the next upcoming word in the segment without ghost-scribbling
         const nextWord = allWords.find((w) => w.start >= seconds);
         if (nextWord) {
           const isTrans = layout.translation.words.includes(nextWord);
           const hoverY = isTrans
             ? layout.translation.top + (nextWord.y - layout.translation.top) * 0.62 + layout.translation.size * 0.4
-            : nextWord.y + layout.primary.size * 0.55;
+            : nextWord.y - frame.energy * 4.5 + layout.primary.size * 0.55;
           penTarget = {
             u: nextWord.x / this.logicalWidth,
             v: hoverY / this.logicalHeight,
@@ -928,6 +1038,7 @@ export class A4PaperVisualizer {
     isTranslation: boolean,
     alpha: number,
     wordStatuses: Map<string, WordCatchStatus>,
+    wordCaughtAt: Map<string, number>,
     assistMode: AssistMode,
     nowSec: number,
   ) {
@@ -935,30 +1046,38 @@ export class A4PaperVisualizer {
     ctx.textBaseline = "top";
 
     for (const word of layout.words) {
-      const cueKey = `${word.start.toFixed(2)}:${word.value}`;
+      const cueKey = word.cueId ?? makeWordKey(word);
       const status = assistMode === "zen" ? "auto" : (wordStatuses.get(cueKey) ?? "pending");
-      const progress = wordProgress(word.start, word.end, seconds);
+      const caughtAt = wordCaughtAt.get(cueKey);
+      const progress = effectiveWordProgress(word, status, seconds, caughtAt);
       const baseColor = isTranslation ? "#184ba5" : "#231e1c";
 
-      // Golden splash glow right when caught firefly touches down on paper
+      // Soft watercolor bloom right when a caught firefly touches down on paper
       const flashAt = this.inkLandingFlashes.get(cueKey);
       if (flashAt !== undefined) {
         const age = nowSec - flashAt;
-        if (age >= 0 && age < 0.75) {
+        if (age >= 0 && age < 0.72) {
+          const p = age / 0.72;
+          const cx = word.x + word.width * 0.5;
+          const cy = word.y + layout.size * 0.55;
+          const bloomR = Math.max(word.width * 0.55, layout.size * 0.7) + p * 14;
+          const rgb = isTranslation ? "77, 152, 255" : "227, 143, 38";
           ctx.save();
-          ctx.globalAlpha = (1 - age / 0.75) * 0.45 * alpha;
-          ctx.fillStyle = "#e38f26";
+          const wash = ctx.createRadialGradient(cx, cy, bloomR * 0.08, cx, cy, bloomR);
+          wash.addColorStop(0, `rgba(${rgb}, ${(1 - p) * 0.28 * alpha})`);
+          wash.addColorStop(0.55, `rgba(${rgb}, ${(1 - p) * 0.12 * alpha})`);
+          wash.addColorStop(1, `rgba(${rgb}, 0)`);
+          ctx.fillStyle = wash;
           ctx.beginPath();
-          ctx.ellipse(
-            word.x + word.width * 0.5,
-            word.y + layout.size * 0.55,
-            word.width * 0.62 + age * 14,
-            layout.size * 0.42 + age * 6,
-            0,
-            0,
-            Math.PI * 2,
-          );
+          ctx.arc(cx, cy, bloomR, 0, Math.PI * 2);
           ctx.fill();
+
+          ctx.globalAlpha = (1 - p) * 0.34 * alpha;
+          ctx.strokeStyle = isTranslation ? "#4d98ff" : "#d9821e";
+          ctx.lineWidth = 0.9;
+          ctx.beginPath();
+          ctx.ellipse(cx, cy, bloomR * 0.9, bloomR * 0.36, 0, 0, Math.PI * 2);
+          ctx.stroke();
           ctx.restore();
         }
       }
@@ -967,7 +1086,26 @@ export class A4PaperVisualizer {
 
       if (status === "pending") {
         if (assistMode === "guided") {
-          // Subtle pencil baseline slot waiting for the firefly to land (no blur so slot stays crisp)
+          if (progress > 0) {
+            ctx.globalAlpha = 0.14 * alpha;
+            ctx.fillStyle = baseColor;
+            if (progress < 1) {
+              const inkPadding = layout.size * 0.22 * progress;
+              ctx.save();
+              ctx.beginPath();
+              ctx.rect(
+                word.x - layout.size * 0.12,
+                word.y - layout.size * 0.2,
+                word.width * progress + layout.size * 0.12 + inkPadding,
+                layout.size * 1.6,
+              );
+              ctx.clip();
+              ctx.fillText(word.value, word.x, word.y);
+              ctx.restore();
+            } else {
+              ctx.fillText(word.value, word.x, word.y);
+            }
+          }
           ctx.filter = "none";
           ctx.globalAlpha = 0.28 * alpha;
           ctx.strokeStyle = baseColor;
@@ -984,7 +1122,6 @@ export class A4PaperVisualizer {
       }
 
       if (status === "missed") {
-        // Missed word appears lightly penciled with warm amber/rose study underline
         if (progress > 0) {
           ctx.globalAlpha = 0.36 * alpha;
           ctx.fillStyle = baseColor;
@@ -1000,18 +1137,34 @@ export class A4PaperVisualizer {
         continue;
       }
 
-      // Caught or Zen auto-scribed: full ink revealed smoothly as pen writes!
-      if (progress > 0 || status === "caught") {
-        const reveal = status === "caught" && progress === 0 ? 0.16 : progress;
+      // Caught early (before sung onset): draw soft pre-inked watermark + underline, and keep
+      // the faint watermark underneath during the 0..1 sweep so ink never flickers on onset!
+      if (status === "caught" && progress < 1) {
+        ctx.save();
+        ctx.globalAlpha = 0.24 * alpha;
+        ctx.fillStyle = baseColor;
+        ctx.fillText(word.value, word.x, word.y);
+        if (progress === 0) {
+          ctx.strokeStyle = isTranslation ? "rgba(77, 152, 255, 0.45)" : "rgba(227, 143, 38, 0.45)";
+          ctx.lineWidth = 1.2;
+          ctx.beginPath();
+          ctx.moveTo(word.x, word.y + layout.size * 0.96);
+          ctx.lineTo(word.x + word.width, word.y + layout.size * 0.96);
+          ctx.stroke();
+        }
+        ctx.restore();
+      }
+
+      if (progress > 0) {
         ctx.globalAlpha = alpha;
         ctx.fillStyle = baseColor;
-        if (reveal < 1) {
-          const inkPadding = layout.size * 0.22 * reveal;
+        if (progress < 1) {
+          const inkPadding = layout.size * 0.22 * progress;
           ctx.beginPath();
           ctx.rect(
             word.x - layout.size * 0.12,
             word.y - layout.size * 0.2,
-            word.width * reveal + layout.size * 0.12 + inkPadding,
+            word.width * progress + layout.size * 0.12 + inkPadding,
             layout.size * 1.6,
           );
           ctx.clip();

@@ -1,0 +1,2252 @@
+{
+  "title": "Highway Glows",
+  "genre": "80s Synthwave",
+  "primaryLanguage": "es",
+  "duration": 221.985,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 4.3,
+      "end": 5.8,
+      "primary": "",
+      "translation": "Start the engine",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Start",
+          "start": 4.3,
+          "end": 4.8,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 4.8,
+          "end": 5,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "engine",
+          "start": 5,
+          "end": 5.8,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 23.61,
+      "end": 26.2,
+      "primary": "Medianoche",
+      "translation": "Midnight",
+      "words": [
+        {
+          "value": "Medianoche",
+          "start": 23.61,
+          "end": 25.1,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Midnight",
+          "start": 25.3,
+          "end": 26.2,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 26.7,
+      "end": 30.1,
+      "primary": "La calle vacía",
+      "translation": "The empty street",
+      "words": [
+        {
+          "value": "La",
+          "start": 26.7,
+          "end": 26.9,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "es"
+        },
+        {
+          "value": "calle",
+          "start": 26.9,
+          "end": 27.5,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "es"
+        },
+        {
+          "value": "vacía",
+          "start": 27.5,
+          "end": 28.8,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 28.7,
+          "end": 28.9,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "en"
+        },
+        {
+          "value": "empty",
+          "start": 28.9,
+          "end": 29.4,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        },
+        {
+          "value": "street",
+          "start": 29.4,
+          "end": 30.1,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 30.8,
+      "end": 33.9,
+      "primary": "Pienso en ti",
+      "translation": "I think of you",
+      "words": [
+        {
+          "value": "Pienso",
+          "start": 30.8,
+          "end": 31.5,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 31.5,
+          "end": 31.8,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "es"
+        },
+        {
+          "value": "ti",
+          "start": 31.8,
+          "end": 32.5,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 32.6,
+          "end": 32.8,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "en"
+        },
+        {
+          "value": "think",
+          "start": 32.8,
+          "end": 33.1,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 33.1,
+          "end": 33.3,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "en"
+        },
+        {
+          "value": "you",
+          "start": 33.3,
+          "end": 33.9,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 34.6,
+      "end": 38,
+      "primary": "Y en la ironía",
+      "translation": "And the irony",
+      "words": [
+        {
+          "value": "Y",
+          "start": 34.6,
+          "end": 34.8,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 34.8,
+          "end": 35.1,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 35.1,
+          "end": 35.5,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "es"
+        },
+        {
+          "value": "ironía",
+          "start": 35.5,
+          "end": 37.8,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "And",
+          "start": 36.4,
+          "end": 36.6,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 36.6,
+          "end": 36.8,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "en"
+        },
+        {
+          "value": "irony",
+          "start": 36.8,
+          "end": 38,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 38.7,
+      "end": 41.9,
+      "primary": "Tus ojos verdes",
+      "translation": "Your green eyes",
+      "words": [
+        {
+          "value": "Tus",
+          "start": 38.7,
+          "end": 39,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "es"
+        },
+        {
+          "value": "ojos",
+          "start": 39,
+          "end": 39.5,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        },
+        {
+          "value": "verdes",
+          "start": 39.5,
+          "end": 40.7,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Your",
+          "start": 40.7,
+          "end": 40.9,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "en"
+        },
+        {
+          "value": "green",
+          "start": 40.9,
+          "end": 41.3,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "en"
+        },
+        {
+          "value": "eyes",
+          "start": 41.3,
+          "end": 41.9,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 42.1,
+      "end": 45.6,
+      "primary": "Mi chaqueta de cuero",
+      "translation": "My leather jacket",
+      "words": [
+        {
+          "value": "Mi",
+          "start": 42.1,
+          "end": 42.4,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "es"
+        },
+        {
+          "value": "chaqueta",
+          "start": 42.4,
+          "end": 43.1,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 43.1,
+          "end": 43.4,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "es"
+        },
+        {
+          "value": "cuero",
+          "start": 43.4,
+          "end": 45.1,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "My",
+          "start": 44,
+          "end": 44.3,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        },
+        {
+          "value": "leather",
+          "start": 44.3,
+          "end": 44.8,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "en"
+        },
+        {
+          "value": "jacket",
+          "start": 44.8,
+          "end": 45.6,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 46.1,
+      "end": 49.3,
+      "primary": "Fuiste la primera",
+      "translation": "You were the first",
+      "words": [
+        {
+          "value": "Fuiste",
+          "start": 46.1,
+          "end": 46.7,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 46.7,
+          "end": 47,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "es"
+        },
+        {
+          "value": "primera",
+          "start": 47,
+          "end": 48,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "You",
+          "start": 48,
+          "end": 48.2,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        },
+        {
+          "value": "were",
+          "start": 48.2,
+          "end": 48.4,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 48.4,
+          "end": 48.6,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "en"
+        },
+        {
+          "value": "first",
+          "start": 48.6,
+          "end": 49.3,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 49.7,
+      "end": 52.8,
+      "primary": "Yo fui el primero",
+      "translation": "I was the first",
+      "words": [
+        {
+          "value": "Yo",
+          "start": 49.7,
+          "end": 50,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "es"
+        },
+        {
+          "value": "fui",
+          "start": 50,
+          "end": 50.3,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 50.3,
+          "end": 50.6,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "es"
+        },
+        {
+          "value": "primero",
+          "start": 50.6,
+          "end": 51.5,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 51.5,
+          "end": 51.7,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "en"
+        },
+        {
+          "value": "was",
+          "start": 51.7,
+          "end": 51.9,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 51.9,
+          "end": 52.1,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "first",
+          "start": 52.1,
+          "end": 52.8,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 54.1,
+      "end": 58.6,
+      "primary": "El tiempo vuela",
+      "translation": "Time flies So fast",
+      "words": [
+        {
+          "value": "El",
+          "start": 54.1,
+          "end": 54.4,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        },
+        {
+          "value": "tiempo",
+          "start": 54.4,
+          "end": 54.9,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "es"
+        },
+        {
+          "value": "vuela",
+          "start": 54.9,
+          "end": 56.6,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Time",
+          "start": 55.7,
+          "end": 56.1,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "en"
+        },
+        {
+          "value": "flies",
+          "start": 56.1,
+          "end": 56.8,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "So",
+          "start": 57.5,
+          "end": 57.8,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        },
+        {
+          "value": "fast",
+          "start": 57.8,
+          "end": 58.6,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 61.1,
+      "end": 65.5,
+      "primary": "Como el viento",
+      "translation": "Like the wind In the past",
+      "words": [
+        {
+          "value": "Como",
+          "start": 61.1,
+          "end": 61.6,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 61.6,
+          "end": 61.8,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "es"
+        },
+        {
+          "value": "viento",
+          "start": 61.8,
+          "end": 63.4,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Like",
+          "start": 62.4,
+          "end": 62.7,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 62.7,
+          "end": 62.9,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "en"
+        },
+        {
+          "value": "wind",
+          "start": 62.9,
+          "end": 63.7,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "en"
+        },
+        {
+          "value": "In",
+          "start": 64.3,
+          "end": 64.6,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 64.6,
+          "end": 64.8,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "past",
+          "start": 64.8,
+          "end": 65.5,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 67.5,
+      "end": 72,
+      "primary": "Recuerdos de neón",
+      "translation": "Neon memories Shining bright",
+      "words": [
+        {
+          "value": "Recuerdos",
+          "start": 67.5,
+          "end": 68.4,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 68.4,
+          "end": 68.8,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "es"
+        },
+        {
+          "value": "neón",
+          "start": 68.8,
+          "end": 70,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Neon",
+          "start": 69.4,
+          "end": 69.9,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "en"
+        },
+        {
+          "value": "memories",
+          "start": 69.9,
+          "end": 71.3,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "en"
+        },
+        {
+          "value": "Shining",
+          "start": 70.7,
+          "end": 71.3,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "en"
+        },
+        {
+          "value": "bright",
+          "start": 71.3,
+          "end": 72,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 72.2,
+      "end": 75.8,
+      "primary": "En mi corazón",
+      "translation": "In my heart In the night",
+      "words": [
+        {
+          "value": "En",
+          "start": 72.2,
+          "end": 72.5,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 72.5,
+          "end": 72.8,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "es"
+        },
+        {
+          "value": "corazón",
+          "start": 72.8,
+          "end": 74.2,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 73.6,
+          "end": 73.9,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 73.9,
+          "end": 74.2,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        },
+        {
+          "value": "heart",
+          "start": 74.2,
+          "end": 75.1,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "en"
+        },
+        {
+          "value": "In",
+          "start": 74.8,
+          "end": 75,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 75,
+          "end": 75.2,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 75.2,
+          "end": 75.8,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 75.9,
+      "end": 80,
+      "primary": "Conduciendo solo",
+      "translation": "Driving alone On this road",
+      "words": [
+        {
+          "value": "Conduciendo",
+          "start": 75.9,
+          "end": 77,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        },
+        {
+          "value": "solo",
+          "start": 77,
+          "end": 78.4,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Driving",
+          "start": 77.2,
+          "end": 77.9,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "alone",
+          "start": 77.9,
+          "end": 79.1,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "On",
+          "start": 78.8,
+          "end": 79.1,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        },
+        {
+          "value": "this",
+          "start": 79.1,
+          "end": 79.4,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "en"
+        },
+        {
+          "value": "road",
+          "start": 79.4,
+          "end": 80,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 80.8,
+      "end": 85.6,
+      "primary": "Lejos de casa",
+      "translation": "Far from home Heavy load",
+      "words": [
+        {
+          "value": "Lejos",
+          "start": 80.8,
+          "end": 81.3,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 81.3,
+          "end": 81.6,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "es"
+        },
+        {
+          "value": "casa",
+          "start": 81.6,
+          "end": 83.1,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Far",
+          "start": 82.4,
+          "end": 82.8,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "en"
+        },
+        {
+          "value": "from",
+          "start": 82.8,
+          "end": 83.1,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "en"
+        },
+        {
+          "value": "home",
+          "start": 83.1,
+          "end": 84.1,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "en"
+        },
+        {
+          "value": "Heavy",
+          "start": 84.4,
+          "end": 84.8,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        },
+        {
+          "value": "load",
+          "start": 84.8,
+          "end": 85.6,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 90.2,
+      "end": 116.8,
+      "primary": "Recuerdos de neón",
+      "translation": "Neon memories Don't fade away Feel the groove Look at the stars",
+      "words": [
+        {
+          "value": "Recuerdos",
+          "start": 90.2,
+          "end": 91.1,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 91.1,
+          "end": 91.4,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "es"
+        },
+        {
+          "value": "neón",
+          "start": 91.4,
+          "end": 92.5,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Neon",
+          "start": 92.3,
+          "end": 92.8,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "en"
+        },
+        {
+          "value": "memories",
+          "start": 92.8,
+          "end": 94.2,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        },
+        {
+          "value": "Don't",
+          "start": 95.8,
+          "end": 96.2,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        },
+        {
+          "value": "fade",
+          "start": 96.2,
+          "end": 96.5,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "en"
+        },
+        {
+          "value": "away",
+          "start": 96.5,
+          "end": 97.4,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "en"
+        },
+        {
+          "value": "Feel",
+          "start": 111.4,
+          "end": 111.7,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 111.7,
+          "end": 111.9,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        },
+        {
+          "value": "groove",
+          "start": 111.9,
+          "end": 113.1,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "en"
+        },
+        {
+          "value": "Look",
+          "start": 115.1,
+          "end": 115.4,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "en"
+        },
+        {
+          "value": "at",
+          "start": 115.4,
+          "end": 115.6,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 115.6,
+          "end": 115.8,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "en"
+        },
+        {
+          "value": "stars",
+          "start": 115.8,
+          "end": 116.8,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 117.4,
+      "end": 120.6,
+      "primary": "Lluvia de cristal",
+      "translation": "Crystal rain",
+      "words": [
+        {
+          "value": "Lluvia",
+          "start": 117.4,
+          "end": 118,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 118,
+          "end": 118.3,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "es"
+        },
+        {
+          "value": "cristal",
+          "start": 118.3,
+          "end": 119.5,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Crystal",
+          "start": 119.3,
+          "end": 119.8,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "en"
+        },
+        {
+          "value": "rain",
+          "start": 119.8,
+          "end": 120.6,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 120.7,
+      "end": 124,
+      "primary": "Sobre el parabrisas",
+      "translation": "On the windshield",
+      "words": [
+        {
+          "value": "Sobre",
+          "start": 120.7,
+          "end": 121.2,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 121.2,
+          "end": 121.5,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "es"
+        },
+        {
+          "value": "parabrisas",
+          "start": 121.5,
+          "end": 123.1,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "On",
+          "start": 122.5,
+          "end": 122.7,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 122.7,
+          "end": 122.9,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "en"
+        },
+        {
+          "value": "windshield",
+          "start": 122.9,
+          "end": 124,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 124.2,
+      "end": 127.7,
+      "primary": "Extraño tu voz",
+      "translation": "I miss your voice",
+      "words": [
+        {
+          "value": "Extraño",
+          "start": 124.2,
+          "end": 124.9,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "es"
+        },
+        {
+          "value": "tu",
+          "start": 124.9,
+          "end": 125.1,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "es"
+        },
+        {
+          "value": "voz",
+          "start": 125.1,
+          "end": 126.1,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 126,
+          "end": 126.2,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "en"
+        },
+        {
+          "value": "miss",
+          "start": 126.2,
+          "end": 126.5,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 126.5,
+          "end": 126.7,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "en"
+        },
+        {
+          "value": "voice",
+          "start": 126.7,
+          "end": 127.7,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 128.2,
+      "end": 131.2,
+      "primary": "Y tus sonrisas",
+      "translation": "And your smiles",
+      "words": [
+        {
+          "value": "Y",
+          "start": 128.2,
+          "end": 128.4,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "es"
+        },
+        {
+          "value": "tus",
+          "start": 128.4,
+          "end": 128.7,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        },
+        {
+          "value": "sonrisas",
+          "start": 128.7,
+          "end": 130,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "And",
+          "start": 129.5,
+          "end": 129.8,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 129.8,
+          "end": 130.1,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "en"
+        },
+        {
+          "value": "smiles",
+          "start": 130.1,
+          "end": 131.2,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 131.6,
+      "end": 134.8,
+      "primary": "El radio suena",
+      "translation": "The radio plays",
+      "words": [
+        {
+          "value": "El",
+          "start": 131.6,
+          "end": 131.9,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "es"
+        },
+        {
+          "value": "radio",
+          "start": 131.9,
+          "end": 132.5,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "es"
+        },
+        {
+          "value": "suena",
+          "start": 132.5,
+          "end": 133.5,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 133.1,
+          "end": 133.3,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "en"
+        },
+        {
+          "value": "radio",
+          "start": 133.3,
+          "end": 133.9,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "en"
+        },
+        {
+          "value": "plays",
+          "start": 133.9,
+          "end": 134.8,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 135.1,
+      "end": 138.4,
+      "primary": "Nuestra canción",
+      "translation": "Our song",
+      "words": [
+        {
+          "value": "Nuestra",
+          "start": 135.1,
+          "end": 135.7,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "es"
+        },
+        {
+          "value": "canción",
+          "start": 135.7,
+          "end": 137.3,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Our",
+          "start": 137,
+          "end": 137.3,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "en"
+        },
+        {
+          "value": "song",
+          "start": 137.3,
+          "end": 138.4,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 138.8,
+      "end": 142.2,
+      "primary": "A dónde fuiste",
+      "translation": "Where did you go",
+      "words": [
+        {
+          "value": "A",
+          "start": 138.8,
+          "end": 139.1,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "es"
+        },
+        {
+          "value": "dónde",
+          "start": 139.1,
+          "end": 139.5,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "es"
+        },
+        {
+          "value": "fuiste",
+          "start": 139.5,
+          "end": 141,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Where",
+          "start": 140.7,
+          "end": 141,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "en"
+        },
+        {
+          "value": "did",
+          "start": 141,
+          "end": 141.2,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "en"
+        },
+        {
+          "value": "you",
+          "start": 141.2,
+          "end": 141.4,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "en"
+        },
+        {
+          "value": "go",
+          "start": 141.4,
+          "end": 142.2,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 142.7,
+      "end": 146.2,
+      "primary": "Qué salió mal",
+      "translation": "What went wrong",
+      "words": [
+        {
+          "value": "Qué",
+          "start": 142.7,
+          "end": 143,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "es"
+        },
+        {
+          "value": "salió",
+          "start": 143,
+          "end": 143.5,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "es"
+        },
+        {
+          "value": "mal",
+          "start": 143.5,
+          "end": 144.6,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "What",
+          "start": 144.4,
+          "end": 144.7,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "en"
+        },
+        {
+          "value": "went",
+          "start": 144.7,
+          "end": 145,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "en"
+        },
+        {
+          "value": "wrong",
+          "start": 145,
+          "end": 146.2,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 147.1,
+      "end": 151.8,
+      "primary": "El tiempo vuela",
+      "translation": "Time flies So fast",
+      "words": [
+        {
+          "value": "El",
+          "start": 147.1,
+          "end": 147.5,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "es"
+        },
+        {
+          "value": "tiempo",
+          "start": 147.5,
+          "end": 148,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "es"
+        },
+        {
+          "value": "vuela",
+          "start": 148,
+          "end": 149.7,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Time",
+          "start": 148.8,
+          "end": 149.2,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "en"
+        },
+        {
+          "value": "flies",
+          "start": 149.2,
+          "end": 150,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "en"
+        },
+        {
+          "value": "So",
+          "start": 150.6,
+          "end": 150.9,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "en"
+        },
+        {
+          "value": "fast",
+          "start": 150.9,
+          "end": 151.8,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 154.1,
+      "end": 158.8,
+      "primary": "Como el viento",
+      "translation": "Like the wind In the past",
+      "words": [
+        {
+          "value": "Como",
+          "start": 154.1,
+          "end": 154.6,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 154.6,
+          "end": 154.8,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "es"
+        },
+        {
+          "value": "viento",
+          "start": 154.8,
+          "end": 156.4,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Like",
+          "start": 155.6,
+          "end": 155.9,
+          "uncertain": false,
+          "sourceIndex": 172,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 155.9,
+          "end": 156.1,
+          "uncertain": false,
+          "sourceIndex": 173,
+          "language": "en"
+        },
+        {
+          "value": "wind",
+          "start": 156.1,
+          "end": 156.9,
+          "uncertain": false,
+          "sourceIndex": 174,
+          "language": "en"
+        },
+        {
+          "value": "In",
+          "start": 157.4,
+          "end": 157.7,
+          "uncertain": false,
+          "sourceIndex": 175,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 157.7,
+          "end": 157.9,
+          "uncertain": false,
+          "sourceIndex": 176,
+          "language": "en"
+        },
+        {
+          "value": "past",
+          "start": 157.9,
+          "end": 158.8,
+          "uncertain": false,
+          "sourceIndex": 177,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 160.6,
+      "end": 165.2,
+      "primary": "Recuerdos de neón",
+      "translation": "Neon memories Shining bright",
+      "words": [
+        {
+          "value": "Recuerdos",
+          "start": 160.6,
+          "end": 161.6,
+          "uncertain": false,
+          "sourceIndex": 178,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 161.6,
+          "end": 161.9,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "es"
+        },
+        {
+          "value": "neón",
+          "start": 161.9,
+          "end": 163,
+          "uncertain": false,
+          "sourceIndex": 180,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Neon",
+          "start": 162.7,
+          "end": 163.1,
+          "uncertain": false,
+          "sourceIndex": 181,
+          "language": "en"
+        },
+        {
+          "value": "memories",
+          "start": 163.1,
+          "end": 164.5,
+          "uncertain": false,
+          "sourceIndex": 182,
+          "language": "en"
+        },
+        {
+          "value": "Shining",
+          "start": 164,
+          "end": 164.4,
+          "uncertain": false,
+          "sourceIndex": 183,
+          "language": "en"
+        },
+        {
+          "value": "bright",
+          "start": 164.4,
+          "end": 165.2,
+          "uncertain": false,
+          "sourceIndex": 184,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 165.4,
+      "end": 173.3,
+      "primary": "En mi corazón Conduciendo solo",
+      "translation": "In my heart In the night Driving alone On this road",
+      "words": [
+        {
+          "value": "En",
+          "start": 165.4,
+          "end": 165.7,
+          "uncertain": false,
+          "sourceIndex": 185,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 165.7,
+          "end": 166,
+          "uncertain": false,
+          "sourceIndex": 186,
+          "language": "es"
+        },
+        {
+          "value": "corazón",
+          "start": 166,
+          "end": 167.3,
+          "uncertain": false,
+          "sourceIndex": 187,
+          "language": "es"
+        },
+        {
+          "value": "Conduciendo",
+          "start": 169.1,
+          "end": 170.1,
+          "uncertain": false,
+          "sourceIndex": 194,
+          "language": "es"
+        },
+        {
+          "value": "solo",
+          "start": 170.1,
+          "end": 171.4,
+          "uncertain": false,
+          "sourceIndex": 195,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 166.9,
+          "end": 167.1,
+          "uncertain": false,
+          "sourceIndex": 188,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 167.1,
+          "end": 167.3,
+          "uncertain": false,
+          "sourceIndex": 189,
+          "language": "en"
+        },
+        {
+          "value": "heart",
+          "start": 167.3,
+          "end": 168.4,
+          "uncertain": false,
+          "sourceIndex": 190,
+          "language": "en"
+        },
+        {
+          "value": "In",
+          "start": 168.1,
+          "end": 168.4,
+          "uncertain": false,
+          "sourceIndex": 191,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 168.4,
+          "end": 168.6,
+          "uncertain": false,
+          "sourceIndex": 192,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 168.6,
+          "end": 169.2,
+          "uncertain": false,
+          "sourceIndex": 193,
+          "language": "en"
+        },
+        {
+          "value": "Driving",
+          "start": 170.5,
+          "end": 171.1,
+          "uncertain": false,
+          "sourceIndex": 196,
+          "language": "en"
+        },
+        {
+          "value": "alone",
+          "start": 171.1,
+          "end": 172.4,
+          "uncertain": false,
+          "sourceIndex": 197,
+          "language": "en"
+        },
+        {
+          "value": "On",
+          "start": 172,
+          "end": 172.3,
+          "uncertain": false,
+          "sourceIndex": 198,
+          "language": "en"
+        },
+        {
+          "value": "this",
+          "start": 172.3,
+          "end": 172.6,
+          "uncertain": false,
+          "sourceIndex": 199,
+          "language": "en"
+        },
+        {
+          "value": "road",
+          "start": 172.6,
+          "end": 173.3,
+          "uncertain": false,
+          "sourceIndex": 200,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 173.8,
+      "end": 177,
+      "primary": "Lejos de casa",
+      "translation": "Far from home",
+      "words": [
+        {
+          "value": "Lejos",
+          "start": 173.8,
+          "end": 174.3,
+          "uncertain": false,
+          "sourceIndex": 201,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 174.3,
+          "end": 174.6,
+          "uncertain": false,
+          "sourceIndex": 202,
+          "language": "es"
+        },
+        {
+          "value": "casa",
+          "start": 174.6,
+          "end": 175.9,
+          "uncertain": false,
+          "sourceIndex": 203,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Far",
+          "start": 175.3,
+          "end": 175.7,
+          "uncertain": false,
+          "sourceIndex": 204,
+          "language": "en"
+        },
+        {
+          "value": "from",
+          "start": 175.7,
+          "end": 175.9,
+          "uncertain": false,
+          "sourceIndex": 205,
+          "language": "en"
+        },
+        {
+          "value": "home",
+          "start": 175.9,
+          "end": 177,
+          "uncertain": false,
+          "sourceIndex": 206,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 188.9,
+      "end": 194.5,
+      "primary": "El espejo retrovisor",
+      "translation": "The rearview mirror Looking back",
+      "words": [
+        {
+          "value": "El",
+          "start": 188.9,
+          "end": 189.3,
+          "uncertain": false,
+          "sourceIndex": 207,
+          "language": "es"
+        },
+        {
+          "value": "espejo",
+          "start": 189.3,
+          "end": 190,
+          "uncertain": false,
+          "sourceIndex": 208,
+          "language": "es"
+        },
+        {
+          "value": "retrovisor",
+          "start": 190,
+          "end": 192,
+          "uncertain": false,
+          "sourceIndex": 209,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 191,
+          "end": 191.2,
+          "uncertain": false,
+          "sourceIndex": 210,
+          "language": "en"
+        },
+        {
+          "value": "rearview",
+          "start": 191.2,
+          "end": 191.8,
+          "uncertain": false,
+          "sourceIndex": 211,
+          "language": "en"
+        },
+        {
+          "value": "mirror",
+          "start": 191.8,
+          "end": 193,
+          "uncertain": false,
+          "sourceIndex": 212,
+          "language": "en"
+        },
+        {
+          "value": "Looking",
+          "start": 193,
+          "end": 193.4,
+          "uncertain": false,
+          "sourceIndex": 213,
+          "language": "en"
+        },
+        {
+          "value": "back",
+          "start": 193.4,
+          "end": 194.5,
+          "uncertain": false,
+          "sourceIndex": 214,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 194.8,
+      "end": 219.7,
+      "primary": "Muestra el dolor Te extraño",
+      "translation": "Shows the pain Fade to black I miss you Always",
+      "words": [
+        {
+          "value": "Muestra",
+          "start": 194.8,
+          "end": 195.4,
+          "uncertain": false,
+          "sourceIndex": 215,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 195.4,
+          "end": 195.7,
+          "uncertain": false,
+          "sourceIndex": 216,
+          "language": "es"
+        },
+        {
+          "value": "dolor",
+          "start": 195.7,
+          "end": 197.3,
+          "uncertain": false,
+          "sourceIndex": 217,
+          "language": "es"
+        },
+        {
+          "value": "Te",
+          "start": 198.8,
+          "end": 199.2,
+          "uncertain": false,
+          "sourceIndex": 224,
+          "language": "es"
+        },
+        {
+          "value": "extraño",
+          "start": 199.2,
+          "end": 201,
+          "uncertain": false,
+          "sourceIndex": 225,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Shows",
+          "start": 196.4,
+          "end": 196.8,
+          "uncertain": false,
+          "sourceIndex": 218,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 196.8,
+          "end": 197.1,
+          "uncertain": false,
+          "sourceIndex": 219,
+          "language": "en"
+        },
+        {
+          "value": "pain",
+          "start": 197.1,
+          "end": 198.3,
+          "uncertain": false,
+          "sourceIndex": 220,
+          "language": "en"
+        },
+        {
+          "value": "Fade",
+          "start": 198.1,
+          "end": 198.5,
+          "uncertain": false,
+          "sourceIndex": 221,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 198.5,
+          "end": 198.7,
+          "uncertain": false,
+          "sourceIndex": 222,
+          "language": "en"
+        },
+        {
+          "value": "black",
+          "start": 198.7,
+          "end": 199.7,
+          "uncertain": false,
+          "sourceIndex": 223,
+          "language": "en"
+        },
+        {
+          "value": "I",
+          "start": 201.4,
+          "end": 201.7,
+          "uncertain": false,
+          "sourceIndex": 226,
+          "language": "en"
+        },
+        {
+          "value": "miss",
+          "start": 201.7,
+          "end": 202.2,
+          "uncertain": false,
+          "sourceIndex": 227,
+          "language": "en"
+        },
+        {
+          "value": "you",
+          "start": 202.2,
+          "end": 203.2,
+          "uncertain": false,
+          "sourceIndex": 228,
+          "language": "en"
+        },
+        {
+          "value": "Always",
+          "start": 218.1,
+          "end": 219.7,
+          "uncertain": false,
+          "sourceIndex": 229,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

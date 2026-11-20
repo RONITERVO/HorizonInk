@@ -1,0 +1,3211 @@
+{
+  "title": "808 And Whisper",
+  "genre": "Reggaeton",
+  "primaryLanguage": "es",
+  "duration": 188.007,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 7.76,
+      "end": 13.26,
+      "primary": "",
+      "translation": "Yeah. Look at how the world spins for us. Mmm.",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Yeah.",
+          "start": 7.76,
+          "end": 8.2,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "Look",
+          "start": 9.62,
+          "end": 9.76,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "at",
+          "start": 9.76,
+          "end": 9.88,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "how",
+          "start": 9.92,
+          "end": 10.04,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 10.1,
+          "end": 10.2,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 10.26,
+          "end": 10.44,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        },
+        {
+          "value": "spins",
+          "start": 10.52,
+          "end": 10.88,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "en"
+        },
+        {
+          "value": "for",
+          "start": 10.92,
+          "end": 11.16,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "en"
+        },
+        {
+          "value": "us.",
+          "start": 11.24,
+          "end": 11.44,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "en"
+        },
+        {
+          "value": "Mmm.",
+          "start": 12.96,
+          "end": 13.26,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 14.68,
+      "end": 18.62,
+      "primary": "La noche cae, empieza el juego.",
+      "translation": "The night falls and the game begins.",
+      "words": [
+        {
+          "value": "La",
+          "start": 14.68,
+          "end": 14.76,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "es"
+        },
+        {
+          "value": "noche",
+          "start": 14.8,
+          "end": 15.08,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "es"
+        },
+        {
+          "value": "cae,",
+          "start": 15.14,
+          "end": 15.28,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "es"
+        },
+        {
+          "value": "empieza",
+          "start": 15.34,
+          "end": 15.66,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 15.68,
+          "end": 15.72,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        },
+        {
+          "value": "juego.",
+          "start": 15.8,
+          "end": 16.16,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 16.5,
+          "end": 16.58,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 16.68,
+          "end": 16.88,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        },
+        {
+          "value": "falls",
+          "start": 16.98,
+          "end": 17.26,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 17.3,
+          "end": 17.38,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 17.42,
+          "end": 17.5,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "en"
+        },
+        {
+          "value": "game",
+          "start": 17.6,
+          "end": 17.84,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "en"
+        },
+        {
+          "value": "begins.",
+          "start": 17.9,
+          "end": 18.62,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 19.42,
+      "end": 23.06,
+      "primary": "Tú me miras, yo no me niego.",
+      "translation": "You look at me, I don't deny it.",
+      "words": [
+        {
+          "value": "Tú",
+          "start": 19.42,
+          "end": 19.5,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "es"
+        },
+        {
+          "value": "me",
+          "start": 19.54,
+          "end": 19.66,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "es"
+        },
+        {
+          "value": "miras,",
+          "start": 19.72,
+          "end": 20.06,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "es"
+        },
+        {
+          "value": "yo",
+          "start": 20.1,
+          "end": 20.2,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        },
+        {
+          "value": "no",
+          "start": 20.32,
+          "end": 20.44,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "es"
+        },
+        {
+          "value": "me",
+          "start": 20.5,
+          "end": 20.58,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "es"
+        },
+        {
+          "value": "niego.",
+          "start": 20.66,
+          "end": 21.08,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "You",
+          "start": 21.4,
+          "end": 21.48,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "en"
+        },
+        {
+          "value": "look",
+          "start": 21.54,
+          "end": 21.7,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "en"
+        },
+        {
+          "value": "at",
+          "start": 21.74,
+          "end": 21.82,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "en"
+        },
+        {
+          "value": "me,",
+          "start": 21.9,
+          "end": 22,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "en"
+        },
+        {
+          "value": "I",
+          "start": 22.1,
+          "end": 22.14,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "en"
+        },
+        {
+          "value": "don't",
+          "start": 22.18,
+          "end": 22.3,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        },
+        {
+          "value": "deny",
+          "start": 22.34,
+          "end": 22.82,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "en"
+        },
+        {
+          "value": "it.",
+          "start": 22.86,
+          "end": 23.06,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 23.82,
+      "end": 28.42,
+      "primary": "La pista brilla bajo la luz.",
+      "translation": "The floor shines under the light.",
+      "words": [
+        {
+          "value": "La",
+          "start": 23.82,
+          "end": 23.94,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        },
+        {
+          "value": "pista",
+          "start": 23.98,
+          "end": 24.28,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "es"
+        },
+        {
+          "value": "brilla",
+          "start": 24.32,
+          "end": 24.7,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "es"
+        },
+        {
+          "value": "bajo",
+          "start": 24.78,
+          "end": 25.12,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 25.22,
+          "end": 25.36,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "es"
+        },
+        {
+          "value": "luz.",
+          "start": 25.5,
+          "end": 26.1,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 26.28,
+          "end": 26.38,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        },
+        {
+          "value": "floor",
+          "start": 26.42,
+          "end": 26.68,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "en"
+        },
+        {
+          "value": "shines",
+          "start": 26.74,
+          "end": 27.24,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "en"
+        },
+        {
+          "value": "under",
+          "start": 27.32,
+          "end": 27.64,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 27.7,
+          "end": 27.8,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "en"
+        },
+        {
+          "value": "light.",
+          "start": 28.04,
+          "end": 28.42,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 28.78,
+      "end": 33.48,
+      "primary": "El único que importa eres tú.",
+      "translation": "The only one that matters is you.",
+      "words": [
+        {
+          "value": "El",
+          "start": 28.78,
+          "end": 28.88,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "es"
+        },
+        {
+          "value": "único",
+          "start": 28.96,
+          "end": 29.32,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 29.36,
+          "end": 29.42,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "es"
+        },
+        {
+          "value": "importa",
+          "start": 29.46,
+          "end": 30.04,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        },
+        {
+          "value": "eres",
+          "start": 30.08,
+          "end": 30.32,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "es"
+        },
+        {
+          "value": "tú.",
+          "start": 30.46,
+          "end": 30.86,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 31.18,
+          "end": 31.32,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "en"
+        },
+        {
+          "value": "only",
+          "start": 31.4,
+          "end": 31.62,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "one",
+          "start": 31.74,
+          "end": 31.9,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        },
+        {
+          "value": "that",
+          "start": 31.98,
+          "end": 32.22,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "en"
+        },
+        {
+          "value": "matters",
+          "start": 32.28,
+          "end": 32.6,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 32.68,
+          "end": 32.84,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "en"
+        },
+        {
+          "value": "you.",
+          "start": 33,
+          "end": 33.48,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 33.48,
+      "end": 38.2,
+      "primary": "Cierra la puerta, apaga la mente.",
+      "translation": "Close the door, turn off the mind.",
+      "words": [
+        {
+          "value": "Cierra",
+          "start": 33.48,
+          "end": 33.84,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 33.9,
+          "end": 34.06,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "es"
+        },
+        {
+          "value": "puerta,",
+          "start": 34.12,
+          "end": 34.4,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "es"
+        },
+        {
+          "value": "apaga",
+          "start": 34.52,
+          "end": 34.9,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 34.98,
+          "end": 35.1,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "es"
+        },
+        {
+          "value": "mente.",
+          "start": 35.22,
+          "end": 35.76,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Close",
+          "start": 36.22,
+          "end": 36.4,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 36.42,
+          "end": 36.52,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "en"
+        },
+        {
+          "value": "door,",
+          "start": 36.6,
+          "end": 36.92,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "en"
+        },
+        {
+          "value": "turn",
+          "start": 37,
+          "end": 37.3,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "en"
+        },
+        {
+          "value": "off",
+          "start": 37.36,
+          "end": 37.56,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 37.62,
+          "end": 37.7,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "en"
+        },
+        {
+          "value": "mind.",
+          "start": 37.84,
+          "end": 38.2,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 38.36,
+      "end": 42.9,
+      "primary": "Vamos a hacerlo muy diferente.",
+      "translation": "Let's do it very differently.",
+      "words": [
+        {
+          "value": "Vamos",
+          "start": 38.36,
+          "end": 38.82,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "es"
+        },
+        {
+          "value": "a",
+          "start": 38.84,
+          "end": 38.88,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "es"
+        },
+        {
+          "value": "hacerlo",
+          "start": 38.92,
+          "end": 39.38,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        },
+        {
+          "value": "muy",
+          "start": 39.44,
+          "end": 39.62,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "es"
+        },
+        {
+          "value": "diferente.",
+          "start": 39.66,
+          "end": 40.66,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Let's",
+          "start": 40.98,
+          "end": 41.1,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "en"
+        },
+        {
+          "value": "do",
+          "start": 41.16,
+          "end": 41.26,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 41.32,
+          "end": 41.4,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "en"
+        },
+        {
+          "value": "very",
+          "start": 41.48,
+          "end": 41.78,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "en"
+        },
+        {
+          "value": "differently.",
+          "start": 42.08,
+          "end": 42.9,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 43.32,
+      "end": 48.12,
+      "primary": "No digas nada, solo respira.",
+      "translation": "Don't say anything, just breathe.",
+      "words": [
+        {
+          "value": "No",
+          "start": 43.32,
+          "end": 43.46,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "es"
+        },
+        {
+          "value": "digas",
+          "start": 43.52,
+          "end": 43.84,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "es"
+        },
+        {
+          "value": "nada,",
+          "start": 43.92,
+          "end": 44.16,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "es"
+        },
+        {
+          "value": "solo",
+          "start": 44.52,
+          "end": 44.8,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "es"
+        },
+        {
+          "value": "respira.",
+          "start": 44.88,
+          "end": 45.76,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Don't",
+          "start": 46.04,
+          "end": 46.26,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "en"
+        },
+        {
+          "value": "say",
+          "start": 46.38,
+          "end": 46.64,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "en"
+        },
+        {
+          "value": "anything,",
+          "start": 46.72,
+          "end": 47.18,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "en"
+        },
+        {
+          "value": "just",
+          "start": 47.28,
+          "end": 47.52,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "en"
+        },
+        {
+          "value": "breathe.",
+          "start": 47.6,
+          "end": 48.12,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 48.16,
+      "end": 52.6,
+      "primary": "Mira cómo el mundo nos gira.",
+      "translation": "Look how the world spins for us.",
+      "words": [
+        {
+          "value": "Mira",
+          "start": 48.16,
+          "end": 48.42,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "es"
+        },
+        {
+          "value": "cómo",
+          "start": 48.48,
+          "end": 48.74,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 48.9,
+          "end": 49.1,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "es"
+        },
+        {
+          "value": "mundo",
+          "start": 49.12,
+          "end": 49.6,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "es"
+        },
+        {
+          "value": "nos",
+          "start": 49.7,
+          "end": 49.9,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "es"
+        },
+        {
+          "value": "gira.",
+          "start": 49.98,
+          "end": 50.6,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Look",
+          "start": 50.78,
+          "end": 50.92,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "en"
+        },
+        {
+          "value": "how",
+          "start": 50.96,
+          "end": 51.06,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 51.12,
+          "end": 51.18,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 51.26,
+          "end": 51.5,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        },
+        {
+          "value": "spins",
+          "start": 51.54,
+          "end": 51.82,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "en"
+        },
+        {
+          "value": "for",
+          "start": 51.88,
+          "end": 52.12,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "en"
+        },
+        {
+          "value": "us.",
+          "start": 52.26,
+          "end": 52.6,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 52.92,
+      "end": 57.32,
+      "primary": "Levanta las manos al cielo.",
+      "translation": "Raise your hands to the sky.",
+      "words": [
+        {
+          "value": "Levanta",
+          "start": 52.92,
+          "end": 53.48,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "es"
+        },
+        {
+          "value": "las",
+          "start": 53.54,
+          "end": 53.66,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "es"
+        },
+        {
+          "value": "manos",
+          "start": 53.74,
+          "end": 54.28,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "es"
+        },
+        {
+          "value": "al",
+          "start": 54.36,
+          "end": 54.52,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "es"
+        },
+        {
+          "value": "cielo.",
+          "start": 54.6,
+          "end": 55.48,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Raise",
+          "start": 55.7,
+          "end": 55.92,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 56,
+          "end": 56.12,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "en"
+        },
+        {
+          "value": "hands",
+          "start": 56.28,
+          "end": 56.42,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 56.46,
+          "end": 56.54,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 56.58,
+          "end": 56.66,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "en"
+        },
+        {
+          "value": "sky.",
+          "start": 56.72,
+          "end": 57.32,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 57.64,
+      "end": 62.24,
+      "primary": "Siente la música en el pelo.",
+      "translation": "Feel the music in your hair.",
+      "words": [
+        {
+          "value": "Siente",
+          "start": 57.64,
+          "end": 58.12,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 58.18,
+          "end": 58.46,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "es"
+        },
+        {
+          "value": "música",
+          "start": 58.54,
+          "end": 58.98,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 59.12,
+          "end": 59.18,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 59.3,
+          "end": 59.46,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "es"
+        },
+        {
+          "value": "pelo.",
+          "start": 59.54,
+          "end": 60.26,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Feel",
+          "start": 60.62,
+          "end": 60.84,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 60.88,
+          "end": 60.98,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "en"
+        },
+        {
+          "value": "music",
+          "start": 61.06,
+          "end": 61.54,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 61.62,
+          "end": 61.76,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 61.8,
+          "end": 61.92,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "en"
+        },
+        {
+          "value": "hair.",
+          "start": 62.02,
+          "end": 62.24,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 62.54,
+      "end": 67.12,
+      "primary": "Mueve la cintura despacio.",
+      "translation": "Move your waist slowly.",
+      "words": [
+        {
+          "value": "Mueve",
+          "start": 62.54,
+          "end": 62.82,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 62.92,
+          "end": 63.08,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "es"
+        },
+        {
+          "value": "cintura",
+          "start": 63.16,
+          "end": 64.04,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        },
+        {
+          "value": "despacio.",
+          "start": 64.12,
+          "end": 65.28,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Move",
+          "start": 65.54,
+          "end": 65.76,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 65.8,
+          "end": 65.92,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "en"
+        },
+        {
+          "value": "waist",
+          "start": 65.98,
+          "end": 66.44,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "en"
+        },
+        {
+          "value": "slowly.",
+          "start": 66.52,
+          "end": 67.12,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 67.44,
+      "end": 71.98,
+      "primary": "Flotando libres en el espacio.",
+      "translation": "Floating free in space.",
+      "words": [
+        {
+          "value": "Flotando",
+          "start": 67.44,
+          "end": 68.24,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "es"
+        },
+        {
+          "value": "libres",
+          "start": 68.36,
+          "end": 68.7,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 68.78,
+          "end": 68.98,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 69.06,
+          "end": 69.14,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "es"
+        },
+        {
+          "value": "espacio.",
+          "start": 69.2,
+          "end": 70.18,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Floating",
+          "start": 70.38,
+          "end": 70.78,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "en"
+        },
+        {
+          "value": "free",
+          "start": 70.88,
+          "end": 71.12,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 71.18,
+          "end": 71.28,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "en"
+        },
+        {
+          "value": "space.",
+          "start": 71.42,
+          "end": 71.98,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 72.04,
+      "end": 83.72,
+      "primary": "Cierra los ojos, bésame.",
+      "translation": "Close your eyes, kiss me. Close your eyes, kiss me. Close your eyes, kiss me. Close your eyes, kiss me.",
+      "words": [
+        {
+          "value": "Cierra",
+          "start": 72.04,
+          "end": 72.46,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "es"
+        },
+        {
+          "value": "los",
+          "start": 72.54,
+          "end": 72.72,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "es"
+        },
+        {
+          "value": "ojos,",
+          "start": 72.82,
+          "end": 73.22,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "es"
+        },
+        {
+          "value": "bésame.",
+          "start": 73.3,
+          "end": 74.18,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Close",
+          "start": 74.56,
+          "end": 74.84,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 74.88,
+          "end": 75.14,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "en"
+        },
+        {
+          "value": "eyes,",
+          "start": 75.26,
+          "end": 75.5,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        },
+        {
+          "value": "kiss",
+          "start": 75.74,
+          "end": 76,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "en"
+        },
+        {
+          "value": "me.",
+          "start": 76.08,
+          "end": 76.32,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "en"
+        },
+        {
+          "value": "Close",
+          "start": 76.66,
+          "end": 77.28,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 77.32,
+          "end": 77.54,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "en"
+        },
+        {
+          "value": "eyes,",
+          "start": 77.7,
+          "end": 77.98,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "en"
+        },
+        {
+          "value": "kiss",
+          "start": 78.2,
+          "end": 78.48,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "en"
+        },
+        {
+          "value": "me.",
+          "start": 78.54,
+          "end": 78.76,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "en"
+        },
+        {
+          "value": "Close",
+          "start": 78.8,
+          "end": 79.74,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 79.78,
+          "end": 79.98,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "en"
+        },
+        {
+          "value": "eyes,",
+          "start": 80.16,
+          "end": 80.4,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "en"
+        },
+        {
+          "value": "kiss",
+          "start": 80.64,
+          "end": 80.9,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "en"
+        },
+        {
+          "value": "me.",
+          "start": 80.96,
+          "end": 81.22,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "en"
+        },
+        {
+          "value": "Close",
+          "start": 81.88,
+          "end": 82.18,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 82.22,
+          "end": 82.44,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "en"
+        },
+        {
+          "value": "eyes,",
+          "start": 82.6,
+          "end": 82.74,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "en"
+        },
+        {
+          "value": "kiss",
+          "start": 83.1,
+          "end": 83.3,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "en"
+        },
+        {
+          "value": "me.",
+          "start": 83.42,
+          "end": 83.72,
+          "uncertain": false,
+          "sourceIndex": 172,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 83.76,
+      "end": 86.7,
+      "primary": "Un paso al frente, dos para atrás.",
+      "translation": "One step forward.",
+      "words": [
+        {
+          "value": "Un",
+          "start": 83.76,
+          "end": 83.86,
+          "uncertain": false,
+          "sourceIndex": 173,
+          "language": "es"
+        },
+        {
+          "value": "paso",
+          "start": 83.9,
+          "end": 84.14,
+          "uncertain": false,
+          "sourceIndex": 174,
+          "language": "es"
+        },
+        {
+          "value": "al",
+          "start": 84.18,
+          "end": 84.26,
+          "uncertain": false,
+          "sourceIndex": 175,
+          "language": "es"
+        },
+        {
+          "value": "frente,",
+          "start": 84.34,
+          "end": 84.7,
+          "uncertain": false,
+          "sourceIndex": 176,
+          "language": "es"
+        },
+        {
+          "value": "dos",
+          "start": 84.94,
+          "end": 85.04,
+          "uncertain": false,
+          "sourceIndex": 177,
+          "language": "es"
+        },
+        {
+          "value": "para",
+          "start": 85.16,
+          "end": 85.48,
+          "uncertain": false,
+          "sourceIndex": 178,
+          "language": "es"
+        },
+        {
+          "value": "atrás.",
+          "start": 85.5,
+          "end": 85.82,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "One",
+          "start": 85.9,
+          "end": 86.06,
+          "uncertain": false,
+          "sourceIndex": 180,
+          "language": "en"
+        },
+        {
+          "value": "step",
+          "start": 86.12,
+          "end": 86.38,
+          "uncertain": false,
+          "sourceIndex": 181,
+          "language": "en"
+        },
+        {
+          "value": "forward.",
+          "start": 86.48,
+          "end": 86.7,
+          "uncertain": false,
+          "sourceIndex": 182,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 86.76,
+      "end": 89.14,
+      "primary": "Dime al oído que quieres más.",
+      "translation": "",
+      "words": [
+        {
+          "value": "Dime",
+          "start": 86.76,
+          "end": 87,
+          "uncertain": false,
+          "sourceIndex": 183,
+          "language": "es"
+        },
+        {
+          "value": "al",
+          "start": 87.06,
+          "end": 87.18,
+          "uncertain": false,
+          "sourceIndex": 184,
+          "language": "es"
+        },
+        {
+          "value": "oído",
+          "start": 87.32,
+          "end": 87.74,
+          "uncertain": false,
+          "sourceIndex": 185,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 87.78,
+          "end": 87.94,
+          "uncertain": false,
+          "sourceIndex": 186,
+          "language": "es"
+        },
+        {
+          "value": "quieres",
+          "start": 88,
+          "end": 88.52,
+          "uncertain": false,
+          "sourceIndex": 187,
+          "language": "es"
+        },
+        {
+          "value": "más.",
+          "start": 88.62,
+          "end": 89.14,
+          "uncertain": false,
+          "sourceIndex": 188,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 89.22,
+      "end": 91.48,
+      "primary": "Toco tu cara, piel de canela.",
+      "translation": "",
+      "words": [
+        {
+          "value": "Toco",
+          "start": 89.22,
+          "end": 89.56,
+          "uncertain": false,
+          "sourceIndex": 189,
+          "language": "es"
+        },
+        {
+          "value": "tu",
+          "start": 89.62,
+          "end": 89.78,
+          "uncertain": false,
+          "sourceIndex": 190,
+          "language": "es"
+        },
+        {
+          "value": "cara,",
+          "start": 89.88,
+          "end": 90.18,
+          "uncertain": false,
+          "sourceIndex": 191,
+          "language": "es"
+        },
+        {
+          "value": "piel",
+          "start": 90.32,
+          "end": 90.52,
+          "uncertain": false,
+          "sourceIndex": 192,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 90.58,
+          "end": 90.7,
+          "uncertain": false,
+          "sourceIndex": 193,
+          "language": "es"
+        },
+        {
+          "value": "canela.",
+          "start": 90.8,
+          "end": 91.48,
+          "uncertain": false,
+          "sourceIndex": 194,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 91.72,
+      "end": 94.02,
+      "primary": "Esta pasión que nos desvela.",
+      "translation": "",
+      "words": [
+        {
+          "value": "Esta",
+          "start": 91.72,
+          "end": 92.02,
+          "uncertain": false,
+          "sourceIndex": 195,
+          "language": "es"
+        },
+        {
+          "value": "pasión",
+          "start": 92.08,
+          "end": 92.54,
+          "uncertain": false,
+          "sourceIndex": 196,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 92.74,
+          "end": 92.92,
+          "uncertain": false,
+          "sourceIndex": 197,
+          "language": "es"
+        },
+        {
+          "value": "nos",
+          "start": 93.02,
+          "end": 93.14,
+          "uncertain": false,
+          "sourceIndex": 198,
+          "language": "es"
+        },
+        {
+          "value": "desvela.",
+          "start": 93.22,
+          "end": 94.02,
+          "uncertain": false,
+          "sourceIndex": 199,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 94.12,
+      "end": 96.52,
+      "primary": "Sigue mi ritmo, no te detengas.",
+      "translation": "",
+      "words": [
+        {
+          "value": "Sigue",
+          "start": 94.12,
+          "end": 94.46,
+          "uncertain": false,
+          "sourceIndex": 200,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 94.54,
+          "end": 94.66,
+          "uncertain": false,
+          "sourceIndex": 201,
+          "language": "es"
+        },
+        {
+          "value": "ritmo,",
+          "start": 94.76,
+          "end": 95.12,
+          "uncertain": false,
+          "sourceIndex": 202,
+          "language": "es"
+        },
+        {
+          "value": "no",
+          "start": 95.22,
+          "end": 95.38,
+          "uncertain": false,
+          "sourceIndex": 203,
+          "language": "es"
+        },
+        {
+          "value": "te",
+          "start": 95.48,
+          "end": 95.6,
+          "uncertain": false,
+          "sourceIndex": 204,
+          "language": "es"
+        },
+        {
+          "value": "detengas.",
+          "start": 95.66,
+          "end": 96.52,
+          "uncertain": false,
+          "sourceIndex": 205,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 96.56,
+      "end": 101.42,
+      "primary": "Deja que la locura te envuelva.",
+      "translation": "Let the madness wrap you.",
+      "words": [
+        {
+          "value": "Deja",
+          "start": 96.56,
+          "end": 96.92,
+          "uncertain": false,
+          "sourceIndex": 206,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 96.98,
+          "end": 97.1,
+          "uncertain": false,
+          "sourceIndex": 207,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 97.18,
+          "end": 97.3,
+          "uncertain": false,
+          "sourceIndex": 208,
+          "language": "es"
+        },
+        {
+          "value": "locura",
+          "start": 97.38,
+          "end": 98.02,
+          "uncertain": false,
+          "sourceIndex": 209,
+          "language": "es"
+        },
+        {
+          "value": "te",
+          "start": 98.08,
+          "end": 98.18,
+          "uncertain": false,
+          "sourceIndex": 210,
+          "language": "es"
+        },
+        {
+          "value": "envuelva.",
+          "start": 98.2,
+          "end": 98.98,
+          "uncertain": false,
+          "sourceIndex": 211,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Let",
+          "start": 99.78,
+          "end": 100.02,
+          "uncertain": false,
+          "sourceIndex": 212,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 100.08,
+          "end": 100.16,
+          "uncertain": false,
+          "sourceIndex": 213,
+          "language": "en"
+        },
+        {
+          "value": "madness",
+          "start": 100.24,
+          "end": 100.72,
+          "uncertain": false,
+          "sourceIndex": 214,
+          "language": "en"
+        },
+        {
+          "value": "wrap",
+          "start": 100.82,
+          "end": 101.12,
+          "uncertain": false,
+          "sourceIndex": 215,
+          "language": "en"
+        },
+        {
+          "value": "you.",
+          "start": 101.2,
+          "end": 101.42,
+          "uncertain": false,
+          "sourceIndex": 216,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 102.08,
+      "end": 106.88,
+      "primary": "No digas nada, solo respira.",
+      "translation": "Don't say anything, just breathe.",
+      "words": [
+        {
+          "value": "No",
+          "start": 102.08,
+          "end": 102.22,
+          "uncertain": false,
+          "sourceIndex": 217,
+          "language": "es"
+        },
+        {
+          "value": "digas",
+          "start": 102.26,
+          "end": 102.6,
+          "uncertain": false,
+          "sourceIndex": 218,
+          "language": "es"
+        },
+        {
+          "value": "nada,",
+          "start": 102.7,
+          "end": 102.96,
+          "uncertain": false,
+          "sourceIndex": 219,
+          "language": "es"
+        },
+        {
+          "value": "solo",
+          "start": 103.28,
+          "end": 103.58,
+          "uncertain": false,
+          "sourceIndex": 220,
+          "language": "es"
+        },
+        {
+          "value": "respira.",
+          "start": 103.64,
+          "end": 104.54,
+          "uncertain": false,
+          "sourceIndex": 221,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Don't",
+          "start": 104.82,
+          "end": 105.04,
+          "uncertain": false,
+          "sourceIndex": 222,
+          "language": "en"
+        },
+        {
+          "value": "say",
+          "start": 105.14,
+          "end": 105.4,
+          "uncertain": false,
+          "sourceIndex": 223,
+          "language": "en"
+        },
+        {
+          "value": "anything,",
+          "start": 105.5,
+          "end": 105.96,
+          "uncertain": false,
+          "sourceIndex": 224,
+          "language": "en"
+        },
+        {
+          "value": "just",
+          "start": 106.06,
+          "end": 106.28,
+          "uncertain": false,
+          "sourceIndex": 225,
+          "language": "en"
+        },
+        {
+          "value": "breathe.",
+          "start": 106.36,
+          "end": 106.88,
+          "uncertain": false,
+          "sourceIndex": 226,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 106.94,
+      "end": 111.38,
+      "primary": "Mira cómo el mundo nos gira.",
+      "translation": "Look how the world spins for us.",
+      "words": [
+        {
+          "value": "Mira",
+          "start": 106.94,
+          "end": 107.2,
+          "uncertain": false,
+          "sourceIndex": 227,
+          "language": "es"
+        },
+        {
+          "value": "cómo",
+          "start": 107.26,
+          "end": 107.5,
+          "uncertain": false,
+          "sourceIndex": 228,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 107.5,
+          "end": 107.6,
+          "uncertain": false,
+          "sourceIndex": 229,
+          "language": "es"
+        },
+        {
+          "value": "mundo",
+          "start": 107.62,
+          "end": 108.16,
+          "uncertain": false,
+          "sourceIndex": 230,
+          "language": "es"
+        },
+        {
+          "value": "nos",
+          "start": 108.5,
+          "end": 108.68,
+          "uncertain": false,
+          "sourceIndex": 231,
+          "language": "es"
+        },
+        {
+          "value": "gira.",
+          "start": 108.76,
+          "end": 109.38,
+          "uncertain": false,
+          "sourceIndex": 232,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Look",
+          "start": 109.56,
+          "end": 109.7,
+          "uncertain": false,
+          "sourceIndex": 233,
+          "language": "en"
+        },
+        {
+          "value": "how",
+          "start": 109.74,
+          "end": 109.84,
+          "uncertain": false,
+          "sourceIndex": 234,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 109.9,
+          "end": 109.98,
+          "uncertain": false,
+          "sourceIndex": 235,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 110.04,
+          "end": 110.28,
+          "uncertain": false,
+          "sourceIndex": 236,
+          "language": "en"
+        },
+        {
+          "value": "spins",
+          "start": 110.32,
+          "end": 110.58,
+          "uncertain": false,
+          "sourceIndex": 237,
+          "language": "en"
+        },
+        {
+          "value": "for",
+          "start": 110.66,
+          "end": 110.94,
+          "uncertain": false,
+          "sourceIndex": 238,
+          "language": "en"
+        },
+        {
+          "value": "us.",
+          "start": 111.14,
+          "end": 111.38,
+          "uncertain": false,
+          "sourceIndex": 239,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 111.7,
+      "end": 116.1,
+      "primary": "Levanta las manos al cielo.",
+      "translation": "Raise your hands to the sky.",
+      "words": [
+        {
+          "value": "Levanta",
+          "start": 111.7,
+          "end": 112.26,
+          "uncertain": false,
+          "sourceIndex": 240,
+          "language": "es"
+        },
+        {
+          "value": "las",
+          "start": 112.32,
+          "end": 112.42,
+          "uncertain": false,
+          "sourceIndex": 241,
+          "language": "es"
+        },
+        {
+          "value": "manos",
+          "start": 112.5,
+          "end": 113.06,
+          "uncertain": false,
+          "sourceIndex": 242,
+          "language": "es"
+        },
+        {
+          "value": "al",
+          "start": 113.14,
+          "end": 113.3,
+          "uncertain": false,
+          "sourceIndex": 243,
+          "language": "es"
+        },
+        {
+          "value": "cielo.",
+          "start": 113.38,
+          "end": 114.26,
+          "uncertain": false,
+          "sourceIndex": 244,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Raise",
+          "start": 114.48,
+          "end": 114.74,
+          "uncertain": false,
+          "sourceIndex": 245,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 114.98,
+          "end": 115.02,
+          "uncertain": false,
+          "sourceIndex": 246,
+          "language": "en"
+        },
+        {
+          "value": "hands",
+          "start": 115.06,
+          "end": 115.18,
+          "uncertain": false,
+          "sourceIndex": 247,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 115.24,
+          "end": 115.32,
+          "uncertain": false,
+          "sourceIndex": 248,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 115.36,
+          "end": 115.46,
+          "uncertain": false,
+          "sourceIndex": 249,
+          "language": "en"
+        },
+        {
+          "value": "sky.",
+          "start": 115.5,
+          "end": 116.1,
+          "uncertain": false,
+          "sourceIndex": 250,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 116.42,
+      "end": 121.02,
+      "primary": "Siente la música en el pelo.",
+      "translation": "Feel the music in your hair.",
+      "words": [
+        {
+          "value": "Siente",
+          "start": 116.42,
+          "end": 116.94,
+          "uncertain": false,
+          "sourceIndex": 251,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 117.08,
+          "end": 117.22,
+          "uncertain": false,
+          "sourceIndex": 252,
+          "language": "es"
+        },
+        {
+          "value": "música",
+          "start": 117.34,
+          "end": 117.78,
+          "uncertain": false,
+          "sourceIndex": 253,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 117.84,
+          "end": 117.96,
+          "uncertain": false,
+          "sourceIndex": 254,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 118.06,
+          "end": 118.14,
+          "uncertain": false,
+          "sourceIndex": 255,
+          "language": "es"
+        },
+        {
+          "value": "pelo.",
+          "start": 118.32,
+          "end": 119.02,
+          "uncertain": false,
+          "sourceIndex": 256,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Feel",
+          "start": 119.4,
+          "end": 119.64,
+          "uncertain": false,
+          "sourceIndex": 257,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 119.66,
+          "end": 119.74,
+          "uncertain": false,
+          "sourceIndex": 258,
+          "language": "en"
+        },
+        {
+          "value": "music",
+          "start": 119.8,
+          "end": 120.28,
+          "uncertain": false,
+          "sourceIndex": 259,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 120.38,
+          "end": 120.54,
+          "uncertain": false,
+          "sourceIndex": 260,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 120.6,
+          "end": 120.68,
+          "uncertain": false,
+          "sourceIndex": 261,
+          "language": "en"
+        },
+        {
+          "value": "hair.",
+          "start": 120.78,
+          "end": 121.02,
+          "uncertain": false,
+          "sourceIndex": 262,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 121.32,
+      "end": 125.9,
+      "primary": "Mueve la cintura despacio.",
+      "translation": "Move your waist slowly.",
+      "words": [
+        {
+          "value": "Mueve",
+          "start": 121.32,
+          "end": 121.6,
+          "uncertain": false,
+          "sourceIndex": 263,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 121.68,
+          "end": 121.84,
+          "uncertain": false,
+          "sourceIndex": 264,
+          "language": "es"
+        },
+        {
+          "value": "cintura",
+          "start": 121.94,
+          "end": 122.82,
+          "uncertain": false,
+          "sourceIndex": 265,
+          "language": "es"
+        },
+        {
+          "value": "despacio.",
+          "start": 122.9,
+          "end": 124.08,
+          "uncertain": false,
+          "sourceIndex": 266,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Move",
+          "start": 124.34,
+          "end": 124.52,
+          "uncertain": false,
+          "sourceIndex": 267,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 124.58,
+          "end": 124.66,
+          "uncertain": false,
+          "sourceIndex": 268,
+          "language": "en"
+        },
+        {
+          "value": "waist",
+          "start": 124.76,
+          "end": 125.28,
+          "uncertain": false,
+          "sourceIndex": 269,
+          "language": "en"
+        },
+        {
+          "value": "slowly.",
+          "start": 125.3,
+          "end": 125.9,
+          "uncertain": false,
+          "sourceIndex": 270,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 126.2,
+      "end": 130.78,
+      "primary": "Flotando libres en el espacio.",
+      "translation": "Floating free in space.",
+      "words": [
+        {
+          "value": "Flotando",
+          "start": 126.2,
+          "end": 127.02,
+          "uncertain": false,
+          "sourceIndex": 271,
+          "language": "es"
+        },
+        {
+          "value": "libres",
+          "start": 127.14,
+          "end": 127.48,
+          "uncertain": false,
+          "sourceIndex": 272,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 127.56,
+          "end": 127.76,
+          "uncertain": false,
+          "sourceIndex": 273,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 127.84,
+          "end": 127.9,
+          "uncertain": false,
+          "sourceIndex": 274,
+          "language": "es"
+        },
+        {
+          "value": "espacio.",
+          "start": 127.96,
+          "end": 129.08,
+          "uncertain": false,
+          "sourceIndex": 275,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Floating",
+          "start": 129.16,
+          "end": 129.54,
+          "uncertain": false,
+          "sourceIndex": 276,
+          "language": "en"
+        },
+        {
+          "value": "free",
+          "start": 129.62,
+          "end": 129.88,
+          "uncertain": false,
+          "sourceIndex": 277,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 129.94,
+          "end": 130.04,
+          "uncertain": false,
+          "sourceIndex": 278,
+          "language": "en"
+        },
+        {
+          "value": "space.",
+          "start": 130.18,
+          "end": 130.78,
+          "uncertain": false,
+          "sourceIndex": 279,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 130.82,
+      "end": 143.12,
+      "primary": "Cierra los ojos, bésame.",
+      "translation": "Close your eyes, kiss me. Close your eyes, kiss me. Close your eyes, kiss me. Close your eyes, kiss me.",
+      "words": [
+        {
+          "value": "Cierra",
+          "start": 130.82,
+          "end": 131.22,
+          "uncertain": false,
+          "sourceIndex": 280,
+          "language": "es"
+        },
+        {
+          "value": "los",
+          "start": 131.28,
+          "end": 131.5,
+          "uncertain": false,
+          "sourceIndex": 281,
+          "language": "es"
+        },
+        {
+          "value": "ojos,",
+          "start": 131.66,
+          "end": 132,
+          "uncertain": false,
+          "sourceIndex": 282,
+          "language": "es"
+        },
+        {
+          "value": "bésame.",
+          "start": 132.08,
+          "end": 132.94,
+          "uncertain": false,
+          "sourceIndex": 283,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Close",
+          "start": 133.3,
+          "end": 133.62,
+          "uncertain": false,
+          "sourceIndex": 284,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 133.64,
+          "end": 133.84,
+          "uncertain": false,
+          "sourceIndex": 285,
+          "language": "en"
+        },
+        {
+          "value": "eyes,",
+          "start": 134.02,
+          "end": 134.44,
+          "uncertain": false,
+          "sourceIndex": 286,
+          "language": "en"
+        },
+        {
+          "value": "kiss",
+          "start": 134.5,
+          "end": 134.76,
+          "uncertain": false,
+          "sourceIndex": 287,
+          "language": "en"
+        },
+        {
+          "value": "me.",
+          "start": 134.84,
+          "end": 135.38,
+          "uncertain": false,
+          "sourceIndex": 288,
+          "language": "en"
+        },
+        {
+          "value": "Close",
+          "start": 135.42,
+          "end": 135.8,
+          "uncertain": false,
+          "sourceIndex": 289,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 135.9,
+          "end": 136.2,
+          "uncertain": false,
+          "sourceIndex": 290,
+          "language": "en"
+        },
+        {
+          "value": "eyes,",
+          "start": 136.3,
+          "end": 136.8,
+          "uncertain": false,
+          "sourceIndex": 291,
+          "language": "en"
+        },
+        {
+          "value": "kiss",
+          "start": 137,
+          "end": 137.5,
+          "uncertain": false,
+          "sourceIndex": 292,
+          "language": "en"
+        },
+        {
+          "value": "me.",
+          "start": 137.6,
+          "end": 138.5,
+          "uncertain": false,
+          "sourceIndex": 293,
+          "language": "en"
+        },
+        {
+          "value": "Close",
+          "start": 138.8,
+          "end": 139.1,
+          "uncertain": false,
+          "sourceIndex": 294,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 139.1,
+          "end": 139.3,
+          "uncertain": false,
+          "sourceIndex": 295,
+          "language": "en"
+        },
+        {
+          "value": "eyes,",
+          "start": 139.3,
+          "end": 139.4,
+          "uncertain": false,
+          "sourceIndex": 296,
+          "language": "en"
+        },
+        {
+          "value": "kiss",
+          "start": 139.42,
+          "end": 139.64,
+          "uncertain": false,
+          "sourceIndex": 297,
+          "language": "en"
+        },
+        {
+          "value": "me.",
+          "start": 139.74,
+          "end": 140.56,
+          "uncertain": false,
+          "sourceIndex": 298,
+          "language": "en"
+        },
+        {
+          "value": "Close",
+          "start": 140.64,
+          "end": 140.96,
+          "uncertain": false,
+          "sourceIndex": 299,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 140.98,
+          "end": 141.16,
+          "uncertain": false,
+          "sourceIndex": 300,
+          "language": "en"
+        },
+        {
+          "value": "eyes,",
+          "start": 141.34,
+          "end": 141.64,
+          "uncertain": false,
+          "sourceIndex": 301,
+          "language": "en"
+        },
+        {
+          "value": "kiss",
+          "start": 141.86,
+          "end": 142.1,
+          "uncertain": false,
+          "sourceIndex": 302,
+          "language": "en"
+        },
+        {
+          "value": "me.",
+          "start": 142.2,
+          "end": 143.12,
+          "uncertain": false,
+          "sourceIndex": 303,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 143.12,
+      "end": 145.26,
+      "primary": "Hombros,",
+      "translation": "shoulders.",
+      "words": [
+        {
+          "value": "Hombros,",
+          "start": 143.12,
+          "end": 143.94,
+          "uncertain": false,
+          "sourceIndex": 304,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "shoulders.",
+          "start": 143.94,
+          "end": 145.26,
+          "uncertain": false,
+          "sourceIndex": 305,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 145.26,
+      "end": 148,
+      "primary": "Rodillas,",
+      "translation": "knees.",
+      "words": [
+        {
+          "value": "Rodillas,",
+          "start": 145.26,
+          "end": 146.38,
+          "uncertain": false,
+          "sourceIndex": 306,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "knees.",
+          "start": 146.38,
+          "end": 148,
+          "uncertain": false,
+          "sourceIndex": 307,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 148,
+      "end": 150.4,
+      "primary": "Labios,",
+      "translation": "lips.",
+      "words": [
+        {
+          "value": "Labios,",
+          "start": 148,
+          "end": 148.9,
+          "uncertain": false,
+          "sourceIndex": 308,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "lips.",
+          "start": 148.9,
+          "end": 150.4,
+          "uncertain": false,
+          "sourceIndex": 309,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 150.4,
+      "end": 150.9,
+      "primary": "Fuego.",
+      "translation": "",
+      "words": [
+        {
+          "value": "Fuego.",
+          "start": 150.4,
+          "end": 150.9,
+          "uncertain": false,
+          "sourceIndex": 310,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-32",
+      "start": 150.9,
+      "end": 155.5,
+      "primary": "Levanta las manos al cielo.",
+      "translation": "Raise your hands to the sky.",
+      "words": [
+        {
+          "value": "Levanta",
+          "start": 150.9,
+          "end": 151.44,
+          "uncertain": false,
+          "sourceIndex": 311,
+          "language": "es"
+        },
+        {
+          "value": "las",
+          "start": 151.48,
+          "end": 151.6,
+          "uncertain": false,
+          "sourceIndex": 312,
+          "language": "es"
+        },
+        {
+          "value": "manos",
+          "start": 151.66,
+          "end": 152.22,
+          "uncertain": false,
+          "sourceIndex": 313,
+          "language": "es"
+        },
+        {
+          "value": "al",
+          "start": 152.32,
+          "end": 152.48,
+          "uncertain": false,
+          "sourceIndex": 314,
+          "language": "es"
+        },
+        {
+          "value": "cielo.",
+          "start": 152.56,
+          "end": 153.44,
+          "uncertain": false,
+          "sourceIndex": 315,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Raise",
+          "start": 153.64,
+          "end": 153.92,
+          "uncertain": false,
+          "sourceIndex": 316,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 153.94,
+          "end": 154.06,
+          "uncertain": false,
+          "sourceIndex": 317,
+          "language": "en"
+        },
+        {
+          "value": "hands",
+          "start": 154.2,
+          "end": 154.34,
+          "uncertain": false,
+          "sourceIndex": 318,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 154.34,
+          "end": 154.5,
+          "uncertain": false,
+          "sourceIndex": 319,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 154.54,
+          "end": 154.62,
+          "uncertain": false,
+          "sourceIndex": 320,
+          "language": "en"
+        },
+        {
+          "value": "sky.",
+          "start": 154.68,
+          "end": 155.5,
+          "uncertain": false,
+          "sourceIndex": 321,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-33",
+      "start": 155.62,
+      "end": 160.28,
+      "primary": "Siente la música en el pelo.",
+      "translation": "Feel the music in your hair.",
+      "words": [
+        {
+          "value": "Siente",
+          "start": 155.62,
+          "end": 156.14,
+          "uncertain": false,
+          "sourceIndex": 322,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 156.26,
+          "end": 156.4,
+          "uncertain": false,
+          "sourceIndex": 323,
+          "language": "es"
+        },
+        {
+          "value": "música",
+          "start": 156.5,
+          "end": 156.98,
+          "uncertain": false,
+          "sourceIndex": 324,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 157.08,
+          "end": 157.14,
+          "uncertain": false,
+          "sourceIndex": 325,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 157.24,
+          "end": 157.32,
+          "uncertain": false,
+          "sourceIndex": 326,
+          "language": "es"
+        },
+        {
+          "value": "pelo.",
+          "start": 157.48,
+          "end": 158.2,
+          "uncertain": false,
+          "sourceIndex": 327,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Feel",
+          "start": 158.56,
+          "end": 158.78,
+          "uncertain": false,
+          "sourceIndex": 328,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 158.82,
+          "end": 158.92,
+          "uncertain": false,
+          "sourceIndex": 329,
+          "language": "en"
+        },
+        {
+          "value": "music",
+          "start": 158.96,
+          "end": 159.48,
+          "uncertain": false,
+          "sourceIndex": 330,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 159.54,
+          "end": 159.72,
+          "uncertain": false,
+          "sourceIndex": 331,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 159.78,
+          "end": 159.88,
+          "uncertain": false,
+          "sourceIndex": 332,
+          "language": "en"
+        },
+        {
+          "value": "hair.",
+          "start": 159.94,
+          "end": 160.28,
+          "uncertain": false,
+          "sourceIndex": 333,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-34",
+      "start": 160.86,
+      "end": 165.94,
+      "primary": "Solo tú y yo.",
+      "translation": "Only you and me.",
+      "words": [
+        {
+          "value": "Solo",
+          "start": 160.86,
+          "end": 161.38,
+          "uncertain": false,
+          "sourceIndex": 334,
+          "language": "es"
+        },
+        {
+          "value": "tú",
+          "start": 161.5,
+          "end": 161.72,
+          "uncertain": false,
+          "sourceIndex": 335,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 162.1,
+          "end": 162.34,
+          "uncertain": false,
+          "sourceIndex": 336,
+          "language": "es"
+        },
+        {
+          "value": "yo.",
+          "start": 162.7,
+          "end": 162.96,
+          "uncertain": false,
+          "sourceIndex": 337,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Only",
+          "start": 163.64,
+          "end": 163.92,
+          "uncertain": false,
+          "sourceIndex": 338,
+          "language": "en"
+        },
+        {
+          "value": "you",
+          "start": 163.94,
+          "end": 164.16,
+          "uncertain": false,
+          "sourceIndex": 339,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 164.24,
+          "end": 164.44,
+          "uncertain": false,
+          "sourceIndex": 340,
+          "language": "en"
+        },
+        {
+          "value": "me.",
+          "start": 164.54,
+          "end": 165.94,
+          "uncertain": false,
+          "sourceIndex": 341,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-35",
+      "start": 166.02,
+      "end": 170,
+      "primary": "Despacio.",
+      "translation": "Slowly.",
+      "words": [
+        {
+          "value": "Despacio.",
+          "start": 166.02,
+          "end": 167.24,
+          "uncertain": false,
+          "sourceIndex": 342,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Slowly.",
+          "start": 169.04,
+          "end": 170,
+          "uncertain": false,
+          "sourceIndex": 343,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

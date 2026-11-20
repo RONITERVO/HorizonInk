@@ -1,0 +1,1468 @@
+{
+  "title": "Data Rhythm",
+  "genre": "Microhouse",
+  "primaryLanguage": "es",
+  "duration": 183.946,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 6.3,
+      "end": 16.1,
+      "primary": "",
+      "translation": "Speed of light Speed of light",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Speed",
+          "start": 6.3,
+          "end": 6.6,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 6.6,
+          "end": 6.7,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "light",
+          "start": 6.7,
+          "end": 7.2,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "Speed",
+          "start": 15.2,
+          "end": 15.5,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 15.5,
+          "end": 15.6,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "light",
+          "start": 15.6,
+          "end": 16.1,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 18.7,
+      "end": 19.8,
+      "primary": "Ríos de luz",
+      "translation": "",
+      "words": [
+        {
+          "value": "Ríos",
+          "start": 18.7,
+          "end": 19.1,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 19.1,
+          "end": 19.3,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        },
+        {
+          "value": "luz",
+          "start": 19.3,
+          "end": 19.8,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 20.3,
+      "end": 21.2,
+      "primary": "Bajo el mar",
+      "translation": "",
+      "words": [
+        {
+          "value": "Bajo",
+          "start": 20.3,
+          "end": 20.7,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 20.7,
+          "end": 20.85,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "es"
+        },
+        {
+          "value": "mar",
+          "start": 20.85,
+          "end": 21.2,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 22,
+      "end": 22.9,
+      "primary": "Llevando voces",
+      "translation": "",
+      "words": [
+        {
+          "value": "Llevando",
+          "start": 22,
+          "end": 22.5,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "es"
+        },
+        {
+          "value": "voces",
+          "start": 22.5,
+          "end": 22.9,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 23.6,
+      "end": 24.95,
+      "primary": "A su lugar",
+      "translation": "To their place",
+      "words": [
+        {
+          "value": "A",
+          "start": 23.6,
+          "end": 23.7,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        },
+        {
+          "value": "su",
+          "start": 23.7,
+          "end": 23.8,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "es"
+        },
+        {
+          "value": "lugar",
+          "start": 23.8,
+          "end": 24.5,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "To",
+          "start": 24.25,
+          "end": 24.4,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        },
+        {
+          "value": "their",
+          "start": 24.4,
+          "end": 24.55,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "en"
+        },
+        {
+          "value": "place",
+          "start": 24.55,
+          "end": 24.95,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 26,
+      "end": 27.5,
+      "primary": "Cables de vidrio",
+      "translation": "Glass cables",
+      "words": [
+        {
+          "value": "Cables",
+          "start": 26,
+          "end": 26.5,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 26.5,
+          "end": 26.65,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "es"
+        },
+        {
+          "value": "vidrio",
+          "start": 26.65,
+          "end": 27.2,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Glass",
+          "start": 26.85,
+          "end": 27.15,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "en"
+        },
+        {
+          "value": "cables",
+          "start": 27.15,
+          "end": 27.5,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 28.3,
+      "end": 29.9,
+      "primary": "Información",
+      "translation": "Information",
+      "words": [
+        {
+          "value": "Información",
+          "start": 28.3,
+          "end": 29.5,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Information",
+          "start": 29.15,
+          "end": 29.9,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 30,
+      "end": 31.3,
+      "primary": "Viajando al",
+      "translation": "Traveling to the",
+      "words": [
+        {
+          "value": "Viajando",
+          "start": 30,
+          "end": 30.6,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "es"
+        },
+        {
+          "value": "al",
+          "start": 30.6,
+          "end": 30.8,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Traveling",
+          "start": 30.6,
+          "end": 31,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 31,
+          "end": 31.15,
+          "uncertain": true,
+          "sourceIndex": 30,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 31.15,
+          "end": 31.3,
+          "uncertain": true,
+          "sourceIndex": 31,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 31.8,
+      "end": 32.7,
+      "primary": "Corazón",
+      "translation": "Heart",
+      "words": [
+        {
+          "value": "Corazón",
+          "start": 31.8,
+          "end": 32.6,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Heart",
+          "start": 32.35,
+          "end": 32.7,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 33.4,
+      "end": 35.3,
+      "primary": "Sube el archivo",
+      "translation": "Upload the file",
+      "words": [
+        {
+          "value": "Sube",
+          "start": 33.4,
+          "end": 33.7,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 33.7,
+          "end": 33.9,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "es"
+        },
+        {
+          "value": "archivo",
+          "start": 33.9,
+          "end": 34.6,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Upload",
+          "start": 34.4,
+          "end": 34.8,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 34.8,
+          "end": 34.9,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "en"
+        },
+        {
+          "value": "file",
+          "start": 34.9,
+          "end": 35.3,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 37,
+      "end": 40.5,
+      "primary": "Velocidad",
+      "translation": "Speed Taking you higher",
+      "words": [
+        {
+          "value": "Velocidad",
+          "start": 37,
+          "end": 38.3,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Speed",
+          "start": 38,
+          "end": 38.4,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        },
+        {
+          "value": "Taking",
+          "start": 39,
+          "end": 39.3,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "en"
+        },
+        {
+          "value": "you",
+          "start": 39.3,
+          "end": 39.5,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "en"
+        },
+        {
+          "value": "higher",
+          "start": 39.5,
+          "end": 40.5,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 41.5,
+      "end": 44,
+      "primary": "Baila en la fibra",
+      "translation": "Dance on the fiber",
+      "words": [
+        {
+          "value": "Baila",
+          "start": 41.5,
+          "end": 41.9,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 41.9,
+          "end": 42.1,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 42.1,
+          "end": 42.3,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "es"
+        },
+        {
+          "value": "fibra",
+          "start": 42.3,
+          "end": 43.1,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Dance",
+          "start": 42.6,
+          "end": 43,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "en"
+        },
+        {
+          "value": "on",
+          "start": 43,
+          "end": 43.15,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 43.15,
+          "end": 43.3,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "fiber",
+          "start": 43.3,
+          "end": 44,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 45.4,
+      "end": 47.8,
+      "primary": "Cruzando el mundo",
+      "translation": "Crossing the world",
+      "words": [
+        {
+          "value": "Cruzando",
+          "start": 45.4,
+          "end": 46.1,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 46.1,
+          "end": 46.2,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "es"
+        },
+        {
+          "value": "mundo",
+          "start": 46.2,
+          "end": 47,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Crossing",
+          "start": 46.6,
+          "end": 47.1,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 47.1,
+          "end": 47.25,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 47.25,
+          "end": 47.8,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 49.3,
+      "end": 51.6,
+      "primary": "Ceros y unos",
+      "translation": "Zeros and ones",
+      "words": [
+        {
+          "value": "Ceros",
+          "start": 49.3,
+          "end": 49.9,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 49.9,
+          "end": 50.1,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "es"
+        },
+        {
+          "value": "unos",
+          "start": 50.1,
+          "end": 50.8,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Zeros",
+          "start": 50.4,
+          "end": 50.85,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 50.85,
+          "end": 51,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "en"
+        },
+        {
+          "value": "ones",
+          "start": 51,
+          "end": 51.6,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 53,
+      "end": 54.8,
+      "primary": "Brillando fuerte",
+      "translation": "Shining bright",
+      "words": [
+        {
+          "value": "Brillando",
+          "start": 53,
+          "end": 53.8,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "es"
+        },
+        {
+          "value": "fuerte",
+          "start": 53.8,
+          "end": 54.6,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Shining",
+          "start": 53.8,
+          "end": 54.3,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "bright",
+          "start": 54.3,
+          "end": 54.8,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 88.5,
+      "end": 90,
+      "primary": "Mensajes van",
+      "translation": "Messages go",
+      "words": [
+        {
+          "value": "Mensajes",
+          "start": 88.5,
+          "end": 89.15,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "es"
+        },
+        {
+          "value": "van",
+          "start": 89.15,
+          "end": 89.5,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Messages",
+          "start": 89.1,
+          "end": 89.6,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "en"
+        },
+        {
+          "value": "go",
+          "start": 89.6,
+          "end": 90,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 90,
+      "end": 91.8,
+      "primary": "Mensajes vienen",
+      "translation": "Messages come",
+      "words": [
+        {
+          "value": "Mensajes",
+          "start": 90,
+          "end": 90.7,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "es"
+        },
+        {
+          "value": "vienen",
+          "start": 90.7,
+          "end": 91.2,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Messages",
+          "start": 90.8,
+          "end": 91.25,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        },
+        {
+          "value": "come",
+          "start": 91.25,
+          "end": 91.8,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 92,
+      "end": 93.6,
+      "primary": "Los servidores",
+      "translation": "The servers",
+      "words": [
+        {
+          "value": "Los",
+          "start": 92,
+          "end": 92.15,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "es"
+        },
+        {
+          "value": "servidores",
+          "start": 92.15,
+          "end": 93.3,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 92.8,
+          "end": 92.95,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "en"
+        },
+        {
+          "value": "servers",
+          "start": 92.95,
+          "end": 93.6,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 94,
+      "end": 97,
+      "primary": "Nos mantienen Un parpadeo",
+      "translation": "Maintain us A blink",
+      "words": [
+        {
+          "value": "Nos",
+          "start": 94,
+          "end": 94.2,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "es"
+        },
+        {
+          "value": "mantienen",
+          "start": 94.2,
+          "end": 95.1,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "es"
+        },
+        {
+          "value": "Un",
+          "start": 95.5,
+          "end": 95.7,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        },
+        {
+          "value": "parpadeo",
+          "start": 95.7,
+          "end": 96.8,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Maintain",
+          "start": 94.75,
+          "end": 95.2,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "en"
+        },
+        {
+          "value": "us",
+          "start": 95.2,
+          "end": 95.6,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "en"
+        },
+        {
+          "value": "A",
+          "start": 96.3,
+          "end": 96.5,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "blink",
+          "start": 96.5,
+          "end": 97,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 97.4,
+      "end": 99.2,
+      "primary": "Y ya llegó",
+      "translation": "And it already",
+      "words": [
+        {
+          "value": "Y",
+          "start": 97.4,
+          "end": 97.55,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "es"
+        },
+        {
+          "value": "ya",
+          "start": 97.55,
+          "end": 97.8,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "es"
+        },
+        {
+          "value": "llegó",
+          "start": 97.8,
+          "end": 98.5,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "And",
+          "start": 98.2,
+          "end": 98.4,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 98.4,
+          "end": 98.5,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "en"
+        },
+        {
+          "value": "already",
+          "start": 98.5,
+          "end": 99.2,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 99.2,
+      "end": 102.8,
+      "primary": "El mundo entero Se conectó",
+      "translation": "The whole world Connected",
+      "words": [
+        {
+          "value": "El",
+          "start": 99.2,
+          "end": 99.4,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "es"
+        },
+        {
+          "value": "mundo",
+          "start": 99.4,
+          "end": 99.9,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "es"
+        },
+        {
+          "value": "entero",
+          "start": 99.9,
+          "end": 100.6,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "es"
+        },
+        {
+          "value": "Se",
+          "start": 101,
+          "end": 101.2,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "es"
+        },
+        {
+          "value": "conectó",
+          "start": 101.2,
+          "end": 102.2,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 100.2,
+          "end": 100.4,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        },
+        {
+          "value": "whole",
+          "start": 100.4,
+          "end": 100.65,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 100.65,
+          "end": 101.1,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "en"
+        },
+        {
+          "value": "Connected",
+          "start": 101.8,
+          "end": 102.8,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 103.4,
+      "end": 105.5,
+      "primary": "Sube el archivo",
+      "translation": "Upload the file",
+      "words": [
+        {
+          "value": "Sube",
+          "start": 103.4,
+          "end": 103.8,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 103.8,
+          "end": 103.95,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "es"
+        },
+        {
+          "value": "archivo",
+          "start": 103.95,
+          "end": 104.7,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Upload",
+          "start": 104.5,
+          "end": 104.9,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 104.9,
+          "end": 105,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "en"
+        },
+        {
+          "value": "file",
+          "start": 105,
+          "end": 105.5,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 107,
+      "end": 110.6,
+      "primary": "Velocidad",
+      "translation": "Speed Taking you higher",
+      "words": [
+        {
+          "value": "Velocidad",
+          "start": 107,
+          "end": 108.3,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Speed",
+          "start": 108.1,
+          "end": 108.6,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "en"
+        },
+        {
+          "value": "Taking",
+          "start": 109,
+          "end": 109.4,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "en"
+        },
+        {
+          "value": "you",
+          "start": 109.4,
+          "end": 109.6,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "en"
+        },
+        {
+          "value": "higher",
+          "start": 109.6,
+          "end": 110.6,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 111.3,
+      "end": 114.1,
+      "primary": "Baila en la fibra",
+      "translation": "Dance on the fiber",
+      "words": [
+        {
+          "value": "Baila",
+          "start": 111.3,
+          "end": 111.8,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 111.8,
+          "end": 112,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 112,
+          "end": 112.1,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "es"
+        },
+        {
+          "value": "fibra",
+          "start": 112.1,
+          "end": 113.1,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Dance",
+          "start": 112.6,
+          "end": 113,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        },
+        {
+          "value": "on",
+          "start": 113,
+          "end": 113.15,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 113.15,
+          "end": 113.3,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "en"
+        },
+        {
+          "value": "fiber",
+          "start": 113.3,
+          "end": 114.1,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 115.3,
+      "end": 117.7,
+      "primary": "Cruzando el mundo",
+      "translation": "Crossing the world",
+      "words": [
+        {
+          "value": "Cruzando",
+          "start": 115.3,
+          "end": 116.1,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 116.1,
+          "end": 116.2,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "es"
+        },
+        {
+          "value": "mundo",
+          "start": 116.2,
+          "end": 116.9,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Crossing",
+          "start": 116.5,
+          "end": 117,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 117,
+          "end": 117.2,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 117.2,
+          "end": 117.7,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 134.1,
+      "end": 135.9,
+      "primary": "Entregado",
+      "translation": "",
+      "words": [
+        {
+          "value": "Entregado",
+          "start": 134.1,
+          "end": 135.9,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 142.1,
+      "end": 143.8,
+      "primary": "Entregado",
+      "translation": "",
+      "words": [
+        {
+          "value": "Entregado",
+          "start": 142.1,
+          "end": 143.8,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 157.1,
+      "end": 158.7,
+      "primary": "Entregado",
+      "translation": "",
+      "words": [
+        {
+          "value": "Entregado",
+          "start": 157.1,
+          "end": 158.7,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 164.6,
+      "end": 176,
+      "primary": "Entregado",
+      "translation": "Speed of light",
+      "words": [
+        {
+          "value": "Entregado",
+          "start": 164.6,
+          "end": 166.2,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Speed",
+          "start": 174.4,
+          "end": 174.9,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 174.9,
+          "end": 175.2,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "en"
+        },
+        {
+          "value": "light",
+          "start": 175.2,
+          "end": 176,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

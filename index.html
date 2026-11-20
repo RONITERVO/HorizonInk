@@ -9,6 +9,13 @@
     <div id="app">
       <canvas id="scene-canvas" aria-label="3D sunset cliffside lyric game"></canvas>
 
+      <!-- Swipe trail & screen-space floating FX layer -->
+      <svg id="swipe-svg" class="swipe-svg" aria-hidden="true">
+        <polyline id="swipe-polyline" points="" />
+      </svg>
+      <div id="keycap-layer" class="keycap-layer hidden" aria-hidden="true"></div>
+      <div id="fx-layer" class="fx-layer" aria-hidden="true"></div>
+
       <!-- Subtle floating top HUD -->
       <header id="hud" class="hud hidden">
         <div class="hud-left">
@@ -39,13 +46,33 @@
         </div>
 
         <div class="hud-right">
+          <button id="btn-speed" class="pill-btn" title="Cycle Playback Speed (0.75× / 0.85× / 1.0×)">1.0×</button>
+          <button id="btn-pace" class="pill-btn" title="Cycle Firefly Flight Pace (Relaxed 4.8s / Standard 4.0s / Brisk 3.2s)">4.0s</button>
+          <div class="hud-slider-pill decoy-wrap" title="Decoy words from other songs (0 = Off, Less → More)">
+            <span class="hud-pill-label">Decoys</span>
+            <input id="hud-decoy-slider" type="range" min="0" max="100" step="5" value="35" aria-label="Decoy amount (0 to More)" />
+            <span id="hud-decoy-label" class="hud-pill-val">Less</span>
+          </div>
+          <button id="btn-lang-mode" class="pill-btn" title="Switch Firefly Language Mode (Both / Song Language / English)">ES + EN</button>
           <button id="btn-mode" class="pill-btn" title="Switch Guidance Mode">Guided</button>
-          <button id="btn-study-deck" class="pill-btn accent-soft" title="Open Study Again Deck">
+          <div class="hud-slider-pill audio-wrap" title="Catch Chimes &amp; Music Volume">
+            <button id="btn-sfx" class="inline-toggle" title="Toggle Catch Chimes">♪ SFX</button>
+            <input id="hud-vol-slider" type="range" min="0" max="100" step="5" value="100" aria-label="Music volume" title="Music Volume" />
+          </div>
+          <button id="btn-study-deck" class="pill-btn accent-soft" title="Open Study Again Deck (R)">
             Review <span id="hud-deck-badge" class="badge">0</span>
           </button>
           <button id="btn-help" class="pill-btn icon-only" title="Controls & Help">?</button>
         </div>
       </header>
+
+      <!-- Instrumental break countdown + skip pill -->
+      <div id="instrumental-pill" class="instrumental-pill hidden">
+        <span id="instrumental-label">♪ Instrumental · Next lyric in 12s</span>
+        <button id="btn-skip-intro" class="pill-btn primary skip-mini" title="Jump right before the next sung phrase (Tab / →)">
+          Skip →
+        </button>
+      </div>
 
       <!-- Active bilingual lyric whisper bar (subtle bottom-corner assist) -->
       <div id="cue-hint" class="cue-hint hidden" aria-live="polite">
@@ -80,20 +107,56 @@
                 <option value="standard" selected>Standard (4.0s flight)</option>
                 <option value="brisk">Brisk (3.2s flight)</option>
               </select>
+              <label for="select-lang-mode">Firefly Words</label>
+              <select id="select-lang-mode">
+                <option value="both" selected>Both (Target + Native)</option>
+                <option value="primary">Song Language Only (ES / ZH)</option>
+                <option value="english">English Only (EN)</option>
+              </select>
               <label for="select-assist">Guidance</label>
               <select id="select-assist">
                 <option value="guided" selected>Guided (Active Glow + Ghost Line)</option>
                 <option value="immersion">Immersion (Pure Listening)</option>
                 <option value="zen">Zen Watch (Auto-Scribe)</option>
               </select>
+              <div class="slider-field">
+                <div class="slider-field-head">
+                  <label for="menu-decoy-slider">Decoys (Other Songs)</label>
+                  <span id="menu-decoy-value" class="slider-value">Less (35%)</span>
+                </div>
+                <input id="menu-decoy-slider" type="range" min="0" max="100" step="5" value="35" />
+                <div class="slider-ticks">
+                  <span>0</span>
+                  <span>Less</span>
+                  <span>More</span>
+                </div>
+              </div>
             </div>
+          </div>
+
+          <div class="library-toolbar">
+            <input
+              id="song-search"
+              class="song-search"
+              type="search"
+              placeholder="Search 36 timed tracks by title, genre, or opening lyric…"
+              autocomplete="off"
+            />
+            <div class="filter-pills" role="tablist" aria-label="Filter songs">
+              <button class="filter-btn active" data-filter="all">All</button>
+              <button class="filter-btn" data-filter="es">Spanish (ES)</button>
+              <button class="filter-btn" data-filter="zh">Chinese (ZH)</button>
+              <button class="filter-btn" data-filter="review">Needs Review</button>
+            </div>
+            <button id="btn-shuffle" class="pill-btn accent-soft" title="Play a random song">Shuffle ♪</button>
+            <span id="song-count-label" class="song-count-label">36 tracks</span>
           </div>
 
           <div class="song-grid" id="song-grid"></div>
 
           <div class="menu-footer">
             <div class="custom-loader">
-              <span class="custom-label">Load your own track + Gemini timings:</span>
+              <span class="custom-label">Load your own track + AI Studio timings:</span>
               <label class="file-btn">
                 Audio (.mp3/.wav/.m4a)
                 <input id="custom-audio" type="file" accept="audio/*,video/mp4" hidden />
@@ -127,8 +190,9 @@
           <div id="study-list" class="study-list"></div>
 
           <div class="study-actions">
-            <button id="btn-clear-mastered" class="pill-btn">Clear Mastered</button>
-            <button id="btn-replay-song" class="pill-btn primary">Replay Song</button>
+            <button id="btn-clear-mastered" class="pill-btn">Clear All</button>
+            <button id="btn-replay-song" class="pill-btn">Replay Song</button>
+            <button id="btn-next-song" class="pill-btn primary">Next Song →</button>
           </div>
         </div>
       </section>
@@ -144,10 +208,10 @@
             <button id="btn-close-help" class="pill-btn">Got It</button>
           </div>
           <ul class="help-list">
-            <li><strong>Look &amp; Listen:</strong> Native lyrics (e.g. Spanish) are sung first, so their fireflies emerge from the sunset horizon first, followed by their English echoes.</li>
-            <li><strong>Catch Fireflies:</strong> Click or tap any approaching word firefly in 3D space (or hold &amp; sweep through them, or press <kbd>1</kbd>–<kbd>4</kbd> / <kbd>Space</kbd>). Caught words swoop onto your A4 sketchbook as the magical pen writes them in ink.</li>
-            <li><strong>No Game Over:</strong> Catching a decoy or being too late never loses the game. Missed words softly pencil onto the A4 page and save into your <strong>Study Again</strong> deck so you can jump straight back to any phrase and practice it.</li>
-            <li><strong>Camera &amp; Shortcuts:</strong> Move your cursor gently to look around the sunset cliff. <kbd>P</kbd> Play/Pause, <kbd>Esc</kbd> Song Menu, <kbd>R</kbd> Study Deck.</li>
+            <li><strong>Look &amp; Listen:</strong> Native lyrics (Spanish or Chinese) are sung first, so their fireflies emerge from the sunset horizon first, followed by their English echoes. Use the <strong>Firefly Words</strong> toggle to practice Song Language only, English only, or Both.</li>
+            <li><strong>Catch Fireflies:</strong> Click or tap any approaching word firefly in 3D space (or hold &amp; sweep through them with a golden ink trail, or press <kbd>1</kbd>–<kbd>4</kbd> / <kbd>Space</kbd>). Caught words arc smoothly onto your A4 sketchbook right where the magical pen writes them.</li>
+            <li><strong>No Game Over &amp; Optional Decoys:</strong> Decoys are borrowed from other songs' lyrics and can be turned off (0) or scaled (Less → More) with the <strong>Decoys</strong> slider. Wrong catches or misses never end the song — missed words save to your <strong>Study Again</strong> deck, and catching them cleanly on a replay automatically graduates them to Mastered!</li>
+            <li><strong>Live Controls &amp; Shortcuts:</strong> Adjust Pace (<kbd>4.0s</kbd>), Speed (<kbd>1.0×</kbd>), Decoys, Firefly Words, Guidance, SFX &amp; Volume right in the top bar while playing. Press <kbd>Tab</kbd> or <kbd>→</kbd> (or click <strong>Skip →</strong>) to skip instrumental breaks; <kbd>P</kbd> Play/Pause, <kbd>R</kbd> Study Deck, <kbd>Esc</kbd> Song Menu.</li>
           </ul>
         </div>
       </section>
@@ -155,4 +219,3 @@
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>
-

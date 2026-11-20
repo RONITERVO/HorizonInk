@@ -1,0 +1,2157 @@
+{
+  "title": "Inner Cathedral",
+  "genre": "Acapella EDM",
+  "primaryLanguage": "es",
+  "duration": 212.982,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 9.1,
+      "end": 15.5,
+      "primary": "",
+      "translation": "Listen to us We are many",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Listen",
+          "start": 9.1,
+          "end": 9.9,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 10,
+          "end": 10.4,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "us",
+          "start": 10.5,
+          "end": 11.8,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "We",
+          "start": 11.9,
+          "end": 12.4,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 12.5,
+          "end": 13.1,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "many",
+          "start": 13.2,
+          "end": 15.5,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 23,
+      "end": 26.5,
+      "primary": "Cien mil voces",
+      "translation": "A hundred thousand voices",
+      "words": [
+        {
+          "value": "Cien",
+          "start": 23,
+          "end": 23.4,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "es"
+        },
+        {
+          "value": "mil",
+          "start": 23.4,
+          "end": 23.8,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        },
+        {
+          "value": "voces",
+          "start": 23.8,
+          "end": 24.4,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "A",
+          "start": 24.5,
+          "end": 24.7,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        },
+        {
+          "value": "hundred",
+          "start": 24.7,
+          "end": 25.3,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "en"
+        },
+        {
+          "value": "thousand",
+          "start": 25.3,
+          "end": 25.8,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "en"
+        },
+        {
+          "value": "voices",
+          "start": 25.8,
+          "end": 26.5,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 26.7,
+      "end": 29.8,
+      "primary": "En mi garganta",
+      "translation": "In my throat",
+      "words": [
+        {
+          "value": "En",
+          "start": 26.7,
+          "end": 26.9,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 26.9,
+          "end": 27.2,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        },
+        {
+          "value": "garganta",
+          "start": 27.2,
+          "end": 28,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 28,
+          "end": 28.4,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 28.4,
+          "end": 28.8,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        },
+        {
+          "value": "throat",
+          "start": 28.8,
+          "end": 29.8,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 30.8,
+      "end": 34,
+      "primary": "Una canción",
+      "translation": "A song",
+      "words": [
+        {
+          "value": "Una",
+          "start": 30.8,
+          "end": 31.4,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "es"
+        },
+        {
+          "value": "canción",
+          "start": 31.4,
+          "end": 32.4,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "A",
+          "start": 32.6,
+          "end": 32.9,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "en"
+        },
+        {
+          "value": "song",
+          "start": 32.9,
+          "end": 34,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 34.4,
+      "end": 37.7,
+      "primary": "Que se levanta",
+      "translation": "That rises",
+      "words": [
+        {
+          "value": "Que",
+          "start": 34.4,
+          "end": 34.8,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "es"
+        },
+        {
+          "value": "se",
+          "start": 34.8,
+          "end": 35,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "es"
+        },
+        {
+          "value": "levanta",
+          "start": 35,
+          "end": 35.8,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "That",
+          "start": 35.9,
+          "end": 36.5,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "en"
+        },
+        {
+          "value": "rises",
+          "start": 36.5,
+          "end": 37.7,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 38.2,
+      "end": 41.7,
+      "primary": "No hay guitarras",
+      "translation": "There are no guitars",
+      "words": [
+        {
+          "value": "No",
+          "start": 38.2,
+          "end": 38.5,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "es"
+        },
+        {
+          "value": "hay",
+          "start": 38.5,
+          "end": 38.8,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "es"
+        },
+        {
+          "value": "guitarras",
+          "start": 38.8,
+          "end": 39.6,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "There",
+          "start": 39.7,
+          "end": 40,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 40,
+          "end": 40.3,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "en"
+        },
+        {
+          "value": "no",
+          "start": 40.3,
+          "end": 40.7,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "en"
+        },
+        {
+          "value": "guitars",
+          "start": 40.7,
+          "end": 41.7,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 41.8,
+      "end": 45.3,
+      "primary": "No hay tambores",
+      "translation": "There are no drums",
+      "words": [
+        {
+          "value": "No",
+          "start": 41.8,
+          "end": 42.1,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "es"
+        },
+        {
+          "value": "hay",
+          "start": 42.1,
+          "end": 42.4,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "es"
+        },
+        {
+          "value": "tambores",
+          "start": 42.4,
+          "end": 43.2,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "There",
+          "start": 43.3,
+          "end": 43.6,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 43.6,
+          "end": 43.9,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "en"
+        },
+        {
+          "value": "no",
+          "start": 43.9,
+          "end": 44.2,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "en"
+        },
+        {
+          "value": "drums",
+          "start": 44.2,
+          "end": 45.3,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 45.5,
+      "end": 49,
+      "primary": "Solo humanos",
+      "translation": "Only human",
+      "words": [
+        {
+          "value": "Solo",
+          "start": 45.5,
+          "end": 46,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "es"
+        },
+        {
+          "value": "humanos",
+          "start": 46,
+          "end": 47,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Only",
+          "start": 47.1,
+          "end": 47.6,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        },
+        {
+          "value": "human",
+          "start": 47.6,
+          "end": 49,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 49.2,
+      "end": 53,
+      "primary": "Y sus colores",
+      "translation": "And their colors",
+      "words": [
+        {
+          "value": "Y",
+          "start": 49.2,
+          "end": 49.4,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "es"
+        },
+        {
+          "value": "sus",
+          "start": 49.4,
+          "end": 49.8,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "es"
+        },
+        {
+          "value": "colores",
+          "start": 49.8,
+          "end": 50.8,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "And",
+          "start": 50.9,
+          "end": 51.3,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "en"
+        },
+        {
+          "value": "their",
+          "start": 51.3,
+          "end": 51.8,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "en"
+        },
+        {
+          "value": "colors",
+          "start": 51.8,
+          "end": 53,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 53.1,
+      "end": 57,
+      "primary": "Respira profundo",
+      "translation": "Breathe deep",
+      "words": [
+        {
+          "value": "Respira",
+          "start": 53.1,
+          "end": 54,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "es"
+        },
+        {
+          "value": "profundo",
+          "start": 54,
+          "end": 54.9,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Breathe",
+          "start": 55,
+          "end": 55.5,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "en"
+        },
+        {
+          "value": "deep",
+          "start": 55.5,
+          "end": 57,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 57.1,
+      "end": 60.8,
+      "primary": "El eco del mundo",
+      "translation": "The echo of the world",
+      "words": [
+        {
+          "value": "El",
+          "start": 57.1,
+          "end": 57.4,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 57.4,
+          "end": 57.8,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 57.8,
+          "end": 58.2,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "es"
+        },
+        {
+          "value": "mundo",
+          "start": 58.2,
+          "end": 59,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 59.1,
+          "end": 59.4,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "en"
+        },
+        {
+          "value": "echo",
+          "start": 59.4,
+          "end": 59.8,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 59.8,
+          "end": 60.1,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 60.1,
+          "end": 60.3,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 60.3,
+          "end": 60.8,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 60.9,
+      "end": 64.4,
+      "primary": "Respira profundo",
+      "translation": "Breathe deep",
+      "words": [
+        {
+          "value": "Respira",
+          "start": 60.9,
+          "end": 61.6,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "es"
+        },
+        {
+          "value": "profundo",
+          "start": 61.6,
+          "end": 62.5,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Breathe",
+          "start": 62.6,
+          "end": 63.1,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "deep",
+          "start": 63.1,
+          "end": 64.4,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 64.6,
+      "end": 68.5,
+      "primary": "El eco del mundo",
+      "translation": "The echo of the world",
+      "words": [
+        {
+          "value": "El",
+          "start": 64.6,
+          "end": 64.9,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 64.9,
+          "end": 65.3,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 65.3,
+          "end": 65.7,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "es"
+        },
+        {
+          "value": "mundo",
+          "start": 65.7,
+          "end": 66.3,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 66.4,
+          "end": 66.8,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "en"
+        },
+        {
+          "value": "echo",
+          "start": 66.8,
+          "end": 67.1,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 67.1,
+          "end": 67.4,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 67.4,
+          "end": 67.7,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 67.7,
+          "end": 68.5,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 68.7,
+      "end": 72,
+      "primary": "Canta conmigo",
+      "translation": "Sing with me",
+      "words": [
+        {
+          "value": "Canta",
+          "start": 68.7,
+          "end": 69.3,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        },
+        {
+          "value": "conmigo",
+          "start": 69.3,
+          "end": 70,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sing",
+          "start": 70.1,
+          "end": 70.7,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        },
+        {
+          "value": "with",
+          "start": 70.7,
+          "end": 71.1,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 71.1,
+          "end": 72,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 72.1,
+      "end": 75.8,
+      "primary": "Somos el eco",
+      "translation": "We are the echo",
+      "words": [
+        {
+          "value": "Somos",
+          "start": 72.1,
+          "end": 72.7,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 72.7,
+          "end": 73.1,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 73.1,
+          "end": 73.6,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "We",
+          "start": 73.7,
+          "end": 74,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 74,
+          "end": 74.3,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 74.3,
+          "end": 74.6,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "echo",
+          "start": 74.6,
+          "end": 75.8,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 76,
+      "end": 79.4,
+      "primary": "Puro sonido",
+      "translation": "Pure sound",
+      "words": [
+        {
+          "value": "Puro",
+          "start": 76,
+          "end": 76.6,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "es"
+        },
+        {
+          "value": "sonido",
+          "start": 76.6,
+          "end": 77.5,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Pure",
+          "start": 77.6,
+          "end": 78.2,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "en"
+        },
+        {
+          "value": "sound",
+          "start": 78.2,
+          "end": 79.4,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 79.5,
+      "end": 83.5,
+      "primary": "Vibra en el viento",
+      "translation": "Vibrate in the wind",
+      "words": [
+        {
+          "value": "Vibra",
+          "start": 79.5,
+          "end": 80.1,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 80.1,
+          "end": 80.4,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 80.4,
+          "end": 80.6,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "es"
+        },
+        {
+          "value": "viento",
+          "start": 80.6,
+          "end": 80.9,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Vibrate",
+          "start": 81,
+          "end": 81.7,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 81.7,
+          "end": 82,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 82,
+          "end": 82.4,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "en"
+        },
+        {
+          "value": "wind",
+          "start": 82.4,
+          "end": 83.5,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 114.2,
+      "end": 115.6,
+      "primary": "Cuerdas vocales",
+      "translation": "",
+      "words": [
+        {
+          "value": "Cuerdas",
+          "start": 114.2,
+          "end": 114.8,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        },
+        {
+          "value": "vocales",
+          "start": 114.8,
+          "end": 115.6,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 116.1,
+      "end": 117.6,
+      "primary": "hacen la magia",
+      "translation": "",
+      "words": [
+        {
+          "value": "hacen",
+          "start": 116.1,
+          "end": 116.5,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 116.5,
+          "end": 116.7,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "es"
+        },
+        {
+          "value": "magia",
+          "start": 116.7,
+          "end": 117.6,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 118.1,
+      "end": 121.4,
+      "primary": "Nuestra energía",
+      "translation": "Our energy",
+      "words": [
+        {
+          "value": "Nuestra",
+          "start": 118.1,
+          "end": 118.7,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "es"
+        },
+        {
+          "value": "energía",
+          "start": 118.7,
+          "end": 119.6,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Our",
+          "start": 119.8,
+          "end": 120.1,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        },
+        {
+          "value": "energy",
+          "start": 120.1,
+          "end": 121.4,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 121.7,
+      "end": 125.3,
+      "primary": "Se contagia",
+      "translation": "Is contagious",
+      "words": [
+        {
+          "value": "Se",
+          "start": 121.7,
+          "end": 122.3,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "es"
+        },
+        {
+          "value": "contagia",
+          "start": 122.3,
+          "end": 123.4,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Is",
+          "start": 123.5,
+          "end": 123.9,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "en"
+        },
+        {
+          "value": "contagious",
+          "start": 123.9,
+          "end": 125.3,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 125.4,
+      "end": 129.1,
+      "primary": "Soy un ejército",
+      "translation": "I am an army",
+      "words": [
+        {
+          "value": "Soy",
+          "start": 125.4,
+          "end": 125.9,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "es"
+        },
+        {
+          "value": "un",
+          "start": 125.9,
+          "end": 126.1,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "es"
+        },
+        {
+          "value": "ejército",
+          "start": 126.1,
+          "end": 127.1,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 127.2,
+          "end": 127.4,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "en"
+        },
+        {
+          "value": "am",
+          "start": 127.4,
+          "end": 127.7,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        },
+        {
+          "value": "an",
+          "start": 127.7,
+          "end": 127.9,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "en"
+        },
+        {
+          "value": "army",
+          "start": 127.9,
+          "end": 129.1,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 129.2,
+      "end": 132.8,
+      "primary": "Soy solo una",
+      "translation": "I am only one",
+      "words": [
+        {
+          "value": "Soy",
+          "start": 129.2,
+          "end": 129.6,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "es"
+        },
+        {
+          "value": "solo",
+          "start": 129.6,
+          "end": 130,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "es"
+        },
+        {
+          "value": "una",
+          "start": 130,
+          "end": 130.9,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 131,
+          "end": 131.2,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "en"
+        },
+        {
+          "value": "am",
+          "start": 131.2,
+          "end": 131.4,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "en"
+        },
+        {
+          "value": "only",
+          "start": 131.4,
+          "end": 131.7,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "en"
+        },
+        {
+          "value": "one",
+          "start": 131.7,
+          "end": 132.8,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 132.9,
+      "end": 134.7,
+      "primary": "Cantando fuerte",
+      "translation": "",
+      "words": [
+        {
+          "value": "Cantando",
+          "start": 132.9,
+          "end": 133.7,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "es"
+        },
+        {
+          "value": "fuerte",
+          "start": 133.7,
+          "end": 134.7,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 134.8,
+      "end": 136.6,
+      "primary": "Hacia la luna",
+      "translation": "",
+      "words": [
+        {
+          "value": "Hacia",
+          "start": 134.8,
+          "end": 135.3,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 135.3,
+          "end": 135.5,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "es"
+        },
+        {
+          "value": "luna",
+          "start": 135.5,
+          "end": 136.6,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 136.7,
+      "end": 138.4,
+      "primary": "Respira profundo",
+      "translation": "",
+      "words": [
+        {
+          "value": "Respira",
+          "start": 136.7,
+          "end": 137.5,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        },
+        {
+          "value": "profundo",
+          "start": 137.5,
+          "end": 138.4,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 140.6,
+      "end": 144.3,
+      "primary": "El eco del mundo",
+      "translation": "The echo of the world",
+      "words": [
+        {
+          "value": "El",
+          "start": 140.6,
+          "end": 140.9,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 140.9,
+          "end": 141.3,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 141.3,
+          "end": 141.6,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "es"
+        },
+        {
+          "value": "mundo",
+          "start": 141.6,
+          "end": 142.3,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 142.4,
+          "end": 142.6,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "en"
+        },
+        {
+          "value": "echo",
+          "start": 142.6,
+          "end": 143,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 143,
+          "end": 143.2,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 143.2,
+          "end": 143.4,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 143.4,
+          "end": 144.3,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 144.4,
+      "end": 147.9,
+      "primary": "Respira profundo",
+      "translation": "Breathe deep",
+      "words": [
+        {
+          "value": "Respira",
+          "start": 144.4,
+          "end": 145.1,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "es"
+        },
+        {
+          "value": "profundo",
+          "start": 145.1,
+          "end": 146,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Breathe",
+          "start": 146.1,
+          "end": 146.7,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "en"
+        },
+        {
+          "value": "deep",
+          "start": 146.7,
+          "end": 147.9,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 148,
+      "end": 152,
+      "primary": "El eco del mundo",
+      "translation": "The echo of the world",
+      "words": [
+        {
+          "value": "El",
+          "start": 148,
+          "end": 148.3,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 148.3,
+          "end": 148.7,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 148.7,
+          "end": 149,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "es"
+        },
+        {
+          "value": "mundo",
+          "start": 149,
+          "end": 149.7,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 149.8,
+          "end": 150.1,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "en"
+        },
+        {
+          "value": "echo",
+          "start": 150.1,
+          "end": 150.5,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 150.5,
+          "end": 150.7,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 150.7,
+          "end": 151,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 151,
+          "end": 152,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 152.1,
+      "end": 155.5,
+      "primary": "Canta conmigo",
+      "translation": "Sing with me",
+      "words": [
+        {
+          "value": "Canta",
+          "start": 152.1,
+          "end": 152.7,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "es"
+        },
+        {
+          "value": "conmigo",
+          "start": 152.7,
+          "end": 153.5,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sing",
+          "start": 153.6,
+          "end": 154.1,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "en"
+        },
+        {
+          "value": "with",
+          "start": 154.1,
+          "end": 154.5,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 154.5,
+          "end": 155.5,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 155.7,
+      "end": 159.4,
+      "primary": "Somos el eco",
+      "translation": "We are the echo",
+      "words": [
+        {
+          "value": "Somos",
+          "start": 155.7,
+          "end": 156.3,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 156.3,
+          "end": 156.6,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 156.6,
+          "end": 157.2,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "We",
+          "start": 157.3,
+          "end": 157.6,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 157.6,
+          "end": 157.9,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 157.9,
+          "end": 158.2,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "en"
+        },
+        {
+          "value": "echo",
+          "start": 158.2,
+          "end": 159.4,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-32",
+      "start": 159.5,
+      "end": 162.9,
+      "primary": "Canta conmigo",
+      "translation": "Sing with me",
+      "words": [
+        {
+          "value": "Canta",
+          "start": 159.5,
+          "end": 160.1,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "es"
+        },
+        {
+          "value": "conmigo",
+          "start": 160.1,
+          "end": 161,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sing",
+          "start": 161.1,
+          "end": 161.6,
+          "uncertain": false,
+          "sourceIndex": 172,
+          "language": "en"
+        },
+        {
+          "value": "with",
+          "start": 161.6,
+          "end": 162,
+          "uncertain": false,
+          "sourceIndex": 173,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 162,
+          "end": 162.9,
+          "uncertain": false,
+          "sourceIndex": 174,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-33",
+      "start": 163,
+      "end": 166.9,
+      "primary": "Somos el eco",
+      "translation": "We are the echo",
+      "words": [
+        {
+          "value": "Somos",
+          "start": 163,
+          "end": 163.6,
+          "uncertain": false,
+          "sourceIndex": 175,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 163.6,
+          "end": 163.9,
+          "uncertain": false,
+          "sourceIndex": 176,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 163.9,
+          "end": 164.6,
+          "uncertain": false,
+          "sourceIndex": 177,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "We",
+          "start": 164.7,
+          "end": 165,
+          "uncertain": false,
+          "sourceIndex": 178,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 165,
+          "end": 165.3,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 165.3,
+          "end": 165.6,
+          "uncertain": false,
+          "sourceIndex": 180,
+          "language": "en"
+        },
+        {
+          "value": "echo",
+          "start": 165.6,
+          "end": 166.9,
+          "uncertain": false,
+          "sourceIndex": 181,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-34",
+      "start": 183.4,
+      "end": 185.2,
+      "primary": "Eco eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 183.4,
+          "end": 184.1,
+          "uncertain": true,
+          "sourceIndex": 182,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 184.2,
+          "end": 185.2,
+          "uncertain": true,
+          "sourceIndex": 183,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-35",
+      "start": 185.3,
+      "end": 187,
+      "primary": "Eco eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 185.3,
+          "end": 185.9,
+          "uncertain": true,
+          "sourceIndex": 184,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 186,
+          "end": 187,
+          "uncertain": true,
+          "sourceIndex": 185,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-36",
+      "start": 187.1,
+      "end": 188.9,
+      "primary": "Eco eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 187.1,
+          "end": 187.8,
+          "uncertain": true,
+          "sourceIndex": 186,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 187.9,
+          "end": 188.9,
+          "uncertain": true,
+          "sourceIndex": 187,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-37",
+      "start": 189,
+      "end": 190.7,
+      "primary": "Eco eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 189,
+          "end": 189.6,
+          "uncertain": true,
+          "sourceIndex": 188,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 189.7,
+          "end": 190.7,
+          "uncertain": true,
+          "sourceIndex": 189,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-38",
+      "start": 190.8,
+      "end": 192.6,
+      "primary": "Eco eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 190.8,
+          "end": 191.5,
+          "uncertain": true,
+          "sourceIndex": 190,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 191.6,
+          "end": 192.6,
+          "uncertain": true,
+          "sourceIndex": 191,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-39",
+      "start": 192.7,
+      "end": 194.5,
+      "primary": "Eco eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 192.7,
+          "end": 193.4,
+          "uncertain": true,
+          "sourceIndex": 192,
+          "language": "es"
+        },
+        {
+          "value": "eco",
+          "start": 193.5,
+          "end": 194.5,
+          "uncertain": true,
+          "sourceIndex": 193,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-40",
+      "start": 201.8,
+      "end": 202.5,
+      "primary": "Eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 201.8,
+          "end": 202.5,
+          "uncertain": false,
+          "sourceIndex": 194,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-41",
+      "start": 206.4,
+      "end": 207.2,
+      "primary": "Eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 206.4,
+          "end": 207.2,
+          "uncertain": false,
+          "sourceIndex": 195,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-42",
+      "start": 209.3,
+      "end": 210,
+      "primary": "Eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 209.3,
+          "end": 210,
+          "uncertain": false,
+          "sourceIndex": 196,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-43",
+      "start": 210.2,
+      "end": 211,
+      "primary": "Eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 210.2,
+          "end": 211,
+          "uncertain": false,
+          "sourceIndex": 197,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-44",
+      "start": 211.2,
+      "end": 212,
+      "primary": "Eco",
+      "translation": "",
+      "words": [
+        {
+          "value": "Eco",
+          "start": 211.2,
+          "end": 212,
+          "uncertain": false,
+          "sourceIndex": 198,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

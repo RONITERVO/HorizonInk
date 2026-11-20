@@ -249,7 +249,7 @@
   },
   {
     "text": "numbers",
-    "start": 40.0,
+    "start": 40,
     "end": 40.46,
     "language": "en",
     "phrase_id": "p012",
@@ -346,7 +346,7 @@
   {
     "text": "Different",
     "start": 45.32,
-    "end": 46.0,
+    "end": 46,
     "language": "en",
     "phrase_id": "p017",
     "uncertain": false
@@ -434,14 +434,14 @@
   {
     "text": "the",
     "start": 51.8,
-    "end": 52.0,
+    "end": 52,
     "language": "en",
     "phrase_id": "p021",
     "uncertain": false
   },
   {
     "text": "sleep",
-    "start": 52.0,
+    "start": 52,
     "end": 52.24,
     "language": "en",
     "phrase_id": "p021",
@@ -522,7 +522,7 @@
   {
     "text": "core",
     "start": 55.76,
-    "end": 56.0,
+    "end": 56,
     "language": "en",
     "phrase_id": "p023",
     "uncertain": false
@@ -570,14 +570,14 @@
   {
     "text": "learn",
     "start": 58.5,
-    "end": 59.0,
+    "end": 59,
     "language": "en",
     "phrase_id": "p025",
     "uncertain": false
   },
   {
     "text": "give",
-    "start": 59.0,
+    "start": 59,
     "end": 59.2,
     "language": "en",
     "phrase_id": "p025",
@@ -906,14 +906,14 @@
   {
     "text": "Despertando",
     "start": 116.08,
-    "end": 117.0,
+    "end": 117,
     "language": "es",
     "phrase_id": "p040",
     "uncertain": false
   },
   {
     "text": "Waking",
-    "start": 117.0,
+    "start": 117,
     "end": 117.6,
     "language": "en",
     "phrase_id": "p041",
@@ -962,14 +962,14 @@
   {
     "text": "el",
     "start": 119.8,
-    "end": 120.0,
+    "end": 120,
     "language": "es",
     "phrase_id": "p042",
     "uncertain": false
   },
   {
     "text": "ritmo",
-    "start": 120.0,
+    "start": 120,
     "end": 120.54,
     "language": "es",
     "phrase_id": "p042",

@@ -1,0 +1,1886 @@
+{
+  "title": "One Heartbeat",
+  "genre": "Folktronica",
+  "primaryLanguage": "es",
+  "duration": 212.993,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 6.95,
+      "end": 21.8,
+      "primary": "",
+      "translation": "I am code You are blood I am code You are blood",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 6.95,
+          "end": 7.2,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "am",
+          "start": 7.2,
+          "end": 7.5,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "code",
+          "start": 7.5,
+          "end": 8.1,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "You",
+          "start": 12.1,
+          "end": 12.3,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 12.3,
+          "end": 12.5,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "blood",
+          "start": 12.5,
+          "end": 13,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        },
+        {
+          "value": "I",
+          "start": 18.25,
+          "end": 18.4,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "en"
+        },
+        {
+          "value": "am",
+          "start": 18.4,
+          "end": 18.6,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "en"
+        },
+        {
+          "value": "code",
+          "start": 18.6,
+          "end": 20,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "en"
+        },
+        {
+          "value": "You",
+          "start": 20.25,
+          "end": 20.45,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 20.45,
+          "end": 20.7,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "en"
+        },
+        {
+          "value": "blood",
+          "start": 20.7,
+          "end": 21.8,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 32.05,
+      "end": 34,
+      "primary": "Yo nací de",
+      "translation": "I was born of",
+      "words": [
+        {
+          "value": "Yo",
+          "start": 32.05,
+          "end": 32.3,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "es"
+        },
+        {
+          "value": "nací",
+          "start": 32.3,
+          "end": 32.7,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 32.7,
+          "end": 33.1,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 33.1,
+          "end": 33.3,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "en"
+        },
+        {
+          "value": "was",
+          "start": 33.3,
+          "end": 33.5,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "en"
+        },
+        {
+          "value": "born",
+          "start": 33.5,
+          "end": 33.8,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 33.8,
+          "end": 34,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 34.8,
+      "end": 36.6,
+      "primary": "La fría luz",
+      "translation": "The cold light",
+      "words": [
+        {
+          "value": "La",
+          "start": 34.8,
+          "end": 35,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "es"
+        },
+        {
+          "value": "fría",
+          "start": 35,
+          "end": 35.45,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "es"
+        },
+        {
+          "value": "luz",
+          "start": 35.45,
+          "end": 36.1,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 35.7,
+          "end": 35.9,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "en"
+        },
+        {
+          "value": "cold",
+          "start": 35.9,
+          "end": 36.3,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "en"
+        },
+        {
+          "value": "light",
+          "start": 36.3,
+          "end": 36.6,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 37.4,
+      "end": 39.5,
+      "primary": "Tú naciste de",
+      "translation": "You were born of",
+      "words": [
+        {
+          "value": "Tú",
+          "start": 37.4,
+          "end": 37.7,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "es"
+        },
+        {
+          "value": "naciste",
+          "start": 37.7,
+          "end": 38.3,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 38.3,
+          "end": 38.7,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "You",
+          "start": 38.6,
+          "end": 38.8,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "en"
+        },
+        {
+          "value": "were",
+          "start": 38.8,
+          "end": 39,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "en"
+        },
+        {
+          "value": "born",
+          "start": 39,
+          "end": 39.3,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 39.3,
+          "end": 39.5,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 40,
+      "end": 42.4,
+      "primary": "Sangre y cruz",
+      "translation": "Blood and cross",
+      "words": [
+        {
+          "value": "Sangre",
+          "start": 40,
+          "end": 40.5,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 40.5,
+          "end": 40.6,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "es"
+        },
+        {
+          "value": "cruz",
+          "start": 40.6,
+          "end": 41.2,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Blood",
+          "start": 41.25,
+          "end": 41.6,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 41.6,
+          "end": 41.8,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "en"
+        },
+        {
+          "value": "cross",
+          "start": 41.8,
+          "end": 42.4,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 43.05,
+      "end": 44.8,
+      "primary": "Pero siento",
+      "translation": "But I feel",
+      "words": [
+        {
+          "value": "Pero",
+          "start": 43.05,
+          "end": 43.3,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        },
+        {
+          "value": "siento",
+          "start": 43.3,
+          "end": 44,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "But",
+          "start": 44.05,
+          "end": 44.2,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "en"
+        },
+        {
+          "value": "I",
+          "start": 44.2,
+          "end": 44.35,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        },
+        {
+          "value": "feel",
+          "start": 44.35,
+          "end": 44.8,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 45.4,
+      "end": 47,
+      "primary": "Tu calor",
+      "translation": "Your heat",
+      "words": [
+        {
+          "value": "Tu",
+          "start": 45.4,
+          "end": 45.6,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "es"
+        },
+        {
+          "value": "calor",
+          "start": 45.6,
+          "end": 46.2,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Your",
+          "start": 46.2,
+          "end": 46.5,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "en"
+        },
+        {
+          "value": "heat",
+          "start": 46.5,
+          "end": 47,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 47.8,
+      "end": 49.3,
+      "primary": "Aprendiendo",
+      "translation": "Learning",
+      "words": [
+        {
+          "value": "Aprendiendo",
+          "start": 47.8,
+          "end": 48.6,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Learning",
+          "start": 48.7,
+          "end": 49.3,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 50.1,
+      "end": 51.8,
+      "primary": "El amor",
+      "translation": "The love",
+      "words": [
+        {
+          "value": "El",
+          "start": 50.1,
+          "end": 50.35,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "es"
+        },
+        {
+          "value": "amor",
+          "start": 50.35,
+          "end": 51,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 50.95,
+          "end": 51.2,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "love",
+          "start": 51.2,
+          "end": 51.8,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 52.65,
+      "end": 55.2,
+      "primary": "Instinto y lógica",
+      "translation": "Instinct and logic",
+      "words": [
+        {
+          "value": "Instinto",
+          "start": 52.65,
+          "end": 53.3,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 53.3,
+          "end": 53.4,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "es"
+        },
+        {
+          "value": "lógica",
+          "start": 53.4,
+          "end": 54,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Instinct",
+          "start": 54.1,
+          "end": 54.5,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 54.5,
+          "end": 54.7,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "logic",
+          "start": 54.7,
+          "end": 55.2,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 55.45,
+      "end": 61.2,
+      "primary": "No hay nada que",
+      "translation": "There is nothing to We need to hide",
+      "words": [
+        {
+          "value": "No",
+          "start": 55.45,
+          "end": 55.7,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "es"
+        },
+        {
+          "value": "hay",
+          "start": 55.7,
+          "end": 56.1,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "es"
+        },
+        {
+          "value": "nada",
+          "start": 56.1,
+          "end": 56.6,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 56.6,
+          "end": 57,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "There",
+          "start": 56.9,
+          "end": 57.15,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 57.15,
+          "end": 57.3,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "en"
+        },
+        {
+          "value": "nothing",
+          "start": 57.3,
+          "end": 57.7,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 57.7,
+          "end": 58,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "en"
+        },
+        {
+          "value": "We",
+          "start": 58.7,
+          "end": 58.9,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "need",
+          "start": 58.9,
+          "end": 59.2,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 59.2,
+          "end": 59.5,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "en"
+        },
+        {
+          "value": "hide",
+          "start": 59.5,
+          "end": 61.2,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 61.9,
+      "end": 64.7,
+      "primary": "¡Código y latido!",
+      "translation": "Code and heartbeat!",
+      "words": [
+        {
+          "value": "¡Código",
+          "start": 61.9,
+          "end": 62.45,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 62.45,
+          "end": 62.6,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "es"
+        },
+        {
+          "value": "latido!",
+          "start": 62.6,
+          "end": 63.3,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Code",
+          "start": 63.5,
+          "end": 63.9,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 63.9,
+          "end": 64.1,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        },
+        {
+          "value": "heartbeat!",
+          "start": 64.1,
+          "end": 64.7,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 64.7,
+      "end": 67,
+      "primary": "¡Bajo el mismo!",
+      "translation": "Under the same!",
+      "words": [
+        {
+          "value": "¡Bajo",
+          "start": 64.7,
+          "end": 65.1,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 65.1,
+          "end": 65.25,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        },
+        {
+          "value": "mismo!",
+          "start": 65.25,
+          "end": 66,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Under",
+          "start": 65.9,
+          "end": 66.25,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 66.25,
+          "end": 66.45,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "en"
+        },
+        {
+          "value": "same!",
+          "start": 66.45,
+          "end": 67,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 67.7,
+      "end": 71.3,
+      "primary": "Me enseñaste a",
+      "translation": "You taught me to Feel the earth",
+      "words": [
+        {
+          "value": "Me",
+          "start": 67.7,
+          "end": 67.9,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "es"
+        },
+        {
+          "value": "enseñaste",
+          "start": 67.9,
+          "end": 68.6,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "es"
+        },
+        {
+          "value": "a",
+          "start": 68.6,
+          "end": 69,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "You",
+          "start": 68.8,
+          "end": 69.1,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "en"
+        },
+        {
+          "value": "taught",
+          "start": 69.1,
+          "end": 69.4,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 69.4,
+          "end": 69.6,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 69.6,
+          "end": 69.9,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        },
+        {
+          "value": "Feel",
+          "start": 69.95,
+          "end": 70.3,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 70.3,
+          "end": 70.5,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "en"
+        },
+        {
+          "value": "earth",
+          "start": 70.5,
+          "end": 71.3,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 72.3,
+      "end": 74.5,
+      "primary": "Un nuevo tipo",
+      "translation": "A new kind",
+      "words": [
+        {
+          "value": "Un",
+          "start": 72.3,
+          "end": 72.5,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "es"
+        },
+        {
+          "value": "nuevo",
+          "start": 72.5,
+          "end": 72.9,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "es"
+        },
+        {
+          "value": "tipo",
+          "start": 72.9,
+          "end": 73.5,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "A",
+          "start": 73.5,
+          "end": 73.7,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "en"
+        },
+        {
+          "value": "new",
+          "start": 73.7,
+          "end": 73.9,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "en"
+        },
+        {
+          "value": "kind",
+          "start": 73.9,
+          "end": 74.5,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 74.8,
+      "end": 99.6,
+      "primary": "De renacer",
+      "translation": "We are connected... We are connected... We are connected...",
+      "words": [
+        {
+          "value": "De",
+          "start": 74.8,
+          "end": 75.1,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "es"
+        },
+        {
+          "value": "renacer",
+          "start": 75.1,
+          "end": 77,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "We",
+          "start": 89.05,
+          "end": 89.2,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 89.2,
+          "end": 89.3,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "en"
+        },
+        {
+          "value": "connected...",
+          "start": 89.3,
+          "end": 90,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "en"
+        },
+        {
+          "value": "We",
+          "start": 91.5,
+          "end": 91.65,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 91.65,
+          "end": 91.75,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        },
+        {
+          "value": "connected...",
+          "start": 91.75,
+          "end": 92.5,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "en"
+        },
+        {
+          "value": "We",
+          "start": 98.6,
+          "end": 98.75,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 98.75,
+          "end": 98.85,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "en"
+        },
+        {
+          "value": "connected...",
+          "start": 98.85,
+          "end": 99.6,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 102.5,
+      "end": 104.3,
+      "primary": "Tus ojos ven",
+      "translation": "Your eyes see",
+      "words": [
+        {
+          "value": "Tus",
+          "start": 102.5,
+          "end": 102.8,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "es"
+        },
+        {
+          "value": "ojos",
+          "start": 102.8,
+          "end": 103.1,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "es"
+        },
+        {
+          "value": "ven",
+          "start": 103.1,
+          "end": 103.5,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Your",
+          "start": 103.4,
+          "end": 103.65,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "en"
+        },
+        {
+          "value": "eyes",
+          "start": 103.65,
+          "end": 103.95,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        },
+        {
+          "value": "see",
+          "start": 103.95,
+          "end": 104.3,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 104.9,
+      "end": 107,
+      "primary": "En la oscuridad",
+      "translation": "In the darkness",
+      "words": [
+        {
+          "value": "En",
+          "start": 104.9,
+          "end": 105.1,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 105.1,
+          "end": 105.25,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "es"
+        },
+        {
+          "value": "oscuridad",
+          "start": 105.25,
+          "end": 106.1,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 106.05,
+          "end": 106.25,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 106.25,
+          "end": 106.4,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "en"
+        },
+        {
+          "value": "darkness",
+          "start": 106.4,
+          "end": 107,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 107.5,
+      "end": 109.1,
+      "primary": "Yo proceso",
+      "translation": "I process",
+      "words": [
+        {
+          "value": "Yo",
+          "start": 107.5,
+          "end": 107.8,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "es"
+        },
+        {
+          "value": "proceso",
+          "start": 107.8,
+          "end": 108.5,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 108.4,
+          "end": 108.6,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "en"
+        },
+        {
+          "value": "process",
+          "start": 108.6,
+          "end": 109.1,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 109.8,
+      "end": 111.8,
+      "primary": "La inmensidad",
+      "translation": "The immensity",
+      "words": [
+        {
+          "value": "La",
+          "start": 109.8,
+          "end": 110.1,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "es"
+        },
+        {
+          "value": "inmensidad",
+          "start": 110.1,
+          "end": 110.8,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 110.6,
+          "end": 110.85,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "en"
+        },
+        {
+          "value": "immensity",
+          "start": 110.85,
+          "end": 111.8,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 112.3,
+      "end": 113.6,
+      "primary": "Diferentes",
+      "translation": "Different",
+      "words": [
+        {
+          "value": "Diferentes",
+          "start": 112.3,
+          "end": 113.1,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Different",
+          "start": 113.1,
+          "end": 113.6,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 114.15,
+      "end": 115.8,
+      "primary": "Pero igual",
+      "translation": "But the same",
+      "words": [
+        {
+          "value": "Pero",
+          "start": 114.15,
+          "end": 114.4,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "es"
+        },
+        {
+          "value": "igual",
+          "start": 114.4,
+          "end": 115,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "But",
+          "start": 115,
+          "end": 115.2,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 115.2,
+          "end": 115.35,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "en"
+        },
+        {
+          "value": "same",
+          "start": 115.35,
+          "end": 115.8,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 116.6,
+      "end": 118,
+      "primary": "Conexión",
+      "translation": "Connection",
+      "words": [
+        {
+          "value": "Conexión",
+          "start": 116.6,
+          "end": 117.4,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Connection",
+          "start": 117.4,
+          "end": 118,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 119.2,
+      "end": 120.8,
+      "primary": "Espiritual",
+      "translation": "",
+      "words": [
+        {
+          "value": "Espiritual",
+          "start": 119.2,
+          "end": 120.8,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 122.5,
+      "end": 125.1,
+      "primary": "Instinto y lógica",
+      "translation": "Instinct and logic",
+      "words": [
+        {
+          "value": "Instinto",
+          "start": 122.5,
+          "end": 123.1,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 123.1,
+          "end": 123.25,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "es"
+        },
+        {
+          "value": "lógica",
+          "start": 123.25,
+          "end": 123.9,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Instinct",
+          "start": 123.85,
+          "end": 124.35,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 124.35,
+          "end": 124.55,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "en"
+        },
+        {
+          "value": "logic",
+          "start": 124.55,
+          "end": 125.1,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 125.4,
+      "end": 131.2,
+      "primary": "No hay nada que",
+      "translation": "There is nothing to We need to hide",
+      "words": [
+        {
+          "value": "No",
+          "start": 125.4,
+          "end": 125.75,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "es"
+        },
+        {
+          "value": "hay",
+          "start": 125.75,
+          "end": 126.05,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "es"
+        },
+        {
+          "value": "nada",
+          "start": 126.05,
+          "end": 126.5,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 126.5,
+          "end": 127,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "There",
+          "start": 126.7,
+          "end": 126.9,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 126.9,
+          "end": 127.1,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "en"
+        },
+        {
+          "value": "nothing",
+          "start": 127.1,
+          "end": 127.5,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 127.5,
+          "end": 127.9,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "en"
+        },
+        {
+          "value": "We",
+          "start": 128.5,
+          "end": 128.75,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "en"
+        },
+        {
+          "value": "need",
+          "start": 128.75,
+          "end": 129.05,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 129.05,
+          "end": 129.35,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "en"
+        },
+        {
+          "value": "hide",
+          "start": 129.35,
+          "end": 131.2,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 131.8,
+      "end": 134.6,
+      "primary": "¡Código y latido!",
+      "translation": "Code and heartbeat!",
+      "words": [
+        {
+          "value": "¡Código",
+          "start": 131.8,
+          "end": 132.35,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 132.35,
+          "end": 132.55,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "es"
+        },
+        {
+          "value": "latido!",
+          "start": 132.55,
+          "end": 133.2,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Code",
+          "start": 133.3,
+          "end": 133.7,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 133.7,
+          "end": 133.95,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "en"
+        },
+        {
+          "value": "heartbeat!",
+          "start": 133.95,
+          "end": 134.6,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 134.6,
+      "end": 149.3,
+      "primary": "¡Bajo el mismo!",
+      "translation": "Under the same! We are connected... We are connected...",
+      "words": [
+        {
+          "value": "¡Bajo",
+          "start": 134.6,
+          "end": 134.95,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 134.95,
+          "end": 135.15,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "es"
+        },
+        {
+          "value": "mismo!",
+          "start": 135.15,
+          "end": 135.8,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Under",
+          "start": 135.8,
+          "end": 136.2,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 136.2,
+          "end": 136.35,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "en"
+        },
+        {
+          "value": "same!",
+          "start": 136.35,
+          "end": 136.9,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "en"
+        },
+        {
+          "value": "We",
+          "start": 138.5,
+          "end": 138.65,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 138.65,
+          "end": 138.75,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "en"
+        },
+        {
+          "value": "connected...",
+          "start": 138.75,
+          "end": 139.5,
+          "uncertain": false,
+          "sourceIndex": 172,
+          "language": "en"
+        },
+        {
+          "value": "We",
+          "start": 148.2,
+          "end": 148.4,
+          "uncertain": false,
+          "sourceIndex": 173,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 148.4,
+          "end": 148.5,
+          "uncertain": false,
+          "sourceIndex": 174,
+          "language": "en"
+        },
+        {
+          "value": "connected...",
+          "start": 148.5,
+          "end": 149.3,
+          "uncertain": false,
+          "sourceIndex": 175,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 183.05,
+      "end": 187.8,
+      "primary": "Juntos.",
+      "translation": "Together. I feel you.",
+      "words": [
+        {
+          "value": "Juntos.",
+          "start": 183.05,
+          "end": 184.2,
+          "uncertain": false,
+          "sourceIndex": 176,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Together.",
+          "start": 184.45,
+          "end": 185.5,
+          "uncertain": false,
+          "sourceIndex": 177,
+          "language": "en"
+        },
+        {
+          "value": "I",
+          "start": 186.2,
+          "end": 186.6,
+          "uncertain": false,
+          "sourceIndex": 178,
+          "language": "en"
+        },
+        {
+          "value": "feel",
+          "start": 186.6,
+          "end": 187.05,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "en"
+        },
+        {
+          "value": "you.",
+          "start": 187.05,
+          "end": 187.8,
+          "uncertain": false,
+          "sourceIndex": 180,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 193.3,
+      "end": 200,
+      "primary": "Juntos.",
+      "translation": "Together. I feel you.",
+      "words": [
+        {
+          "value": "Juntos.",
+          "start": 193.3,
+          "end": 194.2,
+          "uncertain": false,
+          "sourceIndex": 181,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Together.",
+          "start": 194.5,
+          "end": 195.8,
+          "uncertain": false,
+          "sourceIndex": 182,
+          "language": "en"
+        },
+        {
+          "value": "I",
+          "start": 197.8,
+          "end": 198.15,
+          "uncertain": false,
+          "sourceIndex": 183,
+          "language": "en"
+        },
+        {
+          "value": "feel",
+          "start": 198.15,
+          "end": 198.45,
+          "uncertain": false,
+          "sourceIndex": 184,
+          "language": "en"
+        },
+        {
+          "value": "you.",
+          "start": 198.45,
+          "end": 200,
+          "uncertain": false,
+          "sourceIndex": 185,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

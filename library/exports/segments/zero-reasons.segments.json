@@ -1,0 +1,2426 @@
+{
+  "title": "Zero Reasons",
+  "genre": "Tech House",
+  "primaryLanguage": "es",
+  "duration": 192.988,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 0.74,
+      "end": 9.42,
+      "primary": "",
+      "translation": "Welcome to the underground. Breathe in, breathe in, breathe in.",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Welcome",
+          "start": 0.74,
+          "end": 1.2,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 1.94,
+          "end": 2.04,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 2.04,
+          "end": 2.16,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "underground.",
+          "start": 2.16,
+          "end": 3.06,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "Breathe",
+          "start": 6.94,
+          "end": 7.22,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "in,",
+          "start": 7.22,
+          "end": 7.48,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        },
+        {
+          "value": "breathe",
+          "start": 7.8,
+          "end": 8.18,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "en"
+        },
+        {
+          "value": "in,",
+          "start": 8.18,
+          "end": 8.46,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "en"
+        },
+        {
+          "value": "breathe",
+          "start": 8.8,
+          "end": 9.14,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "en"
+        },
+        {
+          "value": "in.",
+          "start": 9.14,
+          "end": 9.42,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 14.36,
+      "end": 15.9,
+      "primary": "Izquierda,",
+      "translation": "left.",
+      "words": [
+        {
+          "value": "Izquierda,",
+          "start": 14.36,
+          "end": 14.96,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "left.",
+          "start": 15.5,
+          "end": 15.9,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 16.34,
+      "end": 17.88,
+      "primary": "Derecha,",
+      "translation": "right.",
+      "words": [
+        {
+          "value": "Derecha,",
+          "start": 16.34,
+          "end": 16.88,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "right.",
+          "start": 17.42,
+          "end": 17.88,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 18.14,
+      "end": 19.78,
+      "primary": "Adelante,",
+      "translation": "forward.",
+      "words": [
+        {
+          "value": "Adelante,",
+          "start": 18.14,
+          "end": 18.76,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "forward.",
+          "start": 19.3,
+          "end": 19.78,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 20.04,
+      "end": 21.56,
+      "primary": "Atrás,",
+      "translation": "back.",
+      "words": [
+        {
+          "value": "Atrás,",
+          "start": 20.04,
+          "end": 20.6,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "back.",
+          "start": 21.24,
+          "end": 21.56,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 21.68,
+      "end": 23.34,
+      "primary": "Siente la nota,",
+      "translation": "feel the note.",
+      "words": [
+        {
+          "value": "Siente",
+          "start": 21.68,
+          "end": 22.04,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 22.04,
+          "end": 22.16,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "es"
+        },
+        {
+          "value": "nota,",
+          "start": 22.16,
+          "end": 22.5,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "feel",
+          "start": 22.64,
+          "end": 22.92,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 22.92,
+          "end": 23.14,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "en"
+        },
+        {
+          "value": "note.",
+          "start": 23.14,
+          "end": 23.34,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 23.6,
+      "end": 25.26,
+      "primary": "Quiero más,",
+      "translation": "I want more.",
+      "words": [
+        {
+          "value": "Quiero",
+          "start": 23.6,
+          "end": 24.06,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "es"
+        },
+        {
+          "value": "más,",
+          "start": 24.06,
+          "end": 24.4,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 24.6,
+          "end": 24.78,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "en"
+        },
+        {
+          "value": "want",
+          "start": 24.78,
+          "end": 25.02,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "en"
+        },
+        {
+          "value": "more.",
+          "start": 25.02,
+          "end": 25.26,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 25.32,
+      "end": 26.32,
+      "primary": "Arriba,",
+      "translation": "up.",
+      "words": [
+        {
+          "value": "Arriba,",
+          "start": 25.32,
+          "end": 25.84,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "up.",
+          "start": 26.06,
+          "end": 26.32,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 26.74,
+      "end": 27.78,
+      "primary": "Abajo,",
+      "translation": "down.",
+      "words": [
+        {
+          "value": "Abajo,",
+          "start": 26.74,
+          "end": 27.28,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "down.",
+          "start": 27.44,
+          "end": 27.78,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 27.86,
+      "end": 30.24,
+      "primary": "Cierra los ojos,",
+      "translation": "close your eyes.",
+      "words": [
+        {
+          "value": "Cierra",
+          "start": 27.86,
+          "end": 28.24,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "es"
+        },
+        {
+          "value": "los",
+          "start": 28.24,
+          "end": 28.42,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "es"
+        },
+        {
+          "value": "ojos,",
+          "start": 28.42,
+          "end": 29.02,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "close",
+          "start": 29.24,
+          "end": 29.6,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 29.6,
+          "end": 29.9,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "en"
+        },
+        {
+          "value": "eyes.",
+          "start": 29.9,
+          "end": 30.24,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 30.28,
+      "end": 32.16,
+      "primary": "Sin trabajo,",
+      "translation": "without work.",
+      "words": [
+        {
+          "value": "Sin",
+          "start": 30.28,
+          "end": 30.44,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "es"
+        },
+        {
+          "value": "trabajo,",
+          "start": 30.5,
+          "end": 31.12,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "without",
+          "start": 31.24,
+          "end": 31.64,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        },
+        {
+          "value": "work.",
+          "start": 31.74,
+          "end": 32.16,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 32.9,
+      "end": 36.7,
+      "primary": "La mente en blanco,",
+      "translation": "the mind blank. Lose your thoughts.",
+      "words": [
+        {
+          "value": "La",
+          "start": 32.9,
+          "end": 33.12,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "es"
+        },
+        {
+          "value": "mente",
+          "start": 33.12,
+          "end": 33.42,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 33.42,
+          "end": 33.6,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "es"
+        },
+        {
+          "value": "blanco,",
+          "start": 33.6,
+          "end": 34.06,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "the",
+          "start": 34.34,
+          "end": 34.54,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "en"
+        },
+        {
+          "value": "mind",
+          "start": 34.54,
+          "end": 35.02,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "en"
+        },
+        {
+          "value": "blank.",
+          "start": 35.02,
+          "end": 35.46,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "en"
+        },
+        {
+          "value": "Lose",
+          "start": 35.54,
+          "end": 35.8,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 35.8,
+          "end": 36.24,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "thoughts.",
+          "start": 36.24,
+          "end": 36.7,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 36.76,
+      "end": 40.5,
+      "primary": "El pulso sube,",
+      "translation": "the pulse goes up. Connect the dots.",
+      "words": [
+        {
+          "value": "El",
+          "start": 36.76,
+          "end": 36.94,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        },
+        {
+          "value": "pulso",
+          "start": 36.94,
+          "end": 37.44,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "es"
+        },
+        {
+          "value": "sube,",
+          "start": 37.44,
+          "end": 37.88,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "the",
+          "start": 38.12,
+          "end": 38.34,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "en"
+        },
+        {
+          "value": "pulse",
+          "start": 38.34,
+          "end": 38.62,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "goes",
+          "start": 38.62,
+          "end": 38.94,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        },
+        {
+          "value": "up.",
+          "start": 38.94,
+          "end": 39.06,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "en"
+        },
+        {
+          "value": "Connect",
+          "start": 39.1,
+          "end": 39.7,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 39.7,
+          "end": 40.06,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "en"
+        },
+        {
+          "value": "dots.",
+          "start": 40.06,
+          "end": 40.5,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 42.22,
+      "end": 46.16,
+      "primary": "En la discoteca,",
+      "translation": "in the club, all night long.",
+      "words": [
+        {
+          "value": "En",
+          "start": 42.22,
+          "end": 42.34,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 42.42,
+          "end": 42.6,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "es"
+        },
+        {
+          "value": "discoteca,",
+          "start": 42.64,
+          "end": 43.56,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "in",
+          "start": 43.68,
+          "end": 43.8,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 43.86,
+          "end": 43.96,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "club,",
+          "start": 44.06,
+          "end": 44.4,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "all",
+          "start": 45.12,
+          "end": 45.32,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 45.4,
+          "end": 45.66,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "en"
+        },
+        {
+          "value": "long.",
+          "start": 45.74,
+          "end": 46.16,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 46.22,
+      "end": 49.92,
+      "primary": "Nadie nos ve,",
+      "translation": "nobody sees us. Sing the song.",
+      "words": [
+        {
+          "value": "Nadie",
+          "start": 46.22,
+          "end": 46.64,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "es"
+        },
+        {
+          "value": "nos",
+          "start": 46.7,
+          "end": 46.86,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "es"
+        },
+        {
+          "value": "ve,",
+          "start": 46.94,
+          "end": 47.06,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "nobody",
+          "start": 47.2,
+          "end": 47.8,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        },
+        {
+          "value": "sees",
+          "start": 47.9,
+          "end": 48.16,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "en"
+        },
+        {
+          "value": "us.",
+          "start": 48.26,
+          "end": 48.52,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "en"
+        },
+        {
+          "value": "Sing",
+          "start": 48.88,
+          "end": 49.14,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 49.22,
+          "end": 49.3,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "en"
+        },
+        {
+          "value": "song.",
+          "start": 49.58,
+          "end": 49.92,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 50.04,
+      "end": 53.72,
+      "primary": "Suda la gota,",
+      "translation": "sweat the drop. Don't you stop.",
+      "words": [
+        {
+          "value": "Suda",
+          "start": 50.04,
+          "end": 50.44,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 50.5,
+          "end": 50.7,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "es"
+        },
+        {
+          "value": "gota,",
+          "start": 50.76,
+          "end": 51.1,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "sweat",
+          "start": 51.2,
+          "end": 51.4,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 51.48,
+          "end": 51.62,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "en"
+        },
+        {
+          "value": "drop.",
+          "start": 51.7,
+          "end": 52.14,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "en"
+        },
+        {
+          "value": "Don't",
+          "start": 52.66,
+          "end": 52.98,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "you",
+          "start": 53.04,
+          "end": 53.2,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "stop.",
+          "start": 53.34,
+          "end": 53.72,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 53.82,
+      "end": 73.55,
+      "primary": "Rompe la pista,",
+      "translation": "break the floor to the top. Keep moving, moving, moving, moving. Don't stop, stop, stop, stop, stop, stop, stop, stop, stop, stop, stop, stop, stop, stop, stop.",
+      "words": [
+        {
+          "value": "Rompe",
+          "start": 53.82,
+          "end": 54.24,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 54.32,
+          "end": 54.4,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "es"
+        },
+        {
+          "value": "pista,",
+          "start": 54.54,
+          "end": 54.9,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "break",
+          "start": 55.04,
+          "end": 55.22,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 55.28,
+          "end": 55.4,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "en"
+        },
+        {
+          "value": "floor",
+          "start": 55.48,
+          "end": 55.82,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 56.5,
+          "end": 56.68,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 56.84,
+          "end": 56.92,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "en"
+        },
+        {
+          "value": "top.",
+          "start": 57.18,
+          "end": 57.62,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        },
+        {
+          "value": "Keep",
+          "start": 61.9,
+          "end": 62.14,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "en"
+        },
+        {
+          "value": "moving,",
+          "start": 62.18,
+          "end": 62.58,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "en"
+        },
+        {
+          "value": "moving,",
+          "start": 62.92,
+          "end": 63.32,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "en"
+        },
+        {
+          "value": "moving,",
+          "start": 63.66,
+          "end": 64.06,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "en"
+        },
+        {
+          "value": "moving.",
+          "start": 64.4,
+          "end": 64.8,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "en"
+        },
+        {
+          "value": "Don't",
+          "start": 65.26,
+          "end": 65.4,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 65.45,
+          "end": 65.75,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 66.19,
+          "end": 66.49,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 66.93,
+          "end": 67.23,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 67.68,
+          "end": 67.98,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 68.41,
+          "end": 68.71,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 69.15,
+          "end": 69.45,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 69.9,
+          "end": 70.2,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 70.64,
+          "end": 70.94,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 71.38,
+          "end": 71.68,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 72.13,
+          "end": 72.33,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 72.5,
+          "end": 72.7,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 72.87,
+          "end": 73,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 73.05,
+          "end": 73.18,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "en"
+        },
+        {
+          "value": "stop,",
+          "start": 73.23,
+          "end": 73.36,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "en"
+        },
+        {
+          "value": "stop.",
+          "start": 73.41,
+          "end": 73.55,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 73.6,
+      "end": 74.48,
+      "primary": "Lunes,",
+      "translation": "Monday.",
+      "words": [
+        {
+          "value": "Lunes,",
+          "start": 73.6,
+          "end": 74.04,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Monday.",
+          "start": 74.1,
+          "end": 74.48,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 74.56,
+      "end": 75.46,
+      "primary": "Martes,",
+      "translation": "Tuesday.",
+      "words": [
+        {
+          "value": "Martes,",
+          "start": 74.56,
+          "end": 75,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Tuesday.",
+          "start": 75.04,
+          "end": 75.46,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 75.52,
+      "end": 77.8,
+      "primary": "No importa el día,",
+      "translation": "the day doesn't matter.",
+      "words": [
+        {
+          "value": "No",
+          "start": 75.52,
+          "end": 75.58,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "es"
+        },
+        {
+          "value": "importa",
+          "start": 75.62,
+          "end": 76.02,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 76.06,
+          "end": 76.16,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "es"
+        },
+        {
+          "value": "día,",
+          "start": 76.24,
+          "end": 76.6,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "the",
+          "start": 76.7,
+          "end": 76.76,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "en"
+        },
+        {
+          "value": "day",
+          "start": 76.94,
+          "end": 77.1,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "en"
+        },
+        {
+          "value": "doesn't",
+          "start": 77.16,
+          "end": 77.36,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "en"
+        },
+        {
+          "value": "matter.",
+          "start": 77.44,
+          "end": 77.8,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 77.9,
+      "end": 79.76,
+      "primary": "Solo la noche,",
+      "translation": "only the night.",
+      "words": [
+        {
+          "value": "Solo",
+          "start": 77.9,
+          "end": 78.14,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 78.2,
+          "end": 78.32,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "es"
+        },
+        {
+          "value": "noche,",
+          "start": 78.42,
+          "end": 78.78,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "only",
+          "start": 78.88,
+          "end": 79.12,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 79.16,
+          "end": 79.26,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "en"
+        },
+        {
+          "value": "night.",
+          "start": 79.34,
+          "end": 79.76,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 79.82,
+      "end": 81.66,
+      "primary": "Y la energía,",
+      "translation": "and the energy.",
+      "words": [
+        {
+          "value": "Y",
+          "start": 79.82,
+          "end": 79.86,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 79.92,
+          "end": 80,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "es"
+        },
+        {
+          "value": "energía,",
+          "start": 80,
+          "end": 80.68,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "and",
+          "start": 80.78,
+          "end": 80.92,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 80.98,
+          "end": 81.16,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "en"
+        },
+        {
+          "value": "energy.",
+          "start": 81.26,
+          "end": 81.66,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 81.72,
+      "end": 82.44,
+      "primary": "Negro,",
+      "translation": "black.",
+      "words": [
+        {
+          "value": "Negro,",
+          "start": 81.72,
+          "end": 82.04,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "black.",
+          "start": 82.16,
+          "end": 82.44,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 82.62,
+      "end": 83.42,
+      "primary": "Blanco,",
+      "translation": "white.",
+      "words": [
+        {
+          "value": "Blanco,",
+          "start": 82.62,
+          "end": 83,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "white.",
+          "start": 83.14,
+          "end": 83.42,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 83.46,
+      "end": 85.42,
+      "primary": "Colores oscuros,",
+      "translation": "dark colors.",
+      "words": [
+        {
+          "value": "Colores",
+          "start": 83.46,
+          "end": 83.9,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "es"
+        },
+        {
+          "value": "oscuros,",
+          "start": 83.94,
+          "end": 84.66,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "dark",
+          "start": 84.78,
+          "end": 85.04,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "en"
+        },
+        {
+          "value": "colors.",
+          "start": 85.06,
+          "end": 85.42,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 85.48,
+      "end": 88.08,
+      "primary": "Rompiendo muros,",
+      "translation": "breaking walls.",
+      "words": [
+        {
+          "value": "Rompiendo",
+          "start": 85.48,
+          "end": 86.06,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "es"
+        },
+        {
+          "value": "muros,",
+          "start": 86.14,
+          "end": 86.64,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "breaking",
+          "start": 86.92,
+          "end": 87.56,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "en"
+        },
+        {
+          "value": "walls.",
+          "start": 87.64,
+          "end": 88.08,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 88.14,
+      "end": 91.92,
+      "primary": "La mente en blanco,",
+      "translation": "the mind blank. Lose your thoughts.",
+      "words": [
+        {
+          "value": "La",
+          "start": 88.14,
+          "end": 88.34,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "es"
+        },
+        {
+          "value": "mente",
+          "start": 88.34,
+          "end": 88.6,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 88.64,
+          "end": 88.76,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "es"
+        },
+        {
+          "value": "blanco,",
+          "start": 88.82,
+          "end": 89.28,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "the",
+          "start": 89.56,
+          "end": 89.8,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "en"
+        },
+        {
+          "value": "mind",
+          "start": 89.8,
+          "end": 90.18,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "en"
+        },
+        {
+          "value": "blank.",
+          "start": 90.24,
+          "end": 90.68,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "en"
+        },
+        {
+          "value": "Lose",
+          "start": 90.76,
+          "end": 91.02,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 91.02,
+          "end": 91.46,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "en"
+        },
+        {
+          "value": "thoughts.",
+          "start": 91.46,
+          "end": 91.92,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 91.96,
+      "end": 95.7,
+      "primary": "El pulso sube,",
+      "translation": "the pulse goes up. Connect the dots.",
+      "words": [
+        {
+          "value": "El",
+          "start": 91.96,
+          "end": 92.18,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "es"
+        },
+        {
+          "value": "pulso",
+          "start": 92.18,
+          "end": 92.56,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "es"
+        },
+        {
+          "value": "sube,",
+          "start": 92.68,
+          "end": 93.28,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "the",
+          "start": 93.36,
+          "end": 93.58,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "en"
+        },
+        {
+          "value": "pulse",
+          "start": 93.58,
+          "end": 93.8,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "en"
+        },
+        {
+          "value": "goes",
+          "start": 93.86,
+          "end": 94.1,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "en"
+        },
+        {
+          "value": "up.",
+          "start": 94.22,
+          "end": 94.3,
+          "uncertain": false,
+          "sourceIndex": 172,
+          "language": "en"
+        },
+        {
+          "value": "Connect",
+          "start": 94.34,
+          "end": 94.9,
+          "uncertain": false,
+          "sourceIndex": 173,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 94.9,
+          "end": 95.26,
+          "uncertain": false,
+          "sourceIndex": 174,
+          "language": "en"
+        },
+        {
+          "value": "dots.",
+          "start": 95.26,
+          "end": 95.7,
+          "uncertain": false,
+          "sourceIndex": 175,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 97.44,
+      "end": 101.4,
+      "primary": "En la discoteca,",
+      "translation": "in the club, all night long.",
+      "words": [
+        {
+          "value": "En",
+          "start": 97.44,
+          "end": 97.58,
+          "uncertain": false,
+          "sourceIndex": 176,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 97.66,
+          "end": 97.78,
+          "uncertain": false,
+          "sourceIndex": 177,
+          "language": "es"
+        },
+        {
+          "value": "discoteca,",
+          "start": 97.9,
+          "end": 98.74,
+          "uncertain": false,
+          "sourceIndex": 178,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "in",
+          "start": 98.9,
+          "end": 99.08,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 99.08,
+          "end": 99.22,
+          "uncertain": false,
+          "sourceIndex": 180,
+          "language": "en"
+        },
+        {
+          "value": "club,",
+          "start": 99.28,
+          "end": 99.6,
+          "uncertain": false,
+          "sourceIndex": 181,
+          "language": "en"
+        },
+        {
+          "value": "all",
+          "start": 100.36,
+          "end": 100.54,
+          "uncertain": false,
+          "sourceIndex": 182,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 100.62,
+          "end": 100.9,
+          "uncertain": false,
+          "sourceIndex": 183,
+          "language": "en"
+        },
+        {
+          "value": "long.",
+          "start": 100.96,
+          "end": 101.4,
+          "uncertain": false,
+          "sourceIndex": 184,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 101.48,
+      "end": 105.16,
+      "primary": "Nadie nos ve,",
+      "translation": "nobody sees us. Sing the song.",
+      "words": [
+        {
+          "value": "Nadie",
+          "start": 101.48,
+          "end": 101.94,
+          "uncertain": false,
+          "sourceIndex": 185,
+          "language": "es"
+        },
+        {
+          "value": "nos",
+          "start": 101.94,
+          "end": 102.2,
+          "uncertain": false,
+          "sourceIndex": 186,
+          "language": "es"
+        },
+        {
+          "value": "ve,",
+          "start": 102.2,
+          "end": 102.34,
+          "uncertain": false,
+          "sourceIndex": 187,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "nobody",
+          "start": 102.42,
+          "end": 103.1,
+          "uncertain": false,
+          "sourceIndex": 188,
+          "language": "en"
+        },
+        {
+          "value": "sees",
+          "start": 103.1,
+          "end": 103.44,
+          "uncertain": false,
+          "sourceIndex": 189,
+          "language": "en"
+        },
+        {
+          "value": "us.",
+          "start": 103.44,
+          "end": 103.58,
+          "uncertain": false,
+          "sourceIndex": 190,
+          "language": "en"
+        },
+        {
+          "value": "Sing",
+          "start": 104.1,
+          "end": 104.44,
+          "uncertain": false,
+          "sourceIndex": 191,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 104.44,
+          "end": 104.8,
+          "uncertain": false,
+          "sourceIndex": 192,
+          "language": "en"
+        },
+        {
+          "value": "song.",
+          "start": 104.8,
+          "end": 105.16,
+          "uncertain": false,
+          "sourceIndex": 193,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 105.24,
+      "end": 108.9,
+      "primary": "Suda la gota,",
+      "translation": "sweat the drop. Don't you stop.",
+      "words": [
+        {
+          "value": "Suda",
+          "start": 105.24,
+          "end": 105.76,
+          "uncertain": false,
+          "sourceIndex": 194,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 105.76,
+          "end": 105.98,
+          "uncertain": false,
+          "sourceIndex": 195,
+          "language": "es"
+        },
+        {
+          "value": "gota,",
+          "start": 106,
+          "end": 106.36,
+          "uncertain": false,
+          "sourceIndex": 196,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "sweat",
+          "start": 106.42,
+          "end": 106.7,
+          "uncertain": false,
+          "sourceIndex": 197,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 106.7,
+          "end": 106.9,
+          "uncertain": false,
+          "sourceIndex": 198,
+          "language": "en"
+        },
+        {
+          "value": "drop.",
+          "start": 106.9,
+          "end": 107.36,
+          "uncertain": false,
+          "sourceIndex": 199,
+          "language": "en"
+        },
+        {
+          "value": "Don't",
+          "start": 107.9,
+          "end": 108.26,
+          "uncertain": false,
+          "sourceIndex": 200,
+          "language": "en"
+        },
+        {
+          "value": "you",
+          "start": 108.26,
+          "end": 108.56,
+          "uncertain": false,
+          "sourceIndex": 201,
+          "language": "en"
+        },
+        {
+          "value": "stop.",
+          "start": 108.56,
+          "end": 108.9,
+          "uncertain": false,
+          "sourceIndex": 202,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-32",
+      "start": 109.04,
+      "end": 111.18,
+      "primary": "Rompe la pista,",
+      "translation": "break the floor.",
+      "words": [
+        {
+          "value": "Rompe",
+          "start": 109.04,
+          "end": 109.56,
+          "uncertain": false,
+          "sourceIndex": 203,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 109.56,
+          "end": 109.76,
+          "uncertain": false,
+          "sourceIndex": 204,
+          "language": "es"
+        },
+        {
+          "value": "pista,",
+          "start": 109.76,
+          "end": 110.16,
+          "uncertain": false,
+          "sourceIndex": 205,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "break",
+          "start": 110.24,
+          "end": 110.5,
+          "uncertain": false,
+          "sourceIndex": 206,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 110.5,
+          "end": 110.7,
+          "uncertain": false,
+          "sourceIndex": 207,
+          "language": "en"
+        },
+        {
+          "value": "floor.",
+          "start": 110.7,
+          "end": 111.18,
+          "uncertain": false,
+          "sourceIndex": 208,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-33",
+      "start": 112.42,
+      "end": 115.72,
+      "primary": "Respira profundo,",
+      "translation": "breathe deep.",
+      "words": [
+        {
+          "value": "Respira",
+          "start": 112.42,
+          "end": 113.18,
+          "uncertain": false,
+          "sourceIndex": 209,
+          "language": "es"
+        },
+        {
+          "value": "profundo,",
+          "start": 113.18,
+          "end": 114.5,
+          "uncertain": false,
+          "sourceIndex": 210,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "breathe",
+          "start": 115,
+          "end": 115.54,
+          "uncertain": false,
+          "sourceIndex": 211,
+          "language": "en"
+        },
+        {
+          "value": "deep.",
+          "start": 115.54,
+          "end": 115.72,
+          "uncertain": false,
+          "sourceIndex": 212,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-34",
+      "start": 116.02,
+      "end": 119.94,
+      "primary": "El sonido es tuyo,",
+      "translation": "the sound is yours.",
+      "words": [
+        {
+          "value": "El",
+          "start": 116.02,
+          "end": 116.28,
+          "uncertain": false,
+          "sourceIndex": 213,
+          "language": "es"
+        },
+        {
+          "value": "sonido",
+          "start": 116.28,
+          "end": 117.1,
+          "uncertain": false,
+          "sourceIndex": 214,
+          "language": "es"
+        },
+        {
+          "value": "es",
+          "start": 117.1,
+          "end": 117.44,
+          "uncertain": false,
+          "sourceIndex": 215,
+          "language": "es"
+        },
+        {
+          "value": "tuyo,",
+          "start": 117.44,
+          "end": 118.1,
+          "uncertain": false,
+          "sourceIndex": 216,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "the",
+          "start": 118.58,
+          "end": 118.84,
+          "uncertain": false,
+          "sourceIndex": 217,
+          "language": "en"
+        },
+        {
+          "value": "sound",
+          "start": 118.84,
+          "end": 119.24,
+          "uncertain": false,
+          "sourceIndex": 218,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 119.24,
+          "end": 119.34,
+          "uncertain": false,
+          "sourceIndex": 219,
+          "language": "en"
+        },
+        {
+          "value": "yours.",
+          "start": 119.34,
+          "end": 119.94,
+          "uncertain": false,
+          "sourceIndex": 220,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-35",
+      "start": 127.9,
+      "end": 135.72,
+      "primary": "En la discoteca,",
+      "translation": "in the club. Dance.",
+      "words": [
+        {
+          "value": "En",
+          "start": 127.9,
+          "end": 128.12,
+          "uncertain": false,
+          "sourceIndex": 221,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 128.12,
+          "end": 128.36,
+          "uncertain": false,
+          "sourceIndex": 222,
+          "language": "es"
+        },
+        {
+          "value": "discoteca,",
+          "start": 128.36,
+          "end": 129.24,
+          "uncertain": false,
+          "sourceIndex": 223,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "in",
+          "start": 129.38,
+          "end": 129.54,
+          "uncertain": false,
+          "sourceIndex": 224,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 129.54,
+          "end": 129.74,
+          "uncertain": false,
+          "sourceIndex": 225,
+          "language": "en"
+        },
+        {
+          "value": "club.",
+          "start": 129.74,
+          "end": 130.1,
+          "uncertain": false,
+          "sourceIndex": 226,
+          "language": "en"
+        },
+        {
+          "value": "Dance.",
+          "start": 135.62,
+          "end": 135.72,
+          "uncertain": false,
+          "sourceIndex": 227,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-36",
+      "start": 135.72,
+      "end": 138.08,
+      "primary": "Nadie nos ve,",
+      "translation": "nobody sees us.",
+      "words": [
+        {
+          "value": "Nadie",
+          "start": 135.72,
+          "end": 136.22,
+          "uncertain": false,
+          "sourceIndex": 228,
+          "language": "es"
+        },
+        {
+          "value": "nos",
+          "start": 136.22,
+          "end": 136.46,
+          "uncertain": false,
+          "sourceIndex": 229,
+          "language": "es"
+        },
+        {
+          "value": "ve,",
+          "start": 136.46,
+          "end": 136.66,
+          "uncertain": false,
+          "sourceIndex": 230,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "nobody",
+          "start": 136.72,
+          "end": 137.38,
+          "uncertain": false,
+          "sourceIndex": 231,
+          "language": "en"
+        },
+        {
+          "value": "sees",
+          "start": 137.38,
+          "end": 137.74,
+          "uncertain": false,
+          "sourceIndex": 232,
+          "language": "en"
+        },
+        {
+          "value": "us.",
+          "start": 137.74,
+          "end": 138.08,
+          "uncertain": false,
+          "sourceIndex": 233,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-37",
+      "start": 154.88,
+      "end": 192.68,
+      "primary": "Hasta mañana,",
+      "translation": "until tomorrow. Good night. Good night.",
+      "words": [
+        {
+          "value": "Hasta",
+          "start": 154.88,
+          "end": 155.18,
+          "uncertain": false,
+          "sourceIndex": 234,
+          "language": "es"
+        },
+        {
+          "value": "mañana,",
+          "start": 155.24,
+          "end": 156.14,
+          "uncertain": false,
+          "sourceIndex": 235,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "until",
+          "start": 156.24,
+          "end": 156.72,
+          "uncertain": false,
+          "sourceIndex": 236,
+          "language": "en"
+        },
+        {
+          "value": "tomorrow.",
+          "start": 156.72,
+          "end": 157.84,
+          "uncertain": false,
+          "sourceIndex": 237,
+          "language": "en"
+        },
+        {
+          "value": "Good",
+          "start": 158.1,
+          "end": 158.28,
+          "uncertain": false,
+          "sourceIndex": 238,
+          "language": "en"
+        },
+        {
+          "value": "night.",
+          "start": 158.28,
+          "end": 158.78,
+          "uncertain": false,
+          "sourceIndex": 239,
+          "language": "en"
+        },
+        {
+          "value": "Good",
+          "start": 192.44,
+          "end": 192.6,
+          "uncertain": false,
+          "sourceIndex": 240,
+          "language": "en"
+        },
+        {
+          "value": "night.",
+          "start": 192.6,
+          "end": 192.68,
+          "uncertain": false,
+          "sourceIndex": 241,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

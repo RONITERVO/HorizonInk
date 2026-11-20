@@ -1,0 +1,1571 @@
+{
+  "title": "Dark Healing",
+  "genre": "Doom-Pop",
+  "primaryLanguage": "es",
+  "duration": 231.968,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 8.9,
+      "end": 10.6,
+      "primary": "",
+      "translation": "Time to rest...",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Time",
+          "start": 8.9,
+          "end": 9.2,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 9.2,
+          "end": 9.6,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "rest...",
+          "start": 9.6,
+          "end": 10.6,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 18.6,
+      "end": 20.8,
+      "primary": "Cae la nieve",
+      "translation": "",
+      "words": [
+        {
+          "value": "Cae",
+          "start": 18.6,
+          "end": 19,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 19,
+          "end": 19.3,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "es"
+        },
+        {
+          "value": "nieve",
+          "start": 19.3,
+          "end": 20.8,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 22,
+      "end": 24.3,
+      "primary": "Viene el frío",
+      "translation": "",
+      "words": [
+        {
+          "value": "Viene",
+          "start": 22,
+          "end": 22.5,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 22.5,
+          "end": 22.8,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        },
+        {
+          "value": "frío",
+          "start": 22.8,
+          "end": 24.3,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 25.5,
+      "end": 28.3,
+      "primary": "La gran montaña",
+      "translation": "",
+      "words": [
+        {
+          "value": "La",
+          "start": 25.5,
+          "end": 25.8,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "es"
+        },
+        {
+          "value": "gran",
+          "start": 25.8,
+          "end": 26.2,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "es"
+        },
+        {
+          "value": "montaña",
+          "start": 26.2,
+          "end": 28.3,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 29,
+      "end": 32.5,
+      "primary": "Es hogar mío",
+      "translation": "Is my home",
+      "words": [
+        {
+          "value": "Es",
+          "start": 29,
+          "end": 29.3,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "es"
+        },
+        {
+          "value": "hogar",
+          "start": 29.3,
+          "end": 29.9,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        },
+        {
+          "value": "mío",
+          "start": 29.9,
+          "end": 31,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Is",
+          "start": 31,
+          "end": 31.2,
+          "uncertain": true,
+          "sourceIndex": 15,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 31.2,
+          "end": 31.4,
+          "uncertain": true,
+          "sourceIndex": 16,
+          "language": "en"
+        },
+        {
+          "value": "home",
+          "start": 31.4,
+          "end": 32.5,
+          "uncertain": true,
+          "sourceIndex": 17,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 32.8,
+      "end": 37,
+      "primary": "Cierro los ojos",
+      "translation": "I close my eyes",
+      "words": [
+        {
+          "value": "Cierro",
+          "start": 32.8,
+          "end": 33.3,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "es"
+        },
+        {
+          "value": "los",
+          "start": 33.3,
+          "end": 33.7,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "es"
+        },
+        {
+          "value": "ojos",
+          "start": 33.7,
+          "end": 35.3,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 35.3,
+          "end": 35.5,
+          "uncertain": true,
+          "sourceIndex": 21,
+          "language": "en"
+        },
+        {
+          "value": "close",
+          "start": 35.5,
+          "end": 35.8,
+          "uncertain": true,
+          "sourceIndex": 22,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 35.8,
+          "end": 36.1,
+          "uncertain": true,
+          "sourceIndex": 23,
+          "language": "en"
+        },
+        {
+          "value": "eyes",
+          "start": 36.1,
+          "end": 37,
+          "uncertain": true,
+          "sourceIndex": 24,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 39.8,
+      "end": 43.8,
+      "primary": "Respiro lento",
+      "translation": "I breathe slowly",
+      "words": [
+        {
+          "value": "Respiro",
+          "start": 39.8,
+          "end": 40.6,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "es"
+        },
+        {
+          "value": "lento",
+          "start": 40.6,
+          "end": 42,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 42.1,
+          "end": 42.3,
+          "uncertain": true,
+          "sourceIndex": 27,
+          "language": "en"
+        },
+        {
+          "value": "breathe",
+          "start": 42.3,
+          "end": 42.6,
+          "uncertain": true,
+          "sourceIndex": 28,
+          "language": "en"
+        },
+        {
+          "value": "slowly",
+          "start": 42.6,
+          "end": 43.8,
+          "uncertain": true,
+          "sourceIndex": 29,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 46.8,
+      "end": 51.5,
+      "primary": "A salvo de",
+      "translation": "Safe from",
+      "words": [
+        {
+          "value": "A",
+          "start": 46.8,
+          "end": 47.1,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "es"
+        },
+        {
+          "value": "salvo",
+          "start": 47.1,
+          "end": 47.8,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 47.8,
+          "end": 48.6,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Safe",
+          "start": 49.8,
+          "end": 50.3,
+          "uncertain": true,
+          "sourceIndex": 33,
+          "language": "en"
+        },
+        {
+          "value": "from",
+          "start": 50.3,
+          "end": 51.5,
+          "uncertain": true,
+          "sourceIndex": 34,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 53.8,
+      "end": 59.3,
+      "primary": "Todo el viento",
+      "translation": "All the wind",
+      "words": [
+        {
+          "value": "Todo",
+          "start": 53.8,
+          "end": 54.3,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 54.3,
+          "end": 54.7,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "es"
+        },
+        {
+          "value": "viento",
+          "start": 54.7,
+          "end": 56.5,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "All",
+          "start": 57.5,
+          "end": 57.8,
+          "uncertain": true,
+          "sourceIndex": 38,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 57.8,
+          "end": 58.1,
+          "uncertain": true,
+          "sourceIndex": 39,
+          "language": "en"
+        },
+        {
+          "value": "wind",
+          "start": 58.1,
+          "end": 59.3,
+          "uncertain": true,
+          "sourceIndex": 40,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 60.8,
+      "end": 68.2,
+      "primary": "Dormir profundo",
+      "translation": "Deep sleep Through the night",
+      "words": [
+        {
+          "value": "Dormir",
+          "start": 60.8,
+          "end": 61.4,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "es"
+        },
+        {
+          "value": "profundo",
+          "start": 61.4,
+          "end": 63.5,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Deep",
+          "start": 64,
+          "end": 64.5,
+          "uncertain": true,
+          "sourceIndex": 43,
+          "language": "en"
+        },
+        {
+          "value": "sleep",
+          "start": 64.5,
+          "end": 65.5,
+          "uncertain": true,
+          "sourceIndex": 44,
+          "language": "en"
+        },
+        {
+          "value": "Through",
+          "start": 66.5,
+          "end": 66.8,
+          "uncertain": true,
+          "sourceIndex": 45,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 66.8,
+          "end": 67.1,
+          "uncertain": true,
+          "sourceIndex": 46,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 67.1,
+          "end": 68.2,
+          "uncertain": true,
+          "sourceIndex": 47,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 68.2,
+      "end": 75,
+      "primary": "Esperar por",
+      "translation": "Wait for The warm light",
+      "words": [
+        {
+          "value": "Esperar",
+          "start": 68.2,
+          "end": 69.1,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "es"
+        },
+        {
+          "value": "por",
+          "start": 69.1,
+          "end": 70,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Wait",
+          "start": 70.8,
+          "end": 71.3,
+          "uncertain": true,
+          "sourceIndex": 50,
+          "language": "en"
+        },
+        {
+          "value": "for",
+          "start": 71.3,
+          "end": 72.3,
+          "uncertain": true,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "The",
+          "start": 73.4,
+          "end": 73.6,
+          "uncertain": true,
+          "sourceIndex": 52,
+          "language": "en"
+        },
+        {
+          "value": "warm",
+          "start": 73.6,
+          "end": 74,
+          "uncertain": true,
+          "sourceIndex": 53,
+          "language": "en"
+        },
+        {
+          "value": "light",
+          "start": 74,
+          "end": 75,
+          "uncertain": true,
+          "sourceIndex": 54,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 75,
+      "end": 89,
+      "primary": "Sueño de invierno Lejos de toda",
+      "translation": "Winter dream Safe and warm Far from all The cold storm",
+      "words": [
+        {
+          "value": "Sueño",
+          "start": 75,
+          "end": 75.5,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 75.5,
+          "end": 76,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "es"
+        },
+        {
+          "value": "invierno",
+          "start": 76,
+          "end": 79.5,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "es"
+        },
+        {
+          "value": "Lejos",
+          "start": 82.2,
+          "end": 82.8,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 82.8,
+          "end": 83.2,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "es"
+        },
+        {
+          "value": "toda",
+          "start": 83.2,
+          "end": 85.5,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Winter",
+          "start": 79.7,
+          "end": 80.2,
+          "uncertain": true,
+          "sourceIndex": 58,
+          "language": "en"
+        },
+        {
+          "value": "dream",
+          "start": 80.2,
+          "end": 81.3,
+          "uncertain": true,
+          "sourceIndex": 59,
+          "language": "en"
+        },
+        {
+          "value": "Safe",
+          "start": 81.4,
+          "end": 81.8,
+          "uncertain": true,
+          "sourceIndex": 60,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 81.8,
+          "end": 82.1,
+          "uncertain": true,
+          "sourceIndex": 61,
+          "language": "en"
+        },
+        {
+          "value": "warm",
+          "start": 82.1,
+          "end": 83.2,
+          "uncertain": true,
+          "sourceIndex": 62,
+          "language": "en"
+        },
+        {
+          "value": "Far",
+          "start": 85.6,
+          "end": 85.9,
+          "uncertain": true,
+          "sourceIndex": 66,
+          "language": "en"
+        },
+        {
+          "value": "from",
+          "start": 85.9,
+          "end": 86.2,
+          "uncertain": true,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "all",
+          "start": 86.2,
+          "end": 87.2,
+          "uncertain": true,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "The",
+          "start": 87.4,
+          "end": 87.6,
+          "uncertain": true,
+          "sourceIndex": 69,
+          "language": "en"
+        },
+        {
+          "value": "cold",
+          "start": 87.6,
+          "end": 87.9,
+          "uncertain": true,
+          "sourceIndex": 70,
+          "language": "en"
+        },
+        {
+          "value": "storm",
+          "start": 87.9,
+          "end": 89,
+          "uncertain": true,
+          "sourceIndex": 71,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 89.2,
+      "end": 102,
+      "primary": "Cuerpo gigante La tierra me",
+      "translation": "Giant body Resting now Shows me how",
+      "words": [
+        {
+          "value": "Cuerpo",
+          "start": 89.2,
+          "end": 89.8,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "es"
+        },
+        {
+          "value": "gigante",
+          "start": 89.8,
+          "end": 92.5,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "es"
+        },
+        {
+          "value": "La",
+          "start": 96.1,
+          "end": 96.5,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        },
+        {
+          "value": "tierra",
+          "start": 96.5,
+          "end": 97.2,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "es"
+        },
+        {
+          "value": "me",
+          "start": 97.2,
+          "end": 100,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Giant",
+          "start": 92.8,
+          "end": 93.3,
+          "uncertain": true,
+          "sourceIndex": 74,
+          "language": "en"
+        },
+        {
+          "value": "body",
+          "start": 93.3,
+          "end": 94.3,
+          "uncertain": true,
+          "sourceIndex": 75,
+          "language": "en"
+        },
+        {
+          "value": "Resting",
+          "start": 94.8,
+          "end": 95.3,
+          "uncertain": true,
+          "sourceIndex": 76,
+          "language": "en"
+        },
+        {
+          "value": "now",
+          "start": 95.3,
+          "end": 96.3,
+          "uncertain": true,
+          "sourceIndex": 77,
+          "language": "en"
+        },
+        {
+          "value": "Shows",
+          "start": 100.2,
+          "end": 100.6,
+          "uncertain": true,
+          "sourceIndex": 81,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 100.6,
+          "end": 100.9,
+          "uncertain": true,
+          "sourceIndex": 82,
+          "language": "en"
+        },
+        {
+          "value": "how",
+          "start": 100.9,
+          "end": 102,
+          "uncertain": true,
+          "sourceIndex": 83,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 132.5,
+      "end": 135.5,
+      "primary": "Meses pasan",
+      "translation": "Months pass",
+      "words": [
+        {
+          "value": "Meses",
+          "start": 132.5,
+          "end": 133,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "es"
+        },
+        {
+          "value": "pasan",
+          "start": 133,
+          "end": 134.3,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Months",
+          "start": 134.4,
+          "end": 134.8,
+          "uncertain": true,
+          "sourceIndex": 86,
+          "language": "en"
+        },
+        {
+          "value": "pass",
+          "start": 134.8,
+          "end": 135.5,
+          "uncertain": true,
+          "sourceIndex": 87,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 135.6,
+      "end": 139.5,
+      "primary": "En la oscuridad",
+      "translation": "In the darkness",
+      "words": [
+        {
+          "value": "En",
+          "start": 135.6,
+          "end": 135.9,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 135.9,
+          "end": 136.2,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "es"
+        },
+        {
+          "value": "oscuridad",
+          "start": 136.2,
+          "end": 137.9,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 138,
+          "end": 138.2,
+          "uncertain": true,
+          "sourceIndex": 91,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 138.2,
+          "end": 138.5,
+          "uncertain": true,
+          "sourceIndex": 92,
+          "language": "en"
+        },
+        {
+          "value": "darkness",
+          "start": 138.5,
+          "end": 139.5,
+          "uncertain": true,
+          "sourceIndex": 93,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 139.5,
+      "end": 142.2,
+      "primary": "Encontrando",
+      "translation": "Finding",
+      "words": [
+        {
+          "value": "Encontrando",
+          "start": 139.5,
+          "end": 141,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Finding",
+          "start": 141.2,
+          "end": 142.2,
+          "uncertain": true,
+          "sourceIndex": 95,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 142.6,
+      "end": 146,
+      "primary": "La tranquilidad",
+      "translation": "Tranquility",
+      "words": [
+        {
+          "value": "La",
+          "start": 142.6,
+          "end": 143,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "es"
+        },
+        {
+          "value": "tranquilidad",
+          "start": 143,
+          "end": 145,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Tranquility",
+          "start": 145,
+          "end": 146,
+          "uncertain": true,
+          "sourceIndex": 98,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 146.4,
+      "end": 149,
+      "primary": "Soñando con",
+      "translation": "Dreaming of",
+      "words": [
+        {
+          "value": "Soñando",
+          "start": 146.4,
+          "end": 147.2,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "es"
+        },
+        {
+          "value": "con",
+          "start": 147.2,
+          "end": 148,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Dreaming",
+          "start": 148.1,
+          "end": 148.5,
+          "uncertain": true,
+          "sourceIndex": 101,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 148.5,
+          "end": 149,
+          "uncertain": true,
+          "sourceIndex": 102,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 149.1,
+      "end": 152.8,
+      "primary": "El río azul",
+      "translation": "The blue river",
+      "words": [
+        {
+          "value": "El",
+          "start": 149.1,
+          "end": 149.4,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "es"
+        },
+        {
+          "value": "río",
+          "start": 149.4,
+          "end": 150,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "es"
+        },
+        {
+          "value": "azul",
+          "start": 150,
+          "end": 151.3,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 151.4,
+          "end": 151.6,
+          "uncertain": true,
+          "sourceIndex": 106,
+          "language": "en"
+        },
+        {
+          "value": "blue",
+          "start": 151.6,
+          "end": 151.9,
+          "uncertain": true,
+          "sourceIndex": 107,
+          "language": "en"
+        },
+        {
+          "value": "river",
+          "start": 151.9,
+          "end": 152.8,
+          "uncertain": true,
+          "sourceIndex": 108,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 153.2,
+      "end": 156.4,
+      "primary": "Bajo este",
+      "translation": "Under this",
+      "words": [
+        {
+          "value": "Bajo",
+          "start": 153.2,
+          "end": 153.7,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "es"
+        },
+        {
+          "value": "este",
+          "start": 153.7,
+          "end": 155,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Under",
+          "start": 155.1,
+          "end": 155.6,
+          "uncertain": true,
+          "sourceIndex": 111,
+          "language": "en"
+        },
+        {
+          "value": "this",
+          "start": 155.6,
+          "end": 156.4,
+          "uncertain": true,
+          "sourceIndex": 112,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 156.5,
+      "end": 167.6,
+      "primary": "Cielo de tul Dormir profundo",
+      "translation": "Sky of tulle Deep sleep Through the night",
+      "words": [
+        {
+          "value": "Cielo",
+          "start": 156.5,
+          "end": 157,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 157,
+          "end": 157.3,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "es"
+        },
+        {
+          "value": "tul",
+          "start": 157.3,
+          "end": 159,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "es"
+        },
+        {
+          "value": "Dormir",
+          "start": 160.2,
+          "end": 161,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "es"
+        },
+        {
+          "value": "profundo",
+          "start": 161,
+          "end": 163.5,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sky",
+          "start": 159.1,
+          "end": 159.4,
+          "uncertain": true,
+          "sourceIndex": 116,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 159.4,
+          "end": 159.6,
+          "uncertain": true,
+          "sourceIndex": 117,
+          "language": "en"
+        },
+        {
+          "value": "tulle",
+          "start": 159.6,
+          "end": 160.5,
+          "uncertain": true,
+          "sourceIndex": 118,
+          "language": "en"
+        },
+        {
+          "value": "Deep",
+          "start": 163.7,
+          "end": 164.1,
+          "uncertain": true,
+          "sourceIndex": 121,
+          "language": "en"
+        },
+        {
+          "value": "sleep",
+          "start": 164.1,
+          "end": 165.2,
+          "uncertain": true,
+          "sourceIndex": 122,
+          "language": "en"
+        },
+        {
+          "value": "Through",
+          "start": 166,
+          "end": 166.3,
+          "uncertain": true,
+          "sourceIndex": 123,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 166.3,
+          "end": 166.6,
+          "uncertain": true,
+          "sourceIndex": 124,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 166.6,
+          "end": 167.6,
+          "uncertain": true,
+          "sourceIndex": 125,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 167.8,
+      "end": 174.6,
+      "primary": "Esperar por",
+      "translation": "Wait for The warm light",
+      "words": [
+        {
+          "value": "Esperar",
+          "start": 167.8,
+          "end": 168.8,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "es"
+        },
+        {
+          "value": "por",
+          "start": 168.8,
+          "end": 170,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Wait",
+          "start": 170.6,
+          "end": 171.1,
+          "uncertain": true,
+          "sourceIndex": 128,
+          "language": "en"
+        },
+        {
+          "value": "for",
+          "start": 171.1,
+          "end": 172,
+          "uncertain": true,
+          "sourceIndex": 129,
+          "language": "en"
+        },
+        {
+          "value": "The",
+          "start": 173,
+          "end": 173.2,
+          "uncertain": true,
+          "sourceIndex": 130,
+          "language": "en"
+        },
+        {
+          "value": "warm",
+          "start": 173.2,
+          "end": 173.6,
+          "uncertain": true,
+          "sourceIndex": 131,
+          "language": "en"
+        },
+        {
+          "value": "light",
+          "start": 173.6,
+          "end": 174.6,
+          "uncertain": true,
+          "sourceIndex": 132,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 174.6,
+      "end": 189,
+      "primary": "Sueño de invierno Lejos de toda",
+      "translation": "Winter dream Safe and warm Far from all The cold storm",
+      "words": [
+        {
+          "value": "Sueño",
+          "start": 174.6,
+          "end": 175.2,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 175.2,
+          "end": 175.7,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        },
+        {
+          "value": "invierno",
+          "start": 175.7,
+          "end": 179.5,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "es"
+        },
+        {
+          "value": "Lejos",
+          "start": 182,
+          "end": 182.6,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 182.6,
+          "end": 183,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "es"
+        },
+        {
+          "value": "toda",
+          "start": 183,
+          "end": 185.3,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Winter",
+          "start": 179.5,
+          "end": 180,
+          "uncertain": true,
+          "sourceIndex": 136,
+          "language": "en"
+        },
+        {
+          "value": "dream",
+          "start": 180,
+          "end": 181.1,
+          "uncertain": true,
+          "sourceIndex": 137,
+          "language": "en"
+        },
+        {
+          "value": "Safe",
+          "start": 181.3,
+          "end": 181.7,
+          "uncertain": true,
+          "sourceIndex": 138,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 181.7,
+          "end": 182,
+          "uncertain": true,
+          "sourceIndex": 139,
+          "language": "en"
+        },
+        {
+          "value": "warm",
+          "start": 182,
+          "end": 183,
+          "uncertain": true,
+          "sourceIndex": 140,
+          "language": "en"
+        },
+        {
+          "value": "Far",
+          "start": 185.3,
+          "end": 185.7,
+          "uncertain": true,
+          "sourceIndex": 144,
+          "language": "en"
+        },
+        {
+          "value": "from",
+          "start": 185.7,
+          "end": 186,
+          "uncertain": true,
+          "sourceIndex": 145,
+          "language": "en"
+        },
+        {
+          "value": "all",
+          "start": 186,
+          "end": 187,
+          "uncertain": true,
+          "sourceIndex": 146,
+          "language": "en"
+        },
+        {
+          "value": "The",
+          "start": 187.1,
+          "end": 187.3,
+          "uncertain": true,
+          "sourceIndex": 147,
+          "language": "en"
+        },
+        {
+          "value": "cold",
+          "start": 187.3,
+          "end": 187.7,
+          "uncertain": true,
+          "sourceIndex": 148,
+          "language": "en"
+        },
+        {
+          "value": "storm",
+          "start": 187.7,
+          "end": 189,
+          "uncertain": true,
+          "sourceIndex": 149,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 216.5,
+      "end": 219.6,
+      "primary": "Primavera.",
+      "translation": "Spring.",
+      "words": [
+        {
+          "value": "Primavera.",
+          "start": 216.5,
+          "end": 218.5,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Spring.",
+          "start": 218.6,
+          "end": 219.6,
+          "uncertain": true,
+          "sourceIndex": 151,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 223.5,
+      "end": 228,
+      "primary": "Primavera.",
+      "translation": "Spring. Soon.",
+      "words": [
+        {
+          "value": "Primavera.",
+          "start": 223.5,
+          "end": 225.5,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Spring.",
+          "start": 225.6,
+          "end": 226.6,
+          "uncertain": true,
+          "sourceIndex": 153,
+          "language": "en"
+        },
+        {
+          "value": "Soon.",
+          "start": 227,
+          "end": 228,
+          "uncertain": true,
+          "sourceIndex": 154,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

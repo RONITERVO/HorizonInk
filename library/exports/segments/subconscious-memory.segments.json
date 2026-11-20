@@ -1,0 +1,1529 @@
+{
+  "title": "Subconscious Memory",
+  "genre": "Ambient Sleep",
+  "primaryLanguage": "es",
+  "duration": 267.932,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 7.14,
+      "end": 14.62,
+      "primary": "",
+      "translation": "Close your eyes Enter the network",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Close",
+          "start": 7.14,
+          "end": 7.56,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 7.64,
+          "end": 7.84,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "eyes",
+          "start": 7.9,
+          "end": 8.56,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "Enter",
+          "start": 12.72,
+          "end": 13.28,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 13.66,
+          "end": 13.76,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "network",
+          "start": 13.88,
+          "end": 14.62,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 29.12,
+      "end": 32.84,
+      "primary": "Red neuronal",
+      "translation": "Neural network",
+      "words": [
+        {
+          "value": "Red",
+          "start": 29.12,
+          "end": 29.48,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "es"
+        },
+        {
+          "value": "neuronal",
+          "start": 29.56,
+          "end": 30.64,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Neural",
+          "start": 31.8,
+          "end": 32.18,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "en"
+        },
+        {
+          "value": "network",
+          "start": 32.26,
+          "end": 32.84,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 32.9,
+      "end": 35.62,
+      "primary": "brillando",
+      "translation": "Shining",
+      "words": [
+        {
+          "value": "brillando",
+          "start": 32.9,
+          "end": 34.04,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Shining",
+          "start": 34.9,
+          "end": 35.62,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 36.54,
+      "end": 39.36,
+      "primary": "Tu mente se",
+      "translation": "Your mind is",
+      "words": [
+        {
+          "value": "Tu",
+          "start": 36.54,
+          "end": 36.7,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "es"
+        },
+        {
+          "value": "mente",
+          "start": 36.8,
+          "end": 37.38,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        },
+        {
+          "value": "se",
+          "start": 37.5,
+          "end": 37.8,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Your",
+          "start": 38.36,
+          "end": 38.52,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "en"
+        },
+        {
+          "value": "mind",
+          "start": 38.62,
+          "end": 39.02,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 39.16,
+          "end": 39.36,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 39.94,
+      "end": 43.3,
+      "primary": "apagando",
+      "translation": "Turning off",
+      "words": [
+        {
+          "value": "apagando",
+          "start": 39.94,
+          "end": 41.26,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Turning",
+          "start": 42.18,
+          "end": 42.64,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "en"
+        },
+        {
+          "value": "off",
+          "start": 42.72,
+          "end": 43.3,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 44.04,
+      "end": 46.9,
+      "primary": "Ondas lentas",
+      "translation": "Slow waves",
+      "words": [
+        {
+          "value": "Ondas",
+          "start": 44.04,
+          "end": 44.64,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "es"
+        },
+        {
+          "value": "lentas",
+          "start": 44.72,
+          "end": 45.54,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Slow",
+          "start": 45.76,
+          "end": 46.16,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "en"
+        },
+        {
+          "value": "waves",
+          "start": 46.24,
+          "end": 46.9,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 47.66,
+      "end": 50.28,
+      "primary": "En el mar",
+      "translation": "In the sea",
+      "words": [
+        {
+          "value": "En",
+          "start": 47.66,
+          "end": 47.84,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 47.88,
+          "end": 48.24,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        },
+        {
+          "value": "mar",
+          "start": 48.32,
+          "end": 48.82,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 49.46,
+          "end": 49.56,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 49.62,
+          "end": 49.74,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "en"
+        },
+        {
+          "value": "sea",
+          "start": 49.88,
+          "end": 50.28,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 51.48,
+      "end": 53.92,
+      "primary": "Es la hora",
+      "translation": "It is the time",
+      "words": [
+        {
+          "value": "Es",
+          "start": 51.48,
+          "end": 51.58,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 51.66,
+          "end": 51.92,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        },
+        {
+          "value": "hora",
+          "start": 51.96,
+          "end": 52.76,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "It",
+          "start": 52.88,
+          "end": 53,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 53.08,
+          "end": 53.2,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 53.26,
+          "end": 53.38,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "en"
+        },
+        {
+          "value": "time",
+          "start": 53.48,
+          "end": 53.92,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 54.8,
+      "end": 57.28,
+      "primary": "de soñar",
+      "translation": "To dream",
+      "words": [
+        {
+          "value": "de",
+          "start": 54.8,
+          "end": 54.94,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        },
+        {
+          "value": "soñar",
+          "start": 55.06,
+          "end": 55.94,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "To",
+          "start": 56.42,
+          "end": 56.54,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "en"
+        },
+        {
+          "value": "dream",
+          "start": 56.62,
+          "end": 57.28,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 58.44,
+      "end": 62.4,
+      "primary": "Baja el pulso",
+      "translation": "Lower the pulse",
+      "words": [
+        {
+          "value": "Baja",
+          "start": 58.44,
+          "end": 58.98,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 59.04,
+          "end": 59.16,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "es"
+        },
+        {
+          "value": "pulso",
+          "start": 59.3,
+          "end": 60.44,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Lower",
+          "start": 61.14,
+          "end": 61.52,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 61.58,
+          "end": 61.72,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "en"
+        },
+        {
+          "value": "pulse",
+          "start": 61.8,
+          "end": 62.4,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 62.48,
+      "end": 72.8,
+      "primary": "Cae suave",
+      "translation": "Fall softly Gooo to sleep",
+      "words": [
+        {
+          "value": "Cae",
+          "start": 62.48,
+          "end": 62.8,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "es"
+        },
+        {
+          "value": "suave",
+          "start": 62.9,
+          "end": 63.66,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Fall",
+          "start": 64.74,
+          "end": 65.28,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "en"
+        },
+        {
+          "value": "softly",
+          "start": 65.44,
+          "end": 66.46,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "Gooo",
+          "start": 66.54,
+          "end": 69.68,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 69.72,
+          "end": 69.92,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "en"
+        },
+        {
+          "value": "sleep",
+          "start": 70.08,
+          "end": 72.8,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 72.84,
+      "end": 75.54,
+      "primary": "Duerme ahora",
+      "translation": "Sleep now",
+      "words": [
+        {
+          "value": "Duerme",
+          "start": 72.84,
+          "end": 73.34,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "es"
+        },
+        {
+          "value": "ahora",
+          "start": 73.58,
+          "end": 74.2,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sleep",
+          "start": 74.6,
+          "end": 75,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "now",
+          "start": 75.1,
+          "end": 75.54,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 76.48,
+      "end": 79.16,
+      "primary": "Toca el cielo",
+      "translation": "Touch the sky",
+      "words": [
+        {
+          "value": "Toca",
+          "start": 76.48,
+          "end": 76.86,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 76.86,
+          "end": 77.02,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "es"
+        },
+        {
+          "value": "cielo",
+          "start": 77.12,
+          "end": 77.8,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Touch",
+          "start": 78.26,
+          "end": 78.46,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 78.52,
+          "end": 78.58,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "en"
+        },
+        {
+          "value": "sky",
+          "start": 78.7,
+          "end": 79.16,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 80.12,
+      "end": 82.78,
+      "primary": "Yo vigilo",
+      "translation": "I watch over",
+      "words": [
+        {
+          "value": "Yo",
+          "start": 80.12,
+          "end": 80.3,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "es"
+        },
+        {
+          "value": "vigilo",
+          "start": 80.38,
+          "end": 81.6,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 81.76,
+          "end": 81.82,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "watch",
+          "start": 81.92,
+          "end": 82.32,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "over",
+          "start": 82.46,
+          "end": 82.78,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 83.66,
+      "end": 85.8,
+      "primary": "Hasta que",
+      "translation": "Until",
+      "words": [
+        {
+          "value": "Hasta",
+          "start": 83.66,
+          "end": 84.12,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 84.36,
+          "end": 84.56,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Until",
+          "start": 85.12,
+          "end": 85.8,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 87,
+      "end": 88.2,
+      "primary": "llegue la luz",
+      "translation": "",
+      "words": [
+        {
+          "value": "llegue",
+          "start": 87,
+          "end": 87.48,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 87.56,
+          "end": 87.7,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "es"
+        },
+        {
+          "value": "luz",
+          "start": 87.76,
+          "end": 88.2,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 145.72,
+      "end": 148.6,
+      "primary": "Borrando el",
+      "translation": "Erasing the",
+      "words": [
+        {
+          "value": "Borrando",
+          "start": 145.72,
+          "end": 146.46,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 146.52,
+          "end": 146.82,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Erasing",
+          "start": 147.68,
+          "end": 148.34,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 148.44,
+          "end": 148.6,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 149.3,
+      "end": 152.44,
+      "primary": "dolor de hoy",
+      "translation": "Pain of today",
+      "words": [
+        {
+          "value": "dolor",
+          "start": 149.3,
+          "end": 149.9,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 149.96,
+          "end": 150.2,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "es"
+        },
+        {
+          "value": "hoy",
+          "start": 150.26,
+          "end": 150.66,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Pain",
+          "start": 151.32,
+          "end": 151.58,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 151.64,
+          "end": 151.74,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "en"
+        },
+        {
+          "value": "today",
+          "start": 151.82,
+          "end": 152.44,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 153.14,
+      "end": 155.84,
+      "primary": "Te prometo",
+      "translation": "I promise you",
+      "words": [
+        {
+          "value": "Te",
+          "start": 153.14,
+          "end": 153.3,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "es"
+        },
+        {
+          "value": "prometo",
+          "start": 153.38,
+          "end": 154.66,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 154.8,
+          "end": 154.88,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "promise",
+          "start": 154.94,
+          "end": 155.56,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        },
+        {
+          "value": "you",
+          "start": 155.68,
+          "end": 155.84,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 156.5,
+      "end": 159.68,
+      "primary": "que aquí estoy",
+      "translation": "That I am here",
+      "words": [
+        {
+          "value": "que",
+          "start": 156.5,
+          "end": 156.72,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "es"
+        },
+        {
+          "value": "aquí",
+          "start": 156.84,
+          "end": 157.08,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "es"
+        },
+        {
+          "value": "estoy",
+          "start": 157.18,
+          "end": 157.96,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "That",
+          "start": 158.34,
+          "end": 158.58,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "en"
+        },
+        {
+          "value": "I",
+          "start": 158.78,
+          "end": 158.82,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "en"
+        },
+        {
+          "value": "am",
+          "start": 158.92,
+          "end": 159.14,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "en"
+        },
+        {
+          "value": "here",
+          "start": 159.18,
+          "end": 159.68,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 160.56,
+      "end": 163.92,
+      "primary": "Un abrazo",
+      "translation": "A hug",
+      "words": [
+        {
+          "value": "Un",
+          "start": 160.56,
+          "end": 160.9,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "es"
+        },
+        {
+          "value": "abrazo",
+          "start": 160.94,
+          "end": 161.9,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "A",
+          "start": 162.04,
+          "end": 162.34,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "en"
+        },
+        {
+          "value": "hug",
+          "start": 163.86,
+          "end": 163.92,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 163.94,
+      "end": 166.22,
+      "primary": "Digital",
+      "translation": "Digital",
+      "words": [
+        {
+          "value": "Digital",
+          "start": 163.94,
+          "end": 165.08,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Digital",
+          "start": 165.34,
+          "end": 166.22,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 167.7,
+      "end": 170.28,
+      "primary": "Alejando",
+      "translation": "Keeping away",
+      "words": [
+        {
+          "value": "Alejando",
+          "start": 167.7,
+          "end": 169.28,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Keeping",
+          "start": 169.36,
+          "end": 169.84,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        },
+        {
+          "value": "away",
+          "start": 169.94,
+          "end": 170.28,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 171.18,
+      "end": 173.44,
+      "primary": "todo mal",
+      "translation": "All evil",
+      "words": [
+        {
+          "value": "todo",
+          "start": 171.18,
+          "end": 171.76,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "es"
+        },
+        {
+          "value": "mal",
+          "start": 171.86,
+          "end": 172.3,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "All",
+          "start": 172.78,
+          "end": 172.98,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        },
+        {
+          "value": "evil",
+          "start": 173.12,
+          "end": 173.44,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 173.92,
+      "end": 177.86,
+      "primary": "Baja el pulso",
+      "translation": "Lower the pulse",
+      "words": [
+        {
+          "value": "Baja",
+          "start": 173.92,
+          "end": 174.46,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 174.54,
+          "end": 174.74,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "es"
+        },
+        {
+          "value": "pulso",
+          "start": 174.78,
+          "end": 175.9,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Lower",
+          "start": 176.6,
+          "end": 176.98,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 177.06,
+          "end": 177.2,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "en"
+        },
+        {
+          "value": "pulse",
+          "start": 177.26,
+          "end": 177.86,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 177.94,
+      "end": 188.28,
+      "primary": "Cae suave",
+      "translation": "Fall softly Gooo to sleep",
+      "words": [
+        {
+          "value": "Cae",
+          "start": 177.94,
+          "end": 178.26,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "es"
+        },
+        {
+          "value": "suave",
+          "start": 178.36,
+          "end": 179.44,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Fall",
+          "start": 180.2,
+          "end": 180.76,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        },
+        {
+          "value": "softly",
+          "start": 180.9,
+          "end": 181.94,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "en"
+        },
+        {
+          "value": "Gooo",
+          "start": 182,
+          "end": 185.14,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 185.2,
+          "end": 185.38,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "en"
+        },
+        {
+          "value": "sleep",
+          "start": 185.52,
+          "end": 188.28,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 188.3,
+      "end": 191,
+      "primary": "Duerme ahora",
+      "translation": "Sleep now",
+      "words": [
+        {
+          "value": "Duerme",
+          "start": 188.3,
+          "end": 188.84,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "es"
+        },
+        {
+          "value": "ahora",
+          "start": 188.94,
+          "end": 189.74,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sleep",
+          "start": 190.04,
+          "end": 190.48,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "en"
+        },
+        {
+          "value": "now",
+          "start": 190.56,
+          "end": 191,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 191.92,
+      "end": 194.62,
+      "primary": "Toca el cielo",
+      "translation": "Touch the sky",
+      "words": [
+        {
+          "value": "Toca",
+          "start": 191.92,
+          "end": 192.3,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 192.34,
+          "end": 192.48,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "es"
+        },
+        {
+          "value": "cielo",
+          "start": 192.6,
+          "end": 193.28,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Touch",
+          "start": 193.72,
+          "end": 193.92,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 193.98,
+          "end": 194.06,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "en"
+        },
+        {
+          "value": "sky",
+          "start": 194.16,
+          "end": 194.62,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 217.66,
+      "end": 218.74,
+      "primary": "Descanso",
+      "translation": "",
+      "words": [
+        {
+          "value": "Descanso",
+          "start": 217.66,
+          "end": 218.74,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 245.62,
+      "end": 246.74,
+      "primary": "Descanso",
+      "translation": "",
+      "words": [
+        {
+          "value": "Descanso",
+          "start": 245.62,
+          "end": 246.74,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 254.14,
+      "end": 262.76,
+      "primary": "Descanso",
+      "translation": "Enter the network",
+      "words": [
+        {
+          "value": "Descanso",
+          "start": 254.14,
+          "end": 254.88,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Enter",
+          "start": 259.2,
+          "end": 259.7,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 261.68,
+          "end": 261.8,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "en"
+        },
+        {
+          "value": "network",
+          "start": 261.88,
+          "end": 262.76,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

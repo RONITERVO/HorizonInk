@@ -38,28 +38,23 @@ export class MagicalPen {
       roughness: 0.25,
     });
 
-    // Tapered fountain nib
     const nib = new THREE.Mesh(new THREE.ConeGeometry(0.0052, 0.024, 10), goldMat);
     nib.position.y = 0.012;
     nib.rotation.x = Math.PI;
     this.group.add(nib);
 
-    // Collar ring
     const collar = new THREE.Mesh(new THREE.CylinderGeometry(0.0056, 0.0052, 0.012, 12), goldMat);
     collar.position.y = 0.028;
     this.group.add(collar);
 
-    // Sleek lacquered pen barrel
     const barrel = new THREE.Mesh(new THREE.CylinderGeometry(0.0046, 0.0062, 0.13, 14), this.barrelMat);
     barrel.position.y = 0.098;
     this.group.add(barrel);
 
-    // Tail finial jewel
     const finial = new THREE.Mesh(new THREE.OctahedronGeometry(0.0055, 0), goldMat);
     finial.position.y = 0.168;
     this.group.add(finial);
 
-    // Subtle floating arcane ring around the barrel
     this.haloRing = new THREE.Mesh(
       new THREE.TorusGeometry(0.013, 0.001, 8, 28),
       new THREE.MeshBasicMaterial({ color: 0xffc66d, transparent: true, opacity: 0.65 }),
@@ -68,37 +63,39 @@ export class MagicalPen {
     this.haloRing.rotation.x = Math.PI / 2;
     this.group.add(this.haloRing);
 
-    // Tiny luminous ink droplet at the tip
     this.glowMat = new THREE.MeshBasicMaterial({ color: 0xffc257, transparent: true, opacity: 0.9 });
     this.glowOrb = new THREE.Mesh(new THREE.SphereGeometry(0.0038, 10, 10), this.glowMat);
     this.glowOrb.position.y = 0.001;
     this.group.add(this.glowOrb);
 
-    // Natural right-handed fountain pen lean angle over the paper
     this.group.rotation.set(0.28, 0.12, -0.34);
 
     scene.add(this.group);
     scene.add(this.sparkGroup);
   }
 
-  triggerCatchPulse(isTranslation: boolean) {
-    this.pulseBoost = 1.0;
-    const color = isTranslation ? 0x70b4ff : 0xffbe55;
+  triggerCatchPulse(langOrIsTranslation: boolean | "es" | "zh" | "en", rhythmResonance = 0) {
+    this.pulseBoost = 1.0 + rhythmResonance * 0.35;
+    const color =
+      langOrIsTranslation === true || langOrIsTranslation === "en"
+        ? 0x70b4ff
+        : langOrIsTranslation === "zh"
+          ? 0x7ee8b8
+          : 0xffbe55;
     this.glowMat.color.setHex(color);
-    for (let i = 0; i < 8; i++) {
-      this.spawnSpark(color, 0.45);
+    const count = rhythmResonance >= 0.75 ? 10 : 8;
+    for (let i = 0; i < count; i++) {
+      this.spawnSpark(color, 0.45 + rhythmResonance * 0.1);
     }
   }
 
   update(dt: number, elapsed: number, target: PenPaperTarget, world: SunsetCliffWorld, beat: number) {
     this.pulseBoost = Math.max(0, this.pulseBoost - dt * 2.2);
 
-    // Hover height: closer to paper when actively writing, lifted slightly when poised/idle
     const lift = target.isWriting ? 0.006 : 0.026 + Math.sin(elapsed * 2.4) * 0.006;
     const desired = world.paperUvToWorld(target.u, target.v, lift);
 
     if (target.isWriting) {
-      // Cursive micro-scribing motion while ink flows onto paper
       desired.x += Math.sin(elapsed * 22) * 0.0025;
       desired.y += Math.cos(elapsed * 18) * 0.0022;
     } else {
@@ -111,11 +108,9 @@ export class MagicalPen {
     this.group.position.copy(this.currentTip);
     this.nibWorldPos.copy(this.currentTip);
 
-    // Subtle expressive pen tilt
     this.group.rotation.z = -0.34 + Math.sin(elapsed * (target.isWriting ? 9 : 2.1)) * (target.isWriting ? 0.06 : 0.025);
     this.group.rotation.x = 0.28 + Math.cos(elapsed * (target.isWriting ? 11 : 1.7)) * 0.03;
 
-    // Arcane halo rotation & glow color
     this.haloRing.rotation.z = elapsed * 1.4;
     const inkHex = target.isTranslation ? 0x6cb2ff : 0xffc057;
     if (this.pulseBoost < 0.1) {
@@ -126,14 +121,12 @@ export class MagicalPen {
     (this.haloRing.material as THREE.MeshBasicMaterial).opacity =
       0.35 + this.pulseBoost * 0.45 + (target.isWriting ? 0.25 : 0);
 
-    // Emit gentle ink dust sparks while writing
     this.sparkCooldown -= dt;
     if (target.isWriting && this.sparkCooldown <= 0) {
       this.sparkCooldown = 0.055;
       this.spawnSpark(inkHex, 0.14);
     }
 
-    // Update sparks
     for (let i = this.sparks.length - 1; i >= 0; i--) {
       const s = this.sparks[i];
       s.age += dt;
@@ -167,4 +160,3 @@ export class MagicalPen {
     this.sparks.push({ mesh, vel, age: 0, life: 0.45 + Math.random() * 0.25 });
   }
 }
-

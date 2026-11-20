@@ -1,0 +1,2871 @@
+{
+  "title": "Floor Cracked",
+  "genre": "Flamenco Pop",
+  "primaryLanguage": "es",
+  "duration": 197.927,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 4.62,
+      "end": 13.2,
+      "primary": "Silencio",
+      "translation": "Silence Feel the fire",
+      "words": [
+        {
+          "value": "Silencio",
+          "start": 4.62,
+          "end": 6.12,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Silence",
+          "start": 6.75,
+          "end": 8.2,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "Feel",
+          "start": 8.82,
+          "end": 9.1,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 9.1,
+          "end": 9.3,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "fire",
+          "start": 9.3,
+          "end": 13.2,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 23.5,
+      "end": 25.8,
+      "primary": "Caminando por la calle",
+      "translation": "Walking down the street",
+      "words": [
+        {
+          "value": "Caminando",
+          "start": 23.5,
+          "end": 24.08,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "es"
+        },
+        {
+          "value": "por",
+          "start": 24.08,
+          "end": 24.26,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 24.26,
+          "end": 24.4,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        },
+        {
+          "value": "calle",
+          "start": 24.4,
+          "end": 24.7,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Walking",
+          "start": 24.85,
+          "end": 25.18,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        },
+        {
+          "value": "down",
+          "start": 25.18,
+          "end": 25.35,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 25.35,
+          "end": 25.48,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "en"
+        },
+        {
+          "value": "street",
+          "start": 25.48,
+          "end": 25.8,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 26.5,
+      "end": 28.48,
+      "primary": "Bajo la luna llena",
+      "translation": "Under the full moon",
+      "words": [
+        {
+          "value": "Bajo",
+          "start": 26.5,
+          "end": 26.82,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 26.82,
+          "end": 26.96,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        },
+        {
+          "value": "luna",
+          "start": 26.96,
+          "end": 27.24,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "es"
+        },
+        {
+          "value": "llena",
+          "start": 27.24,
+          "end": 27.56,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Under",
+          "start": 27.7,
+          "end": 28,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 28,
+          "end": 28.1,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "en"
+        },
+        {
+          "value": "full",
+          "start": 28.1,
+          "end": 28.26,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "en"
+        },
+        {
+          "value": "moon",
+          "start": 28.26,
+          "end": 28.48,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 28.6,
+      "end": 30.8,
+      "primary": "El viento me susurra",
+      "translation": "The wind whispers to me",
+      "words": [
+        {
+          "value": "El",
+          "start": 28.6,
+          "end": 28.78,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "es"
+        },
+        {
+          "value": "viento",
+          "start": 28.78,
+          "end": 29.14,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "es"
+        },
+        {
+          "value": "me",
+          "start": 29.14,
+          "end": 29.3,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "es"
+        },
+        {
+          "value": "susurra",
+          "start": 29.3,
+          "end": 29.8,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 29.86,
+          "end": 29.98,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "en"
+        },
+        {
+          "value": "wind",
+          "start": 29.98,
+          "end": 30.2,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "en"
+        },
+        {
+          "value": "whispers",
+          "start": 30.2,
+          "end": 30.5,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 30.5,
+          "end": 30.62,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 30.62,
+          "end": 30.8,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 30.8,
+      "end": 33.8,
+      "primary": "Quitándome la pena",
+      "translation": "Taking away my sorrow",
+      "words": [
+        {
+          "value": "Quitándome",
+          "start": 30.8,
+          "end": 31.32,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 31.32,
+          "end": 31.48,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "es"
+        },
+        {
+          "value": "pena",
+          "start": 31.48,
+          "end": 31.9,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Taking",
+          "start": 32.4,
+          "end": 32.7,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "en"
+        },
+        {
+          "value": "away",
+          "start": 32.7,
+          "end": 33.04,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 33.04,
+          "end": 33.2,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        },
+        {
+          "value": "sorrow",
+          "start": 33.2,
+          "end": 33.8,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 34,
+      "end": 35.95,
+      "primary": "Paso a paso firme",
+      "translation": "Step by step firm",
+      "words": [
+        {
+          "value": "Paso",
+          "start": 34,
+          "end": 34.25,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "es"
+        },
+        {
+          "value": "a",
+          "start": 34.25,
+          "end": 34.4,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        },
+        {
+          "value": "paso",
+          "start": 34.4,
+          "end": 34.65,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "es"
+        },
+        {
+          "value": "firme",
+          "start": 34.65,
+          "end": 35.1,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Step",
+          "start": 35.2,
+          "end": 35.4,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        },
+        {
+          "value": "by",
+          "start": 35.4,
+          "end": 35.54,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "en"
+        },
+        {
+          "value": "step",
+          "start": 35.54,
+          "end": 35.7,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "en"
+        },
+        {
+          "value": "firm",
+          "start": 35.7,
+          "end": 35.95,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 36.5,
+      "end": 38.2,
+      "primary": "Mirando hacia adelante",
+      "translation": "Looking forward",
+      "words": [
+        {
+          "value": "Mirando",
+          "start": 36.5,
+          "end": 36.84,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "es"
+        },
+        {
+          "value": "hacia",
+          "start": 36.84,
+          "end": 37.08,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "es"
+        },
+        {
+          "value": "adelante",
+          "start": 37.08,
+          "end": 37.5,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Looking",
+          "start": 37.5,
+          "end": 37.76,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "en"
+        },
+        {
+          "value": "forward",
+          "start": 37.76,
+          "end": 38.2,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 38.86,
+      "end": 40.75,
+      "primary": "No tengo ningún miedo",
+      "translation": "I don't have any fear",
+      "words": [
+        {
+          "value": "No",
+          "start": 38.86,
+          "end": 39.06,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "es"
+        },
+        {
+          "value": "tengo",
+          "start": 39.06,
+          "end": 39.4,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "es"
+        },
+        {
+          "value": "ningún",
+          "start": 39.4,
+          "end": 39.68,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "es"
+        },
+        {
+          "value": "miedo",
+          "start": 39.68,
+          "end": 40.04,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 40.06,
+          "end": 40.16,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "en"
+        },
+        {
+          "value": "don't",
+          "start": 40.16,
+          "end": 40.24,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "en"
+        },
+        {
+          "value": "have",
+          "start": 40.24,
+          "end": 40.32,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "en"
+        },
+        {
+          "value": "any",
+          "start": 40.32,
+          "end": 40.5,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "fear",
+          "start": 40.5,
+          "end": 40.75,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 41.2,
+      "end": 43.6,
+      "primary": "Soy como un diamante",
+      "translation": "I am like a diamond",
+      "words": [
+        {
+          "value": "Soy",
+          "start": 41.2,
+          "end": 41.34,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "es"
+        },
+        {
+          "value": "como",
+          "start": 41.34,
+          "end": 41.54,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "es"
+        },
+        {
+          "value": "un",
+          "start": 41.54,
+          "end": 41.65,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "es"
+        },
+        {
+          "value": "diamante",
+          "start": 41.65,
+          "end": 42.2,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 42.45,
+          "end": 42.55,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "en"
+        },
+        {
+          "value": "am",
+          "start": 42.55,
+          "end": 42.7,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "en"
+        },
+        {
+          "value": "like",
+          "start": 42.7,
+          "end": 42.92,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 42.92,
+          "end": 43.08,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "en"
+        },
+        {
+          "value": "diamond",
+          "start": 43.08,
+          "end": 43.6,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 45.3,
+      "end": 48.06,
+      "primary": "Fuego en mis manos",
+      "translation": "Fire in my hands",
+      "words": [
+        {
+          "value": "Fuego",
+          "start": 45.3,
+          "end": 45.82,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 45.82,
+          "end": 46.04,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "es"
+        },
+        {
+          "value": "mis",
+          "start": 46.04,
+          "end": 46.3,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "es"
+        },
+        {
+          "value": "manos",
+          "start": 46.3,
+          "end": 46.86,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Fire",
+          "start": 47.3,
+          "end": 47.6,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 47.6,
+          "end": 47.74,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 47.74,
+          "end": 47.88,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "en"
+        },
+        {
+          "value": "hands",
+          "start": 47.88,
+          "end": 48.06,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 50.14,
+      "end": 53,
+      "primary": "Sangre en mis venas",
+      "translation": "Blood in my veins",
+      "words": [
+        {
+          "value": "Sangre",
+          "start": 50.14,
+          "end": 50.6,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 50.6,
+          "end": 50.84,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "es"
+        },
+        {
+          "value": "mis",
+          "start": 50.84,
+          "end": 51.1,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        },
+        {
+          "value": "venas",
+          "start": 51.1,
+          "end": 51.68,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Blood",
+          "start": 52.16,
+          "end": 52.42,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 52.42,
+          "end": 52.56,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 52.56,
+          "end": 52.7,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "en"
+        },
+        {
+          "value": "veins",
+          "start": 52.7,
+          "end": 53,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 54.6,
+      "end": 57.25,
+      "primary": "Mírame ahora",
+      "translation": "Look at me now Watch me go",
+      "words": [
+        {
+          "value": "Mírame",
+          "start": 54.6,
+          "end": 54.9,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "es"
+        },
+        {
+          "value": "ahora",
+          "start": 54.9,
+          "end": 55.3,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Look",
+          "start": 55.32,
+          "end": 55.45,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "en"
+        },
+        {
+          "value": "at",
+          "start": 55.45,
+          "end": 55.55,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 55.55,
+          "end": 55.68,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "now",
+          "start": 55.68,
+          "end": 56,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        },
+        {
+          "value": "Watch",
+          "start": 56.5,
+          "end": 56.7,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 56.7,
+          "end": 56.9,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "en"
+        },
+        {
+          "value": "go",
+          "start": 56.9,
+          "end": 57.25,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 58.15,
+      "end": 61.4,
+      "primary": "Dueña del destino",
+      "translation": "Owner of destiny Running the show",
+      "words": [
+        {
+          "value": "Dueña",
+          "start": 58.15,
+          "end": 58.45,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 58.45,
+          "end": 58.62,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "es"
+        },
+        {
+          "value": "destino",
+          "start": 58.62,
+          "end": 59.05,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Owner",
+          "start": 59.05,
+          "end": 59.25,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 59.25,
+          "end": 59.4,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "en"
+        },
+        {
+          "value": "destiny",
+          "start": 59.4,
+          "end": 60,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        },
+        {
+          "value": "Running",
+          "start": 60.55,
+          "end": 60.9,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 60.9,
+          "end": 61.05,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "en"
+        },
+        {
+          "value": "show",
+          "start": 61.05,
+          "end": 61.4,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 63.1,
+      "end": 67.75,
+      "primary": "Bailando en la sombra",
+      "translation": "Dancing in the shadow Out of the dark",
+      "words": [
+        {
+          "value": "Bailando",
+          "start": 63.1,
+          "end": 63.52,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 63.52,
+          "end": 63.7,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 63.7,
+          "end": 63.85,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "es"
+        },
+        {
+          "value": "sombra",
+          "start": 63.85,
+          "end": 64.3,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Dancing",
+          "start": 65.1,
+          "end": 65.45,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 65.45,
+          "end": 65.58,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 65.58,
+          "end": 65.7,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "en"
+        },
+        {
+          "value": "shadow",
+          "start": 65.7,
+          "end": 66.1,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        },
+        {
+          "value": "Out",
+          "start": 67,
+          "end": 67.16,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 67.16,
+          "end": 67.28,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 67.28,
+          "end": 67.45,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "en"
+        },
+        {
+          "value": "dark",
+          "start": 67.45,
+          "end": 67.75,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 67.82,
+      "end": 72.75,
+      "primary": "Dejando mi marca",
+      "translation": "Leaving my mark A flying spark",
+      "words": [
+        {
+          "value": "Dejando",
+          "start": 67.82,
+          "end": 68.28,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 68.28,
+          "end": 68.52,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "es"
+        },
+        {
+          "value": "marca",
+          "start": 68.52,
+          "end": 69.1,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Leaving",
+          "start": 70.1,
+          "end": 70.45,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 70.45,
+          "end": 70.6,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "en"
+        },
+        {
+          "value": "mark",
+          "start": 70.6,
+          "end": 71,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        },
+        {
+          "value": "A",
+          "start": 71.75,
+          "end": 71.88,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "en"
+        },
+        {
+          "value": "flying",
+          "start": 71.88,
+          "end": 72.3,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "en"
+        },
+        {
+          "value": "spark",
+          "start": 72.3,
+          "end": 72.75,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 75.5,
+      "end": 77.45,
+      "primary": "Las luces de la ciudad",
+      "translation": "The city lights",
+      "words": [
+        {
+          "value": "Las",
+          "start": 75.5,
+          "end": 75.65,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "es"
+        },
+        {
+          "value": "luces",
+          "start": 75.65,
+          "end": 75.85,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 75.85,
+          "end": 75.96,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 75.96,
+          "end": 76.1,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "es"
+        },
+        {
+          "value": "ciudad",
+          "start": 76.1,
+          "end": 76.5,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 76.78,
+          "end": 76.88,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "en"
+        },
+        {
+          "value": "city",
+          "start": 76.88,
+          "end": 77.15,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "en"
+        },
+        {
+          "value": "lights",
+          "start": 77.15,
+          "end": 77.45,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 77.7,
+      "end": 79.45,
+      "primary": "Brillan en mi cara",
+      "translation": "Shine on my face",
+      "words": [
+        {
+          "value": "Brillan",
+          "start": 77.7,
+          "end": 78.04,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 78.04,
+          "end": 78.15,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 78.15,
+          "end": 78.28,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "es"
+        },
+        {
+          "value": "cara",
+          "start": 78.28,
+          "end": 78.6,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Shine",
+          "start": 78.7,
+          "end": 78.9,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "en"
+        },
+        {
+          "value": "on",
+          "start": 78.9,
+          "end": 79,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 79,
+          "end": 79.12,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "en"
+        },
+        {
+          "value": "face",
+          "start": 79.12,
+          "end": 79.45,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 80.14,
+      "end": 81.75,
+      "primary": "El tiempo se detiene",
+      "translation": "Time stops",
+      "words": [
+        {
+          "value": "El",
+          "start": 80.14,
+          "end": 80.3,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "es"
+        },
+        {
+          "value": "tiempo",
+          "start": 80.3,
+          "end": 80.55,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "es"
+        },
+        {
+          "value": "se",
+          "start": 80.55,
+          "end": 80.7,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "es"
+        },
+        {
+          "value": "detiene",
+          "start": 80.7,
+          "end": 81.1,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Time",
+          "start": 81.2,
+          "end": 81.45,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "en"
+        },
+        {
+          "value": "stops",
+          "start": 81.45,
+          "end": 81.75,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 82.3,
+      "end": 84.2,
+      "primary": "En este mismo lugar",
+      "translation": "In this exact place",
+      "words": [
+        {
+          "value": "En",
+          "start": 82.3,
+          "end": 82.5,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "es"
+        },
+        {
+          "value": "este",
+          "start": 82.5,
+          "end": 82.72,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "es"
+        },
+        {
+          "value": "mismo",
+          "start": 82.72,
+          "end": 82.95,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "es"
+        },
+        {
+          "value": "lugar",
+          "start": 82.95,
+          "end": 83.35,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 83.4,
+          "end": 83.52,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "en"
+        },
+        {
+          "value": "this",
+          "start": 83.52,
+          "end": 83.64,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "en"
+        },
+        {
+          "value": "exact",
+          "start": 83.64,
+          "end": 83.9,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "en"
+        },
+        {
+          "value": "place",
+          "start": 83.9,
+          "end": 84.2,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 85.1,
+      "end": 86.85,
+      "primary": "Ropa de diseño",
+      "translation": "Designer clothes",
+      "words": [
+        {
+          "value": "Ropa",
+          "start": 85.1,
+          "end": 85.45,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 85.45,
+          "end": 85.6,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "es"
+        },
+        {
+          "value": "diseño",
+          "start": 85.6,
+          "end": 86.05,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Designer",
+          "start": 86.1,
+          "end": 86.5,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "en"
+        },
+        {
+          "value": "clothes",
+          "start": 86.5,
+          "end": 86.85,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 87.5,
+      "end": 89.15,
+      "primary": "Corazón salvaje",
+      "translation": "Wild heart",
+      "words": [
+        {
+          "value": "Corazón",
+          "start": 87.5,
+          "end": 87.95,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "es"
+        },
+        {
+          "value": "salvaje",
+          "start": 87.95,
+          "end": 88.45,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Wild",
+          "start": 88.52,
+          "end": 88.85,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "en"
+        },
+        {
+          "value": "heart",
+          "start": 88.85,
+          "end": 89.15,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 89.9,
+      "end": 91.65,
+      "primary": "Comienza el viaje",
+      "translation": "Let's start",
+      "words": [
+        {
+          "value": "Comienza",
+          "start": 89.9,
+          "end": 90.4,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 90.4,
+          "end": 90.6,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "es"
+        },
+        {
+          "value": "viaje",
+          "start": 90.6,
+          "end": 91,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Let's",
+          "start": 91.05,
+          "end": 91.3,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "en"
+        },
+        {
+          "value": "start",
+          "start": 91.3,
+          "end": 91.65,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 95.3,
+      "end": 98.1,
+      "primary": "Fuego en mis manos",
+      "translation": "Fire in my hands",
+      "words": [
+        {
+          "value": "Fuego",
+          "start": 95.3,
+          "end": 95.8,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 95.8,
+          "end": 96,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "es"
+        },
+        {
+          "value": "mis",
+          "start": 96,
+          "end": 96.25,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "es"
+        },
+        {
+          "value": "manos",
+          "start": 96.25,
+          "end": 96.85,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Fire",
+          "start": 97.3,
+          "end": 97.6,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 97.6,
+          "end": 97.74,
+          "uncertain": false,
+          "sourceIndex": 172,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 97.74,
+          "end": 97.88,
+          "uncertain": false,
+          "sourceIndex": 173,
+          "language": "en"
+        },
+        {
+          "value": "hands",
+          "start": 97.88,
+          "end": 98.1,
+          "uncertain": false,
+          "sourceIndex": 174,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 100.1,
+      "end": 102.95,
+      "primary": "Sangre en mis venas",
+      "translation": "Blood in my veins",
+      "words": [
+        {
+          "value": "Sangre",
+          "start": 100.1,
+          "end": 100.55,
+          "uncertain": false,
+          "sourceIndex": 175,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 100.55,
+          "end": 100.78,
+          "uncertain": false,
+          "sourceIndex": 176,
+          "language": "es"
+        },
+        {
+          "value": "mis",
+          "start": 100.78,
+          "end": 101.05,
+          "uncertain": false,
+          "sourceIndex": 177,
+          "language": "es"
+        },
+        {
+          "value": "venas",
+          "start": 101.05,
+          "end": 101.6,
+          "uncertain": false,
+          "sourceIndex": 178,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Blood",
+          "start": 102.15,
+          "end": 102.4,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 102.4,
+          "end": 102.54,
+          "uncertain": false,
+          "sourceIndex": 180,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 102.54,
+          "end": 102.66,
+          "uncertain": false,
+          "sourceIndex": 181,
+          "language": "en"
+        },
+        {
+          "value": "veins",
+          "start": 102.66,
+          "end": 102.95,
+          "uncertain": false,
+          "sourceIndex": 182,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 104.6,
+      "end": 107.3,
+      "primary": "Mírame ahora",
+      "translation": "Look at me now Watch me go",
+      "words": [
+        {
+          "value": "Mírame",
+          "start": 104.6,
+          "end": 104.88,
+          "uncertain": false,
+          "sourceIndex": 183,
+          "language": "es"
+        },
+        {
+          "value": "ahora",
+          "start": 104.88,
+          "end": 105.28,
+          "uncertain": false,
+          "sourceIndex": 184,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Look",
+          "start": 105.3,
+          "end": 105.42,
+          "uncertain": false,
+          "sourceIndex": 185,
+          "language": "en"
+        },
+        {
+          "value": "at",
+          "start": 105.42,
+          "end": 105.52,
+          "uncertain": false,
+          "sourceIndex": 186,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 105.52,
+          "end": 105.65,
+          "uncertain": false,
+          "sourceIndex": 187,
+          "language": "en"
+        },
+        {
+          "value": "now",
+          "start": 105.65,
+          "end": 105.98,
+          "uncertain": false,
+          "sourceIndex": 188,
+          "language": "en"
+        },
+        {
+          "value": "Watch",
+          "start": 106.45,
+          "end": 106.7,
+          "uncertain": false,
+          "sourceIndex": 189,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 106.7,
+          "end": 106.9,
+          "uncertain": false,
+          "sourceIndex": 190,
+          "language": "en"
+        },
+        {
+          "value": "go",
+          "start": 106.9,
+          "end": 107.3,
+          "uncertain": false,
+          "sourceIndex": 191,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 108.15,
+      "end": 111.35,
+      "primary": "Dueña del destino",
+      "translation": "Owner of destiny Running the show",
+      "words": [
+        {
+          "value": "Dueña",
+          "start": 108.15,
+          "end": 108.45,
+          "uncertain": false,
+          "sourceIndex": 192,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 108.45,
+          "end": 108.6,
+          "uncertain": false,
+          "sourceIndex": 193,
+          "language": "es"
+        },
+        {
+          "value": "destino",
+          "start": 108.6,
+          "end": 109.05,
+          "uncertain": false,
+          "sourceIndex": 194,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Owner",
+          "start": 109.05,
+          "end": 109.25,
+          "uncertain": false,
+          "sourceIndex": 195,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 109.25,
+          "end": 109.4,
+          "uncertain": false,
+          "sourceIndex": 196,
+          "language": "en"
+        },
+        {
+          "value": "destiny",
+          "start": 109.4,
+          "end": 109.95,
+          "uncertain": false,
+          "sourceIndex": 197,
+          "language": "en"
+        },
+        {
+          "value": "Running",
+          "start": 110.45,
+          "end": 110.8,
+          "uncertain": false,
+          "sourceIndex": 198,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 110.8,
+          "end": 110.95,
+          "uncertain": false,
+          "sourceIndex": 199,
+          "language": "en"
+        },
+        {
+          "value": "show",
+          "start": 110.95,
+          "end": 111.35,
+          "uncertain": false,
+          "sourceIndex": 200,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 113.05,
+      "end": 117.7,
+      "primary": "Bailando en la sombra",
+      "translation": "Dancing in the shadow Out of the dark",
+      "words": [
+        {
+          "value": "Bailando",
+          "start": 113.05,
+          "end": 113.5,
+          "uncertain": false,
+          "sourceIndex": 201,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 113.5,
+          "end": 113.66,
+          "uncertain": false,
+          "sourceIndex": 202,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 113.66,
+          "end": 113.8,
+          "uncertain": false,
+          "sourceIndex": 203,
+          "language": "es"
+        },
+        {
+          "value": "sombra",
+          "start": 113.8,
+          "end": 114.2,
+          "uncertain": false,
+          "sourceIndex": 204,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Dancing",
+          "start": 115.05,
+          "end": 115.45,
+          "uncertain": false,
+          "sourceIndex": 205,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 115.45,
+          "end": 115.58,
+          "uncertain": false,
+          "sourceIndex": 206,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 115.58,
+          "end": 115.7,
+          "uncertain": false,
+          "sourceIndex": 207,
+          "language": "en"
+        },
+        {
+          "value": "shadow",
+          "start": 115.7,
+          "end": 116.05,
+          "uncertain": false,
+          "sourceIndex": 208,
+          "language": "en"
+        },
+        {
+          "value": "Out",
+          "start": 116.95,
+          "end": 117.15,
+          "uncertain": false,
+          "sourceIndex": 209,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 117.15,
+          "end": 117.28,
+          "uncertain": false,
+          "sourceIndex": 210,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 117.28,
+          "end": 117.4,
+          "uncertain": false,
+          "sourceIndex": 211,
+          "language": "en"
+        },
+        {
+          "value": "dark",
+          "start": 117.4,
+          "end": 117.7,
+          "uncertain": false,
+          "sourceIndex": 212,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 117.9,
+      "end": 120.95,
+      "primary": "Dejando mi marca",
+      "translation": "Leaving my mark",
+      "words": [
+        {
+          "value": "Dejando",
+          "start": 117.9,
+          "end": 118.35,
+          "uncertain": false,
+          "sourceIndex": 213,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 118.35,
+          "end": 118.55,
+          "uncertain": false,
+          "sourceIndex": 214,
+          "language": "es"
+        },
+        {
+          "value": "marca",
+          "start": 118.55,
+          "end": 119.1,
+          "uncertain": false,
+          "sourceIndex": 215,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Leaving",
+          "start": 120.05,
+          "end": 120.4,
+          "uncertain": false,
+          "sourceIndex": 216,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 120.4,
+          "end": 120.55,
+          "uncertain": false,
+          "sourceIndex": 217,
+          "language": "en"
+        },
+        {
+          "value": "mark",
+          "start": 120.55,
+          "end": 120.95,
+          "uncertain": false,
+          "sourceIndex": 218,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 124.2,
+      "end": 127.55,
+      "primary": "La vida es un sueño",
+      "translation": "Life is a dream Wake me up",
+      "words": [
+        {
+          "value": "La",
+          "start": 124.2,
+          "end": 124.34,
+          "uncertain": false,
+          "sourceIndex": 219,
+          "language": "es"
+        },
+        {
+          "value": "vida",
+          "start": 124.34,
+          "end": 124.6,
+          "uncertain": false,
+          "sourceIndex": 220,
+          "language": "es"
+        },
+        {
+          "value": "es",
+          "start": 124.6,
+          "end": 124.75,
+          "uncertain": false,
+          "sourceIndex": 221,
+          "language": "es"
+        },
+        {
+          "value": "un",
+          "start": 124.75,
+          "end": 124.9,
+          "uncertain": false,
+          "sourceIndex": 222,
+          "language": "es"
+        },
+        {
+          "value": "sueño",
+          "start": 124.9,
+          "end": 125.45,
+          "uncertain": false,
+          "sourceIndex": 223,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Life",
+          "start": 125.65,
+          "end": 125.85,
+          "uncertain": false,
+          "sourceIndex": 224,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 125.85,
+          "end": 126,
+          "uncertain": false,
+          "sourceIndex": 225,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 126,
+          "end": 126.1,
+          "uncertain": false,
+          "sourceIndex": 226,
+          "language": "en"
+        },
+        {
+          "value": "dream",
+          "start": 126.1,
+          "end": 126.5,
+          "uncertain": false,
+          "sourceIndex": 227,
+          "language": "en"
+        },
+        {
+          "value": "Wake",
+          "start": 126.75,
+          "end": 127.1,
+          "uncertain": false,
+          "sourceIndex": 228,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 127.1,
+          "end": 127.25,
+          "uncertain": false,
+          "sourceIndex": 229,
+          "language": "en"
+        },
+        {
+          "value": "up",
+          "start": 127.25,
+          "end": 127.55,
+          "uncertain": false,
+          "sourceIndex": 230,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 128.45,
+      "end": 132.5,
+      "primary": "Un juego de azar",
+      "translation": "Game of chance Push your luck",
+      "words": [
+        {
+          "value": "Un",
+          "start": 128.45,
+          "end": 128.62,
+          "uncertain": false,
+          "sourceIndex": 231,
+          "language": "es"
+        },
+        {
+          "value": "juego",
+          "start": 128.62,
+          "end": 129,
+          "uncertain": false,
+          "sourceIndex": 232,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 129,
+          "end": 129.15,
+          "uncertain": false,
+          "sourceIndex": 233,
+          "language": "es"
+        },
+        {
+          "value": "azar",
+          "start": 129.15,
+          "end": 129.6,
+          "uncertain": false,
+          "sourceIndex": 234,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Game",
+          "start": 130.5,
+          "end": 130.7,
+          "uncertain": false,
+          "sourceIndex": 235,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 130.7,
+          "end": 130.82,
+          "uncertain": false,
+          "sourceIndex": 236,
+          "language": "en"
+        },
+        {
+          "value": "chance",
+          "start": 130.82,
+          "end": 131.2,
+          "uncertain": false,
+          "sourceIndex": 237,
+          "language": "en"
+        },
+        {
+          "value": "Push",
+          "start": 131.7,
+          "end": 131.95,
+          "uncertain": false,
+          "sourceIndex": 238,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 131.95,
+          "end": 132.1,
+          "uncertain": false,
+          "sourceIndex": 239,
+          "language": "en"
+        },
+        {
+          "value": "luck",
+          "start": 132.1,
+          "end": 132.5,
+          "uncertain": false,
+          "sourceIndex": 240,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 133.1,
+      "end": 137.4,
+      "primary": "Aprende a volar",
+      "translation": "Learn to fly To the sky",
+      "words": [
+        {
+          "value": "Aprende",
+          "start": 133.1,
+          "end": 133.55,
+          "uncertain": false,
+          "sourceIndex": 241,
+          "language": "es"
+        },
+        {
+          "value": "a",
+          "start": 133.55,
+          "end": 133.68,
+          "uncertain": false,
+          "sourceIndex": 242,
+          "language": "es"
+        },
+        {
+          "value": "volar",
+          "start": 133.68,
+          "end": 134.05,
+          "uncertain": false,
+          "sourceIndex": 243,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Learn",
+          "start": 135.1,
+          "end": 135.35,
+          "uncertain": false,
+          "sourceIndex": 244,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 135.35,
+          "end": 135.48,
+          "uncertain": false,
+          "sourceIndex": 245,
+          "language": "en"
+        },
+        {
+          "value": "fly",
+          "start": 135.48,
+          "end": 135.9,
+          "uncertain": false,
+          "sourceIndex": 246,
+          "language": "en"
+        },
+        {
+          "value": "To",
+          "start": 136.75,
+          "end": 136.9,
+          "uncertain": false,
+          "sourceIndex": 247,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 136.9,
+          "end": 137.02,
+          "uncertain": false,
+          "sourceIndex": 248,
+          "language": "en"
+        },
+        {
+          "value": "sky",
+          "start": 137.02,
+          "end": 137.4,
+          "uncertain": false,
+          "sourceIndex": 249,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-32",
+      "start": 137.55,
+      "end": 138.9,
+      "primary": "O aprende a llorar",
+      "translation": "",
+      "words": [
+        {
+          "value": "O",
+          "start": 137.55,
+          "end": 137.7,
+          "uncertain": false,
+          "sourceIndex": 250,
+          "language": "es"
+        },
+        {
+          "value": "aprende",
+          "start": 137.7,
+          "end": 138.15,
+          "uncertain": false,
+          "sourceIndex": 251,
+          "language": "es"
+        },
+        {
+          "value": "a",
+          "start": 138.15,
+          "end": 138.3,
+          "uncertain": false,
+          "sourceIndex": 252,
+          "language": "es"
+        },
+        {
+          "value": "llorar",
+          "start": 138.3,
+          "end": 138.9,
+          "uncertain": false,
+          "sourceIndex": 253,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-33",
+      "start": 164.65,
+      "end": 167.3,
+      "primary": "Mírame ahora",
+      "translation": "Look at me now Watch me go",
+      "words": [
+        {
+          "value": "Mírame",
+          "start": 164.65,
+          "end": 164.95,
+          "uncertain": false,
+          "sourceIndex": 254,
+          "language": "es"
+        },
+        {
+          "value": "ahora",
+          "start": 164.95,
+          "end": 165.35,
+          "uncertain": false,
+          "sourceIndex": 255,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Look",
+          "start": 165.35,
+          "end": 165.48,
+          "uncertain": false,
+          "sourceIndex": 256,
+          "language": "en"
+        },
+        {
+          "value": "at",
+          "start": 165.48,
+          "end": 165.6,
+          "uncertain": false,
+          "sourceIndex": 257,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 165.6,
+          "end": 165.72,
+          "uncertain": false,
+          "sourceIndex": 258,
+          "language": "en"
+        },
+        {
+          "value": "now",
+          "start": 165.72,
+          "end": 166.05,
+          "uncertain": false,
+          "sourceIndex": 259,
+          "language": "en"
+        },
+        {
+          "value": "Watch",
+          "start": 166.5,
+          "end": 166.75,
+          "uncertain": false,
+          "sourceIndex": 260,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 166.75,
+          "end": 166.9,
+          "uncertain": false,
+          "sourceIndex": 261,
+          "language": "en"
+        },
+        {
+          "value": "go",
+          "start": 166.9,
+          "end": 167.3,
+          "uncertain": false,
+          "sourceIndex": 262,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-34",
+      "start": 168.2,
+      "end": 171.45,
+      "primary": "Dueña del destino",
+      "translation": "Owner of destiny Running the show",
+      "words": [
+        {
+          "value": "Dueña",
+          "start": 168.2,
+          "end": 168.5,
+          "uncertain": false,
+          "sourceIndex": 263,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 168.5,
+          "end": 168.65,
+          "uncertain": false,
+          "sourceIndex": 264,
+          "language": "es"
+        },
+        {
+          "value": "destino",
+          "start": 168.65,
+          "end": 169.1,
+          "uncertain": false,
+          "sourceIndex": 265,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Owner",
+          "start": 169.1,
+          "end": 169.3,
+          "uncertain": false,
+          "sourceIndex": 266,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 169.3,
+          "end": 169.42,
+          "uncertain": false,
+          "sourceIndex": 267,
+          "language": "en"
+        },
+        {
+          "value": "destiny",
+          "start": 169.42,
+          "end": 169.95,
+          "uncertain": false,
+          "sourceIndex": 268,
+          "language": "en"
+        },
+        {
+          "value": "Running",
+          "start": 170.55,
+          "end": 170.9,
+          "uncertain": false,
+          "sourceIndex": 269,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 170.9,
+          "end": 171.05,
+          "uncertain": false,
+          "sourceIndex": 270,
+          "language": "en"
+        },
+        {
+          "value": "show",
+          "start": 171.05,
+          "end": 171.45,
+          "uncertain": false,
+          "sourceIndex": 271,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-35",
+      "start": 173,
+      "end": 177.75,
+      "primary": "Bailando en la sombra",
+      "translation": "Dancing in the shadow Out of the dark",
+      "words": [
+        {
+          "value": "Bailando",
+          "start": 173,
+          "end": 173.45,
+          "uncertain": false,
+          "sourceIndex": 272,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 173.45,
+          "end": 173.6,
+          "uncertain": false,
+          "sourceIndex": 273,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 173.6,
+          "end": 173.75,
+          "uncertain": false,
+          "sourceIndex": 274,
+          "language": "es"
+        },
+        {
+          "value": "sombra",
+          "start": 173.75,
+          "end": 174.2,
+          "uncertain": false,
+          "sourceIndex": 275,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Dancing",
+          "start": 175.05,
+          "end": 175.45,
+          "uncertain": false,
+          "sourceIndex": 276,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 175.45,
+          "end": 175.58,
+          "uncertain": false,
+          "sourceIndex": 277,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 175.58,
+          "end": 175.7,
+          "uncertain": false,
+          "sourceIndex": 278,
+          "language": "en"
+        },
+        {
+          "value": "shadow",
+          "start": 175.7,
+          "end": 176.05,
+          "uncertain": false,
+          "sourceIndex": 279,
+          "language": "en"
+        },
+        {
+          "value": "Out",
+          "start": 176.95,
+          "end": 177.15,
+          "uncertain": false,
+          "sourceIndex": 280,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 177.15,
+          "end": 177.28,
+          "uncertain": false,
+          "sourceIndex": 281,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 177.28,
+          "end": 177.45,
+          "uncertain": false,
+          "sourceIndex": 282,
+          "language": "en"
+        },
+        {
+          "value": "dark",
+          "start": 177.45,
+          "end": 177.75,
+          "uncertain": false,
+          "sourceIndex": 283,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-36",
+      "start": 177.85,
+      "end": 180.95,
+      "primary": "Dejando mi marca",
+      "translation": "Leaving my mark",
+      "words": [
+        {
+          "value": "Dejando",
+          "start": 177.85,
+          "end": 178.3,
+          "uncertain": false,
+          "sourceIndex": 284,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 178.3,
+          "end": 178.55,
+          "uncertain": false,
+          "sourceIndex": 285,
+          "language": "es"
+        },
+        {
+          "value": "marca",
+          "start": 178.55,
+          "end": 179.1,
+          "uncertain": false,
+          "sourceIndex": 286,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Leaving",
+          "start": 180.05,
+          "end": 180.4,
+          "uncertain": false,
+          "sourceIndex": 287,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 180.4,
+          "end": 180.55,
+          "uncertain": false,
+          "sourceIndex": 288,
+          "language": "en"
+        },
+        {
+          "value": "mark",
+          "start": 180.55,
+          "end": 180.95,
+          "uncertain": false,
+          "sourceIndex": 289,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-37",
+      "start": 181.8,
+      "end": 186.4,
+      "primary": "Mi marca",
+      "translation": "It's over",
+      "words": [
+        {
+          "value": "Mi",
+          "start": 181.8,
+          "end": 182.05,
+          "uncertain": false,
+          "sourceIndex": 290,
+          "language": "es"
+        },
+        {
+          "value": "marca",
+          "start": 182.05,
+          "end": 182.6,
+          "uncertain": false,
+          "sourceIndex": 291,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "It's",
+          "start": 185.7,
+          "end": 185.95,
+          "uncertain": false,
+          "sourceIndex": 292,
+          "language": "en"
+        },
+        {
+          "value": "over",
+          "start": 185.95,
+          "end": 186.4,
+          "uncertain": false,
+          "sourceIndex": 293,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-38",
+      "start": 189.1,
+      "end": 191.8,
+      "primary": "Adiós",
+      "translation": "Goodbye",
+      "words": [
+        {
+          "value": "Adiós",
+          "start": 189.1,
+          "end": 189.7,
+          "uncertain": false,
+          "sourceIndex": 294,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Goodbye",
+          "start": 191.1,
+          "end": 191.8,
+          "uncertain": false,
+          "sourceIndex": 295,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}
