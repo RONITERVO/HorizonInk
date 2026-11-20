@@ -1,0 +1,1946 @@
+[
+  {
+    "text": "Listen",
+    "start": 9.35,
+    "end": 9.85,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "to",
+    "start": 9.85,
+    "end": 10.05,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 10.05,
+    "end": 10.25,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "rain",
+    "start": 10.25,
+    "end": 11.2,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "Listen",
+    "start": 20.25,
+    "end": 20.8,
+    "language": "en",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "to",
+    "start": 20.8,
+    "end": 21,
+    "language": "en",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 21,
+    "end": 21.2,
+    "language": "en",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "rain",
+    "start": 21.2,
+    "end": 22,
+    "language": "en",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "夜",
+    "start": 24.3,
+    "end": 24.6,
+    "language": "es",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "色",
+    "start": 24.6,
+    "end": 24.9,
+    "language": "es",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "已",
+    "start": 24.9,
+    "end": 25.1,
+    "language": "es",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "深",
+    "start": 25.1,
+    "end": 25.5,
+    "language": "es",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 25.6,
+    "end": 25.75,
+    "language": "en",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "night",
+    "start": 25.75,
+    "end": 26.05,
+    "language": "en",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "is",
+    "start": 26.05,
+    "end": 26.25,
+    "language": "en",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "deep",
+    "start": 26.25,
+    "end": 26.8,
+    "language": "en",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "泡",
+    "start": 27.2,
+    "end": 27.5,
+    "language": "es",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "一",
+    "start": 27.5,
+    "end": 27.65,
+    "language": "es",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "杯",
+    "start": 27.65,
+    "end": 27.85,
+    "language": "es",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "茶",
+    "start": 27.85,
+    "end": 28.3,
+    "language": "es",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "Brew",
+    "start": 28.5,
+    "end": 28.8,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "a",
+    "start": 28.8,
+    "end": 28.9,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "cup",
+    "start": 28.9,
+    "end": 29.1,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 29.1,
+    "end": 29.2,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "tea",
+    "start": 29.2,
+    "end": 29.7,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "看",
+    "start": 30.1,
+    "end": 30.3,
+    "language": "es",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "着",
+    "start": 30.3,
+    "end": 30.5,
+    "language": "es",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "窗",
+    "start": 30.5,
+    "end": 30.8,
+    "language": "es",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "外",
+    "start": 30.8,
+    "end": 31.2,
+    "language": "es",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "Looking",
+    "start": 31.4,
+    "end": 31.7,
+    "language": "en",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "out",
+    "start": 31.7,
+    "end": 31.9,
+    "language": "en",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 31.9,
+    "end": 32,
+    "language": "en",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "window",
+    "start": 32,
+    "end": 32.7,
+    "language": "en",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "雨",
+    "start": 33,
+    "end": 33.2,
+    "language": "es",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "滴",
+    "start": 33.2,
+    "end": 33.4,
+    "language": "es",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "落",
+    "start": 33.4,
+    "end": 33.6,
+    "language": "es",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "下",
+    "start": 33.6,
+    "end": 34,
+    "language": "es",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "Raindrops",
+    "start": 34.2,
+    "end": 34.8,
+    "language": "en",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "falling",
+    "start": 34.8,
+    "end": 35.4,
+    "language": "en",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "时",
+    "start": 35.8,
+    "end": 36.1,
+    "language": "es",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "间",
+    "start": 36.1,
+    "end": 36.3,
+    "language": "es",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "很",
+    "start": 36.3,
+    "end": 36.5,
+    "language": "es",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "慢",
+    "start": 36.5,
+    "end": 37,
+    "language": "es",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "Time",
+    "start": 37.1,
+    "end": 37.4,
+    "language": "en",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "is",
+    "start": 37.4,
+    "end": 37.55,
+    "language": "en",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "very",
+    "start": 37.55,
+    "end": 37.85,
+    "language": "en",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "slow",
+    "start": 37.85,
+    "end": 38.3,
+    "language": "en",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "世",
+    "start": 38.6,
+    "end": 38.9,
+    "language": "es",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "界",
+    "start": 38.9,
+    "end": 39.1,
+    "language": "es",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "很",
+    "start": 39.1,
+    "end": 39.3,
+    "language": "es",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "静",
+    "start": 39.3,
+    "end": 39.7,
+    "language": "es",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 39.8,
+    "end": 39.95,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "world",
+    "start": 39.95,
+    "end": 40.25,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "is",
+    "start": 40.25,
+    "end": 40.4,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "very",
+    "start": 40.4,
+    "end": 40.7,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "quiet",
+    "start": 40.7,
+    "end": 41.2,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "在",
+    "start": 41.5,
+    "end": 41.7,
+    "language": "es",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "月",
+    "start": 41.7,
+    "end": 41.9,
+    "language": "es",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "光",
+    "start": 41.9,
+    "end": 42.1,
+    "language": "es",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "下",
+    "start": 42.1,
+    "end": 42.6,
+    "language": "es",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "Under",
+    "start": 42.7,
+    "end": 43.1,
+    "language": "en",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 43.1,
+    "end": 43.2,
+    "language": "en",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "moonlight",
+    "start": 43.2,
+    "end": 43.9,
+    "language": "en",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "我",
+    "start": 44.2,
+    "end": 44.4,
+    "language": "es",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "的",
+    "start": 44.4,
+    "end": 44.6,
+    "language": "es",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "倒",
+    "start": 44.6,
+    "end": 44.8,
+    "language": "es",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "影",
+    "start": 44.8,
+    "end": 45.4,
+    "language": "es",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "My",
+    "start": 45.5,
+    "end": 45.8,
+    "language": "en",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "reflection",
+    "start": 45.8,
+    "end": 46.5,
+    "language": "en",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "放",
+    "start": 47.1,
+    "end": 47.4,
+    "language": "es",
+    "phrase_id": "p019",
+    "uncertain": false
+  },
+  {
+    "text": "下",
+    "start": 47.4,
+    "end": 47.6,
+    "language": "es",
+    "phrase_id": "p019",
+    "uncertain": false
+  },
+  {
+    "text": "过",
+    "start": 47.6,
+    "end": 47.8,
+    "language": "es",
+    "phrase_id": "p019",
+    "uncertain": false
+  },
+  {
+    "text": "去",
+    "start": 47.8,
+    "end": 48.5,
+    "language": "es",
+    "phrase_id": "p019",
+    "uncertain": false
+  },
+  {
+    "text": "Let",
+    "start": 48.6,
+    "end": 48.85,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "go",
+    "start": 48.85,
+    "end": 49.1,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 49.1,
+    "end": 49.2,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 49.2,
+    "end": 49.3,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "past",
+    "start": 49.3,
+    "end": 49.9,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "Breathe",
+    "start": 50.1,
+    "end": 50.4,
+    "language": "en",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "it",
+    "start": 50.4,
+    "end": 50.6,
+    "language": "en",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "out",
+    "start": 50.6,
+    "end": 51.5,
+    "language": "en",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "没",
+    "start": 52.8,
+    "end": 53,
+    "language": "es",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "有",
+    "start": 53,
+    "end": 53.2,
+    "language": "es",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "疑",
+    "start": 53.2,
+    "end": 53.4,
+    "language": "es",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "问",
+    "start": 53.4,
+    "end": 54.2,
+    "language": "es",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "No",
+    "start": 54.3,
+    "end": 54.6,
+    "language": "en",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "doubts",
+    "start": 54.6,
+    "end": 55.4,
+    "language": "en",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "Without",
+    "start": 55.8,
+    "end": 56.4,
+    "language": "en",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "a",
+    "start": 56.4,
+    "end": 56.5,
+    "language": "en",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "doubt",
+    "start": 56.5,
+    "end": 57.5,
+    "language": "en",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "进",
+    "start": 58.5,
+    "end": 58.7,
+    "language": "es",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "入",
+    "start": 58.7,
+    "end": 58.9,
+    "language": "es",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "梦",
+    "start": 58.9,
+    "end": 59.2,
+    "language": "es",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "乡",
+    "start": 59.2,
+    "end": 60,
+    "language": "es",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "Enter",
+    "start": 60.05,
+    "end": 60.4,
+    "language": "en",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "dreamland",
+    "start": 60.4,
+    "end": 61.2,
+    "language": "en",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "Close",
+    "start": 61.3,
+    "end": 61.6,
+    "language": "en",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "your",
+    "start": 61.6,
+    "end": 61.8,
+    "language": "en",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "eyes",
+    "start": 61.8,
+    "end": 62.5,
+    "language": "en",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "满",
+    "start": 62.6,
+    "end": 62.8,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "天",
+    "start": 62.8,
+    "end": 63,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "繁",
+    "start": 63,
+    "end": 63.2,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "星",
+    "start": 63.2,
+    "end": 64,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "Sky",
+    "start": 64.1,
+    "end": 64.4,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "full",
+    "start": 64.4,
+    "end": 64.6,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 64.6,
+    "end": 64.7,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "stars",
+    "start": 64.7,
+    "end": 65.5,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "In",
+    "start": 65.6,
+    "end": 65.8,
+    "language": "en",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 65.8,
+    "end": 65.9,
+    "language": "en",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "skies",
+    "start": 65.9,
+    "end": 67,
+    "language": "en",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "一",
+    "start": 69.5,
+    "end": 69.7,
+    "language": "es",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "场",
+    "start": 69.7,
+    "end": 69.9,
+    "language": "es",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "好",
+    "start": 69.9,
+    "end": 70.1,
+    "language": "es",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "梦",
+    "start": 70.1,
+    "end": 70.8,
+    "language": "es",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "A",
+    "start": 70.9,
+    "end": 71.05,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "good",
+    "start": 71.05,
+    "end": 71.3,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "dream",
+    "start": 71.3,
+    "end": 72,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "Drift",
+    "start": 72.1,
+    "end": 72.5,
+    "language": "en",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "away",
+    "start": 72.5,
+    "end": 73.2,
+    "language": "en",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "Drift",
+    "start": 73.3,
+    "end": 73.7,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "away",
+    "start": 73.7,
+    "end": 74.5,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "等",
+    "start": 75.3,
+    "end": 75.5,
+    "language": "es",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "待",
+    "start": 75.5,
+    "end": 75.7,
+    "language": "es",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "明",
+    "start": 75.7,
+    "end": 75.9,
+    "language": "es",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "天",
+    "start": 75.9,
+    "end": 76.5,
+    "language": "es",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "Waiting",
+    "start": 76.8,
+    "end": 77.2,
+    "language": "en",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "for",
+    "start": 77.2,
+    "end": 77.3,
+    "language": "en",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "tomorrow",
+    "start": 77.3,
+    "end": 78.5,
+    "language": "en",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "灯",
+    "start": 103.3,
+    "end": 103.6,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "光",
+    "start": 103.6,
+    "end": 103.8,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "温",
+    "start": 103.8,
+    "end": 104,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "暖",
+    "start": 104,
+    "end": 104.6,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 104.7,
+    "end": 104.85,
+    "language": "en",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "light",
+    "start": 104.85,
+    "end": 105.15,
+    "language": "en",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "is",
+    "start": 105.15,
+    "end": 105.35,
+    "language": "en",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "warm",
+    "start": 105.35,
+    "end": 106,
+    "language": "en",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "书",
+    "start": 106.3,
+    "end": 106.5,
+    "language": "es",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "本",
+    "start": 106.5,
+    "end": 106.7,
+    "language": "es",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "翻",
+    "start": 106.7,
+    "end": 106.9,
+    "language": "es",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "开",
+    "start": 106.9,
+    "end": 107.5,
+    "language": "es",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 107.6,
+    "end": 107.75,
+    "language": "en",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "book",
+    "start": 107.75,
+    "end": 108.05,
+    "language": "en",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "is",
+    "start": 108.05,
+    "end": 108.2,
+    "language": "en",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "opened",
+    "start": 108.2,
+    "end": 108.8,
+    "language": "en",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "思",
+    "start": 109.2,
+    "end": 109.4,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "绪",
+    "start": 109.4,
+    "end": 109.6,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "飘",
+    "start": 109.6,
+    "end": 109.8,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "远",
+    "start": 109.8,
+    "end": 110.4,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "Thoughts",
+    "start": 110.5,
+    "end": 110.8,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "drift",
+    "start": 110.8,
+    "end": 111.1,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "far",
+    "start": 111.1,
+    "end": 111.8,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "到",
+    "start": 112.1,
+    "end": 112.3,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "了",
+    "start": 112.3,
+    "end": 112.5,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "窗",
+    "start": 112.5,
+    "end": 112.7,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "外",
+    "start": 112.7,
+    "end": 113.3,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "To",
+    "start": 113.4,
+    "end": 113.6,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "outside",
+    "start": 113.6,
+    "end": 114.1,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 114.1,
+    "end": 114.25,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "window",
+    "start": 114.25,
+    "end": 114.8,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "听",
+    "start": 115,
+    "end": 115.2,
+    "language": "es",
+    "phrase_id": "p045",
+    "uncertain": false
+  },
+  {
+    "text": "着",
+    "start": 115.2,
+    "end": 115.4,
+    "language": "es",
+    "phrase_id": "p045",
+    "uncertain": false
+  },
+  {
+    "text": "雨",
+    "start": 115.4,
+    "end": 115.6,
+    "language": "es",
+    "phrase_id": "p045",
+    "uncertain": false
+  },
+  {
+    "text": "声",
+    "start": 115.6,
+    "end": 116.1,
+    "language": "es",
+    "phrase_id": "p045",
+    "uncertain": false
+  },
+  {
+    "text": "Listening",
+    "start": 116.2,
+    "end": 116.8,
+    "language": "en",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "to",
+    "start": 116.8,
+    "end": 116.9,
+    "language": "en",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 116.9,
+    "end": 117,
+    "language": "en",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "sound",
+    "start": 117,
+    "end": 117.4,
+    "language": "en",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 117.4,
+    "end": 117.5,
+    "language": "en",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "rain",
+    "start": 117.5,
+    "end": 118,
+    "language": "en",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "洗",
+    "start": 118.2,
+    "end": 118.4,
+    "language": "es",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "涤",
+    "start": 118.4,
+    "end": 118.6,
+    "language": "es",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "灵",
+    "start": 118.6,
+    "end": 118.8,
+    "language": "es",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "魂",
+    "start": 118.8,
+    "end": 119.3,
+    "language": "es",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "Washing",
+    "start": 119.4,
+    "end": 119.9,
+    "language": "en",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 119.9,
+    "end": 120,
+    "language": "en",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "soul",
+    "start": 120,
+    "end": 120.6,
+    "language": "en",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "这",
+    "start": 120.9,
+    "end": 121.1,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "个",
+    "start": 121.1,
+    "end": 121.3,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "夜",
+    "start": 121.3,
+    "end": 121.5,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "晚",
+    "start": 121.5,
+    "end": 122,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "This",
+    "start": 122.1,
+    "end": 122.35,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "night",
+    "start": 122.35,
+    "end": 123,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "无",
+    "start": 123.8,
+    "end": 124,
+    "language": "es",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "比",
+    "start": 124,
+    "end": 124.2,
+    "language": "es",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "安",
+    "start": 124.2,
+    "end": 124.5,
+    "language": "es",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "稳",
+    "start": 124.5,
+    "end": 125.3,
+    "language": "es",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "Incredibly",
+    "start": 125.4,
+    "end": 126.1,
+    "language": "en",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "peaceful",
+    "start": 126.1,
+    "end": 126.8,
+    "language": "en",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "放",
+    "start": 126.8,
+    "end": 127.1,
+    "language": "es",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "下",
+    "start": 127.1,
+    "end": 127.3,
+    "language": "es",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "过",
+    "start": 127.3,
+    "end": 127.5,
+    "language": "es",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "去",
+    "start": 127.5,
+    "end": 128,
+    "language": "es",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "Let",
+    "start": 128.2,
+    "end": 128.4,
+    "language": "en",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "go",
+    "start": 128.4,
+    "end": 128.6,
+    "language": "en",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 128.6,
+    "end": 128.7,
+    "language": "en",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 128.7,
+    "end": 128.8,
+    "language": "en",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "past",
+    "start": 128.8,
+    "end": 129.5,
+    "language": "en",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "Breathe",
+    "start": 129.6,
+    "end": 130,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "it",
+    "start": 130,
+    "end": 130.2,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "out",
+    "start": 130.2,
+    "end": 131,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "没",
+    "start": 132.3,
+    "end": 132.5,
+    "language": "es",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "有",
+    "start": 132.5,
+    "end": 132.7,
+    "language": "es",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "疑",
+    "start": 132.7,
+    "end": 133,
+    "language": "es",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "问",
+    "start": 133,
+    "end": 133.8,
+    "language": "es",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "No",
+    "start": 133.9,
+    "end": 134.2,
+    "language": "en",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "doubts",
+    "start": 134.2,
+    "end": 135,
+    "language": "en",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "Without",
+    "start": 135.4,
+    "end": 136,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "a",
+    "start": 136,
+    "end": 136.15,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "doubt",
+    "start": 136.15,
+    "end": 137,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "进",
+    "start": 138.1,
+    "end": 138.3,
+    "language": "es",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "入",
+    "start": 138.3,
+    "end": 138.5,
+    "language": "es",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "梦",
+    "start": 138.5,
+    "end": 138.8,
+    "language": "es",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "乡",
+    "start": 138.8,
+    "end": 139.6,
+    "language": "es",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "Enter",
+    "start": 139.7,
+    "end": 140,
+    "language": "en",
+    "phrase_id": "p060",
+    "uncertain": false
+  },
+  {
+    "text": "dreamland",
+    "start": 140,
+    "end": 140.8,
+    "language": "en",
+    "phrase_id": "p060",
+    "uncertain": false
+  },
+  {
+    "text": "Close",
+    "start": 140.9,
+    "end": 141.2,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "your",
+    "start": 141.2,
+    "end": 141.4,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "eyes",
+    "start": 141.4,
+    "end": 142.1,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "满",
+    "start": 142.2,
+    "end": 142.4,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": false
+  },
+  {
+    "text": "天",
+    "start": 142.4,
+    "end": 142.6,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": false
+  },
+  {
+    "text": "繁",
+    "start": 142.6,
+    "end": 142.8,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": false
+  },
+  {
+    "text": "星",
+    "start": 142.8,
+    "end": 143.5,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": false
+  },
+  {
+    "text": "Sky",
+    "start": 143.6,
+    "end": 143.9,
+    "language": "en",
+    "phrase_id": "p063",
+    "uncertain": false
+  },
+  {
+    "text": "full",
+    "start": 143.9,
+    "end": 144.1,
+    "language": "en",
+    "phrase_id": "p063",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 144.1,
+    "end": 144.2,
+    "language": "en",
+    "phrase_id": "p063",
+    "uncertain": false
+  },
+  {
+    "text": "stars",
+    "start": 144.2,
+    "end": 145,
+    "language": "en",
+    "phrase_id": "p063",
+    "uncertain": false
+  },
+  {
+    "text": "In",
+    "start": 145.1,
+    "end": 145.3,
+    "language": "en",
+    "phrase_id": "p064",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 145.3,
+    "end": 145.45,
+    "language": "en",
+    "phrase_id": "p064",
+    "uncertain": false
+  },
+  {
+    "text": "skies",
+    "start": 145.45,
+    "end": 146.5,
+    "language": "en",
+    "phrase_id": "p064",
+    "uncertain": false
+  },
+  {
+    "text": "很",
+    "start": 161.8,
+    "end": 162,
+    "language": "es",
+    "phrase_id": "p065",
+    "uncertain": false
+  },
+  {
+    "text": "累",
+    "start": 162,
+    "end": 162.3,
+    "language": "es",
+    "phrase_id": "p065",
+    "uncertain": false
+  },
+  {
+    "text": "了",
+    "start": 162.3,
+    "end": 162.8,
+    "language": "es",
+    "phrase_id": "p065",
+    "uncertain": false
+  },
+  {
+    "text": "Very",
+    "start": 163.5,
+    "end": 163.8,
+    "language": "en",
+    "phrase_id": "p066",
+    "uncertain": false
+  },
+  {
+    "text": "tired",
+    "start": 163.8,
+    "end": 164.5,
+    "language": "en",
+    "phrase_id": "p066",
+    "uncertain": false
+  },
+  {
+    "text": "晚",
+    "start": 167.3,
+    "end": 167.7,
+    "language": "es",
+    "phrase_id": "p067",
+    "uncertain": false
+  },
+  {
+    "text": "安",
+    "start": 167.7,
+    "end": 168.2,
+    "language": "es",
+    "phrase_id": "p067",
+    "uncertain": false
+  },
+  {
+    "text": "Good",
+    "start": 168.4,
+    "end": 168.7,
+    "language": "en",
+    "phrase_id": "p068",
+    "uncertain": false
+  },
+  {
+    "text": "night",
+    "start": 168.7,
+    "end": 169.3,
+    "language": "en",
+    "phrase_id": "p068",
+    "uncertain": false
+  },
+  {
+    "text": "做",
+    "start": 176.6,
+    "end": 176.9,
+    "language": "es",
+    "phrase_id": "p069",
+    "uncertain": false
+  },
+  {
+    "text": "个",
+    "start": 176.9,
+    "end": 177.1,
+    "language": "es",
+    "phrase_id": "p069",
+    "uncertain": false
+  },
+  {
+    "text": "好",
+    "start": 177.1,
+    "end": 177.3,
+    "language": "es",
+    "phrase_id": "p069",
+    "uncertain": false
+  },
+  {
+    "text": "梦",
+    "start": 177.3,
+    "end": 178,
+    "language": "es",
+    "phrase_id": "p069",
+    "uncertain": false
+  },
+  {
+    "text": "Peace",
+    "start": 180.2,
+    "end": 181,
+    "language": "en",
+    "phrase_id": "p070",
+    "uncertain": false
+  }
+]

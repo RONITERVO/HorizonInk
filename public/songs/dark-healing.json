@@ -1,0 +1,1242 @@
+[
+  {
+    "text": "Time",
+    "start": 8.9,
+    "end": 9.2,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "to",
+    "start": 9.2,
+    "end": 9.6,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "rest...",
+    "start": 9.6,
+    "end": 10.6,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "Cae",
+    "start": 18.6,
+    "end": 19,
+    "language": "es",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "la",
+    "start": 19,
+    "end": 19.3,
+    "language": "es",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "nieve",
+    "start": 19.3,
+    "end": 20.8,
+    "language": "es",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "Viene",
+    "start": 22,
+    "end": 22.5,
+    "language": "es",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "el",
+    "start": 22.5,
+    "end": 22.8,
+    "language": "es",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "frío",
+    "start": 22.8,
+    "end": 24.3,
+    "language": "es",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "La",
+    "start": 25.5,
+    "end": 25.8,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "gran",
+    "start": 25.8,
+    "end": 26.2,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "montaña",
+    "start": 26.2,
+    "end": 28.3,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "Es",
+    "start": 29,
+    "end": 29.3,
+    "language": "es",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "hogar",
+    "start": 29.3,
+    "end": 29.9,
+    "language": "es",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "mío",
+    "start": 29.9,
+    "end": 31,
+    "language": "es",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "Is",
+    "start": 31,
+    "end": 31.2,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": true
+  },
+  {
+    "text": "my",
+    "start": 31.2,
+    "end": 31.4,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": true
+  },
+  {
+    "text": "home",
+    "start": 31.4,
+    "end": 32.5,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": true
+  },
+  {
+    "text": "Cierro",
+    "start": 32.8,
+    "end": 33.3,
+    "language": "es",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "los",
+    "start": 33.3,
+    "end": 33.7,
+    "language": "es",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "ojos",
+    "start": 33.7,
+    "end": 35.3,
+    "language": "es",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 35.3,
+    "end": 35.5,
+    "language": "en",
+    "phrase_id": "p008",
+    "uncertain": true
+  },
+  {
+    "text": "close",
+    "start": 35.5,
+    "end": 35.8,
+    "language": "en",
+    "phrase_id": "p008",
+    "uncertain": true
+  },
+  {
+    "text": "my",
+    "start": 35.8,
+    "end": 36.1,
+    "language": "en",
+    "phrase_id": "p008",
+    "uncertain": true
+  },
+  {
+    "text": "eyes",
+    "start": 36.1,
+    "end": 37,
+    "language": "en",
+    "phrase_id": "p008",
+    "uncertain": true
+  },
+  {
+    "text": "Respiro",
+    "start": 39.8,
+    "end": 40.6,
+    "language": "es",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "lento",
+    "start": 40.6,
+    "end": 42,
+    "language": "es",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 42.1,
+    "end": 42.3,
+    "language": "en",
+    "phrase_id": "p010",
+    "uncertain": true
+  },
+  {
+    "text": "breathe",
+    "start": 42.3,
+    "end": 42.6,
+    "language": "en",
+    "phrase_id": "p010",
+    "uncertain": true
+  },
+  {
+    "text": "slowly",
+    "start": 42.6,
+    "end": 43.8,
+    "language": "en",
+    "phrase_id": "p010",
+    "uncertain": true
+  },
+  {
+    "text": "A",
+    "start": 46.8,
+    "end": 47.1,
+    "language": "es",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "salvo",
+    "start": 47.1,
+    "end": 47.8,
+    "language": "es",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "de",
+    "start": 47.8,
+    "end": 48.6,
+    "language": "es",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "Safe",
+    "start": 49.8,
+    "end": 50.3,
+    "language": "en",
+    "phrase_id": "p012",
+    "uncertain": true
+  },
+  {
+    "text": "from",
+    "start": 50.3,
+    "end": 51.5,
+    "language": "en",
+    "phrase_id": "p012",
+    "uncertain": true
+  },
+  {
+    "text": "Todo",
+    "start": 53.8,
+    "end": 54.3,
+    "language": "es",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "el",
+    "start": 54.3,
+    "end": 54.7,
+    "language": "es",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "viento",
+    "start": 54.7,
+    "end": 56.5,
+    "language": "es",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "All",
+    "start": 57.5,
+    "end": 57.8,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": true
+  },
+  {
+    "text": "the",
+    "start": 57.8,
+    "end": 58.1,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": true
+  },
+  {
+    "text": "wind",
+    "start": 58.1,
+    "end": 59.3,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": true
+  },
+  {
+    "text": "Dormir",
+    "start": 60.8,
+    "end": 61.4,
+    "language": "es",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "profundo",
+    "start": 61.4,
+    "end": 63.5,
+    "language": "es",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "Deep",
+    "start": 64,
+    "end": 64.5,
+    "language": "en",
+    "phrase_id": "p016",
+    "uncertain": true
+  },
+  {
+    "text": "sleep",
+    "start": 64.5,
+    "end": 65.5,
+    "language": "en",
+    "phrase_id": "p016",
+    "uncertain": true
+  },
+  {
+    "text": "Through",
+    "start": 66.5,
+    "end": 66.8,
+    "language": "en",
+    "phrase_id": "p017",
+    "uncertain": true
+  },
+  {
+    "text": "the",
+    "start": 66.8,
+    "end": 67.1,
+    "language": "en",
+    "phrase_id": "p017",
+    "uncertain": true
+  },
+  {
+    "text": "night",
+    "start": 67.1,
+    "end": 68.2,
+    "language": "en",
+    "phrase_id": "p017",
+    "uncertain": true
+  },
+  {
+    "text": "Esperar",
+    "start": 68.2,
+    "end": 69.1,
+    "language": "es",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "por",
+    "start": 69.1,
+    "end": 70,
+    "language": "es",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "Wait",
+    "start": 70.8,
+    "end": 71.3,
+    "language": "en",
+    "phrase_id": "p019",
+    "uncertain": true
+  },
+  {
+    "text": "for",
+    "start": 71.3,
+    "end": 72.3,
+    "language": "en",
+    "phrase_id": "p019",
+    "uncertain": true
+  },
+  {
+    "text": "The",
+    "start": 73.4,
+    "end": 73.6,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": true
+  },
+  {
+    "text": "warm",
+    "start": 73.6,
+    "end": 74,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": true
+  },
+  {
+    "text": "light",
+    "start": 74,
+    "end": 75,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": true
+  },
+  {
+    "text": "Sueño",
+    "start": 75,
+    "end": 75.5,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "de",
+    "start": 75.5,
+    "end": 76,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "invierno",
+    "start": 76,
+    "end": 79.5,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "Winter",
+    "start": 79.7,
+    "end": 80.2,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": true
+  },
+  {
+    "text": "dream",
+    "start": 80.2,
+    "end": 81.3,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": true
+  },
+  {
+    "text": "Safe",
+    "start": 81.4,
+    "end": 81.8,
+    "language": "en",
+    "phrase_id": "p023",
+    "uncertain": true
+  },
+  {
+    "text": "and",
+    "start": 81.8,
+    "end": 82.1,
+    "language": "en",
+    "phrase_id": "p023",
+    "uncertain": true
+  },
+  {
+    "text": "warm",
+    "start": 82.1,
+    "end": 83.2,
+    "language": "en",
+    "phrase_id": "p023",
+    "uncertain": true
+  },
+  {
+    "text": "Lejos",
+    "start": 82.2,
+    "end": 82.8,
+    "language": "es",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "de",
+    "start": 82.8,
+    "end": 83.2,
+    "language": "es",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "toda",
+    "start": 83.2,
+    "end": 85.5,
+    "language": "es",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "Far",
+    "start": 85.6,
+    "end": 85.9,
+    "language": "en",
+    "phrase_id": "p025",
+    "uncertain": true
+  },
+  {
+    "text": "from",
+    "start": 85.9,
+    "end": 86.2,
+    "language": "en",
+    "phrase_id": "p025",
+    "uncertain": true
+  },
+  {
+    "text": "all",
+    "start": 86.2,
+    "end": 87.2,
+    "language": "en",
+    "phrase_id": "p025",
+    "uncertain": true
+  },
+  {
+    "text": "The",
+    "start": 87.4,
+    "end": 87.6,
+    "language": "en",
+    "phrase_id": "p026",
+    "uncertain": true
+  },
+  {
+    "text": "cold",
+    "start": 87.6,
+    "end": 87.9,
+    "language": "en",
+    "phrase_id": "p026",
+    "uncertain": true
+  },
+  {
+    "text": "storm",
+    "start": 87.9,
+    "end": 89,
+    "language": "en",
+    "phrase_id": "p026",
+    "uncertain": true
+  },
+  {
+    "text": "Cuerpo",
+    "start": 89.2,
+    "end": 89.8,
+    "language": "es",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "gigante",
+    "start": 89.8,
+    "end": 92.5,
+    "language": "es",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "Giant",
+    "start": 92.8,
+    "end": 93.3,
+    "language": "en",
+    "phrase_id": "p028",
+    "uncertain": true
+  },
+  {
+    "text": "body",
+    "start": 93.3,
+    "end": 94.3,
+    "language": "en",
+    "phrase_id": "p028",
+    "uncertain": true
+  },
+  {
+    "text": "Resting",
+    "start": 94.8,
+    "end": 95.3,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": true
+  },
+  {
+    "text": "now",
+    "start": 95.3,
+    "end": 96.3,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": true
+  },
+  {
+    "text": "La",
+    "start": 96.1,
+    "end": 96.5,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "tierra",
+    "start": 96.5,
+    "end": 97.2,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "me",
+    "start": 97.2,
+    "end": 100,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "Shows",
+    "start": 100.2,
+    "end": 100.6,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": true
+  },
+  {
+    "text": "me",
+    "start": 100.6,
+    "end": 100.9,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": true
+  },
+  {
+    "text": "how",
+    "start": 100.9,
+    "end": 102,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": true
+  },
+  {
+    "text": "Meses",
+    "start": 132.5,
+    "end": 133,
+    "language": "es",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "pasan",
+    "start": 133,
+    "end": 134.3,
+    "language": "es",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "Months",
+    "start": 134.4,
+    "end": 134.8,
+    "language": "en",
+    "phrase_id": "p033",
+    "uncertain": true
+  },
+  {
+    "text": "pass",
+    "start": 134.8,
+    "end": 135.5,
+    "language": "en",
+    "phrase_id": "p033",
+    "uncertain": true
+  },
+  {
+    "text": "En",
+    "start": 135.6,
+    "end": 135.9,
+    "language": "es",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "la",
+    "start": 135.9,
+    "end": 136.2,
+    "language": "es",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "oscuridad",
+    "start": 136.2,
+    "end": 137.9,
+    "language": "es",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "In",
+    "start": 138,
+    "end": 138.2,
+    "language": "en",
+    "phrase_id": "p035",
+    "uncertain": true
+  },
+  {
+    "text": "the",
+    "start": 138.2,
+    "end": 138.5,
+    "language": "en",
+    "phrase_id": "p035",
+    "uncertain": true
+  },
+  {
+    "text": "darkness",
+    "start": 138.5,
+    "end": 139.5,
+    "language": "en",
+    "phrase_id": "p035",
+    "uncertain": true
+  },
+  {
+    "text": "Encontrando",
+    "start": 139.5,
+    "end": 141,
+    "language": "es",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "Finding",
+    "start": 141.2,
+    "end": 142.2,
+    "language": "en",
+    "phrase_id": "p037",
+    "uncertain": true
+  },
+  {
+    "text": "La",
+    "start": 142.6,
+    "end": 143,
+    "language": "es",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "tranquilidad",
+    "start": 143,
+    "end": 145,
+    "language": "es",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "Tranquility",
+    "start": 145,
+    "end": 146,
+    "language": "en",
+    "phrase_id": "p039",
+    "uncertain": true
+  },
+  {
+    "text": "Soñando",
+    "start": 146.4,
+    "end": 147.2,
+    "language": "es",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "con",
+    "start": 147.2,
+    "end": 148,
+    "language": "es",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "Dreaming",
+    "start": 148.1,
+    "end": 148.5,
+    "language": "en",
+    "phrase_id": "p041",
+    "uncertain": true
+  },
+  {
+    "text": "of",
+    "start": 148.5,
+    "end": 149,
+    "language": "en",
+    "phrase_id": "p041",
+    "uncertain": true
+  },
+  {
+    "text": "El",
+    "start": 149.1,
+    "end": 149.4,
+    "language": "es",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "río",
+    "start": 149.4,
+    "end": 150,
+    "language": "es",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "azul",
+    "start": 150,
+    "end": 151.3,
+    "language": "es",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 151.4,
+    "end": 151.6,
+    "language": "en",
+    "phrase_id": "p043",
+    "uncertain": true
+  },
+  {
+    "text": "blue",
+    "start": 151.6,
+    "end": 151.9,
+    "language": "en",
+    "phrase_id": "p043",
+    "uncertain": true
+  },
+  {
+    "text": "river",
+    "start": 151.9,
+    "end": 152.8,
+    "language": "en",
+    "phrase_id": "p043",
+    "uncertain": true
+  },
+  {
+    "text": "Bajo",
+    "start": 153.2,
+    "end": 153.7,
+    "language": "es",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "este",
+    "start": 153.7,
+    "end": 155,
+    "language": "es",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "Under",
+    "start": 155.1,
+    "end": 155.6,
+    "language": "en",
+    "phrase_id": "p045",
+    "uncertain": true
+  },
+  {
+    "text": "this",
+    "start": 155.6,
+    "end": 156.4,
+    "language": "en",
+    "phrase_id": "p045",
+    "uncertain": true
+  },
+  {
+    "text": "Cielo",
+    "start": 156.5,
+    "end": 157,
+    "language": "es",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "de",
+    "start": 157,
+    "end": 157.3,
+    "language": "es",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "tul",
+    "start": 157.3,
+    "end": 159,
+    "language": "es",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "Sky",
+    "start": 159.1,
+    "end": 159.4,
+    "language": "en",
+    "phrase_id": "p047",
+    "uncertain": true
+  },
+  {
+    "text": "of",
+    "start": 159.4,
+    "end": 159.6,
+    "language": "en",
+    "phrase_id": "p047",
+    "uncertain": true
+  },
+  {
+    "text": "tulle",
+    "start": 159.6,
+    "end": 160.5,
+    "language": "en",
+    "phrase_id": "p047",
+    "uncertain": true
+  },
+  {
+    "text": "Dormir",
+    "start": 160.2,
+    "end": 161,
+    "language": "es",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "profundo",
+    "start": 161,
+    "end": 163.5,
+    "language": "es",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "Deep",
+    "start": 163.7,
+    "end": 164.1,
+    "language": "en",
+    "phrase_id": "p049",
+    "uncertain": true
+  },
+  {
+    "text": "sleep",
+    "start": 164.1,
+    "end": 165.2,
+    "language": "en",
+    "phrase_id": "p049",
+    "uncertain": true
+  },
+  {
+    "text": "Through",
+    "start": 166,
+    "end": 166.3,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": true
+  },
+  {
+    "text": "the",
+    "start": 166.3,
+    "end": 166.6,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": true
+  },
+  {
+    "text": "night",
+    "start": 166.6,
+    "end": 167.6,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": true
+  },
+  {
+    "text": "Esperar",
+    "start": 167.8,
+    "end": 168.8,
+    "language": "es",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "por",
+    "start": 168.8,
+    "end": 170,
+    "language": "es",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "Wait",
+    "start": 170.6,
+    "end": 171.1,
+    "language": "en",
+    "phrase_id": "p052",
+    "uncertain": true
+  },
+  {
+    "text": "for",
+    "start": 171.1,
+    "end": 172,
+    "language": "en",
+    "phrase_id": "p052",
+    "uncertain": true
+  },
+  {
+    "text": "The",
+    "start": 173,
+    "end": 173.2,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": true
+  },
+  {
+    "text": "warm",
+    "start": 173.2,
+    "end": 173.6,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": true
+  },
+  {
+    "text": "light",
+    "start": 173.6,
+    "end": 174.6,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": true
+  },
+  {
+    "text": "Sueño",
+    "start": 174.6,
+    "end": 175.2,
+    "language": "es",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "de",
+    "start": 175.2,
+    "end": 175.7,
+    "language": "es",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "invierno",
+    "start": 175.7,
+    "end": 179.5,
+    "language": "es",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "Winter",
+    "start": 179.5,
+    "end": 180,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": true
+  },
+  {
+    "text": "dream",
+    "start": 180,
+    "end": 181.1,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": true
+  },
+  {
+    "text": "Safe",
+    "start": 181.3,
+    "end": 181.7,
+    "language": "en",
+    "phrase_id": "p056",
+    "uncertain": true
+  },
+  {
+    "text": "and",
+    "start": 181.7,
+    "end": 182,
+    "language": "en",
+    "phrase_id": "p056",
+    "uncertain": true
+  },
+  {
+    "text": "warm",
+    "start": 182,
+    "end": 183,
+    "language": "en",
+    "phrase_id": "p056",
+    "uncertain": true
+  },
+  {
+    "text": "Lejos",
+    "start": 182,
+    "end": 182.6,
+    "language": "es",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "de",
+    "start": 182.6,
+    "end": 183,
+    "language": "es",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "toda",
+    "start": 183,
+    "end": 185.3,
+    "language": "es",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "Far",
+    "start": 185.3,
+    "end": 185.7,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": true
+  },
+  {
+    "text": "from",
+    "start": 185.7,
+    "end": 186,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": true
+  },
+  {
+    "text": "all",
+    "start": 186,
+    "end": 187,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": true
+  },
+  {
+    "text": "The",
+    "start": 187.1,
+    "end": 187.3,
+    "language": "en",
+    "phrase_id": "p059",
+    "uncertain": true
+  },
+  {
+    "text": "cold",
+    "start": 187.3,
+    "end": 187.7,
+    "language": "en",
+    "phrase_id": "p059",
+    "uncertain": true
+  },
+  {
+    "text": "storm",
+    "start": 187.7,
+    "end": 189,
+    "language": "en",
+    "phrase_id": "p059",
+    "uncertain": true
+  },
+  {
+    "text": "Primavera.",
+    "start": 216.5,
+    "end": 218.5,
+    "language": "es",
+    "phrase_id": "p060",
+    "uncertain": false
+  },
+  {
+    "text": "Spring.",
+    "start": 218.6,
+    "end": 219.6,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": true
+  },
+  {
+    "text": "Primavera.",
+    "start": 223.5,
+    "end": 225.5,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": false
+  },
+  {
+    "text": "Spring.",
+    "start": 225.6,
+    "end": 226.6,
+    "language": "en",
+    "phrase_id": "p063",
+    "uncertain": true
+  },
+  {
+    "text": "Soon.",
+    "start": 227,
+    "end": 228,
+    "language": "en",
+    "phrase_id": "p064",
+    "uncertain": true
+  }
+]

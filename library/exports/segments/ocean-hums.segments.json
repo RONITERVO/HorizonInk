@@ -1,0 +1,1911 @@
+{
+  "title": "Ocean Hums",
+  "genre": "Afro-Latin Pop",
+  "primaryLanguage": "es",
+  "duration": 152.932,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 4.5,
+      "end": 10.38,
+      "primary": "",
+      "translation": "Sun is setting Good vibes only Mmm",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Sun",
+          "start": 4.5,
+          "end": 4.66,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 4.7,
+          "end": 4.86,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "setting",
+          "start": 4.88,
+          "end": 5.42,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "Good",
+          "start": 6.7,
+          "end": 6.9,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "vibes",
+          "start": 7,
+          "end": 7.36,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "only",
+          "start": 7.42,
+          "end": 7.9,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        },
+        {
+          "value": "Mmm",
+          "start": 9.48,
+          "end": 10.38,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 12.12,
+      "end": 14.12,
+      "primary": "Arena blanca",
+      "translation": "White sand",
+      "words": [
+        {
+          "value": "Arena",
+          "start": 12.12,
+          "end": 12.72,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        },
+        {
+          "value": "blanca",
+          "start": 12.82,
+          "end": 13.32,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "White",
+          "start": 13.52,
+          "end": 13.76,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        },
+        {
+          "value": "sand",
+          "start": 13.84,
+          "end": 14.12,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 14.6,
+      "end": 16.86,
+      "primary": "Agua salada",
+      "translation": "Salt water",
+      "words": [
+        {
+          "value": "Agua",
+          "start": 14.6,
+          "end": 14.96,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "es"
+        },
+        {
+          "value": "salada",
+          "start": 15,
+          "end": 15.68,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Salt",
+          "start": 15.98,
+          "end": 16.35,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "en"
+        },
+        {
+          "value": "water",
+          "start": 16.35,
+          "end": 16.86,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 17.06,
+      "end": 19.04,
+      "primary": "No necesito",
+      "translation": "I don't need",
+      "words": [
+        {
+          "value": "No",
+          "start": 17.06,
+          "end": 17.16,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "es"
+        },
+        {
+          "value": "necesito",
+          "start": 17.24,
+          "end": 18.24,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 18.48,
+          "end": 18.56,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        },
+        {
+          "value": "don't",
+          "start": 18.6,
+          "end": 18.72,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "en"
+        },
+        {
+          "value": "need",
+          "start": 18.8,
+          "end": 19.04,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 19.08,
+      "end": 21.96,
+      "primary": "Absolutamente nada",
+      "translation": "Absolutely nothing",
+      "words": [
+        {
+          "value": "Absolutamente",
+          "start": 19.08,
+          "end": 20.14,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "es"
+        },
+        {
+          "value": "nada",
+          "start": 20.28,
+          "end": 20.7,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Absolutely",
+          "start": 20.92,
+          "end": 21.48,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "en"
+        },
+        {
+          "value": "nothing",
+          "start": 21.56,
+          "end": 21.96,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 22.04,
+      "end": 24.18,
+      "primary": "El sol se esconde",
+      "translation": "The sun hides",
+      "words": [
+        {
+          "value": "El",
+          "start": 22.04,
+          "end": 22.12,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "es"
+        },
+        {
+          "value": "sol",
+          "start": 22.2,
+          "end": 22.4,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "es"
+        },
+        {
+          "value": "se",
+          "start": 22.48,
+          "end": 22.54,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        },
+        {
+          "value": "esconde",
+          "start": 22.6,
+          "end": 23.16,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 23.24,
+          "end": 23.34,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "en"
+        },
+        {
+          "value": "sun",
+          "start": 23.42,
+          "end": 23.68,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "en"
+        },
+        {
+          "value": "hides",
+          "start": 23.76,
+          "end": 24.18,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 24.32,
+      "end": 26.56,
+      "primary": "Trae tu bebida",
+      "translation": "Bring your drink",
+      "words": [
+        {
+          "value": "Trae",
+          "start": 24.32,
+          "end": 24.52,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "es"
+        },
+        {
+          "value": "tu",
+          "start": 24.66,
+          "end": 24.9,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        },
+        {
+          "value": "bebida",
+          "start": 24.98,
+          "end": 25.62,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Bring",
+          "start": 25.86,
+          "end": 26.02,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 26.06,
+          "end": 26.14,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        },
+        {
+          "value": "drink",
+          "start": 26.22,
+          "end": 26.56,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 27.14,
+      "end": 28.92,
+      "primary": "Disfrutando",
+      "translation": "Enjoying",
+      "words": [
+        {
+          "value": "Disfrutando",
+          "start": 27.14,
+          "end": 28.12,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Enjoying",
+          "start": 28.24,
+          "end": 28.92,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 28.98,
+      "end": 31.5,
+      "primary": "De la buena vida",
+      "translation": "The good life",
+      "words": [
+        {
+          "value": "De",
+          "start": 28.98,
+          "end": 29.12,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 29.26,
+          "end": 29.52,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "es"
+        },
+        {
+          "value": "buena",
+          "start": 29.56,
+          "end": 30.14,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "es"
+        },
+        {
+          "value": "vida",
+          "start": 30.24,
+          "end": 30.58,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 30.7,
+          "end": 30.78,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "en"
+        },
+        {
+          "value": "good",
+          "start": 30.86,
+          "end": 31.02,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        },
+        {
+          "value": "life",
+          "start": 31.16,
+          "end": 31.5,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 31.9,
+      "end": 35.06,
+      "primary": "Relájate",
+      "translation": "Relax take your time",
+      "words": [
+        {
+          "value": "Relájate",
+          "start": 31.9,
+          "end": 33.06,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Relax",
+          "start": 33.14,
+          "end": 33.76,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "en"
+        },
+        {
+          "value": "take",
+          "start": 33.94,
+          "end": 34.22,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 34.28,
+          "end": 34.38,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "en"
+        },
+        {
+          "value": "time",
+          "start": 34.58,
+          "end": 35.06,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 35.14,
+      "end": 40.14,
+      "primary": "Siente la brisa",
+      "translation": "Feel the breeze Feeling fine",
+      "words": [
+        {
+          "value": "Siente",
+          "start": 35.14,
+          "end": 35.52,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 35.6,
+          "end": 35.76,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "es"
+        },
+        {
+          "value": "brisa",
+          "start": 35.78,
+          "end": 36.24,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Feel",
+          "start": 36.42,
+          "end": 36.66,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 36.72,
+          "end": 36.82,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "en"
+        },
+        {
+          "value": "breeze",
+          "start": 37,
+          "end": 37.78,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "en"
+        },
+        {
+          "value": "Feeling",
+          "start": 38.86,
+          "end": 39.38,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "fine",
+          "start": 39.52,
+          "end": 40.14,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 41.34,
+      "end": 45.4,
+      "primary": "Vibras positivas",
+      "translation": "Positive vibes in the air",
+      "words": [
+        {
+          "value": "Vibras",
+          "start": 41.34,
+          "end": 41.92,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "es"
+        },
+        {
+          "value": "positivas",
+          "start": 41.98,
+          "end": 43.02,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Positive",
+          "start": 43.2,
+          "end": 43.74,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "en"
+        },
+        {
+          "value": "vibes",
+          "start": 43.84,
+          "end": 44.26,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 44.5,
+          "end": 44.7,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 44.76,
+          "end": 44.92,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "en"
+        },
+        {
+          "value": "air",
+          "start": 45,
+          "end": 45.4,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 45.82,
+      "end": 50.44,
+      "primary": "Cero problemas",
+      "translation": "Zero problems Mmm we don't care",
+      "words": [
+        {
+          "value": "Cero",
+          "start": 45.82,
+          "end": 46.08,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "es"
+        },
+        {
+          "value": "problemas",
+          "start": 46.12,
+          "end": 46.88,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Zero",
+          "start": 46.96,
+          "end": 47.34,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "problems",
+          "start": 47.54,
+          "end": 48.26,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "en"
+        },
+        {
+          "value": "Mmm",
+          "start": 48.58,
+          "end": 49.3,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "en"
+        },
+        {
+          "value": "we",
+          "start": 49.42,
+          "end": 49.64,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "en"
+        },
+        {
+          "value": "don't",
+          "start": 49.72,
+          "end": 49.94,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "en"
+        },
+        {
+          "value": "care",
+          "start": 50.04,
+          "end": 50.44,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 51.22,
+      "end": 55.32,
+      "primary": "Mueve la cadera",
+      "translation": "Move your hips side to side",
+      "words": [
+        {
+          "value": "Mueve",
+          "start": 51.22,
+          "end": 51.8,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 51.88,
+          "end": 52.08,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "es"
+        },
+        {
+          "value": "cadera",
+          "start": 52.18,
+          "end": 52.76,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Move",
+          "start": 53.12,
+          "end": 53.36,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 53.42,
+          "end": 53.62,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "en"
+        },
+        {
+          "value": "hips",
+          "start": 53.68,
+          "end": 54,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "en"
+        },
+        {
+          "value": "side",
+          "start": 54.32,
+          "end": 54.58,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 54.68,
+          "end": 54.8,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "en"
+        },
+        {
+          "value": "side",
+          "start": 54.96,
+          "end": 55.32,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 55.4,
+      "end": 60.34,
+      "primary": "Súbete al barco",
+      "translation": "Get on the boat Enjoy the ride",
+      "words": [
+        {
+          "value": "Súbete",
+          "start": 55.4,
+          "end": 55.9,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "es"
+        },
+        {
+          "value": "al",
+          "start": 56.02,
+          "end": 56.14,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "es"
+        },
+        {
+          "value": "barco",
+          "start": 56.2,
+          "end": 56.62,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Get",
+          "start": 56.68,
+          "end": 56.94,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "en"
+        },
+        {
+          "value": "on",
+          "start": 57.04,
+          "end": 57.22,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 57.28,
+          "end": 57.38,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "boat",
+          "start": 57.46,
+          "end": 57.84,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        },
+        {
+          "value": "Enjoy",
+          "start": 58.42,
+          "end": 59.54,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 59.62,
+          "end": 59.82,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "en"
+        },
+        {
+          "value": "ride",
+          "start": 59.94,
+          "end": 60.34,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 61.18,
+      "end": 67.46,
+      "primary": "Vibras positivas",
+      "translation": "Every day",
+      "words": [
+        {
+          "value": "Vibras",
+          "start": 61.18,
+          "end": 61.7,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "es"
+        },
+        {
+          "value": "positivas",
+          "start": 61.78,
+          "end": 62.94,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Every",
+          "start": 66.76,
+          "end": 67.1,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "en"
+        },
+        {
+          "value": "day",
+          "start": 67.1,
+          "end": 67.46,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 82.32,
+      "end": 84.7,
+      "primary": "Palmeras altas",
+      "translation": "Tall palm trees",
+      "words": [
+        {
+          "value": "Palmeras",
+          "start": 82.32,
+          "end": 82.82,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "es"
+        },
+        {
+          "value": "altas",
+          "start": 82.94,
+          "end": 83.34,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Tall",
+          "start": 83.42,
+          "end": 83.66,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "en"
+        },
+        {
+          "value": "palm",
+          "start": 83.74,
+          "end": 83.98,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "en"
+        },
+        {
+          "value": "trees",
+          "start": 84.06,
+          "end": 84.7,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 84.78,
+      "end": 86.92,
+      "primary": "Cielo pintado",
+      "translation": "Painted sky",
+      "words": [
+        {
+          "value": "Cielo",
+          "start": 84.78,
+          "end": 85.08,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        },
+        {
+          "value": "pintado",
+          "start": 85.14,
+          "end": 85.82,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Painted",
+          "start": 85.9,
+          "end": 86.38,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        },
+        {
+          "value": "sky",
+          "start": 86.42,
+          "end": 86.92,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 86.98,
+      "end": 89.74,
+      "primary": "Estoy tan feliz",
+      "translation": "I am so happy",
+      "words": [
+        {
+          "value": "Estoy",
+          "start": 86.98,
+          "end": 87.3,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "es"
+        },
+        {
+          "value": "tan",
+          "start": 87.36,
+          "end": 87.54,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "es"
+        },
+        {
+          "value": "feliz",
+          "start": 87.6,
+          "end": 88.28,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 88.45,
+          "end": 88.6,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        },
+        {
+          "value": "am",
+          "start": 88.62,
+          "end": 88.74,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "en"
+        },
+        {
+          "value": "so",
+          "start": 88.82,
+          "end": 88.96,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "en"
+        },
+        {
+          "value": "happy",
+          "start": 89.04,
+          "end": 89.74,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 89.8,
+      "end": 92.04,
+      "primary": "A tu lado",
+      "translation": "By your side",
+      "words": [
+        {
+          "value": "A",
+          "start": 89.8,
+          "end": 89.9,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "es"
+        },
+        {
+          "value": "tu",
+          "start": 90.08,
+          "end": 90.2,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "es"
+        },
+        {
+          "value": "lado",
+          "start": 90.28,
+          "end": 90.78,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "By",
+          "start": 90.86,
+          "end": 91.12,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 91.16,
+          "end": 91.34,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "en"
+        },
+        {
+          "value": "side",
+          "start": 91.48,
+          "end": 92.04,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 92.16,
+      "end": 94.48,
+      "primary": "Una guitarra",
+      "translation": "A guitar",
+      "words": [
+        {
+          "value": "Una",
+          "start": 92.16,
+          "end": 92.46,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "es"
+        },
+        {
+          "value": "guitarra",
+          "start": 92.5,
+          "end": 93.26,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "A",
+          "start": 93.52,
+          "end": 93.58,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "en"
+        },
+        {
+          "value": "guitar",
+          "start": 93.64,
+          "end": 94.48,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 94.56,
+      "end": 96.94,
+      "primary": "Y una canción",
+      "translation": "And a song",
+      "words": [
+        {
+          "value": "Y",
+          "start": 94.56,
+          "end": 94.6,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "es"
+        },
+        {
+          "value": "una",
+          "start": 94.66,
+          "end": 94.94,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "es"
+        },
+        {
+          "value": "canción",
+          "start": 95.02,
+          "end": 95.74,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "And",
+          "start": 95.98,
+          "end": 96.12,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 96.16,
+          "end": 96.28,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "en"
+        },
+        {
+          "value": "song",
+          "start": 96.44,
+          "end": 96.94,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 97.04,
+      "end": 99.18,
+      "primary": "Cero estrés",
+      "translation": "Zero stress",
+      "words": [
+        {
+          "value": "Cero",
+          "start": 97.04,
+          "end": 97.32,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "es"
+        },
+        {
+          "value": "estrés",
+          "start": 97.4,
+          "end": 98.2,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Zero",
+          "start": 98.32,
+          "end": 98.74,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "en"
+        },
+        {
+          "value": "stress",
+          "start": 98.82,
+          "end": 99.18,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 99.24,
+      "end": 100.54,
+      "primary": "En el corazón",
+      "translation": "",
+      "words": [
+        {
+          "value": "En",
+          "start": 99.24,
+          "end": 99.34,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 99.4,
+          "end": 99.6,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        },
+        {
+          "value": "corazón",
+          "start": 99.66,
+          "end": 100.54,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 100.98,
+      "end": 101.16,
+      "primary": "Mmm",
+      "translation": "",
+      "words": [
+        {
+          "value": "Mmm",
+          "start": 100.98,
+          "end": 101.16,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 101.2,
+      "end": 104.36,
+      "primary": "Relájate",
+      "translation": "Relax take your time",
+      "words": [
+        {
+          "value": "Relájate",
+          "start": 101.2,
+          "end": 102.38,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Relax",
+          "start": 102.44,
+          "end": 103.14,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "en"
+        },
+        {
+          "value": "take",
+          "start": 103.24,
+          "end": 103.5,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 103.56,
+          "end": 103.78,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "en"
+        },
+        {
+          "value": "time",
+          "start": 103.88,
+          "end": 104.36,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 104.42,
+      "end": 109.52,
+      "primary": "Siente la brisa",
+      "translation": "Feel the breeze Feeling fine",
+      "words": [
+        {
+          "value": "Siente",
+          "start": 104.42,
+          "end": 104.84,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 104.9,
+          "end": 105.06,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "es"
+        },
+        {
+          "value": "brisa",
+          "start": 105.1,
+          "end": 105.6,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Feel",
+          "start": 105.72,
+          "end": 106,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 106.02,
+          "end": 106.26,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "en"
+        },
+        {
+          "value": "breeze",
+          "start": 106.32,
+          "end": 107.22,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "en"
+        },
+        {
+          "value": "Feeling",
+          "start": 108.18,
+          "end": 108.66,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "en"
+        },
+        {
+          "value": "fine",
+          "start": 108.82,
+          "end": 109.52,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 110.66,
+      "end": 114.8,
+      "primary": "Vibras positivas",
+      "translation": "Positive vibes in the air",
+      "words": [
+        {
+          "value": "Vibras",
+          "start": 110.66,
+          "end": 111.22,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "es"
+        },
+        {
+          "value": "positivas",
+          "start": 111.3,
+          "end": 112.42,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Positive",
+          "start": 112.5,
+          "end": 113.04,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "en"
+        },
+        {
+          "value": "vibes",
+          "start": 113.14,
+          "end": 113.7,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 113.8,
+          "end": 113.98,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 114.08,
+          "end": 114.3,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        },
+        {
+          "value": "air",
+          "start": 114.44,
+          "end": 114.8,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 115.12,
+      "end": 120.46,
+      "primary": "Cero problemas",
+      "translation": "Zero problems Mmm we don't care",
+      "words": [
+        {
+          "value": "Cero",
+          "start": 115.12,
+          "end": 115.4,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "es"
+        },
+        {
+          "value": "problemas",
+          "start": 115.44,
+          "end": 116.14,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Zero",
+          "start": 116.26,
+          "end": 116.6,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "en"
+        },
+        {
+          "value": "problems",
+          "start": 116.88,
+          "end": 117.6,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "en"
+        },
+        {
+          "value": "Mmm",
+          "start": 117.86,
+          "end": 118.6,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "en"
+        },
+        {
+          "value": "we",
+          "start": 118.76,
+          "end": 118.96,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "en"
+        },
+        {
+          "value": "don't",
+          "start": 119.04,
+          "end": 119.24,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "en"
+        },
+        {
+          "value": "care",
+          "start": 119.36,
+          "end": 120.46,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 120.52,
+      "end": 124.66,
+      "primary": "Mueve la cadera",
+      "translation": "Move your hips side to side",
+      "words": [
+        {
+          "value": "Mueve",
+          "start": 120.52,
+          "end": 121.1,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 121.18,
+          "end": 121.4,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "es"
+        },
+        {
+          "value": "cadera",
+          "start": 121.5,
+          "end": 122.06,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Move",
+          "start": 122.44,
+          "end": 122.7,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 122.74,
+          "end": 122.9,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "en"
+        },
+        {
+          "value": "hips",
+          "start": 123,
+          "end": 123.54,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "en"
+        },
+        {
+          "value": "side",
+          "start": 123.66,
+          "end": 123.9,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 123.98,
+          "end": 124.16,
+          "uncertain": false,
+          "sourceIndex": 172,
+          "language": "en"
+        },
+        {
+          "value": "side",
+          "start": 124.28,
+          "end": 124.66,
+          "uncertain": false,
+          "sourceIndex": 173,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 124.74,
+      "end": 127.18,
+      "primary": "Súbete al barco",
+      "translation": "Get on the boat",
+      "words": [
+        {
+          "value": "Súbete",
+          "start": 124.74,
+          "end": 125.22,
+          "uncertain": false,
+          "sourceIndex": 174,
+          "language": "es"
+        },
+        {
+          "value": "al",
+          "start": 125.34,
+          "end": 125.46,
+          "uncertain": false,
+          "sourceIndex": 175,
+          "language": "es"
+        },
+        {
+          "value": "barco",
+          "start": 125.54,
+          "end": 125.96,
+          "uncertain": false,
+          "sourceIndex": 176,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Get",
+          "start": 126.02,
+          "end": 126.26,
+          "uncertain": false,
+          "sourceIndex": 177,
+          "language": "en"
+        },
+        {
+          "value": "on",
+          "start": 126.36,
+          "end": 126.56,
+          "uncertain": false,
+          "sourceIndex": 178,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 126.6,
+          "end": 126.68,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "en"
+        },
+        {
+          "value": "boat",
+          "start": 126.76,
+          "end": 127.18,
+          "uncertain": false,
+          "sourceIndex": 180,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-32",
+      "start": 127.68,
+      "end": 152.922,
+      "primary": "Tranquilo",
+      "translation": "Calm peace Mmm Peace",
+      "words": [
+        {
+          "value": "Tranquilo",
+          "start": 127.68,
+          "end": 128.53,
+          "uncertain": false,
+          "sourceIndex": 181,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Calm",
+          "start": 129.24,
+          "end": 129.82,
+          "uncertain": false,
+          "sourceIndex": 182,
+          "language": "en"
+        },
+        {
+          "value": "peace",
+          "start": 129.84,
+          "end": 130.44,
+          "uncertain": false,
+          "sourceIndex": 183,
+          "language": "en"
+        },
+        {
+          "value": "Mmm",
+          "start": 149.42,
+          "end": 149.58,
+          "uncertain": false,
+          "sourceIndex": 184,
+          "language": "en"
+        },
+        {
+          "value": "Peace",
+          "start": 152.9,
+          "end": 152.922,
+          "uncertain": false,
+          "sourceIndex": 185,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

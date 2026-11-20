@@ -1,0 +1,1602 @@
+[
+  {
+    "text": "Find",
+    "start": 30.7,
+    "end": 31.14,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "your",
+    "start": 31.2,
+    "end": 31.52,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "peace",
+    "start": 31.64,
+    "end": 32.5,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "竹",
+    "start": 58.64,
+    "end": 58.82,
+    "language": "es",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "林",
+    "start": 58.82,
+    "end": 58.9,
+    "language": "es",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "深",
+    "start": 58.9,
+    "end": 59,
+    "language": "es",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "处",
+    "start": 59.62,
+    "end": 59.68,
+    "language": "es",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "deep",
+    "start": 59.9,
+    "end": 60.4,
+    "language": "en",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "in",
+    "start": 60.72,
+    "end": 60.9,
+    "language": "en",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 61.16,
+    "end": 61.24,
+    "language": "en",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "bamboo",
+    "start": 61.44,
+    "end": 62,
+    "language": "en",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "forest",
+    "start": 62.14,
+    "end": 63,
+    "language": "en",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "微",
+    "start": 63.62,
+    "end": 63.64,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "风",
+    "start": 63.86,
+    "end": 64,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "吹",
+    "start": 65.019,
+    "end": 65.2,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "过",
+    "start": 65.459,
+    "end": 65.5,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "breeze",
+    "start": 65.8,
+    "end": 66.26,
+    "language": "en",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "blows",
+    "start": 66.34,
+    "end": 66.78,
+    "language": "en",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "by",
+    "start": 66.9,
+    "end": 67.26,
+    "language": "en",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "清",
+    "start": 67.46,
+    "end": 67.48,
+    "language": "es",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "澈",
+    "start": 68.08,
+    "end": 68.1,
+    "language": "es",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "的",
+    "start": 68.64,
+    "end": 68.8,
+    "language": "es",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "水",
+    "start": 69.08,
+    "end": 69.1,
+    "language": "es",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "clear",
+    "start": 69.72,
+    "end": 70.24,
+    "language": "en",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "water",
+    "start": 70.32,
+    "end": 70.8,
+    "language": "en",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "慢",
+    "start": 71.46,
+    "end": 71.8,
+    "language": "es",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "慢",
+    "start": 71.8,
+    "end": 72,
+    "language": "es",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "流",
+    "start": 72.76,
+    "end": 73.06,
+    "language": "es",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "着",
+    "start": 73.06,
+    "end": 73.3,
+    "language": "es",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "flowing",
+    "start": 73.62,
+    "end": 74.16,
+    "language": "en",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "slowly",
+    "start": 74.22,
+    "end": 75.02,
+    "language": "en",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "闭",
+    "start": 75.46,
+    "end": 75.72,
+    "language": "es",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "上",
+    "start": 75.72,
+    "end": 76.26,
+    "language": "es",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "眼",
+    "start": 76.52,
+    "end": 77.04,
+    "language": "es",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "睛",
+    "start": 77.04,
+    "end": 77.26,
+    "language": "es",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "close",
+    "start": 77.46,
+    "end": 78.02,
+    "language": "en",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "your",
+    "start": 78.08,
+    "end": 78.26,
+    "language": "en",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "eyes",
+    "start": 78.34,
+    "end": 79.26,
+    "language": "en",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "感",
+    "start": 79.28,
+    "end": 79.64,
+    "language": "es",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "受",
+    "start": 79.64,
+    "end": 79.68,
+    "language": "es",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "自",
+    "start": 80.48,
+    "end": 80.72,
+    "language": "es",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "然",
+    "start": 80.98,
+    "end": 81.4,
+    "language": "es",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "feel",
+    "start": 81.42,
+    "end": 82.08,
+    "language": "en",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "nature",
+    "start": 82.22,
+    "end": 82.96,
+    "language": "en",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "忘",
+    "start": 83.2,
+    "end": 83.7,
+    "language": "es",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "记",
+    "start": 83.72,
+    "end": 83.94,
+    "language": "es",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "烦",
+    "start": 84.42,
+    "end": 84.7,
+    "language": "es",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "恼",
+    "start": 85.18,
+    "end": 85.36,
+    "language": "es",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "forget",
+    "start": 85.36,
+    "end": 86.02,
+    "language": "en",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "worries",
+    "start": 86.18,
+    "end": 87.1,
+    "language": "en",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "心",
+    "start": 87.1,
+    "end": 87.32,
+    "language": "es",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "静",
+    "start": 87.66,
+    "end": 87.9,
+    "language": "es",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "如",
+    "start": 88.42,
+    "end": 88.88,
+    "language": "es",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "水",
+    "start": 88.88,
+    "end": 88.92,
+    "language": "es",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "heart",
+    "start": 89.32,
+    "end": 89.92,
+    "language": "en",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "is",
+    "start": 89.96,
+    "end": 90.08,
+    "language": "en",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "calm",
+    "start": 90.16,
+    "end": 90.42,
+    "language": "en",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "as",
+    "start": 90.46,
+    "end": 90.6,
+    "language": "en",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "water",
+    "start": 90.66,
+    "end": 91.04,
+    "language": "en",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "阳",
+    "start": 92.38,
+    "end": 92.4,
+    "language": "es",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "光",
+    "start": 92.4,
+    "end": 92.62,
+    "language": "es",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "洒",
+    "start": 92.62,
+    "end": 92.78,
+    "language": "es",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "下",
+    "start": 93.1,
+    "end": 93.12,
+    "language": "es",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "sunlight",
+    "start": 93.72,
+    "end": 94.56,
+    "language": "en",
+    "phrase_id": "p019",
+    "uncertain": false
+  },
+  {
+    "text": "spills",
+    "start": 94.56,
+    "end": 95.16,
+    "language": "en",
+    "phrase_id": "p019",
+    "uncertain": false
+  },
+  {
+    "text": "美",
+    "start": 96.28,
+    "end": 96.34,
+    "language": "es",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "好",
+    "start": 96.34,
+    "end": 96.6,
+    "language": "es",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "时",
+    "start": 96.6,
+    "end": 96.84,
+    "language": "es",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "光",
+    "start": 97.14,
+    "end": 97.4,
+    "language": "es",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "beautiful",
+    "start": 97.78,
+    "end": 98.96,
+    "language": "en",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "times",
+    "start": 99.08,
+    "end": 99.8,
+    "language": "en",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "happy",
+    "start": 102.84,
+    "end": 103.04,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "days",
+    "start": 103.04,
+    "end": 103.54,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "自",
+    "start": 105.82,
+    "end": 106.02,
+    "language": "es",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "由",
+    "start": 106.42,
+    "end": 106.52,
+    "language": "es",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "自",
+    "start": 106.52,
+    "end": 106.8,
+    "language": "es",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "在",
+    "start": 107.46,
+    "end": 107.5,
+    "language": "es",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "free",
+    "start": 107.5,
+    "end": 108,
+    "language": "en",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "and",
+    "start": 108,
+    "end": 108.42,
+    "language": "en",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "easy",
+    "start": 108.42,
+    "end": 108.58,
+    "language": "en",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "let",
+    "start": 109.8,
+    "end": 110.28,
+    "language": "en",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "it",
+    "start": 110.3,
+    "end": 110.36,
+    "language": "en",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "flow",
+    "start": 110.36,
+    "end": 110.92,
+    "language": "en",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "无",
+    "start": 111.62,
+    "end": 111.72,
+    "language": "es",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "忧",
+    "start": 111.72,
+    "end": 111.9,
+    "language": "es",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "无",
+    "start": 112.44,
+    "end": 112.72,
+    "language": "es",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "虑",
+    "start": 112.84,
+    "end": 112.96,
+    "language": "es",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "watch",
+    "start": 113.16,
+    "end": 114.18,
+    "language": "en",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "it",
+    "start": 114.24,
+    "end": 114.36,
+    "language": "en",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "grow",
+    "start": 114.36,
+    "end": 114.78,
+    "language": "en",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "随",
+    "start": 115.54,
+    "end": 115.68,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "风",
+    "start": 115.68,
+    "end": 115.9,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "起",
+    "start": 116.16,
+    "end": 116.38,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "舞",
+    "start": 116.68,
+    "end": 116.7,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "dancing",
+    "start": 117.14,
+    "end": 117.86,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "with",
+    "start": 117.92,
+    "end": 118.14,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 118.22,
+    "end": 118.36,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "wind",
+    "start": 118.36,
+    "end": 118.92,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "在",
+    "start": 119.32,
+    "end": 119.6,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "森",
+    "start": 119.9,
+    "end": 120.16,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "林",
+    "start": 120.38,
+    "end": 120.6,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "里",
+    "start": 120.88,
+    "end": 120.9,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "in",
+    "start": 121.38,
+    "end": 121.62,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 121.66,
+    "end": 121.76,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "forest",
+    "start": 121.76,
+    "end": 122.36,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "through",
+    "start": 122.4,
+    "end": 122.62,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 122.66,
+    "end": 122.72,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "trees",
+    "start": 122.72,
+    "end": 123.36,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "绿",
+    "start": 155.7,
+    "end": 155.8,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "色",
+    "start": 155.8,
+    "end": 155.85,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "叶",
+    "start": 155.85,
+    "end": 155.9,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "子",
+    "start": 156,
+    "end": 156.32,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "green",
+    "start": 156.32,
+    "end": 156.78,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "leaves",
+    "start": 156.88,
+    "end": 157.46,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "蓝",
+    "start": 157.46,
+    "end": 157.82,
+    "language": "es",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "色",
+    "start": 157.82,
+    "end": 158.04,
+    "language": "es",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "的",
+    "start": 158.04,
+    "end": 158.06,
+    "language": "es",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "天",
+    "start": 158.82,
+    "end": 159,
+    "language": "es",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "美",
+    "start": 159.1,
+    "end": 159.32,
+    "language": "es",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "丽",
+    "start": 159.32,
+    "end": 159.76,
+    "language": "es",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "画",
+    "start": 159.76,
+    "end": 160.02,
+    "language": "es",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "卷",
+    "start": 160.02,
+    "end": 160.04,
+    "language": "es",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "在",
+    "start": 160.64,
+    "end": 161.04,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "我",
+    "start": 161.04,
+    "end": 161.46,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "眼",
+    "start": 161.46,
+    "end": 161.8,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "前",
+    "start": 161.8,
+    "end": 162.04,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "鸟",
+    "start": 162.76,
+    "end": 162.78,
+    "language": "es",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "儿",
+    "start": 163.48,
+    "end": 163.74,
+    "language": "es",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "唱",
+    "start": 163.74,
+    "end": 164,
+    "language": "es",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "歌",
+    "start": 164,
+    "end": 164.04,
+    "language": "es",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "birds",
+    "start": 164.28,
+    "end": 164.78,
+    "language": "en",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "are",
+    "start": 164.82,
+    "end": 164.94,
+    "language": "en",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "singing",
+    "start": 165.02,
+    "end": 165.52,
+    "language": "en",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "花",
+    "start": 165.9,
+    "end": 165.92,
+    "language": "es",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "儿",
+    "start": 165.92,
+    "end": 166.18,
+    "language": "es",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "开",
+    "start": 166.18,
+    "end": 166.44,
+    "language": "es",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "放",
+    "start": 166.44,
+    "end": 166.5,
+    "language": "es",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "这",
+    "start": 166.68,
+    "end": 166.7,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "就",
+    "start": 167.24,
+    "end": 167.48,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "是",
+    "start": 167.48,
+    "end": 167.82,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "我",
+    "start": 167.96,
+    "end": 168,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "this",
+    "start": 168.22,
+    "end": 168.74,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "is",
+    "start": 168.78,
+    "end": 168.96,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "life",
+    "start": 169,
+    "end": 169.18,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "心",
+    "start": 169.46,
+    "end": 169.82,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "之",
+    "start": 169.82,
+    "end": 169.96,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "所",
+    "start": 170.28,
+    "end": 170.3,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "向",
+    "start": 170.42,
+    "end": 170.6,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "阳",
+    "start": 171.72,
+    "end": 171.9,
+    "language": "es",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "光",
+    "start": 171.9,
+    "end": 171.96,
+    "language": "es",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "洒",
+    "start": 171.98,
+    "end": 172.12,
+    "language": "es",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "下",
+    "start": 172.44,
+    "end": 172.6,
+    "language": "es",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "sunlight",
+    "start": 173.12,
+    "end": 173.84,
+    "language": "en",
+    "phrase_id": "p045",
+    "uncertain": false
+  },
+  {
+    "text": "spills",
+    "start": 173.94,
+    "end": 174.5,
+    "language": "en",
+    "phrase_id": "p045",
+    "uncertain": false
+  },
+  {
+    "text": "美",
+    "start": 175.54,
+    "end": 175.8,
+    "language": "es",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "好",
+    "start": 175.8,
+    "end": 175.94,
+    "language": "es",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "时",
+    "start": 175.94,
+    "end": 176.16,
+    "language": "es",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "光",
+    "start": 176.44,
+    "end": 176.6,
+    "language": "es",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "beautiful",
+    "start": 177.14,
+    "end": 178.28,
+    "language": "en",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "times",
+    "start": 178.42,
+    "end": 179,
+    "language": "en",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "happy",
+    "start": 182.3,
+    "end": 182.38,
+    "language": "en",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "days",
+    "start": 182.4,
+    "end": 182.88,
+    "language": "en",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "自",
+    "start": 185.16,
+    "end": 185.34,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "由",
+    "start": 185.74,
+    "end": 185.86,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "自",
+    "start": 185.86,
+    "end": 186,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "在",
+    "start": 186.82,
+    "end": 186.84,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "free",
+    "start": 187.02,
+    "end": 187.34,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "and",
+    "start": 187.34,
+    "end": 187.6,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "easy",
+    "start": 187.6,
+    "end": 187.76,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "let",
+    "start": 189,
+    "end": 189.58,
+    "language": "en",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "it",
+    "start": 189.62,
+    "end": 189.72,
+    "language": "en",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "flow",
+    "start": 189.72,
+    "end": 190.22,
+    "language": "en",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "无",
+    "start": 190.94,
+    "end": 191.06,
+    "language": "es",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "忧",
+    "start": 191.06,
+    "end": 191.2,
+    "language": "es",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "无",
+    "start": 191.54,
+    "end": 191.7,
+    "language": "es",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "虑",
+    "start": 192.06,
+    "end": 192.28,
+    "language": "es",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "watch",
+    "start": 193,
+    "end": 193.52,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "it",
+    "start": 193.6,
+    "end": 193.74,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "grow",
+    "start": 193.78,
+    "end": 194.04,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "一",
+    "start": 233.42,
+    "end": 233.44,
+    "language": "es",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "切",
+    "start": 233.68,
+    "end": 233.72,
+    "language": "es",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "都",
+    "start": 233.88,
+    "end": 233.94,
+    "language": "es",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "好",
+    "start": 234.66,
+    "end": 234.9,
+    "language": "es",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "everything",
+    "start": 234.68,
+    "end": 235.68,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "is",
+    "start": 235.74,
+    "end": 235.88,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "fine",
+    "start": 235.88,
+    "end": 235.98,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "Peace",
+    "start": 235.98,
+    "end": 237.16,
+    "language": "en",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 237.26,
+    "end": 237.38,
+    "language": "en",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "mind",
+    "start": 237.38,
+    "end": 238.64,
+    "language": "en",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "慢",
+    "start": 239.14,
+    "end": 239.16,
+    "language": "es",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "慢",
+    "start": 239.32,
+    "end": 239.4,
+    "language": "es",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "来",
+    "start": 239.74,
+    "end": 239.86,
+    "language": "es",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "take",
+    "start": 240.82,
+    "end": 241.14,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "it",
+    "start": 241.18,
+    "end": 241.26,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "slow",
+    "start": 241.26,
+    "end": 241.76,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "安",
+    "start": 249.3,
+    "end": 249.58,
+    "language": "es",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "静",
+    "start": 249.58,
+    "end": 249.8,
+    "language": "es",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "quiet",
+    "start": 251.7,
+    "end": 252.3,
+    "language": "en",
+    "phrase_id": "p060",
+    "uncertain": false
+  },
+  {
+    "text": "Rest",
+    "start": 256.8,
+    "end": 257.2,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "now",
+    "start": 257.2,
+    "end": 257.64,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  }
+]

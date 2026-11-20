@@ -34,14 +34,14 @@
   {
     "text": "A",
     "start": 49.84,
-    "end": 50.0,
+    "end": 50,
     "language": "en",
     "phrase_id": "p002",
     "uncertain": false
   },
   {
     "text": "snowflake",
-    "start": 50.0,
+    "start": 50,
     "end": 50.7,
     "language": "en",
     "phrase_id": "p002",
@@ -146,7 +146,7 @@
   {
     "text": "repite",
     "start": 62.14,
-    "end": 63.0,
+    "end": 63,
     "language": "es",
     "phrase_id": "p009",
     "uncertain": false
@@ -185,7 +185,7 @@
   },
   {
     "text": "otra",
-    "start": 65.0,
+    "start": 65,
     "end": 65.72,
     "language": "es",
     "phrase_id": "p011",
@@ -210,7 +210,7 @@
   {
     "text": "and",
     "start": 66.9,
-    "end": 67.0,
+    "end": 67,
     "language": "en",
     "phrase_id": "p012",
     "uncertain": false
@@ -313,7 +313,7 @@
   },
   {
     "text": "Multiplicando",
-    "start": 76.0,
+    "start": 76,
     "end": 77.5,
     "language": "es",
     "phrase_id": "p016",
@@ -362,7 +362,7 @@
   {
     "text": "the",
     "start": 81.88,
-    "end": 82.0,
+    "end": 82,
     "language": "en",
     "phrase_id": "p019",
     "uncertain": false
@@ -378,7 +378,7 @@
   {
     "text": "storm",
     "start": 82.82,
-    "end": 85.0,
+    "end": 85,
     "language": "en",
     "phrase_id": "p019",
     "uncertain": false
@@ -529,7 +529,7 @@
   },
   {
     "text": "círculos",
-    "start": 107.0,
+    "start": 107,
     "end": 107.98,
     "language": "es",
     "phrase_id": "p026",
@@ -657,7 +657,7 @@
   },
   {
     "text": "suprema",
-    "start": 150.0,
+    "start": 150,
     "end": 150.46,
     "language": "es",
     "phrase_id": "p032",
@@ -865,7 +865,7 @@
   },
   {
     "text": "el",
-    "start": 170.0,
+    "start": 170,
     "end": 170.06,
     "language": "es",
     "phrase_id": "p043",
@@ -897,7 +897,7 @@
   },
   {
     "text": "space",
-    "start": 172.0,
+    "start": 172,
     "end": 172.58,
     "language": "en",
     "phrase_id": "p044",
@@ -946,7 +946,7 @@
   {
     "text": "galaxia",
     "start": 248.12,
-    "end": 249.0,
+    "end": 249,
     "language": "es",
     "phrase_id": "p046",
     "uncertain": false
@@ -1018,7 +1018,7 @@
   {
     "text": "Caos",
     "start": 252.58,
-    "end": 253.0,
+    "end": 253,
     "language": "es",
     "phrase_id": "p050",
     "uncertain": false
@@ -1105,7 +1105,7 @@
   },
   {
     "text": "El",
-    "start": 263.0,
+    "start": 263,
     "end": 263.14,
     "language": "es",
     "phrase_id": "p056",
@@ -1145,7 +1145,7 @@
   },
   {
     "text": "of",
-    "start": 265.0,
+    "start": 265,
     "end": 265.5,
     "language": "en",
     "phrase_id": "p057",
@@ -1169,7 +1169,7 @@
   },
   {
     "text": "Never",
-    "start": 271.0,
+    "start": 271,
     "end": 271.4,
     "language": "en",
     "phrase_id": "p059",
@@ -1178,7 +1178,7 @@
   {
     "text": "ends",
     "start": 271.5,
-    "end": 272.0,
+    "end": 272,
     "language": "en",
     "phrase_id": "p059",
     "uncertain": false
@@ -1217,7 +1217,7 @@
   },
   {
     "text": "espacio",
-    "start": 273.0,
+    "start": 273,
     "end": 273.8,
     "language": "es",
     "phrase_id": "p060",

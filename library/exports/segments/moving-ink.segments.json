@@ -1,0 +1,2343 @@
+{
+  "title": "Moving Ink",
+  "genre": "Guofeng Lo-Fi",
+  "primaryLanguage": "zh",
+  "duration": 195.949,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 9.35,
+      "end": 22,
+      "primary": "",
+      "translation": "Listen to the rain Listen to the rain",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Listen",
+          "start": 9.35,
+          "end": 9.85,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 9.85,
+          "end": 10.05,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 10.05,
+          "end": 10.25,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "rain",
+          "start": 10.25,
+          "end": 11.2,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "Listen",
+          "start": 20.25,
+          "end": 20.8,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 20.8,
+          "end": 21,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 21,
+          "end": 21.2,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "en"
+        },
+        {
+          "value": "rain",
+          "start": 21.2,
+          "end": 22,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-2",
+      "start": 24.3,
+      "end": 26.8,
+      "primary": "夜色已深",
+      "translation": "The night is deep",
+      "words": [
+        {
+          "value": "夜",
+          "start": 24.3,
+          "end": 24.6,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "zh"
+        },
+        {
+          "value": "色",
+          "start": 24.6,
+          "end": 24.9,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "zh"
+        },
+        {
+          "value": "已",
+          "start": 24.9,
+          "end": 25.1,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "zh"
+        },
+        {
+          "value": "深",
+          "start": 25.1,
+          "end": 25.5,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 25.6,
+          "end": 25.75,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 25.75,
+          "end": 26.05,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 26.05,
+          "end": 26.25,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "en"
+        },
+        {
+          "value": "deep",
+          "start": 26.25,
+          "end": 26.8,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-3",
+      "start": 27.2,
+      "end": 29.7,
+      "primary": "泡一杯茶",
+      "translation": "Brew a cup of tea",
+      "words": [
+        {
+          "value": "泡",
+          "start": 27.2,
+          "end": 27.5,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "zh"
+        },
+        {
+          "value": "一",
+          "start": 27.5,
+          "end": 27.65,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "zh"
+        },
+        {
+          "value": "杯",
+          "start": 27.65,
+          "end": 27.85,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "zh"
+        },
+        {
+          "value": "茶",
+          "start": 27.85,
+          "end": 28.3,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Brew",
+          "start": 28.5,
+          "end": 28.8,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 28.8,
+          "end": 28.9,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "en"
+        },
+        {
+          "value": "cup",
+          "start": 28.9,
+          "end": 29.1,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 29.1,
+          "end": 29.2,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "en"
+        },
+        {
+          "value": "tea",
+          "start": 29.2,
+          "end": 29.7,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-4",
+      "start": 30.1,
+      "end": 32.7,
+      "primary": "看着窗外",
+      "translation": "Looking out the window",
+      "words": [
+        {
+          "value": "看",
+          "start": 30.1,
+          "end": 30.3,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "zh"
+        },
+        {
+          "value": "着",
+          "start": 30.3,
+          "end": 30.5,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "zh"
+        },
+        {
+          "value": "窗",
+          "start": 30.5,
+          "end": 30.8,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "zh"
+        },
+        {
+          "value": "外",
+          "start": 30.8,
+          "end": 31.2,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Looking",
+          "start": 31.4,
+          "end": 31.7,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "en"
+        },
+        {
+          "value": "out",
+          "start": 31.7,
+          "end": 31.9,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 31.9,
+          "end": 32,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "en"
+        },
+        {
+          "value": "window",
+          "start": 32,
+          "end": 32.7,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-5",
+      "start": 33,
+      "end": 35.4,
+      "primary": "雨滴落下",
+      "translation": "Raindrops falling",
+      "words": [
+        {
+          "value": "雨",
+          "start": 33,
+          "end": 33.2,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "zh"
+        },
+        {
+          "value": "滴",
+          "start": 33.2,
+          "end": 33.4,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "zh"
+        },
+        {
+          "value": "落",
+          "start": 33.4,
+          "end": 33.6,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "zh"
+        },
+        {
+          "value": "下",
+          "start": 33.6,
+          "end": 34,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Raindrops",
+          "start": 34.2,
+          "end": 34.8,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "en"
+        },
+        {
+          "value": "falling",
+          "start": 34.8,
+          "end": 35.4,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-6",
+      "start": 35.8,
+      "end": 38.3,
+      "primary": "时间很慢",
+      "translation": "Time is very slow",
+      "words": [
+        {
+          "value": "时",
+          "start": 35.8,
+          "end": 36.1,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "zh"
+        },
+        {
+          "value": "间",
+          "start": 36.1,
+          "end": 36.3,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "zh"
+        },
+        {
+          "value": "很",
+          "start": 36.3,
+          "end": 36.5,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "zh"
+        },
+        {
+          "value": "慢",
+          "start": 36.5,
+          "end": 37,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Time",
+          "start": 37.1,
+          "end": 37.4,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 37.4,
+          "end": 37.55,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        },
+        {
+          "value": "very",
+          "start": 37.55,
+          "end": 37.85,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "en"
+        },
+        {
+          "value": "slow",
+          "start": 37.85,
+          "end": 38.3,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-7",
+      "start": 38.6,
+      "end": 41.2,
+      "primary": "世界很静",
+      "translation": "The world is very quiet",
+      "words": [
+        {
+          "value": "世",
+          "start": 38.6,
+          "end": 38.9,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "zh"
+        },
+        {
+          "value": "界",
+          "start": 38.9,
+          "end": 39.1,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "zh"
+        },
+        {
+          "value": "很",
+          "start": 39.1,
+          "end": 39.3,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "zh"
+        },
+        {
+          "value": "静",
+          "start": 39.3,
+          "end": 39.7,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 39.8,
+          "end": 39.95,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "world",
+          "start": 39.95,
+          "end": 40.25,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 40.25,
+          "end": 40.4,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "en"
+        },
+        {
+          "value": "very",
+          "start": 40.4,
+          "end": 40.7,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "en"
+        },
+        {
+          "value": "quiet",
+          "start": 40.7,
+          "end": 41.2,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-8",
+      "start": 41.5,
+      "end": 43.9,
+      "primary": "在月光下",
+      "translation": "Under the moonlight",
+      "words": [
+        {
+          "value": "在",
+          "start": 41.5,
+          "end": 41.7,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "zh"
+        },
+        {
+          "value": "月",
+          "start": 41.7,
+          "end": 41.9,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "zh"
+        },
+        {
+          "value": "光",
+          "start": 41.9,
+          "end": 42.1,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "zh"
+        },
+        {
+          "value": "下",
+          "start": 42.1,
+          "end": 42.6,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Under",
+          "start": 42.7,
+          "end": 43.1,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 43.1,
+          "end": 43.2,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "en"
+        },
+        {
+          "value": "moonlight",
+          "start": 43.2,
+          "end": 43.9,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-9",
+      "start": 44.2,
+      "end": 46.5,
+      "primary": "我的倒影",
+      "translation": "My reflection",
+      "words": [
+        {
+          "value": "我",
+          "start": 44.2,
+          "end": 44.4,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "zh"
+        },
+        {
+          "value": "的",
+          "start": 44.4,
+          "end": 44.6,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "zh"
+        },
+        {
+          "value": "倒",
+          "start": 44.6,
+          "end": 44.8,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "zh"
+        },
+        {
+          "value": "影",
+          "start": 44.8,
+          "end": 45.4,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "My",
+          "start": 45.5,
+          "end": 45.8,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "reflection",
+          "start": 45.8,
+          "end": 46.5,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-10",
+      "start": 47.1,
+      "end": 51.5,
+      "primary": "放下过去",
+      "translation": "Let go of the past Breathe it out",
+      "words": [
+        {
+          "value": "放",
+          "start": 47.1,
+          "end": 47.4,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "zh"
+        },
+        {
+          "value": "下",
+          "start": 47.4,
+          "end": 47.6,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "zh"
+        },
+        {
+          "value": "过",
+          "start": 47.6,
+          "end": 47.8,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "zh"
+        },
+        {
+          "value": "去",
+          "start": 47.8,
+          "end": 48.5,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Let",
+          "start": 48.6,
+          "end": 48.85,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "en"
+        },
+        {
+          "value": "go",
+          "start": 48.85,
+          "end": 49.1,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 49.1,
+          "end": 49.2,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 49.2,
+          "end": 49.3,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "en"
+        },
+        {
+          "value": "past",
+          "start": 49.3,
+          "end": 49.9,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "en"
+        },
+        {
+          "value": "Breathe",
+          "start": 50.1,
+          "end": 50.4,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 50.4,
+          "end": 50.6,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "en"
+        },
+        {
+          "value": "out",
+          "start": 50.6,
+          "end": 51.5,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-11",
+      "start": 52.8,
+      "end": 57.5,
+      "primary": "没有疑问",
+      "translation": "No doubts Without a doubt",
+      "words": [
+        {
+          "value": "没",
+          "start": 52.8,
+          "end": 53,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "zh"
+        },
+        {
+          "value": "有",
+          "start": 53,
+          "end": 53.2,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "zh"
+        },
+        {
+          "value": "疑",
+          "start": 53.2,
+          "end": 53.4,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "zh"
+        },
+        {
+          "value": "问",
+          "start": 53.4,
+          "end": 54.2,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "No",
+          "start": 54.3,
+          "end": 54.6,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "en"
+        },
+        {
+          "value": "doubts",
+          "start": 54.6,
+          "end": 55.4,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "en"
+        },
+        {
+          "value": "Without",
+          "start": 55.8,
+          "end": 56.4,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 56.4,
+          "end": 56.5,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "doubt",
+          "start": 56.5,
+          "end": 57.5,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-12",
+      "start": 58.5,
+      "end": 62.5,
+      "primary": "进入梦乡",
+      "translation": "Enter dreamland Close your eyes",
+      "words": [
+        {
+          "value": "进",
+          "start": 58.5,
+          "end": 58.7,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "zh"
+        },
+        {
+          "value": "入",
+          "start": 58.7,
+          "end": 58.9,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "zh"
+        },
+        {
+          "value": "梦",
+          "start": 58.9,
+          "end": 59.2,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "zh"
+        },
+        {
+          "value": "乡",
+          "start": 59.2,
+          "end": 60,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Enter",
+          "start": 60.05,
+          "end": 60.4,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "en"
+        },
+        {
+          "value": "dreamland",
+          "start": 60.4,
+          "end": 61.2,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "en"
+        },
+        {
+          "value": "Close",
+          "start": 61.3,
+          "end": 61.6,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 61.6,
+          "end": 61.8,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "en"
+        },
+        {
+          "value": "eyes",
+          "start": 61.8,
+          "end": 62.5,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-13",
+      "start": 62.6,
+      "end": 67,
+      "primary": "满天繁星",
+      "translation": "Sky full of stars In the skies",
+      "words": [
+        {
+          "value": "满",
+          "start": 62.6,
+          "end": 62.8,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "zh"
+        },
+        {
+          "value": "天",
+          "start": 62.8,
+          "end": 63,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "zh"
+        },
+        {
+          "value": "繁",
+          "start": 63,
+          "end": 63.2,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "zh"
+        },
+        {
+          "value": "星",
+          "start": 63.2,
+          "end": 64,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sky",
+          "start": 64.1,
+          "end": 64.4,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "en"
+        },
+        {
+          "value": "full",
+          "start": 64.4,
+          "end": 64.6,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 64.6,
+          "end": 64.7,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        },
+        {
+          "value": "stars",
+          "start": 64.7,
+          "end": 65.5,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "en"
+        },
+        {
+          "value": "In",
+          "start": 65.6,
+          "end": 65.8,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 65.8,
+          "end": 65.9,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "en"
+        },
+        {
+          "value": "skies",
+          "start": 65.9,
+          "end": 67,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-14",
+      "start": 69.5,
+      "end": 74.5,
+      "primary": "一场好梦",
+      "translation": "A good dream Drift away Drift away",
+      "words": [
+        {
+          "value": "一",
+          "start": 69.5,
+          "end": 69.7,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "zh"
+        },
+        {
+          "value": "场",
+          "start": 69.7,
+          "end": 69.9,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "zh"
+        },
+        {
+          "value": "好",
+          "start": 69.9,
+          "end": 70.1,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "zh"
+        },
+        {
+          "value": "梦",
+          "start": 70.1,
+          "end": 70.8,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "A",
+          "start": 70.9,
+          "end": 71.05,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        },
+        {
+          "value": "good",
+          "start": 71.05,
+          "end": 71.3,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "en"
+        },
+        {
+          "value": "dream",
+          "start": 71.3,
+          "end": 72,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "en"
+        },
+        {
+          "value": "Drift",
+          "start": 72.1,
+          "end": 72.5,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "en"
+        },
+        {
+          "value": "away",
+          "start": 72.5,
+          "end": 73.2,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "en"
+        },
+        {
+          "value": "Drift",
+          "start": 73.3,
+          "end": 73.7,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        },
+        {
+          "value": "away",
+          "start": 73.7,
+          "end": 74.5,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-15",
+      "start": 75.3,
+      "end": 78.5,
+      "primary": "等待明天",
+      "translation": "Waiting for tomorrow",
+      "words": [
+        {
+          "value": "等",
+          "start": 75.3,
+          "end": 75.5,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "zh"
+        },
+        {
+          "value": "待",
+          "start": 75.5,
+          "end": 75.7,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "zh"
+        },
+        {
+          "value": "明",
+          "start": 75.7,
+          "end": 75.9,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "zh"
+        },
+        {
+          "value": "天",
+          "start": 75.9,
+          "end": 76.5,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Waiting",
+          "start": 76.8,
+          "end": 77.2,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "en"
+        },
+        {
+          "value": "for",
+          "start": 77.2,
+          "end": 77.3,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "en"
+        },
+        {
+          "value": "tomorrow",
+          "start": 77.3,
+          "end": 78.5,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-16",
+      "start": 103.3,
+      "end": 106,
+      "primary": "灯光温暖",
+      "translation": "The light is warm",
+      "words": [
+        {
+          "value": "灯",
+          "start": 103.3,
+          "end": 103.6,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "zh"
+        },
+        {
+          "value": "光",
+          "start": 103.6,
+          "end": 103.8,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "zh"
+        },
+        {
+          "value": "温",
+          "start": 103.8,
+          "end": 104,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "zh"
+        },
+        {
+          "value": "暖",
+          "start": 104,
+          "end": 104.6,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 104.7,
+          "end": 104.85,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "en"
+        },
+        {
+          "value": "light",
+          "start": 104.85,
+          "end": 105.15,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 105.15,
+          "end": 105.35,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "en"
+        },
+        {
+          "value": "warm",
+          "start": 105.35,
+          "end": 106,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-17",
+      "start": 106.3,
+      "end": 108.8,
+      "primary": "书本翻开",
+      "translation": "The book is opened",
+      "words": [
+        {
+          "value": "书",
+          "start": 106.3,
+          "end": 106.5,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "zh"
+        },
+        {
+          "value": "本",
+          "start": 106.5,
+          "end": 106.7,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "zh"
+        },
+        {
+          "value": "翻",
+          "start": 106.7,
+          "end": 106.9,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "zh"
+        },
+        {
+          "value": "开",
+          "start": 106.9,
+          "end": 107.5,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 107.6,
+          "end": 107.75,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "en"
+        },
+        {
+          "value": "book",
+          "start": 107.75,
+          "end": 108.05,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 108.05,
+          "end": 108.2,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "en"
+        },
+        {
+          "value": "opened",
+          "start": 108.2,
+          "end": 108.8,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-18",
+      "start": 109.2,
+      "end": 111.8,
+      "primary": "思绪飘远",
+      "translation": "Thoughts drift far",
+      "words": [
+        {
+          "value": "思",
+          "start": 109.2,
+          "end": 109.4,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "zh"
+        },
+        {
+          "value": "绪",
+          "start": 109.4,
+          "end": 109.6,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "zh"
+        },
+        {
+          "value": "飘",
+          "start": 109.6,
+          "end": 109.8,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "zh"
+        },
+        {
+          "value": "远",
+          "start": 109.8,
+          "end": 110.4,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Thoughts",
+          "start": 110.5,
+          "end": 110.8,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "en"
+        },
+        {
+          "value": "drift",
+          "start": 110.8,
+          "end": 111.1,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "en"
+        },
+        {
+          "value": "far",
+          "start": 111.1,
+          "end": 111.8,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-19",
+      "start": 112.1,
+      "end": 114.8,
+      "primary": "到了窗外",
+      "translation": "To outside the window",
+      "words": [
+        {
+          "value": "到",
+          "start": 112.1,
+          "end": 112.3,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "zh"
+        },
+        {
+          "value": "了",
+          "start": 112.3,
+          "end": 112.5,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "zh"
+        },
+        {
+          "value": "窗",
+          "start": 112.5,
+          "end": 112.7,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "zh"
+        },
+        {
+          "value": "外",
+          "start": 112.7,
+          "end": 113.3,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "To",
+          "start": 113.4,
+          "end": 113.6,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        },
+        {
+          "value": "outside",
+          "start": 113.6,
+          "end": 114.1,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 114.1,
+          "end": 114.25,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "en"
+        },
+        {
+          "value": "window",
+          "start": 114.25,
+          "end": 114.8,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-20",
+      "start": 115,
+      "end": 118,
+      "primary": "听着雨声",
+      "translation": "Listening to the sound of rain",
+      "words": [
+        {
+          "value": "听",
+          "start": 115,
+          "end": 115.2,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "zh"
+        },
+        {
+          "value": "着",
+          "start": 115.2,
+          "end": 115.4,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "zh"
+        },
+        {
+          "value": "雨",
+          "start": 115.4,
+          "end": 115.6,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "zh"
+        },
+        {
+          "value": "声",
+          "start": 115.6,
+          "end": 116.1,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Listening",
+          "start": 116.2,
+          "end": 116.8,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 116.8,
+          "end": 116.9,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 116.9,
+          "end": 117,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "en"
+        },
+        {
+          "value": "sound",
+          "start": 117,
+          "end": 117.4,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 117.4,
+          "end": 117.5,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "en"
+        },
+        {
+          "value": "rain",
+          "start": 117.5,
+          "end": 118,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-21",
+      "start": 118.2,
+      "end": 120.6,
+      "primary": "洗涤灵魂",
+      "translation": "Washing the soul",
+      "words": [
+        {
+          "value": "洗",
+          "start": 118.2,
+          "end": 118.4,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "zh"
+        },
+        {
+          "value": "涤",
+          "start": 118.4,
+          "end": 118.6,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "zh"
+        },
+        {
+          "value": "灵",
+          "start": 118.6,
+          "end": 118.8,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "zh"
+        },
+        {
+          "value": "魂",
+          "start": 118.8,
+          "end": 119.3,
+          "uncertain": false,
+          "sourceIndex": 172,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Washing",
+          "start": 119.4,
+          "end": 119.9,
+          "uncertain": false,
+          "sourceIndex": 173,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 119.9,
+          "end": 120,
+          "uncertain": false,
+          "sourceIndex": 174,
+          "language": "en"
+        },
+        {
+          "value": "soul",
+          "start": 120,
+          "end": 120.6,
+          "uncertain": false,
+          "sourceIndex": 175,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-22",
+      "start": 120.9,
+      "end": 123,
+      "primary": "这个夜晚",
+      "translation": "This night",
+      "words": [
+        {
+          "value": "这",
+          "start": 120.9,
+          "end": 121.1,
+          "uncertain": false,
+          "sourceIndex": 176,
+          "language": "zh"
+        },
+        {
+          "value": "个",
+          "start": 121.1,
+          "end": 121.3,
+          "uncertain": false,
+          "sourceIndex": 177,
+          "language": "zh"
+        },
+        {
+          "value": "夜",
+          "start": 121.3,
+          "end": 121.5,
+          "uncertain": false,
+          "sourceIndex": 178,
+          "language": "zh"
+        },
+        {
+          "value": "晚",
+          "start": 121.5,
+          "end": 122,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "This",
+          "start": 122.1,
+          "end": 122.35,
+          "uncertain": false,
+          "sourceIndex": 180,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 122.35,
+          "end": 123,
+          "uncertain": false,
+          "sourceIndex": 181,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-23",
+      "start": 123.8,
+      "end": 126.8,
+      "primary": "无比安稳",
+      "translation": "Incredibly peaceful",
+      "words": [
+        {
+          "value": "无",
+          "start": 123.8,
+          "end": 124,
+          "uncertain": false,
+          "sourceIndex": 182,
+          "language": "zh"
+        },
+        {
+          "value": "比",
+          "start": 124,
+          "end": 124.2,
+          "uncertain": false,
+          "sourceIndex": 183,
+          "language": "zh"
+        },
+        {
+          "value": "安",
+          "start": 124.2,
+          "end": 124.5,
+          "uncertain": false,
+          "sourceIndex": 184,
+          "language": "zh"
+        },
+        {
+          "value": "稳",
+          "start": 124.5,
+          "end": 125.3,
+          "uncertain": false,
+          "sourceIndex": 185,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Incredibly",
+          "start": 125.4,
+          "end": 126.1,
+          "uncertain": false,
+          "sourceIndex": 186,
+          "language": "en"
+        },
+        {
+          "value": "peaceful",
+          "start": 126.1,
+          "end": 126.8,
+          "uncertain": false,
+          "sourceIndex": 187,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-24",
+      "start": 126.8,
+      "end": 131,
+      "primary": "放下过去",
+      "translation": "Let go of the past Breathe it out",
+      "words": [
+        {
+          "value": "放",
+          "start": 126.8,
+          "end": 127.1,
+          "uncertain": false,
+          "sourceIndex": 188,
+          "language": "zh"
+        },
+        {
+          "value": "下",
+          "start": 127.1,
+          "end": 127.3,
+          "uncertain": false,
+          "sourceIndex": 189,
+          "language": "zh"
+        },
+        {
+          "value": "过",
+          "start": 127.3,
+          "end": 127.5,
+          "uncertain": false,
+          "sourceIndex": 190,
+          "language": "zh"
+        },
+        {
+          "value": "去",
+          "start": 127.5,
+          "end": 128,
+          "uncertain": false,
+          "sourceIndex": 191,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Let",
+          "start": 128.2,
+          "end": 128.4,
+          "uncertain": false,
+          "sourceIndex": 192,
+          "language": "en"
+        },
+        {
+          "value": "go",
+          "start": 128.4,
+          "end": 128.6,
+          "uncertain": false,
+          "sourceIndex": 193,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 128.6,
+          "end": 128.7,
+          "uncertain": false,
+          "sourceIndex": 194,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 128.7,
+          "end": 128.8,
+          "uncertain": false,
+          "sourceIndex": 195,
+          "language": "en"
+        },
+        {
+          "value": "past",
+          "start": 128.8,
+          "end": 129.5,
+          "uncertain": false,
+          "sourceIndex": 196,
+          "language": "en"
+        },
+        {
+          "value": "Breathe",
+          "start": 129.6,
+          "end": 130,
+          "uncertain": false,
+          "sourceIndex": 197,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 130,
+          "end": 130.2,
+          "uncertain": false,
+          "sourceIndex": 198,
+          "language": "en"
+        },
+        {
+          "value": "out",
+          "start": 130.2,
+          "end": 131,
+          "uncertain": false,
+          "sourceIndex": 199,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-25",
+      "start": 132.3,
+      "end": 137,
+      "primary": "没有疑问",
+      "translation": "No doubts Without a doubt",
+      "words": [
+        {
+          "value": "没",
+          "start": 132.3,
+          "end": 132.5,
+          "uncertain": false,
+          "sourceIndex": 200,
+          "language": "zh"
+        },
+        {
+          "value": "有",
+          "start": 132.5,
+          "end": 132.7,
+          "uncertain": false,
+          "sourceIndex": 201,
+          "language": "zh"
+        },
+        {
+          "value": "疑",
+          "start": 132.7,
+          "end": 133,
+          "uncertain": false,
+          "sourceIndex": 202,
+          "language": "zh"
+        },
+        {
+          "value": "问",
+          "start": 133,
+          "end": 133.8,
+          "uncertain": false,
+          "sourceIndex": 203,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "No",
+          "start": 133.9,
+          "end": 134.2,
+          "uncertain": false,
+          "sourceIndex": 204,
+          "language": "en"
+        },
+        {
+          "value": "doubts",
+          "start": 134.2,
+          "end": 135,
+          "uncertain": false,
+          "sourceIndex": 205,
+          "language": "en"
+        },
+        {
+          "value": "Without",
+          "start": 135.4,
+          "end": 136,
+          "uncertain": false,
+          "sourceIndex": 206,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 136,
+          "end": 136.15,
+          "uncertain": false,
+          "sourceIndex": 207,
+          "language": "en"
+        },
+        {
+          "value": "doubt",
+          "start": 136.15,
+          "end": 137,
+          "uncertain": false,
+          "sourceIndex": 208,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-26",
+      "start": 138.1,
+      "end": 142.1,
+      "primary": "进入梦乡",
+      "translation": "Enter dreamland Close your eyes",
+      "words": [
+        {
+          "value": "进",
+          "start": 138.1,
+          "end": 138.3,
+          "uncertain": false,
+          "sourceIndex": 209,
+          "language": "zh"
+        },
+        {
+          "value": "入",
+          "start": 138.3,
+          "end": 138.5,
+          "uncertain": false,
+          "sourceIndex": 210,
+          "language": "zh"
+        },
+        {
+          "value": "梦",
+          "start": 138.5,
+          "end": 138.8,
+          "uncertain": false,
+          "sourceIndex": 211,
+          "language": "zh"
+        },
+        {
+          "value": "乡",
+          "start": 138.8,
+          "end": 139.6,
+          "uncertain": false,
+          "sourceIndex": 212,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Enter",
+          "start": 139.7,
+          "end": 140,
+          "uncertain": false,
+          "sourceIndex": 213,
+          "language": "en"
+        },
+        {
+          "value": "dreamland",
+          "start": 140,
+          "end": 140.8,
+          "uncertain": false,
+          "sourceIndex": 214,
+          "language": "en"
+        },
+        {
+          "value": "Close",
+          "start": 140.9,
+          "end": 141.2,
+          "uncertain": false,
+          "sourceIndex": 215,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 141.2,
+          "end": 141.4,
+          "uncertain": false,
+          "sourceIndex": 216,
+          "language": "en"
+        },
+        {
+          "value": "eyes",
+          "start": 141.4,
+          "end": 142.1,
+          "uncertain": false,
+          "sourceIndex": 217,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-27",
+      "start": 142.2,
+      "end": 146.5,
+      "primary": "满天繁星",
+      "translation": "Sky full of stars In the skies",
+      "words": [
+        {
+          "value": "满",
+          "start": 142.2,
+          "end": 142.4,
+          "uncertain": false,
+          "sourceIndex": 218,
+          "language": "zh"
+        },
+        {
+          "value": "天",
+          "start": 142.4,
+          "end": 142.6,
+          "uncertain": false,
+          "sourceIndex": 219,
+          "language": "zh"
+        },
+        {
+          "value": "繁",
+          "start": 142.6,
+          "end": 142.8,
+          "uncertain": false,
+          "sourceIndex": 220,
+          "language": "zh"
+        },
+        {
+          "value": "星",
+          "start": 142.8,
+          "end": 143.5,
+          "uncertain": false,
+          "sourceIndex": 221,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Sky",
+          "start": 143.6,
+          "end": 143.9,
+          "uncertain": false,
+          "sourceIndex": 222,
+          "language": "en"
+        },
+        {
+          "value": "full",
+          "start": 143.9,
+          "end": 144.1,
+          "uncertain": false,
+          "sourceIndex": 223,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 144.1,
+          "end": 144.2,
+          "uncertain": false,
+          "sourceIndex": 224,
+          "language": "en"
+        },
+        {
+          "value": "stars",
+          "start": 144.2,
+          "end": 145,
+          "uncertain": false,
+          "sourceIndex": 225,
+          "language": "en"
+        },
+        {
+          "value": "In",
+          "start": 145.1,
+          "end": 145.3,
+          "uncertain": false,
+          "sourceIndex": 226,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 145.3,
+          "end": 145.45,
+          "uncertain": false,
+          "sourceIndex": 227,
+          "language": "en"
+        },
+        {
+          "value": "skies",
+          "start": 145.45,
+          "end": 146.5,
+          "uncertain": false,
+          "sourceIndex": 228,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-28",
+      "start": 161.8,
+      "end": 164.5,
+      "primary": "很累了",
+      "translation": "Very tired",
+      "words": [
+        {
+          "value": "很",
+          "start": 161.8,
+          "end": 162,
+          "uncertain": false,
+          "sourceIndex": 229,
+          "language": "zh"
+        },
+        {
+          "value": "累",
+          "start": 162,
+          "end": 162.3,
+          "uncertain": false,
+          "sourceIndex": 230,
+          "language": "zh"
+        },
+        {
+          "value": "了",
+          "start": 162.3,
+          "end": 162.8,
+          "uncertain": false,
+          "sourceIndex": 231,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Very",
+          "start": 163.5,
+          "end": 163.8,
+          "uncertain": false,
+          "sourceIndex": 232,
+          "language": "en"
+        },
+        {
+          "value": "tired",
+          "start": 163.8,
+          "end": 164.5,
+          "uncertain": false,
+          "sourceIndex": 233,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-29",
+      "start": 167.3,
+      "end": 169.3,
+      "primary": "晚安",
+      "translation": "Good night",
+      "words": [
+        {
+          "value": "晚",
+          "start": 167.3,
+          "end": 167.7,
+          "uncertain": false,
+          "sourceIndex": 234,
+          "language": "zh"
+        },
+        {
+          "value": "安",
+          "start": 167.7,
+          "end": 168.2,
+          "uncertain": false,
+          "sourceIndex": 235,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Good",
+          "start": 168.4,
+          "end": 168.7,
+          "uncertain": false,
+          "sourceIndex": 236,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 168.7,
+          "end": 169.3,
+          "uncertain": false,
+          "sourceIndex": 237,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    },
+    {
+      "id": "seg-30",
+      "start": 176.6,
+      "end": 181,
+      "primary": "做个好梦",
+      "translation": "Peace",
+      "words": [
+        {
+          "value": "做",
+          "start": 176.6,
+          "end": 176.9,
+          "uncertain": false,
+          "sourceIndex": 238,
+          "language": "zh"
+        },
+        {
+          "value": "个",
+          "start": 176.9,
+          "end": 177.1,
+          "uncertain": false,
+          "sourceIndex": 239,
+          "language": "zh"
+        },
+        {
+          "value": "好",
+          "start": 177.1,
+          "end": 177.3,
+          "uncertain": false,
+          "sourceIndex": 240,
+          "language": "zh"
+        },
+        {
+          "value": "梦",
+          "start": 177.3,
+          "end": 178,
+          "uncertain": false,
+          "sourceIndex": 241,
+          "language": "zh"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Peace",
+          "start": 180.2,
+          "end": 181,
+          "uncertain": false,
+          "sourceIndex": 242,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "zh"
+    }
+  ]
+}

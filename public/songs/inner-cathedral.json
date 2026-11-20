@@ -1,0 +1,1594 @@
+[
+  {
+    "text": "Listen",
+    "start": 9.1,
+    "end": 9.9,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "to",
+    "start": 10,
+    "end": 10.4,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "us",
+    "start": 10.5,
+    "end": 11.8,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "We",
+    "start": 11.9,
+    "end": 12.4,
+    "language": "en",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "are",
+    "start": 12.5,
+    "end": 13.1,
+    "language": "en",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "many",
+    "start": 13.2,
+    "end": 15.5,
+    "language": "en",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "Cien",
+    "start": 23,
+    "end": 23.4,
+    "language": "es",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "mil",
+    "start": 23.4,
+    "end": 23.8,
+    "language": "es",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "voces",
+    "start": 23.8,
+    "end": 24.4,
+    "language": "es",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "A",
+    "start": 24.5,
+    "end": 24.7,
+    "language": "en",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "hundred",
+    "start": 24.7,
+    "end": 25.3,
+    "language": "en",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "thousand",
+    "start": 25.3,
+    "end": 25.8,
+    "language": "en",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "voices",
+    "start": 25.8,
+    "end": 26.5,
+    "language": "en",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "En",
+    "start": 26.7,
+    "end": 26.9,
+    "language": "es",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "mi",
+    "start": 26.9,
+    "end": 27.2,
+    "language": "es",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "garganta",
+    "start": 27.2,
+    "end": 28,
+    "language": "es",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "In",
+    "start": 28,
+    "end": 28.4,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "my",
+    "start": 28.4,
+    "end": 28.8,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "throat",
+    "start": 28.8,
+    "end": 29.8,
+    "language": "en",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "Una",
+    "start": 30.8,
+    "end": 31.4,
+    "language": "es",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "canción",
+    "start": 31.4,
+    "end": 32.4,
+    "language": "es",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "A",
+    "start": 32.6,
+    "end": 32.9,
+    "language": "en",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "song",
+    "start": 32.9,
+    "end": 34,
+    "language": "en",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "Que",
+    "start": 34.4,
+    "end": 34.8,
+    "language": "es",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "se",
+    "start": 34.8,
+    "end": 35,
+    "language": "es",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "levanta",
+    "start": 35,
+    "end": 35.8,
+    "language": "es",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "That",
+    "start": 35.9,
+    "end": 36.5,
+    "language": "en",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "rises",
+    "start": 36.5,
+    "end": 37.7,
+    "language": "en",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "No",
+    "start": 38.2,
+    "end": 38.5,
+    "language": "es",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "hay",
+    "start": 38.5,
+    "end": 38.8,
+    "language": "es",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "guitarras",
+    "start": 38.8,
+    "end": 39.6,
+    "language": "es",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "There",
+    "start": 39.7,
+    "end": 40,
+    "language": "en",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "are",
+    "start": 40,
+    "end": 40.3,
+    "language": "en",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "no",
+    "start": 40.3,
+    "end": 40.7,
+    "language": "en",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "guitars",
+    "start": 40.7,
+    "end": 41.7,
+    "language": "en",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "No",
+    "start": 41.8,
+    "end": 42.1,
+    "language": "es",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "hay",
+    "start": 42.1,
+    "end": 42.4,
+    "language": "es",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "tambores",
+    "start": 42.4,
+    "end": 43.2,
+    "language": "es",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "There",
+    "start": 43.3,
+    "end": 43.6,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "are",
+    "start": 43.6,
+    "end": 43.9,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "no",
+    "start": 43.9,
+    "end": 44.2,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "drums",
+    "start": 44.2,
+    "end": 45.3,
+    "language": "en",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "Solo",
+    "start": 45.5,
+    "end": 46,
+    "language": "es",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "humanos",
+    "start": 46,
+    "end": 47,
+    "language": "es",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "Only",
+    "start": 47.1,
+    "end": 47.6,
+    "language": "en",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "human",
+    "start": 47.6,
+    "end": 49,
+    "language": "en",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "Y",
+    "start": 49.2,
+    "end": 49.4,
+    "language": "es",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "sus",
+    "start": 49.4,
+    "end": 49.8,
+    "language": "es",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "colores",
+    "start": 49.8,
+    "end": 50.8,
+    "language": "es",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "And",
+    "start": 50.9,
+    "end": 51.3,
+    "language": "en",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "their",
+    "start": 51.3,
+    "end": 51.8,
+    "language": "en",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "colors",
+    "start": 51.8,
+    "end": 53,
+    "language": "en",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "Respira",
+    "start": 53.1,
+    "end": 54,
+    "language": "es",
+    "phrase_id": "p019",
+    "uncertain": false
+  },
+  {
+    "text": "profundo",
+    "start": 54,
+    "end": 54.9,
+    "language": "es",
+    "phrase_id": "p019",
+    "uncertain": false
+  },
+  {
+    "text": "Breathe",
+    "start": 55,
+    "end": 55.5,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "deep",
+    "start": 55.5,
+    "end": 57,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "El",
+    "start": 57.1,
+    "end": 57.4,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "eco",
+    "start": 57.4,
+    "end": 57.8,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "del",
+    "start": 57.8,
+    "end": 58.2,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "mundo",
+    "start": 58.2,
+    "end": 59,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 59.1,
+    "end": 59.4,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "echo",
+    "start": 59.4,
+    "end": 59.8,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 59.8,
+    "end": 60.1,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 60.1,
+    "end": 60.3,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "world",
+    "start": 60.3,
+    "end": 60.8,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "Respira",
+    "start": 60.9,
+    "end": 61.6,
+    "language": "es",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "profundo",
+    "start": 61.6,
+    "end": 62.5,
+    "language": "es",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "Breathe",
+    "start": 62.6,
+    "end": 63.1,
+    "language": "en",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "deep",
+    "start": 63.1,
+    "end": 64.4,
+    "language": "en",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "El",
+    "start": 64.6,
+    "end": 64.9,
+    "language": "es",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "eco",
+    "start": 64.9,
+    "end": 65.3,
+    "language": "es",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "del",
+    "start": 65.3,
+    "end": 65.7,
+    "language": "es",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "mundo",
+    "start": 65.7,
+    "end": 66.3,
+    "language": "es",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 66.4,
+    "end": 66.8,
+    "language": "en",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "echo",
+    "start": 66.8,
+    "end": 67.1,
+    "language": "en",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 67.1,
+    "end": 67.4,
+    "language": "en",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 67.4,
+    "end": 67.7,
+    "language": "en",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "world",
+    "start": 67.7,
+    "end": 68.5,
+    "language": "en",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "Canta",
+    "start": 68.7,
+    "end": 69.3,
+    "language": "es",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "conmigo",
+    "start": 69.3,
+    "end": 70,
+    "language": "es",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "Sing",
+    "start": 70.1,
+    "end": 70.7,
+    "language": "en",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "with",
+    "start": 70.7,
+    "end": 71.1,
+    "language": "en",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "me",
+    "start": 71.1,
+    "end": 72,
+    "language": "en",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "Somos",
+    "start": 72.1,
+    "end": 72.7,
+    "language": "es",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "el",
+    "start": 72.7,
+    "end": 73.1,
+    "language": "es",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "eco",
+    "start": 73.1,
+    "end": 73.6,
+    "language": "es",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "We",
+    "start": 73.7,
+    "end": 74,
+    "language": "en",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "are",
+    "start": 74,
+    "end": 74.3,
+    "language": "en",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 74.3,
+    "end": 74.6,
+    "language": "en",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "echo",
+    "start": 74.6,
+    "end": 75.8,
+    "language": "en",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "Puro",
+    "start": 76,
+    "end": 76.6,
+    "language": "es",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "sonido",
+    "start": 76.6,
+    "end": 77.5,
+    "language": "es",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "Pure",
+    "start": 77.6,
+    "end": 78.2,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "sound",
+    "start": 78.2,
+    "end": 79.4,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "Vibra",
+    "start": 79.5,
+    "end": 80.1,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "en",
+    "start": 80.1,
+    "end": 80.4,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "el",
+    "start": 80.4,
+    "end": 80.6,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "viento",
+    "start": 80.6,
+    "end": 80.9,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "Vibrate",
+    "start": 81,
+    "end": 81.7,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "in",
+    "start": 81.7,
+    "end": 82,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 82,
+    "end": 82.4,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "wind",
+    "start": 82.4,
+    "end": 83.5,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "Cuerdas",
+    "start": 114.2,
+    "end": 114.8,
+    "language": "es",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "vocales",
+    "start": 114.8,
+    "end": 115.6,
+    "language": "es",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "hacen",
+    "start": 116.1,
+    "end": 116.5,
+    "language": "es",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "la",
+    "start": 116.5,
+    "end": 116.7,
+    "language": "es",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "magia",
+    "start": 116.7,
+    "end": 117.6,
+    "language": "es",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "Nuestra",
+    "start": 118.1,
+    "end": 118.7,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "energía",
+    "start": 118.7,
+    "end": 119.6,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "Our",
+    "start": 119.8,
+    "end": 120.1,
+    "language": "en",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "energy",
+    "start": 120.1,
+    "end": 121.4,
+    "language": "en",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "Se",
+    "start": 121.7,
+    "end": 122.3,
+    "language": "es",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "contagia",
+    "start": 122.3,
+    "end": 123.4,
+    "language": "es",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "Is",
+    "start": 123.5,
+    "end": 123.9,
+    "language": "en",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "contagious",
+    "start": 123.9,
+    "end": 125.3,
+    "language": "en",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "Soy",
+    "start": 125.4,
+    "end": 125.9,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "un",
+    "start": 125.9,
+    "end": 126.1,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "ejército",
+    "start": 126.1,
+    "end": 127.1,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 127.2,
+    "end": 127.4,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "am",
+    "start": 127.4,
+    "end": 127.7,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "an",
+    "start": 127.7,
+    "end": 127.9,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "army",
+    "start": 127.9,
+    "end": 129.1,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "Soy",
+    "start": 129.2,
+    "end": 129.6,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "solo",
+    "start": 129.6,
+    "end": 130,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "una",
+    "start": 130,
+    "end": 130.9,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 131,
+    "end": 131.2,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "am",
+    "start": 131.2,
+    "end": 131.4,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "only",
+    "start": 131.4,
+    "end": 131.7,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "one",
+    "start": 131.7,
+    "end": 132.8,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "Cantando",
+    "start": 132.9,
+    "end": 133.7,
+    "language": "es",
+    "phrase_id": "p045",
+    "uncertain": false
+  },
+  {
+    "text": "fuerte",
+    "start": 133.7,
+    "end": 134.7,
+    "language": "es",
+    "phrase_id": "p045",
+    "uncertain": false
+  },
+  {
+    "text": "Hacia",
+    "start": 134.8,
+    "end": 135.3,
+    "language": "es",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "la",
+    "start": 135.3,
+    "end": 135.5,
+    "language": "es",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "luna",
+    "start": 135.5,
+    "end": 136.6,
+    "language": "es",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "Respira",
+    "start": 136.7,
+    "end": 137.5,
+    "language": "es",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "profundo",
+    "start": 137.5,
+    "end": 138.4,
+    "language": "es",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "El",
+    "start": 140.6,
+    "end": 140.9,
+    "language": "es",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "eco",
+    "start": 140.9,
+    "end": 141.3,
+    "language": "es",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "del",
+    "start": 141.3,
+    "end": 141.6,
+    "language": "es",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "mundo",
+    "start": 141.6,
+    "end": 142.3,
+    "language": "es",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 142.4,
+    "end": 142.6,
+    "language": "en",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "echo",
+    "start": 142.6,
+    "end": 143,
+    "language": "en",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 143,
+    "end": 143.2,
+    "language": "en",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 143.2,
+    "end": 143.4,
+    "language": "en",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "world",
+    "start": 143.4,
+    "end": 144.3,
+    "language": "en",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "Respira",
+    "start": 144.4,
+    "end": 145.1,
+    "language": "es",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "profundo",
+    "start": 145.1,
+    "end": 146,
+    "language": "es",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "Breathe",
+    "start": 146.1,
+    "end": 146.7,
+    "language": "en",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "deep",
+    "start": 146.7,
+    "end": 147.9,
+    "language": "en",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "El",
+    "start": 148,
+    "end": 148.3,
+    "language": "es",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "eco",
+    "start": 148.3,
+    "end": 148.7,
+    "language": "es",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "del",
+    "start": 148.7,
+    "end": 149,
+    "language": "es",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "mundo",
+    "start": 149,
+    "end": 149.7,
+    "language": "es",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 149.8,
+    "end": 150.1,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "echo",
+    "start": 150.1,
+    "end": 150.5,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 150.5,
+    "end": 150.7,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 150.7,
+    "end": 151,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "world",
+    "start": 151,
+    "end": 152,
+    "language": "en",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "Canta",
+    "start": 152.1,
+    "end": 152.7,
+    "language": "es",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "conmigo",
+    "start": 152.7,
+    "end": 153.5,
+    "language": "es",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "Sing",
+    "start": 153.6,
+    "end": 154.1,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "with",
+    "start": 154.1,
+    "end": 154.5,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "me",
+    "start": 154.5,
+    "end": 155.5,
+    "language": "en",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "Somos",
+    "start": 155.7,
+    "end": 156.3,
+    "language": "es",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "el",
+    "start": 156.3,
+    "end": 156.6,
+    "language": "es",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "eco",
+    "start": 156.6,
+    "end": 157.2,
+    "language": "es",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "We",
+    "start": 157.3,
+    "end": 157.6,
+    "language": "en",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "are",
+    "start": 157.6,
+    "end": 157.9,
+    "language": "en",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 157.9,
+    "end": 158.2,
+    "language": "en",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "echo",
+    "start": 158.2,
+    "end": 159.4,
+    "language": "en",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "Canta",
+    "start": 159.5,
+    "end": 160.1,
+    "language": "es",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "conmigo",
+    "start": 160.1,
+    "end": 161,
+    "language": "es",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "Sing",
+    "start": 161.1,
+    "end": 161.6,
+    "language": "en",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "with",
+    "start": 161.6,
+    "end": 162,
+    "language": "en",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "me",
+    "start": 162,
+    "end": 162.9,
+    "language": "en",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "Somos",
+    "start": 163,
+    "end": 163.6,
+    "language": "es",
+    "phrase_id": "p060",
+    "uncertain": false
+  },
+  {
+    "text": "el",
+    "start": 163.6,
+    "end": 163.9,
+    "language": "es",
+    "phrase_id": "p060",
+    "uncertain": false
+  },
+  {
+    "text": "eco",
+    "start": 163.9,
+    "end": 164.6,
+    "language": "es",
+    "phrase_id": "p060",
+    "uncertain": false
+  },
+  {
+    "text": "We",
+    "start": 164.7,
+    "end": 165,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "are",
+    "start": 165,
+    "end": 165.3,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 165.3,
+    "end": 165.6,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "echo",
+    "start": 165.6,
+    "end": 166.9,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "Eco",
+    "start": 183.4,
+    "end": 184.1,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": true
+  },
+  {
+    "text": "eco",
+    "start": 184.2,
+    "end": 185.2,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": true
+  },
+  {
+    "text": "Eco",
+    "start": 185.3,
+    "end": 185.9,
+    "language": "es",
+    "phrase_id": "p063",
+    "uncertain": true
+  },
+  {
+    "text": "eco",
+    "start": 186,
+    "end": 187,
+    "language": "es",
+    "phrase_id": "p063",
+    "uncertain": true
+  },
+  {
+    "text": "Eco",
+    "start": 187.1,
+    "end": 187.8,
+    "language": "es",
+    "phrase_id": "p064",
+    "uncertain": true
+  },
+  {
+    "text": "eco",
+    "start": 187.9,
+    "end": 188.9,
+    "language": "es",
+    "phrase_id": "p064",
+    "uncertain": true
+  },
+  {
+    "text": "Eco",
+    "start": 189,
+    "end": 189.6,
+    "language": "es",
+    "phrase_id": "p065",
+    "uncertain": true
+  },
+  {
+    "text": "eco",
+    "start": 189.7,
+    "end": 190.7,
+    "language": "es",
+    "phrase_id": "p065",
+    "uncertain": true
+  },
+  {
+    "text": "Eco",
+    "start": 190.8,
+    "end": 191.5,
+    "language": "es",
+    "phrase_id": "p066",
+    "uncertain": true
+  },
+  {
+    "text": "eco",
+    "start": 191.6,
+    "end": 192.6,
+    "language": "es",
+    "phrase_id": "p066",
+    "uncertain": true
+  },
+  {
+    "text": "Eco",
+    "start": 192.7,
+    "end": 193.4,
+    "language": "es",
+    "phrase_id": "p067",
+    "uncertain": true
+  },
+  {
+    "text": "eco",
+    "start": 193.5,
+    "end": 194.5,
+    "language": "es",
+    "phrase_id": "p067",
+    "uncertain": true
+  },
+  {
+    "text": "Eco",
+    "start": 201.8,
+    "end": 202.5,
+    "language": "es",
+    "phrase_id": "p068",
+    "uncertain": false
+  },
+  {
+    "text": "Eco",
+    "start": 206.4,
+    "end": 207.2,
+    "language": "es",
+    "phrase_id": "p069",
+    "uncertain": false
+  },
+  {
+    "text": "Eco",
+    "start": 209.3,
+    "end": 210,
+    "language": "es",
+    "phrase_id": "p070",
+    "uncertain": false
+  },
+  {
+    "text": "Eco",
+    "start": 210.2,
+    "end": 211,
+    "language": "es",
+    "phrase_id": "p071",
+    "uncertain": false
+  },
+  {
+    "text": "Eco",
+    "start": 211.2,
+    "end": 212,
+    "language": "es",
+    "phrase_id": "p072",
+    "uncertain": false
+  }
+]

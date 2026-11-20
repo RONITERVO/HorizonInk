@@ -1,0 +1,1414 @@
+{
+  "title": "Heavy Gravity",
+  "genre": "Psy-Dub",
+  "primaryLanguage": "es",
+  "duration": 253.945,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 10.7,
+      "end": 12.46,
+      "primary": "",
+      "translation": "Feel the space",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Feel",
+          "start": 10.7,
+          "end": 11.1,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 11.22,
+          "end": 11.34,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "space",
+          "start": 11.44,
+          "end": 12.46,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 43.44,
+      "end": 46.78,
+      "primary": "Ondas oscuras",
+      "translation": "dark waves",
+      "words": [
+        {
+          "value": "Ondas",
+          "start": 43.44,
+          "end": 44.42,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "es"
+        },
+        {
+          "value": "oscuras",
+          "start": 44.48,
+          "end": 45.48,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "dark",
+          "start": 45.52,
+          "end": 45.9,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        },
+        {
+          "value": "waves",
+          "start": 46.12,
+          "end": 46.78,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 46.86,
+      "end": 49.14,
+      "primary": "en el mar",
+      "translation": "in the sea",
+      "words": [
+        {
+          "value": "en",
+          "start": 46.86,
+          "end": 47.12,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 47.16,
+          "end": 47.42,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "es"
+        },
+        {
+          "value": "mar",
+          "start": 47.54,
+          "end": 47.94,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "in",
+          "start": 48.24,
+          "end": 48.44,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 48.52,
+          "end": 48.68,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "en"
+        },
+        {
+          "value": "sea",
+          "start": 48.84,
+          "end": 49.14,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 49.22,
+      "end": 52.22,
+      "primary": "del universo",
+      "translation": "of the universe",
+      "words": [
+        {
+          "value": "del",
+          "start": 49.22,
+          "end": 49.52,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        },
+        {
+          "value": "universo",
+          "start": 49.64,
+          "end": 50.76,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "of",
+          "start": 50.96,
+          "end": 51.18,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 51.28,
+          "end": 51.44,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "en"
+        },
+        {
+          "value": "universe",
+          "start": 51.64,
+          "end": 52.22,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 52.3,
+      "end": 54.26,
+      "primary": "Al respirar",
+      "translation": "when breathing",
+      "words": [
+        {
+          "value": "Al",
+          "start": 52.3,
+          "end": 52.4,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "es"
+        },
+        {
+          "value": "respirar",
+          "start": 52.5,
+          "end": 53.18,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "when",
+          "start": 53.32,
+          "end": 53.54,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "en"
+        },
+        {
+          "value": "breathing",
+          "start": 53.62,
+          "end": 54.26,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 54.66,
+      "end": 57.34,
+      "primary": "Materia gris",
+      "translation": "gray matter",
+      "words": [
+        {
+          "value": "Materia",
+          "start": 54.66,
+          "end": 55.6,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "es"
+        },
+        {
+          "value": "gris",
+          "start": 55.64,
+          "end": 56.1,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "gray",
+          "start": 56.34,
+          "end": 56.78,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "en"
+        },
+        {
+          "value": "matter",
+          "start": 57.02,
+          "end": 57.34,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 57.4,
+      "end": 60.06,
+      "primary": "Materia negra",
+      "translation": "dark matter",
+      "words": [
+        {
+          "value": "Materia",
+          "start": 57.4,
+          "end": 58.22,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        },
+        {
+          "value": "negra",
+          "start": 58.38,
+          "end": 58.86,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "dark",
+          "start": 59.08,
+          "end": 59.56,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "en"
+        },
+        {
+          "value": "matter",
+          "start": 59.74,
+          "end": 60.06,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 60.12,
+      "end": 62.4,
+      "primary": "La gravedad",
+      "translation": "gravity",
+      "words": [
+        {
+          "value": "La",
+          "start": 60.12,
+          "end": 60.32,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "es"
+        },
+        {
+          "value": "gravedad",
+          "start": 60.38,
+          "end": 61.4,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "gravity",
+          "start": 61.78,
+          "end": 62.4,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 62.84,
+      "end": 64.45,
+      "primary": "que nos integra",
+      "translation": "",
+      "words": [
+        {
+          "value": "que",
+          "start": 62.84,
+          "end": 62.96,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "es"
+        },
+        {
+          "value": "nos",
+          "start": 63.16,
+          "end": 63.48,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "es"
+        },
+        {
+          "value": "integra",
+          "start": 63.58,
+          "end": 64.45,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 65.7,
+      "end": 67.08,
+      "primary": "Frecuencia baja",
+      "translation": "",
+      "words": [
+        {
+          "value": "Frecuencia",
+          "start": 65.7,
+          "end": 66.5,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "es"
+        },
+        {
+          "value": "baja",
+          "start": 66.56,
+          "end": 67.08,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 68.44,
+      "end": 69.88,
+      "primary": "sin hacer ruido",
+      "translation": "",
+      "words": [
+        {
+          "value": "sin",
+          "start": 68.44,
+          "end": 68.62,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        },
+        {
+          "value": "hacer",
+          "start": 68.66,
+          "end": 69.18,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "es"
+        },
+        {
+          "value": "ruido",
+          "start": 69.28,
+          "end": 69.88,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 71.16,
+      "end": 72.52,
+      "primary": "Frecuencia baja",
+      "translation": "",
+      "words": [
+        {
+          "value": "Frecuencia",
+          "start": 71.16,
+          "end": 71.86,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "es"
+        },
+        {
+          "value": "baja",
+          "start": 72.08,
+          "end": 72.52,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 73.88,
+      "end": 75.42,
+      "primary": "sin hacer ruido",
+      "translation": "",
+      "words": [
+        {
+          "value": "sin",
+          "start": 73.88,
+          "end": 74.08,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "es"
+        },
+        {
+          "value": "hacer",
+          "start": 74.1,
+          "end": 74.62,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "es"
+        },
+        {
+          "value": "ruido",
+          "start": 74.74,
+          "end": 75.42,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 76.78,
+      "end": 78.7,
+      "primary": "Siente la nota",
+      "translation": "",
+      "words": [
+        {
+          "value": "Siente",
+          "start": 76.78,
+          "end": 77.3,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 77.84,
+          "end": 77.98,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "es"
+        },
+        {
+          "value": "nota",
+          "start": 78.16,
+          "end": 78.7,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 79.2,
+      "end": 84.3,
+      "primary": "no deja que el cuerpo",
+      "translation": "let the body take a rest",
+      "words": [
+        {
+          "value": "no",
+          "start": 79.2,
+          "end": 79.4,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "es"
+        },
+        {
+          "value": "deja",
+          "start": 79.56,
+          "end": 80.02,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 80.54,
+          "end": 80.6,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 80.64,
+          "end": 80.84,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "es"
+        },
+        {
+          "value": "cuerpo",
+          "start": 80.9,
+          "end": 81.38,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "let",
+          "start": 81.58,
+          "end": 81.7,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 81.76,
+          "end": 81.88,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "en"
+        },
+        {
+          "value": "body",
+          "start": 81.94,
+          "end": 82.22,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "en"
+        },
+        {
+          "value": "take",
+          "start": 82.28,
+          "end": 82.68,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 83.42,
+          "end": 83.54,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        },
+        {
+          "value": "rest",
+          "start": 83.62,
+          "end": 84.3,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 87.7,
+      "end": 90.42,
+      "primary": "Viaje cuántico",
+      "translation": "quantum journey",
+      "words": [
+        {
+          "value": "Viaje",
+          "start": 87.7,
+          "end": 88.22,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "es"
+        },
+        {
+          "value": "cuántico",
+          "start": 89.1,
+          "end": 89.74,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "quantum",
+          "start": 89.8,
+          "end": 90.1,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "en"
+        },
+        {
+          "value": "journey",
+          "start": 90.16,
+          "end": 90.42,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 91.16,
+      "end": 95.88,
+      "primary": "Todo el miedo",
+      "translation": "all the fear is destroyed",
+      "words": [
+        {
+          "value": "Todo",
+          "start": 91.16,
+          "end": 91.46,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 91.6,
+          "end": 91.72,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "es"
+        },
+        {
+          "value": "miedo",
+          "start": 91.8,
+          "end": 92.36,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "all",
+          "start": 92.54,
+          "end": 92.62,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 92.68,
+          "end": 92.76,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "fear",
+          "start": 92.84,
+          "end": 93.1,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 93.3,
+          "end": 93.66,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "en"
+        },
+        {
+          "value": "destroyed",
+          "start": 94.9,
+          "end": 95.88,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 130.74,
+      "end": 132.02,
+      "primary": "Entre los átomos",
+      "translation": "",
+      "words": [
+        {
+          "value": "Entre",
+          "start": 130.74,
+          "end": 131.14,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "es"
+        },
+        {
+          "value": "los",
+          "start": 131.18,
+          "end": 131.36,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "es"
+        },
+        {
+          "value": "átomos",
+          "start": 131.44,
+          "end": 132.02,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 132.38,
+      "end": 133.12,
+      "primary": "hay un vals",
+      "translation": "",
+      "words": [
+        {
+          "value": "hay",
+          "start": 132.38,
+          "end": 132.54,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "es"
+        },
+        {
+          "value": "un",
+          "start": 132.6,
+          "end": 132.72,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "es"
+        },
+        {
+          "value": "vals",
+          "start": 132.78,
+          "end": 133.12,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 133.54,
+      "end": 134.82,
+      "primary": "Si tú lo escuchas",
+      "translation": "",
+      "words": [
+        {
+          "value": "Si",
+          "start": 133.54,
+          "end": 133.68,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        },
+        {
+          "value": "tú",
+          "start": 133.74,
+          "end": 133.86,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "es"
+        },
+        {
+          "value": "lo",
+          "start": 133.9,
+          "end": 133.94,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "es"
+        },
+        {
+          "value": "escuchas",
+          "start": 133.98,
+          "end": 134.82,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 135.08,
+      "end": 136.08,
+      "primary": "no es falso",
+      "translation": "",
+      "words": [
+        {
+          "value": "no",
+          "start": 135.08,
+          "end": 135.16,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "es"
+        },
+        {
+          "value": "es",
+          "start": 135.22,
+          "end": 135.36,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "es"
+        },
+        {
+          "value": "falso",
+          "start": 135.46,
+          "end": 136.08,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 136.28,
+      "end": 137.56,
+      "primary": "Cierra los ojos",
+      "translation": "",
+      "words": [
+        {
+          "value": "Cierra",
+          "start": 136.28,
+          "end": 136.6,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        },
+        {
+          "value": "los",
+          "start": 136.64,
+          "end": 136.86,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "es"
+        },
+        {
+          "value": "ojos",
+          "start": 136.98,
+          "end": 137.56,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 137.86,
+      "end": 138.64,
+      "primary": "cae lento",
+      "translation": "",
+      "words": [
+        {
+          "value": "cae",
+          "start": 137.86,
+          "end": 138.12,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "es"
+        },
+        {
+          "value": "lento",
+          "start": 138.16,
+          "end": 138.64,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 139.06,
+      "end": 140.06,
+      "primary": "en el vacío",
+      "translation": "",
+      "words": [
+        {
+          "value": "en",
+          "start": 139.06,
+          "end": 139.16,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 139.22,
+          "end": 139.32,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "es"
+        },
+        {
+          "value": "vacío",
+          "start": 139.36,
+          "end": 140.06,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 140.54,
+      "end": 141.44,
+      "primary": "del momento",
+      "translation": "",
+      "words": [
+        {
+          "value": "del",
+          "start": 140.54,
+          "end": 140.66,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "es"
+        },
+        {
+          "value": "momento",
+          "start": 140.74,
+          "end": 141.44,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 142.06,
+      "end": 143.52,
+      "primary": "Frecuencia baja",
+      "translation": "",
+      "words": [
+        {
+          "value": "Frecuencia",
+          "start": 142.06,
+          "end": 142.86,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "es"
+        },
+        {
+          "value": "baja",
+          "start": 142.92,
+          "end": 143.52,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 144.8,
+      "end": 146.18,
+      "primary": "sin hacer ruido",
+      "translation": "",
+      "words": [
+        {
+          "value": "sin",
+          "start": 144.8,
+          "end": 144.98,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "es"
+        },
+        {
+          "value": "hacer",
+          "start": 145.04,
+          "end": 145.56,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "es"
+        },
+        {
+          "value": "ruido",
+          "start": 145.62,
+          "end": 146.18,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 147.52,
+      "end": 148.96,
+      "primary": "Frecuencia baja",
+      "translation": "",
+      "words": [
+        {
+          "value": "Frecuencia",
+          "start": 147.52,
+          "end": 148.36,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "es"
+        },
+        {
+          "value": "baja",
+          "start": 148.4,
+          "end": 148.96,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 150.26,
+      "end": 151.64,
+      "primary": "sin hacer ruido",
+      "translation": "",
+      "words": [
+        {
+          "value": "sin",
+          "start": 150.26,
+          "end": 150.46,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        },
+        {
+          "value": "hacer",
+          "start": 150.48,
+          "end": 151.08,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "es"
+        },
+        {
+          "value": "ruido",
+          "start": 151.1,
+          "end": 151.64,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 153.16,
+      "end": 155.12,
+      "primary": "Siente la nota",
+      "translation": "",
+      "words": [
+        {
+          "value": "Siente",
+          "start": 153.16,
+          "end": 153.66,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 154.2,
+          "end": 154.36,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "es"
+        },
+        {
+          "value": "nota",
+          "start": 154.58,
+          "end": 155.12,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 155.58,
+      "end": 160.64,
+      "primary": "no deja que el cuerpo",
+      "translation": "let the body take a rest",
+      "words": [
+        {
+          "value": "no",
+          "start": 155.58,
+          "end": 155.7,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "es"
+        },
+        {
+          "value": "deja",
+          "start": 155.92,
+          "end": 156.38,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 156.92,
+          "end": 157,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 157.04,
+          "end": 157.2,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "es"
+        },
+        {
+          "value": "cuerpo",
+          "start": 157.26,
+          "end": 157.74,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "let",
+          "start": 157.98,
+          "end": 158.12,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 158.14,
+          "end": 158.24,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        },
+        {
+          "value": "body",
+          "start": 158.3,
+          "end": 158.6,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "en"
+        },
+        {
+          "value": "take",
+          "start": 158.68,
+          "end": 159.68,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 159.8,
+          "end": 159.94,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "en"
+        },
+        {
+          "value": "rest",
+          "start": 160.04,
+          "end": 160.64,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-32",
+      "start": 206.74,
+      "end": 208.06,
+      "primary": "Silencio",
+      "translation": "",
+      "words": [
+        {
+          "value": "Silencio",
+          "start": 206.74,
+          "end": 208.06,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-33",
+      "start": 209.12,
+      "end": 210.28,
+      "primary": "total",
+      "translation": "",
+      "words": [
+        {
+          "value": "total",
+          "start": 209.12,
+          "end": 210.28,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-34",
+      "start": 211.82,
+      "end": 253.935,
+      "primary": "To-total",
+      "translation": "Empty",
+      "words": [
+        {
+          "value": "To-total",
+          "start": 211.82,
+          "end": 213,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Empty",
+          "start": 253.48,
+          "end": 253.935,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

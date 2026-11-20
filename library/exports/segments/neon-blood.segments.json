@@ -1,0 +1,1811 @@
+{
+  "title": "Neon Blood",
+  "genre": "Cyberpunk Synthwave",
+  "primaryLanguage": "es",
+  "duration": 279.956,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 8.1,
+      "end": 15.98,
+      "primary": "",
+      "translation": "System online Welcome to the city",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "System",
+          "start": 8.1,
+          "end": 8.56,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "online",
+          "start": 8.74,
+          "end": 9.52,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "Welcome",
+          "start": 14.12,
+          "end": 14.7,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 14.94,
+          "end": 15.04,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 15.1,
+          "end": 15.16,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "city",
+          "start": 15.38,
+          "end": 15.98,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 46.84,
+      "end": 49.48,
+      "primary": "Calles de neón",
+      "translation": "Neon streets",
+      "words": [
+        {
+          "value": "Calles",
+          "start": 46.84,
+          "end": 47.34,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 47.42,
+          "end": 47.56,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        },
+        {
+          "value": "neón",
+          "start": 47.64,
+          "end": 48.22,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Neon",
+          "start": 48.48,
+          "end": 48.82,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        },
+        {
+          "value": "streets",
+          "start": 48.92,
+          "end": 49.48,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 49.76,
+      "end": 53.7,
+      "primary": "Cielo de metal",
+      "translation": "Metal sky",
+      "words": [
+        {
+          "value": "Cielo",
+          "start": 49.76,
+          "end": 50.5,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 50.54,
+          "end": 50.68,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "es"
+        },
+        {
+          "value": "metal",
+          "start": 50.82,
+          "end": 51.6,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Metal",
+          "start": 52.4,
+          "end": 52.92,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "en"
+        },
+        {
+          "value": "sky",
+          "start": 53.1,
+          "end": 53.7,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 54.02,
+      "end": 58.1,
+      "primary": "Gente caminando",
+      "translation": "People walking",
+      "words": [
+        {
+          "value": "Gente",
+          "start": 54.02,
+          "end": 54.64,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "es"
+        },
+        {
+          "value": "caminando",
+          "start": 54.8,
+          "end": 55.92,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "People",
+          "start": 56.36,
+          "end": 56.88,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "en"
+        },
+        {
+          "value": "walking",
+          "start": 57.18,
+          "end": 58.1,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 58.24,
+      "end": 62.96,
+      "primary": "Sin mirar atrás",
+      "translation": "Without looking back",
+      "words": [
+        {
+          "value": "Sin",
+          "start": 58.24,
+          "end": 58.68,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "es"
+        },
+        {
+          "value": "mirar",
+          "start": 58.78,
+          "end": 59.3,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "es"
+        },
+        {
+          "value": "atrás",
+          "start": 59.36,
+          "end": 60.06,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Without",
+          "start": 60.32,
+          "end": 60.82,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "en"
+        },
+        {
+          "value": "looking",
+          "start": 61.08,
+          "end": 61.58,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "en"
+        },
+        {
+          "value": "back",
+          "start": 61.66,
+          "end": 62.96,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 62.96,
+      "end": 66.18,
+      "primary": "Cables y luces",
+      "translation": "Cables and lights",
+      "words": [
+        {
+          "value": "Cables",
+          "start": 62.96,
+          "end": 63.48,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 63.54,
+          "end": 63.68,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "es"
+        },
+        {
+          "value": "luces",
+          "start": 63.76,
+          "end": 64.76,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Cables",
+          "start": 64.819,
+          "end": 65.34,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 65.4,
+          "end": 65.56,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "en"
+        },
+        {
+          "value": "lights",
+          "start": 65.62,
+          "end": 66.18,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 66.7,
+      "end": 70.6,
+      "primary": "Conexión total",
+      "translation": "Total connection",
+      "words": [
+        {
+          "value": "Conexión",
+          "start": 66.7,
+          "end": 67.68,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        },
+        {
+          "value": "total",
+          "start": 67.74,
+          "end": 68.5,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Total",
+          "start": 68.78,
+          "end": 69.5,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "en"
+        },
+        {
+          "value": "connection",
+          "start": 69.84,
+          "end": 70.6,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 70.96,
+      "end": 74.7,
+      "primary": "El futuro es hoy",
+      "translation": "The future is today",
+      "words": [
+        {
+          "value": "El",
+          "start": 70.96,
+          "end": 71.28,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "es"
+        },
+        {
+          "value": "futuro",
+          "start": 71.4,
+          "end": 72.06,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "es"
+        },
+        {
+          "value": "es",
+          "start": 72.14,
+          "end": 72.2,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        },
+        {
+          "value": "hoy",
+          "start": 72.24,
+          "end": 72.96,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 73.02,
+          "end": 73.12,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "en"
+        },
+        {
+          "value": "future",
+          "start": 73.22,
+          "end": 73.72,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 73.82,
+          "end": 73.98,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "en"
+        },
+        {
+          "value": "today",
+          "start": 74.06,
+          "end": 74.7,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 76.42,
+      "end": 80.62,
+      "primary": "Máquina y mente",
+      "translation": "Machine and mind Plug it in",
+      "words": [
+        {
+          "value": "Máquina",
+          "start": 76.42,
+          "end": 77.1,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 77.22,
+          "end": 77.34,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "es"
+        },
+        {
+          "value": "mente",
+          "start": 77.48,
+          "end": 78.02,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Machine",
+          "start": 78.28,
+          "end": 79.02,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 79.14,
+          "end": 79.38,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "en"
+        },
+        {
+          "value": "mind",
+          "start": 79.46,
+          "end": 79.84,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "en"
+        },
+        {
+          "value": "Plug",
+          "start": 80.08,
+          "end": 80.26,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 80.32,
+          "end": 80.42,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 80.5,
+          "end": 80.62,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 80.66,
+      "end": 84.84,
+      "primary": "Donde la noche",
+      "translation": "Where the night will begin",
+      "words": [
+        {
+          "value": "Donde",
+          "start": 80.66,
+          "end": 81.1,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 81.2,
+          "end": 81.42,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "es"
+        },
+        {
+          "value": "noche",
+          "start": 81.72,
+          "end": 82.46,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Where",
+          "start": 82.8,
+          "end": 83.2,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 83.32,
+          "end": 83.42,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 83.56,
+          "end": 84.16,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        },
+        {
+          "value": "will",
+          "start": 84.3,
+          "end": 84.42,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "en"
+        },
+        {
+          "value": "begin",
+          "start": 84.48,
+          "end": 84.84,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 85.64,
+      "end": 91.66,
+      "primary": "Corriendo en la red",
+      "translation": "Running in the network Speed of light",
+      "words": [
+        {
+          "value": "Corriendo",
+          "start": 85.64,
+          "end": 86.4,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 86.48,
+          "end": 86.62,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 86.7,
+          "end": 86.88,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "es"
+        },
+        {
+          "value": "red",
+          "start": 86.96,
+          "end": 87.46,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Running",
+          "start": 88.2,
+          "end": 88.52,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 88.6,
+          "end": 88.72,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 88.8,
+          "end": 88.88,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "network",
+          "start": 88.94,
+          "end": 89.44,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "Speed",
+          "start": 89.56,
+          "end": 89.86,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 89.94,
+          "end": 90.06,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "en"
+        },
+        {
+          "value": "light",
+          "start": 90.14,
+          "end": 91.66,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 91.94,
+      "end": 100.08,
+      "primary": "Buscando la verdad",
+      "translation": "Looking for the truth in the night",
+      "words": [
+        {
+          "value": "Buscando",
+          "start": 91.94,
+          "end": 92.64,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 92.76,
+          "end": 92.96,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "es"
+        },
+        {
+          "value": "verdad",
+          "start": 93.02,
+          "end": 93.52,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Looking",
+          "start": 93.78,
+          "end": 94.24,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        },
+        {
+          "value": "for",
+          "start": 94.32,
+          "end": 94.8,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 94.88,
+          "end": 94.96,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "en"
+        },
+        {
+          "value": "truth",
+          "start": 95.1,
+          "end": 96.6,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 98.82,
+          "end": 98.92,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 99.08,
+          "end": 99.16,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 99.34,
+          "end": 100.08,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 102.48,
+      "end": 108.48,
+      "primary": "Corazón de hierro",
+      "translation": "Heart of iron Beating fast",
+      "words": [
+        {
+          "value": "Corazón",
+          "start": 102.48,
+          "end": 103.48,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 103.54,
+          "end": 103.7,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "es"
+        },
+        {
+          "value": "hierro",
+          "start": 103.78,
+          "end": 104.28,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Heart",
+          "start": 104.6,
+          "end": 105.1,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 105.18,
+          "end": 105.32,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "en"
+        },
+        {
+          "value": "iron",
+          "start": 105.52,
+          "end": 106.44,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "Beating",
+          "start": 106.44,
+          "end": 106.86,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "fast",
+          "start": 106.96,
+          "end": 108.48,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 108.8,
+      "end": 116.88,
+      "primary": "Nada es real",
+      "translation": "Nothing is real Make make make make it last",
+      "words": [
+        {
+          "value": "Nada",
+          "start": 108.8,
+          "end": 109.54,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "es"
+        },
+        {
+          "value": "es",
+          "start": 109.62,
+          "end": 109.78,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "es"
+        },
+        {
+          "value": "real",
+          "start": 109.84,
+          "end": 110.34,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Nothing",
+          "start": 110.58,
+          "end": 111.38,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 111.58,
+          "end": 111.82,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "en"
+        },
+        {
+          "value": "real",
+          "start": 111.96,
+          "end": 113.72,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "en"
+        },
+        {
+          "value": "Make",
+          "start": 114.22,
+          "end": 114.5,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "en"
+        },
+        {
+          "value": "make",
+          "start": 114.82,
+          "end": 115.42,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "en"
+        },
+        {
+          "value": "make",
+          "start": 115.42,
+          "end": 115.56,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        },
+        {
+          "value": "make",
+          "start": 115.62,
+          "end": 115.84,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 115.9,
+          "end": 116.04,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "en"
+        },
+        {
+          "value": "last",
+          "start": 116.14,
+          "end": 116.88,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 153.36,
+      "end": 156.22,
+      "primary": "Pantallas brillan",
+      "translation": "Screens shine",
+      "words": [
+        {
+          "value": "Pantallas",
+          "start": 153.36,
+          "end": 154.08,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        },
+        {
+          "value": "brillan",
+          "start": 154.12,
+          "end": 154.78,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Screens",
+          "start": 154.92,
+          "end": 155.66,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        },
+        {
+          "value": "shine",
+          "start": 155.68,
+          "end": 156.22,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 157.1,
+      "end": 160.4,
+      "primary": "En la oscuridad",
+      "translation": "In the dark",
+      "words": [
+        {
+          "value": "En",
+          "start": 157.1,
+          "end": 157.32,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 157.52,
+          "end": 157.66,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "es"
+        },
+        {
+          "value": "oscuridad",
+          "start": 157.7,
+          "end": 158.84,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 159.2,
+          "end": 159.6,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 159.66,
+          "end": 159.76,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "en"
+        },
+        {
+          "value": "dark",
+          "start": 159.92,
+          "end": 160.4,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 161.22,
+      "end": 164.98,
+      "primary": "Código binario",
+      "translation": "Binary code",
+      "words": [
+        {
+          "value": "Código",
+          "start": 161.22,
+          "end": 162.2,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "es"
+        },
+        {
+          "value": "binario",
+          "start": 162.26,
+          "end": 163.28,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Binary",
+          "start": 163.58,
+          "end": 164.3,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "en"
+        },
+        {
+          "value": "code",
+          "start": 164.38,
+          "end": 164.98,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 165.42,
+      "end": 168.78,
+      "primary": "Deja su marca",
+      "translation": "Leaves its mark",
+      "words": [
+        {
+          "value": "Deja",
+          "start": 165.42,
+          "end": 166.04,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "es"
+        },
+        {
+          "value": "su",
+          "start": 166.16,
+          "end": 166.38,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "es"
+        },
+        {
+          "value": "marca",
+          "start": 166.46,
+          "end": 167.4,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Leaves",
+          "start": 167.48,
+          "end": 168,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "en"
+        },
+        {
+          "value": "its",
+          "start": 168.06,
+          "end": 168.22,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "en"
+        },
+        {
+          "value": "mark",
+          "start": 168.3,
+          "end": 168.78,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 170.36,
+      "end": 173.24,
+      "primary": "Cero y uno",
+      "translation": "Zero and one",
+      "words": [
+        {
+          "value": "Cero",
+          "start": 170.36,
+          "end": 170.82,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 170.88,
+          "end": 170.94,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "es"
+        },
+        {
+          "value": "uno",
+          "start": 171.08,
+          "end": 171.4,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Zero",
+          "start": 171.68,
+          "end": 172.42,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 172.52,
+          "end": 172.66,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "en"
+        },
+        {
+          "value": "one",
+          "start": 172.82,
+          "end": 173.24,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 173.86,
+      "end": 177.54,
+      "primary": "Aceleración",
+      "translation": "Acceleration",
+      "words": [
+        {
+          "value": "Aceleración",
+          "start": 173.86,
+          "end": 175.58,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Acceleration",
+          "start": 175.92,
+          "end": 177.54,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 177.96,
+      "end": 181.86,
+      "primary": "Nueva dimensión",
+      "translation": "New dimension",
+      "words": [
+        {
+          "value": "Nueva",
+          "start": 177.96,
+          "end": 178.7,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "es"
+        },
+        {
+          "value": "dimensión",
+          "start": 178.76,
+          "end": 180.02,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "New",
+          "start": 180.34,
+          "end": 180.54,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "en"
+        },
+        {
+          "value": "dimension",
+          "start": 180.62,
+          "end": 181.86,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 183.48,
+      "end": 187.58,
+      "primary": "Máquina y mente",
+      "translation": "Machine and mind Plug it in",
+      "words": [
+        {
+          "value": "Máquina",
+          "start": 183.48,
+          "end": 184.2,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 184.22,
+          "end": 184.34,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "es"
+        },
+        {
+          "value": "mente",
+          "start": 184.5,
+          "end": 185.02,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Machine",
+          "start": 185.3,
+          "end": 186.04,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 186.14,
+          "end": 186.36,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "en"
+        },
+        {
+          "value": "mind",
+          "start": 186.46,
+          "end": 186.84,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "en"
+        },
+        {
+          "value": "Plug",
+          "start": 187.12,
+          "end": 187.26,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 187.32,
+          "end": 187.38,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 187.48,
+          "end": 187.58,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 187.64,
+      "end": 191.78,
+      "primary": "Donde la noche",
+      "translation": "Where the night will begin",
+      "words": [
+        {
+          "value": "Donde",
+          "start": 187.64,
+          "end": 188.08,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 188.14,
+          "end": 188.38,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "es"
+        },
+        {
+          "value": "noche",
+          "start": 188.66,
+          "end": 189.42,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Where",
+          "start": 189.76,
+          "end": 190.18,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 190.26,
+          "end": 190.36,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 190.52,
+          "end": 191.14,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "en"
+        },
+        {
+          "value": "will",
+          "start": 191.28,
+          "end": 191.38,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "en"
+        },
+        {
+          "value": "begin",
+          "start": 191.44,
+          "end": 191.78,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 192.58,
+      "end": 198.56,
+      "primary": "Corriendo en la red",
+      "translation": "Running in the network Speed of light",
+      "words": [
+        {
+          "value": "Corriendo",
+          "start": 192.58,
+          "end": 193.34,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 193.4,
+          "end": 193.56,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 193.64,
+          "end": 193.82,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "es"
+        },
+        {
+          "value": "red",
+          "start": 193.9,
+          "end": 194.28,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Running",
+          "start": 194.72,
+          "end": 195.42,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 195.52,
+          "end": 195.66,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 195.74,
+          "end": 195.82,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "en"
+        },
+        {
+          "value": "network",
+          "start": 195.88,
+          "end": 196.36,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "en"
+        },
+        {
+          "value": "Speed",
+          "start": 196.48,
+          "end": 196.8,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 196.88,
+          "end": 196.98,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "en"
+        },
+        {
+          "value": "light",
+          "start": 197.06,
+          "end": 198.56,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 198.86,
+      "end": 207.02,
+      "primary": "Buscando la verdad",
+      "translation": "Looking for the truth in the night",
+      "words": [
+        {
+          "value": "Buscando",
+          "start": 198.86,
+          "end": 199.56,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 199.62,
+          "end": 199.86,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "es"
+        },
+        {
+          "value": "verdad",
+          "start": 199.9,
+          "end": 200.6,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Looking",
+          "start": 200.68,
+          "end": 201.16,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "en"
+        },
+        {
+          "value": "for",
+          "start": 201.24,
+          "end": 201.7,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 201.78,
+          "end": 201.9,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "en"
+        },
+        {
+          "value": "truth",
+          "start": 202,
+          "end": 203.62,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 205.7,
+          "end": 205.9,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 205.94,
+          "end": 206.02,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 206.2,
+          "end": 207.02,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 257.399,
+      "end": 258.579,
+      "primary": "Desconectar",
+      "translation": "",
+      "words": [
+        {
+          "value": "Desconectar",
+          "start": 257.399,
+          "end": 258.579,
+          "uncertain": false,
+          "sourceIndex": 172,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 261.779,
+      "end": 262.76,
+      "primary": "Reiniciar",
+      "translation": "",
+      "words": [
+        {
+          "value": "Reiniciar",
+          "start": 261.779,
+          "end": 262.76,
+          "uncertain": false,
+          "sourceIndex": 173,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 265.92,
+      "end": 271.12,
+      "primary": "Fin del juego",
+      "translation": "Game over Goodbye",
+      "words": [
+        {
+          "value": "Fin",
+          "start": 265.92,
+          "end": 266.14,
+          "uncertain": false,
+          "sourceIndex": 174,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 266.2,
+          "end": 266.38,
+          "uncertain": false,
+          "sourceIndex": 175,
+          "language": "es"
+        },
+        {
+          "value": "juego",
+          "start": 266.46,
+          "end": 266.94,
+          "uncertain": false,
+          "sourceIndex": 176,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Game",
+          "start": 268.28,
+          "end": 268.54,
+          "uncertain": false,
+          "sourceIndex": 177,
+          "language": "en"
+        },
+        {
+          "value": "over",
+          "start": 268.66,
+          "end": 269.18,
+          "uncertain": false,
+          "sourceIndex": 178,
+          "language": "en"
+        },
+        {
+          "value": "Goodbye",
+          "start": 270.36,
+          "end": 271.12,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

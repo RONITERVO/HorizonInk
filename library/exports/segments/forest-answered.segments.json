@@ -1,0 +1,2022 @@
+{
+  "title": "Forest Answered",
+  "genre": "Worldbeat",
+  "primaryLanguage": "es",
+  "duration": 293.923,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 12,
+      "end": 26.26,
+      "primary": "",
+      "translation": "Return to innocence Listen to the earth",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Return",
+          "start": 12,
+          "end": 12.5,
+          "uncertain": true,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 12.5,
+          "end": 12.7,
+          "uncertain": true,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "innocence",
+          "start": 12.7,
+          "end": 13.5,
+          "uncertain": true,
+          "sourceIndex": 2,
+          "language": "en"
+        },
+        {
+          "value": "Listen",
+          "start": 23.56,
+          "end": 24.24,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 24.36,
+          "end": 24.5,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 24.58,
+          "end": 24.74,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        },
+        {
+          "value": "earth",
+          "start": 24.84,
+          "end": 26.26,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 64.96,
+      "end": 68.2,
+      "primary": "Agua del río",
+      "translation": "Water of the river",
+      "words": [
+        {
+          "value": "Agua",
+          "start": 64.96,
+          "end": 65.74,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 65.82,
+          "end": 66.14,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "es"
+        },
+        {
+          "value": "río",
+          "start": 66.28,
+          "end": 66.86,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Water",
+          "start": 66.9,
+          "end": 67.4,
+          "uncertain": true,
+          "sourceIndex": 10,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 67.4,
+          "end": 67.5,
+          "uncertain": true,
+          "sourceIndex": 11,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 67.5,
+          "end": 67.7,
+          "uncertain": true,
+          "sourceIndex": 12,
+          "language": "en"
+        },
+        {
+          "value": "river",
+          "start": 67.7,
+          "end": 68.2,
+          "uncertain": true,
+          "sourceIndex": 13,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 68.38,
+      "end": 71.6,
+      "primary": "Lava mi alma",
+      "translation": "Wash my soul",
+      "words": [
+        {
+          "value": "Lava",
+          "start": 68.38,
+          "end": 69.14,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 69.14,
+          "end": 69.44,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "es"
+        },
+        {
+          "value": "alma",
+          "start": 69.44,
+          "end": 70.26,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Wash",
+          "start": 70.5,
+          "end": 71,
+          "uncertain": true,
+          "sourceIndex": 17,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 71,
+          "end": 71.2,
+          "uncertain": true,
+          "sourceIndex": 18,
+          "language": "en"
+        },
+        {
+          "value": "soul",
+          "start": 71.2,
+          "end": 71.6,
+          "uncertain": true,
+          "sourceIndex": 19,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 71.72,
+      "end": 75,
+      "primary": "Viento del norte",
+      "translation": "North wind",
+      "words": [
+        {
+          "value": "Viento",
+          "start": 71.72,
+          "end": 72.36,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "es"
+        },
+        {
+          "value": "del",
+          "start": 72.42,
+          "end": 72.96,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "es"
+        },
+        {
+          "value": "norte",
+          "start": 73.06,
+          "end": 73.86,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "North",
+          "start": 73.9,
+          "end": 74.4,
+          "uncertain": true,
+          "sourceIndex": 23,
+          "language": "en"
+        },
+        {
+          "value": "wind",
+          "start": 74.4,
+          "end": 75,
+          "uncertain": true,
+          "sourceIndex": 24,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 75.12,
+      "end": 78.3,
+      "primary": "trae la calma",
+      "translation": "Bring the calm",
+      "words": [
+        {
+          "value": "trae",
+          "start": 75.12,
+          "end": 75.74,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 75.98,
+          "end": 76.14,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        },
+        {
+          "value": "calma",
+          "start": 76.24,
+          "end": 77.24,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Bring",
+          "start": 77.3,
+          "end": 77.6,
+          "uncertain": true,
+          "sourceIndex": 28,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 77.6,
+          "end": 77.8,
+          "uncertain": true,
+          "sourceIndex": 29,
+          "language": "en"
+        },
+        {
+          "value": "calm",
+          "start": 77.8,
+          "end": 78.3,
+          "uncertain": true,
+          "sourceIndex": 30,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 78.52,
+      "end": 81.84,
+      "primary": "Pisando tierra",
+      "translation": "stepping on earth",
+      "words": [
+        {
+          "value": "Pisando",
+          "start": 78.52,
+          "end": 79.52,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "es"
+        },
+        {
+          "value": "tierra",
+          "start": 79.6,
+          "end": 80.22,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "stepping",
+          "start": 80.62,
+          "end": 81.06,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "en"
+        },
+        {
+          "value": "on",
+          "start": 81.16,
+          "end": 81.44,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "en"
+        },
+        {
+          "value": "earth",
+          "start": 81.54,
+          "end": 81.84,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 81.92,
+      "end": 85.2,
+      "primary": "con pies descalzos",
+      "translation": "with bare feet",
+      "words": [
+        {
+          "value": "con",
+          "start": 81.92,
+          "end": 82.24,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "es"
+        },
+        {
+          "value": "pies",
+          "start": 82.32,
+          "end": 82.7,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "es"
+        },
+        {
+          "value": "descalzos",
+          "start": 82.76,
+          "end": 84.04,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "with",
+          "start": 84.22,
+          "end": 84.4,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "en"
+        },
+        {
+          "value": "bare",
+          "start": 84.46,
+          "end": 84.8,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "en"
+        },
+        {
+          "value": "feet",
+          "start": 84.88,
+          "end": 85.2,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 85.28,
+      "end": 88.72,
+      "primary": "dejando atrás",
+      "translation": "leaving behind",
+      "words": [
+        {
+          "value": "dejando",
+          "start": 85.28,
+          "end": 86.06,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "es"
+        },
+        {
+          "value": "atrás",
+          "start": 86.14,
+          "end": 87.32,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "leaving",
+          "start": 87.42,
+          "end": 87.78,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        },
+        {
+          "value": "behind",
+          "start": 87.84,
+          "end": 88.72,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 89.12,
+      "end": 95.8,
+      "primary": "a los falsos Espíritu libre",
+      "translation": "The fake ones In the wind",
+      "words": [
+        {
+          "value": "a",
+          "start": 89.12,
+          "end": 89.3,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "es"
+        },
+        {
+          "value": "los",
+          "start": 89.38,
+          "end": 89.7,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "es"
+        },
+        {
+          "value": "falsos",
+          "start": 89.8,
+          "end": 91.02,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "es"
+        },
+        {
+          "value": "Espíritu",
+          "start": 91.5,
+          "end": 92.84,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "es"
+        },
+        {
+          "value": "libre",
+          "start": 92.94,
+          "end": 93.98,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 91,
+          "end": 91.3,
+          "uncertain": true,
+          "sourceIndex": 49,
+          "language": "en"
+        },
+        {
+          "value": "fake",
+          "start": 91.3,
+          "end": 91.6,
+          "uncertain": true,
+          "sourceIndex": 50,
+          "language": "en"
+        },
+        {
+          "value": "ones",
+          "start": 91.6,
+          "end": 91.9,
+          "uncertain": true,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "In",
+          "start": 94.9,
+          "end": 95.1,
+          "uncertain": true,
+          "sourceIndex": 54,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 95.1,
+          "end": 95.3,
+          "uncertain": true,
+          "sourceIndex": 55,
+          "language": "en"
+        },
+        {
+          "value": "wind",
+          "start": 95.3,
+          "end": 95.8,
+          "uncertain": true,
+          "sourceIndex": 56,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 95.92,
+      "end": 96.74,
+      "primary": "donde la",
+      "translation": "",
+      "words": [
+        {
+          "value": "donde",
+          "start": 95.92,
+          "end": 96.48,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 96.56,
+          "end": 96.74,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 98.88,
+      "end": 104,
+      "primary": "vida comienza",
+      "translation": "Life begins",
+      "words": [
+        {
+          "value": "vida",
+          "start": 98.88,
+          "end": 99.52,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "es"
+        },
+        {
+          "value": "comienza",
+          "start": 99.72,
+          "end": 101.16,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Life",
+          "start": 102.5,
+          "end": 103.1,
+          "uncertain": true,
+          "sourceIndex": 61,
+          "language": "en"
+        },
+        {
+          "value": "begins",
+          "start": 103.1,
+          "end": 104,
+          "uncertain": true,
+          "sourceIndex": 62,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 105.76,
+      "end": 109.14,
+      "primary": "Escucha el canto",
+      "translation": "listen to the song",
+      "words": [
+        {
+          "value": "Escucha",
+          "start": 105.76,
+          "end": 106.54,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 106.6,
+          "end": 106.68,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "es"
+        },
+        {
+          "value": "canto",
+          "start": 106.76,
+          "end": 107.3,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "listen",
+          "start": 107.74,
+          "end": 108.12,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 108.18,
+          "end": 108.36,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 108.4,
+          "end": 108.52,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "song",
+          "start": 108.6,
+          "end": 109.14,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 109.46,
+      "end": 112.42,
+      "primary": "Baila suave",
+      "translation": "Of the trees dance softly",
+      "words": [
+        {
+          "value": "Baila",
+          "start": 109.46,
+          "end": 110,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "es"
+        },
+        {
+          "value": "suave",
+          "start": 110.08,
+          "end": 110.68,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Of",
+          "start": 109.6,
+          "end": 109.7,
+          "uncertain": true,
+          "sourceIndex": 70,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 109.7,
+          "end": 109.9,
+          "uncertain": true,
+          "sourceIndex": 71,
+          "language": "en"
+        },
+        {
+          "value": "trees",
+          "start": 109.9,
+          "end": 110.2,
+          "uncertain": true,
+          "sourceIndex": 72,
+          "language": "en"
+        },
+        {
+          "value": "dance",
+          "start": 111.16,
+          "end": 111.78,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        },
+        {
+          "value": "softly",
+          "start": 111.8,
+          "end": 112.42,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 112.84,
+      "end": 115.92,
+      "primary": "Somos polvo",
+      "translation": "In the breeze we are dust",
+      "words": [
+        {
+          "value": "Somos",
+          "start": 112.84,
+          "end": 113.64,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "es"
+        },
+        {
+          "value": "polvo",
+          "start": 113.74,
+          "end": 114.28,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 113,
+          "end": 113.2,
+          "uncertain": true,
+          "sourceIndex": 77,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 113.2,
+          "end": 113.4,
+          "uncertain": true,
+          "sourceIndex": 78,
+          "language": "en"
+        },
+        {
+          "value": "breeze",
+          "start": 113.4,
+          "end": 113.6,
+          "uncertain": true,
+          "sourceIndex": 79,
+          "language": "en"
+        },
+        {
+          "value": "we",
+          "start": 114.76,
+          "end": 114.94,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "en"
+        },
+        {
+          "value": "are",
+          "start": 115.04,
+          "end": 115.22,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "en"
+        },
+        {
+          "value": "dust",
+          "start": 115.4,
+          "end": 115.92,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 116.02,
+      "end": 119.14,
+      "primary": "de las estrellas",
+      "translation": "of the stars",
+      "words": [
+        {
+          "value": "de",
+          "start": 116.02,
+          "end": 116.18,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        },
+        {
+          "value": "las",
+          "start": 116.26,
+          "end": 116.62,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "es"
+        },
+        {
+          "value": "estrellas",
+          "start": 116.72,
+          "end": 117.68,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "of",
+          "start": 118.18,
+          "end": 118.32,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 118.38,
+          "end": 118.54,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "en"
+        },
+        {
+          "value": "stars",
+          "start": 118.72,
+          "end": 119.14,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 119.2,
+      "end": 122.3,
+      "primary": "Buscando cosas",
+      "translation": "Looking for things",
+      "words": [
+        {
+          "value": "Buscando",
+          "start": 119.2,
+          "end": 120.2,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "es"
+        },
+        {
+          "value": "cosas",
+          "start": 120.28,
+          "end": 120.8,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Looking",
+          "start": 121.3,
+          "end": 121.6,
+          "uncertain": true,
+          "sourceIndex": 93,
+          "language": "en"
+        },
+        {
+          "value": "for",
+          "start": 121.6,
+          "end": 121.8,
+          "uncertain": true,
+          "sourceIndex": 94,
+          "language": "en"
+        },
+        {
+          "value": "things",
+          "start": 121.8,
+          "end": 122.3,
+          "uncertain": true,
+          "sourceIndex": 95,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 125.94,
+      "end": 129.6,
+      "primary": "más bellas",
+      "translation": "More beautiful",
+      "words": [
+        {
+          "value": "más",
+          "start": 125.94,
+          "end": 126.28,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "es"
+        },
+        {
+          "value": "bellas",
+          "start": 126.38,
+          "end": 127.5,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "More",
+          "start": 128.5,
+          "end": 128.9,
+          "uncertain": true,
+          "sourceIndex": 98,
+          "language": "en"
+        },
+        {
+          "value": "beautiful",
+          "start": 128.9,
+          "end": 129.6,
+          "uncertain": true,
+          "sourceIndex": 99,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 167.82,
+      "end": 171.04,
+      "primary": "Fuego que quema",
+      "translation": "fire that burns",
+      "words": [
+        {
+          "value": "Fuego",
+          "start": 167.82,
+          "end": 168.36,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 168.42,
+          "end": 168.58,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "es"
+        },
+        {
+          "value": "quema",
+          "start": 168.66,
+          "end": 169.24,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "fire",
+          "start": 169.46,
+          "end": 169.86,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "en"
+        },
+        {
+          "value": "that",
+          "start": 169.92,
+          "end": 170.26,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        },
+        {
+          "value": "burns",
+          "start": 170.34,
+          "end": 171.04,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 171.14,
+      "end": 174.44,
+      "primary": "Fuego que sana",
+      "translation": "fire that heals",
+      "words": [
+        {
+          "value": "Fuego",
+          "start": 171.14,
+          "end": 171.66,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "es"
+        },
+        {
+          "value": "que",
+          "start": 171.76,
+          "end": 171.92,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "es"
+        },
+        {
+          "value": "sana",
+          "start": 172.02,
+          "end": 172.54,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "fire",
+          "start": 172.84,
+          "end": 173.24,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        },
+        {
+          "value": "that",
+          "start": 173.3,
+          "end": 173.54,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "en"
+        },
+        {
+          "value": "heals",
+          "start": 173.7,
+          "end": 174.44,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 174.6,
+      "end": 177.7,
+      "primary": "Abro mi mente",
+      "translation": "I open my mind",
+      "words": [
+        {
+          "value": "Abro",
+          "start": 174.6,
+          "end": 174.96,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 175.16,
+          "end": 175.32,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "es"
+        },
+        {
+          "value": "mente",
+          "start": 175.4,
+          "end": 175.92,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "I",
+          "start": 176.1,
+          "end": 176.18,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "en"
+        },
+        {
+          "value": "open",
+          "start": 176.3,
+          "end": 176.62,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 176.7,
+          "end": 176.92,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "en"
+        },
+        {
+          "value": "mind",
+          "start": 177.12,
+          "end": 177.7,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 177.92,
+      "end": 181.18,
+      "primary": "por la mañana",
+      "translation": "in the morning",
+      "words": [
+        {
+          "value": "por",
+          "start": 177.92,
+          "end": 178.12,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 178.18,
+          "end": 178.32,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "es"
+        },
+        {
+          "value": "mañana",
+          "start": 178.54,
+          "end": 179.36,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "in",
+          "start": 179.84,
+          "end": 180,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 180.08,
+          "end": 180.22,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "en"
+        },
+        {
+          "value": "morning",
+          "start": 180.46,
+          "end": 181.18,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 181.34,
+      "end": 184.44,
+      "primary": "Árbol antiguo",
+      "translation": "ancient tree",
+      "words": [
+        {
+          "value": "Árbol",
+          "start": 181.34,
+          "end": 181.9,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "es"
+        },
+        {
+          "value": "antiguo",
+          "start": 181.98,
+          "end": 182.7,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "ancient",
+          "start": 183.04,
+          "end": 183.74,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "en"
+        },
+        {
+          "value": "tree",
+          "start": 183.82,
+          "end": 184.44,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 184.68,
+      "end": 188,
+      "primary": "dame tu fuerza",
+      "translation": "give me your strength",
+      "words": [
+        {
+          "value": "dame",
+          "start": 184.68,
+          "end": 185.14,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "es"
+        },
+        {
+          "value": "tu",
+          "start": 185.3,
+          "end": 185.44,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "es"
+        },
+        {
+          "value": "fuerza",
+          "start": 185.52,
+          "end": 186.1,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "give",
+          "start": 186.38,
+          "end": 186.54,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 186.6,
+          "end": 186.74,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "en"
+        },
+        {
+          "value": "your",
+          "start": 186.84,
+          "end": 187,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "en"
+        },
+        {
+          "value": "strength",
+          "start": 187.18,
+          "end": 188,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 188.08,
+      "end": 191.28,
+      "primary": "que mi camino",
+      "translation": "may my path",
+      "words": [
+        {
+          "value": "que",
+          "start": 188.08,
+          "end": 188.24,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 188.32,
+          "end": 188.54,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "es"
+        },
+        {
+          "value": "camino",
+          "start": 188.7,
+          "end": 189.46,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "may",
+          "start": 189.76,
+          "end": 190.04,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 190.18,
+          "end": 190.5,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "en"
+        },
+        {
+          "value": "path",
+          "start": 190.58,
+          "end": 191.28,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 191.68,
+      "end": 193.8,
+      "primary": "no se tuerza",
+      "translation": "Not twist",
+      "words": [
+        {
+          "value": "no",
+          "start": 191.68,
+          "end": 191.88,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "es"
+        },
+        {
+          "value": "se",
+          "start": 192.04,
+          "end": 192.22,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "es"
+        },
+        {
+          "value": "tuerza",
+          "start": 192.3,
+          "end": 193,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Not",
+          "start": 193.1,
+          "end": 193.4,
+          "uncertain": true,
+          "sourceIndex": 145,
+          "language": "en"
+        },
+        {
+          "value": "twist",
+          "start": 193.4,
+          "end": 193.8,
+          "uncertain": true,
+          "sourceIndex": 146,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 194.3,
+      "end": 197,
+      "primary": "Espíritu libre",
+      "translation": "In the wind",
+      "words": [
+        {
+          "value": "Espíritu",
+          "start": 194.3,
+          "end": 195.5,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "es"
+        },
+        {
+          "value": "libre",
+          "start": 195.5,
+          "end": 195.8,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "In",
+          "start": 195.9,
+          "end": 196.1,
+          "uncertain": true,
+          "sourceIndex": 149,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 196.1,
+          "end": 196.3,
+          "uncertain": true,
+          "sourceIndex": 150,
+          "language": "en"
+        },
+        {
+          "value": "wind",
+          "start": 196.4,
+          "end": 197,
+          "uncertain": true,
+          "sourceIndex": 151,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 197.34,
+      "end": 198.18,
+      "primary": "donde la",
+      "translation": "",
+      "words": [
+        {
+          "value": "donde",
+          "start": 197.34,
+          "end": 197.96,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 198.04,
+          "end": 198.18,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 200.32,
+      "end": 203.2,
+      "primary": "vida comienza",
+      "translation": "Life begins",
+      "words": [
+        {
+          "value": "vida",
+          "start": 200.32,
+          "end": 201.06,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "es"
+        },
+        {
+          "value": "comienza",
+          "start": 201.16,
+          "end": 202.62,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Life",
+          "start": 202,
+          "end": 202.5,
+          "uncertain": true,
+          "sourceIndex": 156,
+          "language": "en"
+        },
+        {
+          "value": "begins",
+          "start": 202.5,
+          "end": 203.2,
+          "uncertain": true,
+          "sourceIndex": 157,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 207.12,
+      "end": 210.42,
+      "primary": "Escucha el canto",
+      "translation": "listen to the song",
+      "words": [
+        {
+          "value": "Escucha",
+          "start": 207.12,
+          "end": 207.98,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 208.02,
+          "end": 208.08,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "es"
+        },
+        {
+          "value": "canto",
+          "start": 208.14,
+          "end": 208.72,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "listen",
+          "start": 209,
+          "end": 209.54,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "en"
+        },
+        {
+          "value": "to",
+          "start": 209.62,
+          "end": 209.76,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 209.8,
+          "end": 209.92,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "en"
+        },
+        {
+          "value": "song",
+          "start": 210,
+          "end": 210.42,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 210.84,
+      "end": 217.4,
+      "primary": "Baila suave",
+      "translation": "Of the trees dance softly In the breeze Breathe in the light",
+      "words": [
+        {
+          "value": "Baila",
+          "start": 210.84,
+          "end": 211.4,
+          "uncertain": false,
+          "sourceIndex": 168,
+          "language": "es"
+        },
+        {
+          "value": "suave",
+          "start": 211.48,
+          "end": 211.96,
+          "uncertain": false,
+          "sourceIndex": 169,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Of",
+          "start": 211,
+          "end": 211.2,
+          "uncertain": true,
+          "sourceIndex": 165,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 211.2,
+          "end": 211.4,
+          "uncertain": true,
+          "sourceIndex": 166,
+          "language": "en"
+        },
+        {
+          "value": "trees",
+          "start": 211.4,
+          "end": 211.8,
+          "uncertain": true,
+          "sourceIndex": 167,
+          "language": "en"
+        },
+        {
+          "value": "dance",
+          "start": 212.54,
+          "end": 213.18,
+          "uncertain": false,
+          "sourceIndex": 170,
+          "language": "en"
+        },
+        {
+          "value": "softly",
+          "start": 213.2,
+          "end": 213.98,
+          "uncertain": false,
+          "sourceIndex": 171,
+          "language": "en"
+        },
+        {
+          "value": "In",
+          "start": 214.6,
+          "end": 214.8,
+          "uncertain": true,
+          "sourceIndex": 172,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 214.8,
+          "end": 215.1,
+          "uncertain": true,
+          "sourceIndex": 173,
+          "language": "en"
+        },
+        {
+          "value": "breeze",
+          "start": 215.1,
+          "end": 215.5,
+          "uncertain": true,
+          "sourceIndex": 174,
+          "language": "en"
+        },
+        {
+          "value": "Breathe",
+          "start": 216.2,
+          "end": 216.6,
+          "uncertain": true,
+          "sourceIndex": 175,
+          "language": "en"
+        },
+        {
+          "value": "in",
+          "start": 216.6,
+          "end": 216.8,
+          "uncertain": true,
+          "sourceIndex": 176,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 216.8,
+          "end": 217,
+          "uncertain": true,
+          "sourceIndex": 177,
+          "language": "en"
+        },
+        {
+          "value": "light",
+          "start": 217,
+          "end": 217.4,
+          "uncertain": true,
+          "sourceIndex": 178,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 249.24,
+      "end": 250.34,
+      "primary": "Conexión",
+      "translation": "",
+      "words": [
+        {
+          "value": "Conexión",
+          "start": 249.24,
+          "end": 250.34,
+          "uncertain": false,
+          "sourceIndex": 179,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-32",
+      "start": 252.28,
+      "end": 253.7,
+      "primary": "Conexión",
+      "translation": "",
+      "words": [
+        {
+          "value": "Conexión",
+          "start": 252.28,
+          "end": 253.7,
+          "uncertain": false,
+          "sourceIndex": 180,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-33",
+      "start": 255.62,
+      "end": 257.1,
+      "primary": "Conexión",
+      "translation": "",
+      "words": [
+        {
+          "value": "Conexión",
+          "start": 255.62,
+          "end": 257.1,
+          "uncertain": false,
+          "sourceIndex": 181,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-34",
+      "start": 259.04,
+      "end": 260.28,
+      "primary": "Conexión",
+      "translation": "",
+      "words": [
+        {
+          "value": "Conexión",
+          "start": 259.04,
+          "end": 260.28,
+          "uncertain": false,
+          "sourceIndex": 182,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-35",
+      "start": 267.9,
+      "end": 272.3,
+      "primary": "Conexión profunda",
+      "translation": "To the earth",
+      "words": [
+        {
+          "value": "Conexión",
+          "start": 267.9,
+          "end": 271.44,
+          "uncertain": false,
+          "sourceIndex": 186,
+          "language": "es"
+        },
+        {
+          "value": "profunda",
+          "start": 271.46,
+          "end": 272.3,
+          "uncertain": false,
+          "sourceIndex": 187,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "To",
+          "start": 268.5,
+          "end": 268.8,
+          "uncertain": true,
+          "sourceIndex": 183,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 268.8,
+          "end": 269,
+          "uncertain": true,
+          "sourceIndex": 184,
+          "language": "en"
+        },
+        {
+          "value": "earth",
+          "start": 269,
+          "end": 269.4,
+          "uncertain": true,
+          "sourceIndex": 185,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-36",
+      "start": 275.58,
+      "end": 276.94,
+      "primary": "Equilibrio",
+      "translation": "",
+      "words": [
+        {
+          "value": "Equilibrio",
+          "start": 275.58,
+          "end": 276.94,
+          "uncertain": false,
+          "sourceIndex": 188,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-37",
+      "start": 278.96,
+      "end": 279.9,
+      "primary": "Amén",
+      "translation": "",
+      "words": [
+        {
+          "value": "Amén",
+          "start": 278.96,
+          "end": 279.9,
+          "uncertain": false,
+          "sourceIndex": 189,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-38",
+      "start": 288.18,
+      "end": 293.86,
+      "primary": "Amén",
+      "translation": "",
+      "words": [
+        {
+          "value": "Amén",
+          "start": 288.18,
+          "end": 293.86,
+          "uncertain": false,
+          "sourceIndex": 190,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

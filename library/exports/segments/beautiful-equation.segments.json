@@ -1,0 +1,1752 @@
+{
+  "title": "Beautiful Equation",
+  "genre": "Orchestral Bass",
+  "primaryLanguage": "es",
+  "duration": 323.928,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 47.24,
+      "end": 50.7,
+      "primary": "Un copo de nieve",
+      "translation": "A snowflake",
+      "words": [
+        {
+          "value": "Un",
+          "start": 47.24,
+          "end": 47.56,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "es"
+        },
+        {
+          "value": "copo",
+          "start": 47.66,
+          "end": 48.24,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 48.3,
+          "end": 48.44,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "es"
+        },
+        {
+          "value": "nieve",
+          "start": 48.54,
+          "end": 49.38,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "A",
+          "start": 49.84,
+          "end": 50,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "snowflake",
+          "start": 50,
+          "end": 50.7,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 51.08,
+      "end": 54.02,
+      "primary": "Una espiral",
+      "translation": "A spiral",
+      "words": [
+        {
+          "value": "Una",
+          "start": 51.08,
+          "end": 51.36,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "es"
+        },
+        {
+          "value": "espiral",
+          "start": 51.42,
+          "end": 52.62,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "A",
+          "start": 53.08,
+          "end": 53.16,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "en"
+        },
+        {
+          "value": "spiral",
+          "start": 53.24,
+          "end": 54.02,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 54.42,
+      "end": 57.56,
+      "primary": "La geometría",
+      "translation": "The geometry",
+      "words": [
+        {
+          "value": "La",
+          "start": 54.42,
+          "end": 54.56,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "es"
+        },
+        {
+          "value": "geometría",
+          "start": 54.72,
+          "end": 56.12,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 56.52,
+          "end": 56.64,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "en"
+        },
+        {
+          "value": "geometry",
+          "start": 56.72,
+          "end": 57.56,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 57.9,
+      "end": 60.96,
+      "primary": "Universal",
+      "translation": "Universal",
+      "words": [
+        {
+          "value": "Universal",
+          "start": 57.9,
+          "end": 59.52,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Universal",
+          "start": 60.1,
+          "end": 60.96,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 61.04,
+      "end": 64.4,
+      "primary": "Todo se repite",
+      "translation": "Everything repeats",
+      "words": [
+        {
+          "value": "Todo",
+          "start": 61.04,
+          "end": 61.4,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "es"
+        },
+        {
+          "value": "se",
+          "start": 61.54,
+          "end": 62.02,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "es"
+        },
+        {
+          "value": "repite",
+          "start": 62.14,
+          "end": 63,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Everything",
+          "start": 63.34,
+          "end": 63.76,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "en"
+        },
+        {
+          "value": "repeats",
+          "start": 63.8,
+          "end": 64.4,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 64.56,
+      "end": 67.82,
+      "primary": "Una y otra vez",
+      "translation": "Time and time again",
+      "words": [
+        {
+          "value": "Una",
+          "start": 64.56,
+          "end": 64.8,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 64.84,
+          "end": 64.95,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "es"
+        },
+        {
+          "value": "otra",
+          "start": 65,
+          "end": 65.72,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "es"
+        },
+        {
+          "value": "vez",
+          "start": 65.8,
+          "end": 66.16,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Time",
+          "start": 66.7,
+          "end": 66.88,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 66.9,
+          "end": 67,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "en"
+        },
+        {
+          "value": "time",
+          "start": 67.04,
+          "end": 67.24,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "en"
+        },
+        {
+          "value": "again",
+          "start": 67.42,
+          "end": 67.82,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-7",
+      "start": 67.9,
+      "end": 71.26,
+      "primary": "Mira la belleza",
+      "translation": "Look at the beauty",
+      "words": [
+        {
+          "value": "Mira",
+          "start": 67.9,
+          "end": 68.28,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 68.36,
+          "end": 68.7,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "es"
+        },
+        {
+          "value": "belleza",
+          "start": 68.76,
+          "end": 69.72,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Look",
+          "start": 70.02,
+          "end": 70.22,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "en"
+        },
+        {
+          "value": "at",
+          "start": 70.26,
+          "end": 70.38,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 70.44,
+          "end": 70.56,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "en"
+        },
+        {
+          "value": "beauty",
+          "start": 70.64,
+          "end": 71.26,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-8",
+      "start": 71.34,
+      "end": 73.64,
+      "primary": "En la desnudez",
+      "translation": "",
+      "words": [
+        {
+          "value": "En",
+          "start": 71.34,
+          "end": 71.46,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 71.52,
+          "end": 71.66,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "es"
+        },
+        {
+          "value": "desnudez",
+          "start": 71.72,
+          "end": 73.64,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-9",
+      "start": 76,
+      "end": 77.5,
+      "primary": "Multiplicando",
+      "translation": "",
+      "words": [
+        {
+          "value": "Multiplicando",
+          "start": 76,
+          "end": 77.5,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-10",
+      "start": 78.48,
+      "end": 85,
+      "primary": "el ojo de",
+      "translation": "Eye of the perfect storm",
+      "words": [
+        {
+          "value": "el",
+          "start": 78.48,
+          "end": 78.6,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "es"
+        },
+        {
+          "value": "ojo",
+          "start": 78.72,
+          "end": 79.16,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 79.22,
+          "end": 79.44,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Eye",
+          "start": 80.42,
+          "end": 80.74,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 80.94,
+          "end": 81.08,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 81.88,
+          "end": 82,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "en"
+        },
+        {
+          "value": "perfect",
+          "start": 82.06,
+          "end": 82.68,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "en"
+        },
+        {
+          "value": "storm",
+          "start": 82.82,
+          "end": 85,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-11",
+      "start": 95.64,
+      "end": 102.08,
+      "primary": "Patrones perfectos El tiempo y el espacio",
+      "translation": "Never ends Time and space",
+      "words": [
+        {
+          "value": "Patrones",
+          "start": 95.64,
+          "end": 96.3,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "es"
+        },
+        {
+          "value": "perfectos",
+          "start": 96.36,
+          "end": 97.58,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "es"
+        },
+        {
+          "value": "El",
+          "start": 99.02,
+          "end": 99.12,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "es"
+        },
+        {
+          "value": "tiempo",
+          "start": 99.18,
+          "end": 99.56,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 99.6,
+          "end": 99.64,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 99.7,
+          "end": 99.78,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "es"
+        },
+        {
+          "value": "espacio",
+          "start": 99.84,
+          "end": 100.86,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Never",
+          "start": 98.6,
+          "end": 98.9,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "en"
+        },
+        {
+          "value": "ends",
+          "start": 98.94,
+          "end": 99.2,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "Time",
+          "start": 101.36,
+          "end": 101.56,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 101.6,
+          "end": 101.68,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        },
+        {
+          "value": "space",
+          "start": 101.76,
+          "end": 102.08,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-12",
+      "start": 102.18,
+      "end": 106.22,
+      "primary": "Matemática pura",
+      "translation": "Pure mathematics",
+      "words": [
+        {
+          "value": "Matemática",
+          "start": 102.18,
+          "end": 103.38,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "es"
+        },
+        {
+          "value": "pura",
+          "start": 103.48,
+          "end": 104.1,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Pure",
+          "start": 105.02,
+          "end": 105.1,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "en"
+        },
+        {
+          "value": "mathematics",
+          "start": 105.18,
+          "end": 106.22,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-13",
+      "start": 106.3,
+      "end": 114.1,
+      "primary": "Girando en círculos",
+      "translation": "Round and round",
+      "words": [
+        {
+          "value": "Girando",
+          "start": 106.3,
+          "end": 106.74,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "es"
+        },
+        {
+          "value": "en",
+          "start": 106.78,
+          "end": 106.86,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "es"
+        },
+        {
+          "value": "círculos",
+          "start": 107,
+          "end": 107.98,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Round",
+          "start": 113.1,
+          "end": 113.3,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 113.4,
+          "end": 113.5,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "round",
+          "start": 113.6,
+          "end": 114.1,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-14",
+      "start": 144.6,
+      "end": 145.86,
+      "primary": "Desde la hoja",
+      "translation": "",
+      "words": [
+        {
+          "value": "Desde",
+          "start": 144.6,
+          "end": 145.12,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 145.3,
+          "end": 145.48,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "es"
+        },
+        {
+          "value": "hoja",
+          "start": 145.5,
+          "end": 145.86,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-15",
+      "start": 146.22,
+      "end": 147.8,
+      "primary": "hasta la galaxia",
+      "translation": "",
+      "words": [
+        {
+          "value": "hasta",
+          "start": 146.22,
+          "end": 146.68,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 146.76,
+          "end": 146.96,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "es"
+        },
+        {
+          "value": "galaxia",
+          "start": 147.02,
+          "end": 147.8,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-16",
+      "start": 148.08,
+      "end": 149.88,
+      "primary": "esta es la",
+      "translation": "This is the",
+      "words": [
+        {
+          "value": "esta",
+          "start": 148.08,
+          "end": 148.4,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "es"
+        },
+        {
+          "value": "es",
+          "start": 148.74,
+          "end": 148.84,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 148.9,
+          "end": 149.06,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "This",
+          "start": 149.44,
+          "end": 149.54,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 149.6,
+          "end": 149.7,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 149.78,
+          "end": 149.88,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-17",
+      "start": 150,
+      "end": 151.38,
+      "primary": "suprema audacia",
+      "translation": "",
+      "words": [
+        {
+          "value": "suprema",
+          "start": 150,
+          "end": 150.46,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "es"
+        },
+        {
+          "value": "audacia",
+          "start": 150.5,
+          "end": 151.38,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-18",
+      "start": 151.46,
+      "end": 152.66,
+      "primary": "Caos ordenado",
+      "translation": "",
+      "words": [
+        {
+          "value": "Caos",
+          "start": 151.46,
+          "end": 151.86,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "es"
+        },
+        {
+          "value": "ordenado",
+          "start": 151.98,
+          "end": 152.66,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-19",
+      "start": 153.02,
+      "end": 154.78,
+      "primary": "lógica divina",
+      "translation": "",
+      "words": [
+        {
+          "value": "lógica",
+          "start": 153.02,
+          "end": 153.8,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "es"
+        },
+        {
+          "value": "divina",
+          "start": 153.88,
+          "end": 154.78,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-20",
+      "start": 154.92,
+      "end": 156.36,
+      "primary": "la ecuación",
+      "translation": "",
+      "words": [
+        {
+          "value": "la",
+          "start": 154.92,
+          "end": 155.14,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "es"
+        },
+        {
+          "value": "ecuación",
+          "start": 155.26,
+          "end": 156.36,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-21",
+      "start": 156.44,
+      "end": 158.22,
+      "primary": "que no termina",
+      "translation": "",
+      "words": [
+        {
+          "value": "que",
+          "start": 156.44,
+          "end": 156.7,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "es"
+        },
+        {
+          "value": "no",
+          "start": 156.86,
+          "end": 157.1,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "es"
+        },
+        {
+          "value": "termina",
+          "start": 157.2,
+          "end": 158.22,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-22",
+      "start": 158.32,
+      "end": 161.7,
+      "primary": "Multiplicando",
+      "translation": "Multiplying",
+      "words": [
+        {
+          "value": "Multiplicando",
+          "start": 158.32,
+          "end": 159.84,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Multiplying",
+          "start": 160.04,
+          "end": 161.7,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-23",
+      "start": 161.98,
+      "end": 165.14,
+      "primary": "El ojo de",
+      "translation": "The eye of",
+      "words": [
+        {
+          "value": "El",
+          "start": 161.98,
+          "end": 162.02,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "es"
+        },
+        {
+          "value": "ojo",
+          "start": 162.14,
+          "end": 162.54,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 162.62,
+          "end": 162.8,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 163.22,
+          "end": 163.44,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        },
+        {
+          "value": "eye",
+          "start": 164.28,
+          "end": 164.36,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 164.54,
+          "end": 165.14,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-24",
+      "start": 165.96,
+      "end": 169.18,
+      "primary": "Patrones perfectos",
+      "translation": "Never ends",
+      "words": [
+        {
+          "value": "Patrones",
+          "start": 165.96,
+          "end": 166.56,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "es"
+        },
+        {
+          "value": "perfectos",
+          "start": 166.62,
+          "end": 167.86,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Never",
+          "start": 168.18,
+          "end": 168.58,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "en"
+        },
+        {
+          "value": "ends",
+          "start": 168.66,
+          "end": 169.18,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-25",
+      "start": 169.26,
+      "end": 172.58,
+      "primary": "El tiempo y el espacio",
+      "translation": "Time and space",
+      "words": [
+        {
+          "value": "El",
+          "start": 169.26,
+          "end": 169.4,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "es"
+        },
+        {
+          "value": "tiempo",
+          "start": 169.46,
+          "end": 169.84,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 169.88,
+          "end": 169.92,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 170,
+          "end": 170.06,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "es"
+        },
+        {
+          "value": "espacio",
+          "start": 170.14,
+          "end": 171.28,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Time",
+          "start": 171.58,
+          "end": 171.84,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 171.88,
+          "end": 171.98,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "en"
+        },
+        {
+          "value": "space",
+          "start": 172,
+          "end": 172.58,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-26",
+      "start": 245.74,
+      "end": 247.24,
+      "primary": "Desde la hoja",
+      "translation": "",
+      "words": [
+        {
+          "value": "Desde",
+          "start": 245.74,
+          "end": 246.34,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 246.42,
+          "end": 246.58,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "es"
+        },
+        {
+          "value": "hoja",
+          "start": 246.62,
+          "end": 247.24,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-27",
+      "start": 247.28,
+      "end": 249,
+      "primary": "hasta la galaxia",
+      "translation": "",
+      "words": [
+        {
+          "value": "hasta",
+          "start": 247.28,
+          "end": 247.82,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 247.88,
+          "end": 248.06,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "es"
+        },
+        {
+          "value": "galaxia",
+          "start": 248.12,
+          "end": 249,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-28",
+      "start": 249.24,
+      "end": 251.46,
+      "primary": "esta es la",
+      "translation": "This is the",
+      "words": [
+        {
+          "value": "esta",
+          "start": 249.24,
+          "end": 249.72,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "es"
+        },
+        {
+          "value": "es",
+          "start": 249.8,
+          "end": 249.96,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 250.04,
+          "end": 250.22,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "This",
+          "start": 250.7,
+          "end": 251.1,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "en"
+        },
+        {
+          "value": "is",
+          "start": 251.14,
+          "end": 251.24,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 251.28,
+          "end": 251.46,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-29",
+      "start": 251.46,
+      "end": 252.42,
+      "primary": "suprema audacia",
+      "translation": "",
+      "words": [
+        {
+          "value": "suprema",
+          "start": 251.46,
+          "end": 251.56,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "es"
+        },
+        {
+          "value": "audacia",
+          "start": 251.64,
+          "end": 252.42,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-30",
+      "start": 252.58,
+      "end": 253.84,
+      "primary": "Caos ordenado",
+      "translation": "",
+      "words": [
+        {
+          "value": "Caos",
+          "start": 252.58,
+          "end": 253,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "es"
+        },
+        {
+          "value": "ordenado",
+          "start": 253.12,
+          "end": 253.84,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-31",
+      "start": 254.14,
+      "end": 255.54,
+      "primary": "lógica divina",
+      "translation": "",
+      "words": [
+        {
+          "value": "lógica",
+          "start": 254.14,
+          "end": 254.94,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "es"
+        },
+        {
+          "value": "divina",
+          "start": 254.98,
+          "end": 255.54,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-32",
+      "start": 255.84,
+      "end": 257.12,
+      "primary": "la ecuación",
+      "translation": "",
+      "words": [
+        {
+          "value": "la",
+          "start": 255.84,
+          "end": 256.04,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "es"
+        },
+        {
+          "value": "ecuación",
+          "start": 256.14,
+          "end": 257.12,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-33",
+      "start": 257.98,
+      "end": 259.1,
+      "primary": "que no termina",
+      "translation": "",
+      "words": [
+        {
+          "value": "que",
+          "start": 257.98,
+          "end": 258.1,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "es"
+        },
+        {
+          "value": "no",
+          "start": 258.16,
+          "end": 258.33,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "es"
+        },
+        {
+          "value": "termina",
+          "start": 258.42,
+          "end": 259.1,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "es"
+        }
+      ],
+      "translationWords": [],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-34",
+      "start": 259.48,
+      "end": 262.84,
+      "primary": "Multiplicando",
+      "translation": "Multiplying",
+      "words": [
+        {
+          "value": "Multiplicando",
+          "start": 259.48,
+          "end": 260.92,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Multiplying",
+          "start": 261.2,
+          "end": 262.84,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-35",
+      "start": 263,
+      "end": 265.5,
+      "primary": "El ojo de",
+      "translation": "The eye of",
+      "words": [
+        {
+          "value": "El",
+          "start": 263,
+          "end": 263.14,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "es"
+        },
+        {
+          "value": "ojo",
+          "start": 263.3,
+          "end": 263.66,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 263.76,
+          "end": 263.92,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 264.3,
+          "end": 264.5,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "en"
+        },
+        {
+          "value": "eye",
+          "start": 264.6,
+          "end": 264.9,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "en"
+        },
+        {
+          "value": "of",
+          "start": 265,
+          "end": 265.5,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-36",
+      "start": 268.84,
+      "end": 272,
+      "primary": "Patrones perfectos",
+      "translation": "Never ends",
+      "words": [
+        {
+          "value": "Patrones",
+          "start": 268.84,
+          "end": 269.42,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "es"
+        },
+        {
+          "value": "perfectos",
+          "start": 269.48,
+          "end": 270.94,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Never",
+          "start": 271,
+          "end": 271.4,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "en"
+        },
+        {
+          "value": "ends",
+          "start": 271.5,
+          "end": 272,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-37",
+      "start": 272.16,
+      "end": 275.42,
+      "primary": "El tiempo y el espacio",
+      "translation": "Time and space",
+      "words": [
+        {
+          "value": "El",
+          "start": 272.16,
+          "end": 272.28,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "es"
+        },
+        {
+          "value": "tiempo",
+          "start": 272.34,
+          "end": 272.72,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 272.76,
+          "end": 272.8,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "es"
+        },
+        {
+          "value": "el",
+          "start": 272.86,
+          "end": 272.92,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "es"
+        },
+        {
+          "value": "espacio",
+          "start": 273,
+          "end": 273.8,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Time",
+          "start": 274.6,
+          "end": 274.7,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 274.74,
+          "end": 274.8,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "en"
+        },
+        {
+          "value": "space",
+          "start": 274.9,
+          "end": 275.42,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-38",
+      "start": 313.6,
+      "end": 315.2,
+      "primary": "Infinito",
+      "translation": "Infinite",
+      "words": [
+        {
+          "value": "Infinito",
+          "start": 313.6,
+          "end": 314.28,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Infinite",
+          "start": 314.4,
+          "end": 315.2,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}

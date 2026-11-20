@@ -1,0 +1,1922 @@
+[
+  {
+    "text": "Tell",
+    "start": 6.69,
+    "end": 6.87,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 6.87,
+    "end": 6.96,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "story",
+    "start": 6.96,
+    "end": 7.45,
+    "language": "en",
+    "phrase_id": "p001",
+    "uncertain": false
+  },
+  {
+    "text": "Salí",
+    "start": 18.45,
+    "end": 18.77,
+    "language": "es",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "del",
+    "start": 18.77,
+    "end": 18.91,
+    "language": "es",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "barrio",
+    "start": 18.91,
+    "end": 19.46,
+    "language": "es",
+    "phrase_id": "p002",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 19.86,
+    "end": 20,
+    "language": "en",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "left",
+    "start": 20,
+    "end": 20.19,
+    "language": "en",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 20.19,
+    "end": 20.28,
+    "language": "en",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "neighborhood",
+    "start": 20.28,
+    "end": 20.91,
+    "language": "en",
+    "phrase_id": "p003",
+    "uncertain": false
+  },
+  {
+    "text": "Con",
+    "start": 21.56,
+    "end": 21.73,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "las",
+    "start": 21.73,
+    "end": 21.94,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "manos",
+    "start": 21.94,
+    "end": 22.37,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "vacías",
+    "start": 22.37,
+    "end": 23.08,
+    "language": "es",
+    "phrase_id": "p004",
+    "uncertain": false
+  },
+  {
+    "text": "With",
+    "start": 23.86,
+    "end": 24.08,
+    "language": "en",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "empty",
+    "start": 24.08,
+    "end": 24.47,
+    "language": "en",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "hands",
+    "start": 24.47,
+    "end": 25.04,
+    "language": "en",
+    "phrase_id": "p005",
+    "uncertain": false
+  },
+  {
+    "text": "Buscando",
+    "start": 25.43,
+    "end": 25.86,
+    "language": "es",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "el",
+    "start": 25.86,
+    "end": 25.96,
+    "language": "es",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "peso",
+    "start": 25.96,
+    "end": 26.47,
+    "language": "es",
+    "phrase_id": "p006",
+    "uncertain": false
+  },
+  {
+    "text": "Looking",
+    "start": 27.18,
+    "end": 27.46,
+    "language": "en",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "for",
+    "start": 27.46,
+    "end": 27.56,
+    "language": "en",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 27.56,
+    "end": 27.67,
+    "language": "en",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "peso",
+    "start": 27.67,
+    "end": 28.18,
+    "language": "en",
+    "phrase_id": "p007",
+    "uncertain": false
+  },
+  {
+    "text": "Todos",
+    "start": 29.68,
+    "end": 30.08,
+    "language": "es",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "los",
+    "start": 30.08,
+    "end": 30.29,
+    "language": "es",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "días",
+    "start": 30.29,
+    "end": 31.06,
+    "language": "es",
+    "phrase_id": "p008",
+    "uncertain": false
+  },
+  {
+    "text": "Every",
+    "start": 31.62,
+    "end": 32.06,
+    "language": "en",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "day",
+    "start": 32.06,
+    "end": 32.48,
+    "language": "en",
+    "phrase_id": "p009",
+    "uncertain": false
+  },
+  {
+    "text": "Mi",
+    "start": 33.15,
+    "end": 33.28,
+    "language": "es",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "madre",
+    "start": 33.28,
+    "end": 33.61,
+    "language": "es",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "dijo",
+    "start": 33.61,
+    "end": 34.02,
+    "language": "es",
+    "phrase_id": "p010",
+    "uncertain": false
+  },
+  {
+    "text": "My",
+    "start": 34.4,
+    "end": 34.54,
+    "language": "en",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "mother",
+    "start": 34.54,
+    "end": 34.82,
+    "language": "en",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "said",
+    "start": 34.82,
+    "end": 35.32,
+    "language": "en",
+    "phrase_id": "p011",
+    "uncertain": false
+  },
+  {
+    "text": "Ten",
+    "start": 36.43,
+    "end": 36.71,
+    "language": "es",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "mucho",
+    "start": 36.71,
+    "end": 37.07,
+    "language": "es",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "cuidado",
+    "start": 37.07,
+    "end": 37.76,
+    "language": "es",
+    "phrase_id": "p012",
+    "uncertain": false
+  },
+  {
+    "text": "Be",
+    "start": 38.25,
+    "end": 38.45,
+    "language": "en",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "very",
+    "start": 38.45,
+    "end": 38.74,
+    "language": "en",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "careful",
+    "start": 38.74,
+    "end": 39.36,
+    "language": "en",
+    "phrase_id": "p013",
+    "uncertain": false
+  },
+  {
+    "text": "El",
+    "start": 40.16,
+    "end": 40.35,
+    "language": "es",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "mundo",
+    "start": 40.35,
+    "end": 40.75,
+    "language": "es",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "es",
+    "start": 40.75,
+    "end": 40.92,
+    "language": "es",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "frío",
+    "start": 40.92,
+    "end": 41.52,
+    "language": "es",
+    "phrase_id": "p014",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 41.77,
+    "end": 41.9,
+    "language": "en",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "world",
+    "start": 41.9,
+    "end": 42.23,
+    "language": "en",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "is",
+    "start": 42.23,
+    "end": 42.36,
+    "language": "en",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "cold",
+    "start": 42.36,
+    "end": 42.94,
+    "language": "en",
+    "phrase_id": "p015",
+    "uncertain": false
+  },
+  {
+    "text": "Y",
+    "start": 43.76,
+    "end": 43.91,
+    "language": "es",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "complicado",
+    "start": 43.91,
+    "end": 45.02,
+    "language": "es",
+    "phrase_id": "p016",
+    "uncertain": false
+  },
+  {
+    "text": "Pero",
+    "start": 46.33,
+    "end": 46.6,
+    "language": "es",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "yo",
+    "start": 46.6,
+    "end": 46.73,
+    "language": "es",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "tengo",
+    "start": 46.73,
+    "end": 47.38,
+    "language": "es",
+    "phrase_id": "p017",
+    "uncertain": false
+  },
+  {
+    "text": "But",
+    "start": 47.78,
+    "end": 47.96,
+    "language": "en",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 47.96,
+    "end": 48.15,
+    "language": "en",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "have",
+    "start": 48.15,
+    "end": 48.65,
+    "language": "en",
+    "phrase_id": "p018",
+    "uncertain": false
+  },
+  {
+    "text": "Mucha",
+    "start": 49.49,
+    "end": 49.82,
+    "language": "es",
+    "phrase_id": "p019",
+    "uncertain": false
+  },
+  {
+    "text": "ambición",
+    "start": 49.82,
+    "end": 50.56,
+    "language": "es",
+    "phrase_id": "p019",
+    "uncertain": false
+  },
+  {
+    "text": "A",
+    "start": 50.81,
+    "end": 50.88,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "lot",
+    "start": 50.88,
+    "end": 51.1,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "of",
+    "start": 51.1,
+    "end": 51.18,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "ambition",
+    "start": 51.18,
+    "end": 51.78,
+    "language": "en",
+    "phrase_id": "p020",
+    "uncertain": false
+  },
+  {
+    "text": "Brindo",
+    "start": 53.3,
+    "end": 53.64,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "por",
+    "start": 53.64,
+    "end": 53.79,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "los",
+    "start": 53.79,
+    "end": 54.01,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "míos",
+    "start": 54.01,
+    "end": 54.54,
+    "language": "es",
+    "phrase_id": "p021",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 54.58,
+    "end": 54.71,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "toast",
+    "start": 54.71,
+    "end": 54.98,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "to",
+    "start": 54.98,
+    "end": 55.1,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "mine",
+    "start": 55.1,
+    "end": 55.6,
+    "language": "en",
+    "phrase_id": "p022",
+    "uncertain": false
+  },
+  {
+    "text": "Cheers",
+    "start": 56.28,
+    "end": 56.67,
+    "language": "en",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "to",
+    "start": 56.67,
+    "end": 56.84,
+    "language": "en",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "us",
+    "start": 56.84,
+    "end": 57.21,
+    "language": "en",
+    "phrase_id": "p023",
+    "uncertain": false
+  },
+  {
+    "text": "Por",
+    "start": 57.65,
+    "end": 57.87,
+    "language": "es",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "la",
+    "start": 57.87,
+    "end": 58.07,
+    "language": "es",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "familia",
+    "start": 58.07,
+    "end": 58.81,
+    "language": "es",
+    "phrase_id": "p024",
+    "uncertain": false
+  },
+  {
+    "text": "In",
+    "start": 59.62,
+    "end": 59.83,
+    "language": "en",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "God",
+    "start": 59.83,
+    "end": 60.08,
+    "language": "en",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "we",
+    "start": 60.08,
+    "end": 60.23,
+    "language": "en",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "trust",
+    "start": 60.23,
+    "end": 60.82,
+    "language": "en",
+    "phrase_id": "p025",
+    "uncertain": false
+  },
+  {
+    "text": "Dinero",
+    "start": 61.07,
+    "end": 61.55,
+    "language": "es",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "en",
+    "start": 61.55,
+    "end": 61.69,
+    "language": "es",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "la",
+    "start": 61.69,
+    "end": 61.81,
+    "language": "es",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "mesa",
+    "start": 61.81,
+    "end": 62.44,
+    "language": "es",
+    "phrase_id": "p026",
+    "uncertain": false
+  },
+  {
+    "text": "Money",
+    "start": 63.4,
+    "end": 63.74,
+    "language": "en",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "on",
+    "start": 63.74,
+    "end": 63.88,
+    "language": "en",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 63.88,
+    "end": 63.96,
+    "language": "en",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "table",
+    "start": 63.96,
+    "end": 64.56,
+    "language": "en",
+    "phrase_id": "p027",
+    "uncertain": false
+  },
+  {
+    "text": "Y",
+    "start": 65.1,
+    "end": 65.2,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "buena",
+    "start": 65.2,
+    "end": 65.51,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "comida",
+    "start": 65.51,
+    "end": 66.18,
+    "language": "es",
+    "phrase_id": "p028",
+    "uncertain": false
+  },
+  {
+    "text": "And",
+    "start": 66.94,
+    "end": 67.13,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "good",
+    "start": 67.13,
+    "end": 67.39,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "food",
+    "start": 67.39,
+    "end": 68.02,
+    "language": "en",
+    "phrase_id": "p029",
+    "uncertain": false
+  },
+  {
+    "text": "No",
+    "start": 70.15,
+    "end": 70.29,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "olvido",
+    "start": 70.29,
+    "end": 70.7,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "mis",
+    "start": 70.7,
+    "end": 70.97,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "raíces",
+    "start": 70.97,
+    "end": 71.77,
+    "language": "es",
+    "phrase_id": "p030",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 71.85,
+    "end": 71.95,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "don't",
+    "start": 71.95,
+    "end": 72.18,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "forget",
+    "start": 72.18,
+    "end": 72.51,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "my",
+    "start": 72.51,
+    "end": 72.65,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "roots",
+    "start": 72.65,
+    "end": 73.16,
+    "language": "en",
+    "phrase_id": "p031",
+    "uncertain": false
+  },
+  {
+    "text": "Where",
+    "start": 73.68,
+    "end": 73.92,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "I'm",
+    "start": 73.92,
+    "end": 74.28,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "from",
+    "start": 74.28,
+    "end": 74.89,
+    "language": "en",
+    "phrase_id": "p032",
+    "uncertain": false
+  },
+  {
+    "text": "Ni",
+    "start": 77.38,
+    "end": 77.52,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "de",
+    "start": 77.52,
+    "end": 77.65,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "donde",
+    "start": 77.65,
+    "end": 77.95,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "vengo",
+    "start": 77.95,
+    "end": 78.52,
+    "language": "es",
+    "phrase_id": "p033",
+    "uncertain": false
+  },
+  {
+    "text": "Nor",
+    "start": 78.91,
+    "end": 79.14,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "where",
+    "start": 79.14,
+    "end": 79.34,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 79.34,
+    "end": 79.5,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "come",
+    "start": 79.5,
+    "end": 79.7,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "from",
+    "start": 79.7,
+    "end": 80.16,
+    "language": "en",
+    "phrase_id": "p034",
+    "uncertain": false
+  },
+  {
+    "text": "Play",
+    "start": 89.83,
+    "end": 90.13,
+    "language": "en",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "that",
+    "start": 90.13,
+    "end": 90.34,
+    "language": "en",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "guitar",
+    "start": 90.34,
+    "end": 90.82,
+    "language": "en",
+    "phrase_id": "p035",
+    "uncertain": false
+  },
+  {
+    "text": "Keep",
+    "start": 92.82,
+    "end": 93.02,
+    "language": "en",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "it",
+    "start": 93.02,
+    "end": 93.16,
+    "language": "en",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "going",
+    "start": 93.16,
+    "end": 93.72,
+    "language": "en",
+    "phrase_id": "p036",
+    "uncertain": false
+  },
+  {
+    "text": "Manejo",
+    "start": 96.56,
+    "end": 97.03,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "un",
+    "start": 97.03,
+    "end": 97.19,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "carro",
+    "start": 97.19,
+    "end": 97.79,
+    "language": "es",
+    "phrase_id": "p037",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 97.89,
+    "end": 98.01,
+    "language": "en",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "drive",
+    "start": 98.01,
+    "end": 98.3,
+    "language": "en",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "a",
+    "start": 98.3,
+    "end": 98.38,
+    "language": "en",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "car",
+    "start": 98.38,
+    "end": 98.93,
+    "language": "en",
+    "phrase_id": "p038",
+    "uncertain": false
+  },
+  {
+    "text": "Por",
+    "start": 99.81,
+    "end": 99.99,
+    "language": "es",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "la",
+    "start": 99.99,
+    "end": 100.12,
+    "language": "es",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "carretera",
+    "start": 100.12,
+    "end": 100.85,
+    "language": "es",
+    "phrase_id": "p039",
+    "uncertain": false
+  },
+  {
+    "text": "Down",
+    "start": 101.52,
+    "end": 101.83,
+    "language": "en",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 101.83,
+    "end": 101.95,
+    "language": "en",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "highway",
+    "start": 101.95,
+    "end": 102.5,
+    "language": "en",
+    "phrase_id": "p040",
+    "uncertain": false
+  },
+  {
+    "text": "Vidrios",
+    "start": 103.7,
+    "end": 104.2,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "oscuros",
+    "start": 104.2,
+    "end": 104.88,
+    "language": "es",
+    "phrase_id": "p041",
+    "uncertain": false
+  },
+  {
+    "text": "Dark",
+    "start": 105.33,
+    "end": 105.74,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "windows",
+    "start": 105.74,
+    "end": 106.33,
+    "language": "en",
+    "phrase_id": "p042",
+    "uncertain": false
+  },
+  {
+    "text": "A",
+    "start": 107.38,
+    "end": 107.46,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "mi",
+    "start": 107.46,
+    "end": 107.66,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "manera",
+    "start": 107.66,
+    "end": 108.33,
+    "language": "es",
+    "phrase_id": "p043",
+    "uncertain": false
+  },
+  {
+    "text": "My",
+    "start": 108.82,
+    "end": 109.03,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "own",
+    "start": 109.03,
+    "end": 109.25,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "way",
+    "start": 109.25,
+    "end": 109.8,
+    "language": "en",
+    "phrase_id": "p044",
+    "uncertain": false
+  },
+  {
+    "text": "Tengo",
+    "start": 110.91,
+    "end": 111.35,
+    "language": "es",
+    "phrase_id": "p045",
+    "uncertain": false
+  },
+  {
+    "text": "amigos",
+    "start": 111.35,
+    "end": 111.98,
+    "language": "es",
+    "phrase_id": "p045",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 112.54,
+    "end": 112.7,
+    "language": "en",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "have",
+    "start": 112.7,
+    "end": 113.03,
+    "language": "en",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "friends",
+    "start": 113.03,
+    "end": 113.53,
+    "language": "en",
+    "phrase_id": "p046",
+    "uncertain": false
+  },
+  {
+    "text": "Falsos",
+    "start": 114.67,
+    "end": 115.1,
+    "language": "es",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "y",
+    "start": 115.1,
+    "end": 115.23,
+    "language": "es",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "reales",
+    "start": 115.23,
+    "end": 115.83,
+    "language": "es",
+    "phrase_id": "p047",
+    "uncertain": false
+  },
+  {
+    "text": "Fake",
+    "start": 116.24,
+    "end": 116.54,
+    "language": "en",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "and",
+    "start": 116.54,
+    "end": 116.7,
+    "language": "en",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "real",
+    "start": 116.7,
+    "end": 117.24,
+    "language": "en",
+    "phrase_id": "p048",
+    "uncertain": false
+  },
+  {
+    "text": "Yo",
+    "start": 118.28,
+    "end": 118.46,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "sé",
+    "start": 118.46,
+    "end": 118.7,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "quiénes",
+    "start": 118.7,
+    "end": 119.04,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "son",
+    "start": 119.04,
+    "end": 119.58,
+    "language": "es",
+    "phrase_id": "p049",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 119.62,
+    "end": 119.81,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "know",
+    "start": 119.81,
+    "end": 120.02,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "who",
+    "start": 120.02,
+    "end": 120.22,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "they",
+    "start": 120.22,
+    "end": 120.37,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "are",
+    "start": 120.37,
+    "end": 120.86,
+    "language": "en",
+    "phrase_id": "p050",
+    "uncertain": false
+  },
+  {
+    "text": "Los",
+    "start": 121.78,
+    "end": 122.04,
+    "language": "es",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "más",
+    "start": 122.04,
+    "end": 122.32,
+    "language": "es",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "leales",
+    "start": 122.32,
+    "end": 122.94,
+    "language": "es",
+    "phrase_id": "p051",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 123.46,
+    "end": 123.58,
+    "language": "en",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "most",
+    "start": 123.58,
+    "end": 123.87,
+    "language": "en",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "loyal",
+    "start": 123.87,
+    "end": 124.38,
+    "language": "en",
+    "phrase_id": "p052",
+    "uncertain": false
+  },
+  {
+    "text": "Porque",
+    "start": 125.47,
+    "end": 125.86,
+    "language": "es",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "yo",
+    "start": 125.86,
+    "end": 126.01,
+    "language": "es",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "tengo",
+    "start": 126.01,
+    "end": 126.63,
+    "language": "es",
+    "phrase_id": "p053",
+    "uncertain": false
+  },
+  {
+    "text": "Because",
+    "start": 126.91,
+    "end": 127.28,
+    "language": "en",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 127.28,
+    "end": 127.41,
+    "language": "en",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "have",
+    "start": 127.41,
+    "end": 127.97,
+    "language": "en",
+    "phrase_id": "p054",
+    "uncertain": false
+  },
+  {
+    "text": "Un",
+    "start": 128.82,
+    "end": 128.97,
+    "language": "es",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "buen",
+    "start": 128.97,
+    "end": 129.3,
+    "language": "es",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "corazón",
+    "start": 129.3,
+    "end": 129.91,
+    "language": "es",
+    "phrase_id": "p055",
+    "uncertain": false
+  },
+  {
+    "text": "A",
+    "start": 130.59,
+    "end": 130.66,
+    "language": "en",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "good",
+    "start": 130.66,
+    "end": 130.97,
+    "language": "en",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "heart",
+    "start": 130.97,
+    "end": 131.52,
+    "language": "en",
+    "phrase_id": "p056",
+    "uncertain": false
+  },
+  {
+    "text": "Brindo",
+    "start": 132.72,
+    "end": 133.11,
+    "language": "es",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "por",
+    "start": 133.11,
+    "end": 133.29,
+    "language": "es",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "los",
+    "start": 133.29,
+    "end": 133.52,
+    "language": "es",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "míos",
+    "start": 133.52,
+    "end": 134.07,
+    "language": "es",
+    "phrase_id": "p057",
+    "uncertain": false
+  },
+  {
+    "text": "I",
+    "start": 134.12,
+    "end": 134.28,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "toast",
+    "start": 134.28,
+    "end": 134.54,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "to",
+    "start": 134.54,
+    "end": 134.67,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "mine",
+    "start": 134.67,
+    "end": 135.22,
+    "language": "en",
+    "phrase_id": "p058",
+    "uncertain": false
+  },
+  {
+    "text": "Cheers",
+    "start": 135.93,
+    "end": 136.32,
+    "language": "en",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "to",
+    "start": 136.32,
+    "end": 136.49,
+    "language": "en",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "us",
+    "start": 136.49,
+    "end": 136.92,
+    "language": "en",
+    "phrase_id": "p059",
+    "uncertain": false
+  },
+  {
+    "text": "Por",
+    "start": 137.37,
+    "end": 137.65,
+    "language": "es",
+    "phrase_id": "p060",
+    "uncertain": false
+  },
+  {
+    "text": "la",
+    "start": 137.65,
+    "end": 137.86,
+    "language": "es",
+    "phrase_id": "p060",
+    "uncertain": false
+  },
+  {
+    "text": "familia",
+    "start": 137.86,
+    "end": 138.49,
+    "language": "es",
+    "phrase_id": "p060",
+    "uncertain": false
+  },
+  {
+    "text": "In",
+    "start": 139.46,
+    "end": 139.68,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "God",
+    "start": 139.68,
+    "end": 139.98,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "we",
+    "start": 139.98,
+    "end": 140.12,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "trust",
+    "start": 140.12,
+    "end": 140.59,
+    "language": "en",
+    "phrase_id": "p061",
+    "uncertain": false
+  },
+  {
+    "text": "Dinero",
+    "start": 140.91,
+    "end": 141.37,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": false
+  },
+  {
+    "text": "en",
+    "start": 141.37,
+    "end": 141.52,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": false
+  },
+  {
+    "text": "la",
+    "start": 141.52,
+    "end": 141.65,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": false
+  },
+  {
+    "text": "mesa",
+    "start": 141.65,
+    "end": 142.25,
+    "language": "es",
+    "phrase_id": "p062",
+    "uncertain": false
+  },
+  {
+    "text": "Money",
+    "start": 143.23,
+    "end": 143.59,
+    "language": "en",
+    "phrase_id": "p063",
+    "uncertain": false
+  },
+  {
+    "text": "on",
+    "start": 143.59,
+    "end": 143.75,
+    "language": "en",
+    "phrase_id": "p063",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 143.75,
+    "end": 143.83,
+    "language": "en",
+    "phrase_id": "p063",
+    "uncertain": false
+  },
+  {
+    "text": "table",
+    "start": 143.83,
+    "end": 144.41,
+    "language": "en",
+    "phrase_id": "p063",
+    "uncertain": false
+  },
+  {
+    "text": "Y",
+    "start": 144.87,
+    "end": 144.97,
+    "language": "es",
+    "phrase_id": "p064",
+    "uncertain": false
+  },
+  {
+    "text": "buena",
+    "start": 144.97,
+    "end": 145.29,
+    "language": "es",
+    "phrase_id": "p064",
+    "uncertain": false
+  },
+  {
+    "text": "comida",
+    "start": 145.29,
+    "end": 146.01,
+    "language": "es",
+    "phrase_id": "p064",
+    "uncertain": false
+  },
+  {
+    "text": "And",
+    "start": 146.68,
+    "end": 146.89,
+    "language": "en",
+    "phrase_id": "p065",
+    "uncertain": false
+  },
+  {
+    "text": "good",
+    "start": 146.89,
+    "end": 147.17,
+    "language": "en",
+    "phrase_id": "p065",
+    "uncertain": false
+  },
+  {
+    "text": "food",
+    "start": 147.17,
+    "end": 147.76,
+    "language": "en",
+    "phrase_id": "p065",
+    "uncertain": false
+  },
+  {
+    "text": "El",
+    "start": 161.22,
+    "end": 161.36,
+    "language": "es",
+    "phrase_id": "p066",
+    "uncertain": false
+  },
+  {
+    "text": "cielo",
+    "start": 161.36,
+    "end": 161.87,
+    "language": "es",
+    "phrase_id": "p066",
+    "uncertain": false
+  },
+  {
+    "text": "es",
+    "start": 161.87,
+    "end": 162.06,
+    "language": "es",
+    "phrase_id": "p066",
+    "uncertain": false
+  },
+  {
+    "text": "el",
+    "start": 162.06,
+    "end": 162.2,
+    "language": "es",
+    "phrase_id": "p066",
+    "uncertain": false
+  },
+  {
+    "text": "límite",
+    "start": 162.2,
+    "end": 162.75,
+    "language": "es",
+    "phrase_id": "p066",
+    "uncertain": false
+  },
+  {
+    "text": "The",
+    "start": 163.68,
+    "end": 163.83,
+    "language": "en",
+    "phrase_id": "p067",
+    "uncertain": false
+  },
+  {
+    "text": "sky",
+    "start": 163.83,
+    "end": 164.24,
+    "language": "en",
+    "phrase_id": "p067",
+    "uncertain": false
+  },
+  {
+    "text": "is",
+    "start": 164.24,
+    "end": 164.4,
+    "language": "en",
+    "phrase_id": "p067",
+    "uncertain": false
+  },
+  {
+    "text": "the",
+    "start": 164.4,
+    "end": 164.53,
+    "language": "en",
+    "phrase_id": "p067",
+    "uncertain": false
+  },
+  {
+    "text": "limit",
+    "start": 164.53,
+    "end": 165.09,
+    "language": "en",
+    "phrase_id": "p067",
+    "uncertain": false
+  },
+  {
+    "text": "Look",
+    "start": 165.92,
+    "end": 166.12,
+    "language": "en",
+    "phrase_id": "p068",
+    "uncertain": false
+  },
+  {
+    "text": "up",
+    "start": 166.12,
+    "end": 166.29,
+    "language": "en",
+    "phrase_id": "p068",
+    "uncertain": false
+  },
+  {
+    "text": "high",
+    "start": 166.29,
+    "end": 166.99,
+    "language": "en",
+    "phrase_id": "p068",
+    "uncertain": false
+  },
+  {
+    "text": "No",
+    "start": 167.38,
+    "end": 167.66,
+    "language": "es",
+    "phrase_id": "p069",
+    "uncertain": false
+  },
+  {
+    "text": "voy",
+    "start": 167.66,
+    "end": 167.92,
+    "language": "es",
+    "phrase_id": "p069",
+    "uncertain": false
+  },
+  {
+    "text": "a",
+    "start": 167.92,
+    "end": 168.01,
+    "language": "es",
+    "phrase_id": "p069",
+    "uncertain": false
+  },
+  {
+    "text": "parar",
+    "start": 168.01,
+    "end": 168.88,
+    "language": "es",
+    "phrase_id": "p069",
+    "uncertain": false
+  },
+  {
+    "text": "Watch",
+    "start": 169.95,
+    "end": 170.28,
+    "language": "en",
+    "phrase_id": "p070",
+    "uncertain": false
+  },
+  {
+    "text": "me",
+    "start": 170.28,
+    "end": 170.45,
+    "language": "en",
+    "phrase_id": "p070",
+    "uncertain": false
+  },
+  {
+    "text": "fly",
+    "start": 170.45,
+    "end": 171.35,
+    "language": "en",
+    "phrase_id": "p070",
+    "uncertain": false
+  },
+  {
+    "text": "Salud",
+    "start": 172.75,
+    "end": 173.64,
+    "language": "es",
+    "phrase_id": "p071",
+    "uncertain": false
+  },
+  {
+    "text": "Cheers",
+    "start": 174.06,
+    "end": 175.22,
+    "language": "en",
+    "phrase_id": "p072",
+    "uncertain": false
+  },
+  {
+    "text": "Para",
+    "start": 176.55,
+    "end": 177.06,
+    "language": "es",
+    "phrase_id": "p073",
+    "uncertain": false
+  },
+  {
+    "text": "siempre",
+    "start": 177.06,
+    "end": 177.9,
+    "language": "es",
+    "phrase_id": "p073",
+    "uncertain": false
+  },
+  {
+    "text": "Forever",
+    "start": 178.33,
+    "end": 179.6,
+    "language": "en",
+    "phrase_id": "p074",
+    "uncertain": false
+  }
+]

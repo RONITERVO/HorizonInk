@@ -1,0 +1,1431 @@
+{
+  "title": "Machine Dance",
+  "genre": "Electro Tango",
+  "primaryLanguage": "es",
+  "duration": 173.987,
+  "source": "gemini",
+  "translationTiming": "sung",
+  "segments": [
+    {
+      "id": "seg-1",
+      "start": 16.65,
+      "end": 18.8,
+      "primary": "",
+      "translation": "Flesh and wire",
+      "words": [],
+      "translationWords": [
+        {
+          "value": "Flesh",
+          "start": 16.65,
+          "end": 17.65,
+          "uncertain": false,
+          "sourceIndex": 0,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 17.25,
+          "end": 17.95,
+          "uncertain": false,
+          "sourceIndex": 1,
+          "language": "en"
+        },
+        {
+          "value": "wire",
+          "start": 17.45,
+          "end": 18.8,
+          "uncertain": false,
+          "sourceIndex": 2,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-2",
+      "start": 26,
+      "end": 51.4,
+      "primary": "Engranajes Corazón Piel de hierro Sin razón Paso a paso Corte limpio Este baile Es mi olimpo Sangre y aceite Bebiendo todo",
+      "translation": "Gears Heart Iron skin Without reason Step by step Clean cut This dance Is my olympus Blood and oil Mix it up Drinking it all From the cup",
+      "words": [
+        {
+          "value": "Engranajes",
+          "start": 26,
+          "end": 27.7,
+          "uncertain": false,
+          "sourceIndex": 3,
+          "language": "es"
+        },
+        {
+          "value": "Corazón",
+          "start": 28.4,
+          "end": 29.8,
+          "uncertain": false,
+          "sourceIndex": 5,
+          "language": "es"
+        },
+        {
+          "value": "Piel",
+          "start": 30.55,
+          "end": 31.35,
+          "uncertain": false,
+          "sourceIndex": 7,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 30.85,
+          "end": 31.65,
+          "uncertain": false,
+          "sourceIndex": 8,
+          "language": "es"
+        },
+        {
+          "value": "hierro",
+          "start": 31.15,
+          "end": 32.25,
+          "uncertain": false,
+          "sourceIndex": 9,
+          "language": "es"
+        },
+        {
+          "value": "Sin",
+          "start": 32.75,
+          "end": 33.55,
+          "uncertain": false,
+          "sourceIndex": 12,
+          "language": "es"
+        },
+        {
+          "value": "razón",
+          "start": 33.05,
+          "end": 34.25,
+          "uncertain": false,
+          "sourceIndex": 13,
+          "language": "es"
+        },
+        {
+          "value": "Paso",
+          "start": 34.95,
+          "end": 35.75,
+          "uncertain": false,
+          "sourceIndex": 16,
+          "language": "es"
+        },
+        {
+          "value": "a",
+          "start": 35.25,
+          "end": 35.85,
+          "uncertain": false,
+          "sourceIndex": 17,
+          "language": "es"
+        },
+        {
+          "value": "paso",
+          "start": 35.35,
+          "end": 36.45,
+          "uncertain": false,
+          "sourceIndex": 18,
+          "language": "es"
+        },
+        {
+          "value": "Corte",
+          "start": 37.05,
+          "end": 37.95,
+          "uncertain": false,
+          "sourceIndex": 22,
+          "language": "es"
+        },
+        {
+          "value": "limpio",
+          "start": 37.45,
+          "end": 38.45,
+          "uncertain": false,
+          "sourceIndex": 23,
+          "language": "es"
+        },
+        {
+          "value": "Este",
+          "start": 38.95,
+          "end": 39.85,
+          "uncertain": false,
+          "sourceIndex": 26,
+          "language": "es"
+        },
+        {
+          "value": "baile",
+          "start": 39.35,
+          "end": 40.45,
+          "uncertain": false,
+          "sourceIndex": 27,
+          "language": "es"
+        },
+        {
+          "value": "Es",
+          "start": 40.85,
+          "end": 41.55,
+          "uncertain": false,
+          "sourceIndex": 30,
+          "language": "es"
+        },
+        {
+          "value": "mi",
+          "start": 41.05,
+          "end": 41.75,
+          "uncertain": false,
+          "sourceIndex": 31,
+          "language": "es"
+        },
+        {
+          "value": "olimpo",
+          "start": 41.25,
+          "end": 42.35,
+          "uncertain": false,
+          "sourceIndex": 32,
+          "language": "es"
+        },
+        {
+          "value": "Sangre",
+          "start": 43,
+          "end": 44.2,
+          "uncertain": false,
+          "sourceIndex": 36,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 43.7,
+          "end": 44.3,
+          "uncertain": false,
+          "sourceIndex": 37,
+          "language": "es"
+        },
+        {
+          "value": "aceite",
+          "start": 43.8,
+          "end": 45.3,
+          "uncertain": false,
+          "sourceIndex": 38,
+          "language": "es"
+        },
+        {
+          "value": "Bebiendo",
+          "start": 47.2,
+          "end": 48.5,
+          "uncertain": false,
+          "sourceIndex": 45,
+          "language": "es"
+        },
+        {
+          "value": "todo",
+          "start": 48,
+          "end": 49.2,
+          "uncertain": false,
+          "sourceIndex": 46,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Gears",
+          "start": 27.3,
+          "end": 28.8,
+          "uncertain": false,
+          "sourceIndex": 4,
+          "language": "en"
+        },
+        {
+          "value": "Heart",
+          "start": 29.6,
+          "end": 31,
+          "uncertain": false,
+          "sourceIndex": 6,
+          "language": "en"
+        },
+        {
+          "value": "Iron",
+          "start": 31.85,
+          "end": 32.65,
+          "uncertain": false,
+          "sourceIndex": 10,
+          "language": "en"
+        },
+        {
+          "value": "skin",
+          "start": 32.15,
+          "end": 33.25,
+          "uncertain": false,
+          "sourceIndex": 11,
+          "language": "en"
+        },
+        {
+          "value": "Without",
+          "start": 33.85,
+          "end": 34.85,
+          "uncertain": false,
+          "sourceIndex": 14,
+          "language": "en"
+        },
+        {
+          "value": "reason",
+          "start": 34.35,
+          "end": 35.35,
+          "uncertain": false,
+          "sourceIndex": 15,
+          "language": "en"
+        },
+        {
+          "value": "Step",
+          "start": 35.95,
+          "end": 36.85,
+          "uncertain": false,
+          "sourceIndex": 19,
+          "language": "en"
+        },
+        {
+          "value": "by",
+          "start": 36.35,
+          "end": 37.05,
+          "uncertain": false,
+          "sourceIndex": 20,
+          "language": "en"
+        },
+        {
+          "value": "step",
+          "start": 36.55,
+          "end": 37.45,
+          "uncertain": false,
+          "sourceIndex": 21,
+          "language": "en"
+        },
+        {
+          "value": "Clean",
+          "start": 38.05,
+          "end": 38.95,
+          "uncertain": false,
+          "sourceIndex": 24,
+          "language": "en"
+        },
+        {
+          "value": "cut",
+          "start": 38.45,
+          "end": 39.45,
+          "uncertain": false,
+          "sourceIndex": 25,
+          "language": "en"
+        },
+        {
+          "value": "This",
+          "start": 39.95,
+          "end": 40.75,
+          "uncertain": false,
+          "sourceIndex": 28,
+          "language": "en"
+        },
+        {
+          "value": "dance",
+          "start": 40.25,
+          "end": 41.35,
+          "uncertain": false,
+          "sourceIndex": 29,
+          "language": "en"
+        },
+        {
+          "value": "Is",
+          "start": 41.85,
+          "end": 42.55,
+          "uncertain": false,
+          "sourceIndex": 33,
+          "language": "en"
+        },
+        {
+          "value": "my",
+          "start": 42.05,
+          "end": 42.75,
+          "uncertain": false,
+          "sourceIndex": 34,
+          "language": "en"
+        },
+        {
+          "value": "olympus",
+          "start": 42.25,
+          "end": 43.35,
+          "uncertain": false,
+          "sourceIndex": 35,
+          "language": "en"
+        },
+        {
+          "value": "Blood",
+          "start": 44.9,
+          "end": 45.8,
+          "uncertain": false,
+          "sourceIndex": 39,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 45.3,
+          "end": 46,
+          "uncertain": false,
+          "sourceIndex": 40,
+          "language": "en"
+        },
+        {
+          "value": "oil",
+          "start": 45.5,
+          "end": 46.5,
+          "uncertain": false,
+          "sourceIndex": 41,
+          "language": "en"
+        },
+        {
+          "value": "Mix",
+          "start": 46.1,
+          "end": 46.85,
+          "uncertain": false,
+          "sourceIndex": 42,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 46.35,
+          "end": 47.05,
+          "uncertain": false,
+          "sourceIndex": 43,
+          "language": "en"
+        },
+        {
+          "value": "up",
+          "start": 46.55,
+          "end": 47.5,
+          "uncertain": false,
+          "sourceIndex": 44,
+          "language": "en"
+        },
+        {
+          "value": "Drinking",
+          "start": 48.8,
+          "end": 49.7,
+          "uncertain": false,
+          "sourceIndex": 47,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 49.2,
+          "end": 49.9,
+          "uncertain": false,
+          "sourceIndex": 48,
+          "language": "en"
+        },
+        {
+          "value": "all",
+          "start": 49.4,
+          "end": 50.3,
+          "uncertain": false,
+          "sourceIndex": 49,
+          "language": "en"
+        },
+        {
+          "value": "From",
+          "start": 49.9,
+          "end": 50.7,
+          "uncertain": false,
+          "sourceIndex": 50,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 50.2,
+          "end": 50.9,
+          "uncertain": false,
+          "sourceIndex": 51,
+          "language": "en"
+        },
+        {
+          "value": "cup",
+          "start": 50.4,
+          "end": 51.4,
+          "uncertain": false,
+          "sourceIndex": 52,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-3",
+      "start": 51.4,
+      "end": 76.5,
+      "primary": "Baila la máquina Cables eléctricos Uniendo aliento Cuento de hadas",
+      "translation": "The machine dances Hold me tight Electrical cables In the night Uniting breath With the cold Fairy tale To be told",
+      "words": [
+        {
+          "value": "Baila",
+          "start": 51.4,
+          "end": 52.4,
+          "uncertain": false,
+          "sourceIndex": 53,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 51.9,
+          "end": 52.6,
+          "uncertain": false,
+          "sourceIndex": 54,
+          "language": "es"
+        },
+        {
+          "value": "máquina",
+          "start": 52.1,
+          "end": 53.6,
+          "uncertain": false,
+          "sourceIndex": 55,
+          "language": "es"
+        },
+        {
+          "value": "Cables",
+          "start": 55.8,
+          "end": 57,
+          "uncertain": false,
+          "sourceIndex": 62,
+          "language": "es"
+        },
+        {
+          "value": "eléctricos",
+          "start": 56.5,
+          "end": 58.3,
+          "uncertain": false,
+          "sourceIndex": 63,
+          "language": "es"
+        },
+        {
+          "value": "Uniendo",
+          "start": 60.3,
+          "end": 61.5,
+          "uncertain": false,
+          "sourceIndex": 69,
+          "language": "es"
+        },
+        {
+          "value": "aliento",
+          "start": 61,
+          "end": 62.2,
+          "uncertain": false,
+          "sourceIndex": 70,
+          "language": "es"
+        },
+        {
+          "value": "Cuento",
+          "start": 64,
+          "end": 65.1,
+          "uncertain": false,
+          "sourceIndex": 76,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 64.6,
+          "end": 65.3,
+          "uncertain": false,
+          "sourceIndex": 77,
+          "language": "es"
+        },
+        {
+          "value": "hadas",
+          "start": 64.8,
+          "end": 65.9,
+          "uncertain": false,
+          "sourceIndex": 78,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 53.2,
+          "end": 53.9,
+          "uncertain": false,
+          "sourceIndex": 56,
+          "language": "en"
+        },
+        {
+          "value": "machine",
+          "start": 53.4,
+          "end": 54.4,
+          "uncertain": false,
+          "sourceIndex": 57,
+          "language": "en"
+        },
+        {
+          "value": "dances",
+          "start": 53.9,
+          "end": 55.1,
+          "uncertain": false,
+          "sourceIndex": 58,
+          "language": "en"
+        },
+        {
+          "value": "Hold",
+          "start": 54.7,
+          "end": 55.6,
+          "uncertain": false,
+          "sourceIndex": 59,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 55.1,
+          "end": 55.8,
+          "uncertain": false,
+          "sourceIndex": 60,
+          "language": "en"
+        },
+        {
+          "value": "tight",
+          "start": 55.3,
+          "end": 56.2,
+          "uncertain": false,
+          "sourceIndex": 61,
+          "language": "en"
+        },
+        {
+          "value": "Electrical",
+          "start": 57.9,
+          "end": 59,
+          "uncertain": false,
+          "sourceIndex": 64,
+          "language": "en"
+        },
+        {
+          "value": "cables",
+          "start": 58.5,
+          "end": 59.7,
+          "uncertain": false,
+          "sourceIndex": 65,
+          "language": "en"
+        },
+        {
+          "value": "In",
+          "start": 59.4,
+          "end": 60.1,
+          "uncertain": false,
+          "sourceIndex": 66,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 59.6,
+          "end": 60.3,
+          "uncertain": false,
+          "sourceIndex": 67,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 59.8,
+          "end": 60.7,
+          "uncertain": false,
+          "sourceIndex": 68,
+          "language": "en"
+        },
+        {
+          "value": "Uniting",
+          "start": 61.8,
+          "end": 62.8,
+          "uncertain": false,
+          "sourceIndex": 71,
+          "language": "en"
+        },
+        {
+          "value": "breath",
+          "start": 62.3,
+          "end": 63.3,
+          "uncertain": false,
+          "sourceIndex": 72,
+          "language": "en"
+        },
+        {
+          "value": "With",
+          "start": 62.9,
+          "end": 63.7,
+          "uncertain": false,
+          "sourceIndex": 73,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 63.2,
+          "end": 63.9,
+          "uncertain": false,
+          "sourceIndex": 74,
+          "language": "en"
+        },
+        {
+          "value": "cold",
+          "start": 63.4,
+          "end": 64.3,
+          "uncertain": false,
+          "sourceIndex": 75,
+          "language": "en"
+        },
+        {
+          "value": "Fairy",
+          "start": 65.4,
+          "end": 66.4,
+          "uncertain": false,
+          "sourceIndex": 79,
+          "language": "en"
+        },
+        {
+          "value": "tale",
+          "start": 65.9,
+          "end": 67.1,
+          "uncertain": false,
+          "sourceIndex": 80,
+          "language": "en"
+        },
+        {
+          "value": "To",
+          "start": 75,
+          "end": 75.7,
+          "uncertain": false,
+          "sourceIndex": 81,
+          "language": "en"
+        },
+        {
+          "value": "be",
+          "start": 75.2,
+          "end": 75.9,
+          "uncertain": false,
+          "sourceIndex": 82,
+          "language": "en"
+        },
+        {
+          "value": "told",
+          "start": 75.4,
+          "end": 76.5,
+          "uncertain": false,
+          "sourceIndex": 83,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-4",
+      "start": 91.6,
+      "end": 116.35,
+      "primary": "Ojos de vidrio Luz de gas Dame un poco Un poco más Tensión alta Cuerda rota Tu energía Se agota Sangre y aceite Bebiendo todo",
+      "translation": "Glass eyes Gaslight Give me a little A little more High tension Broken string Your energy Runs out Blood and oil Mix it up Drinking it all From the cup",
+      "words": [
+        {
+          "value": "Ojos",
+          "start": 91.6,
+          "end": 92.6,
+          "uncertain": false,
+          "sourceIndex": 84,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 92.1,
+          "end": 92.8,
+          "uncertain": false,
+          "sourceIndex": 85,
+          "language": "es"
+        },
+        {
+          "value": "vidrio",
+          "start": 92.3,
+          "end": 93.3,
+          "uncertain": false,
+          "sourceIndex": 86,
+          "language": "es"
+        },
+        {
+          "value": "Luz",
+          "start": 94,
+          "end": 94.8,
+          "uncertain": false,
+          "sourceIndex": 89,
+          "language": "es"
+        },
+        {
+          "value": "de",
+          "start": 94.3,
+          "end": 95,
+          "uncertain": false,
+          "sourceIndex": 90,
+          "language": "es"
+        },
+        {
+          "value": "gas",
+          "start": 94.5,
+          "end": 95.5,
+          "uncertain": false,
+          "sourceIndex": 91,
+          "language": "es"
+        },
+        {
+          "value": "Dame",
+          "start": 95.9,
+          "end": 96.8,
+          "uncertain": false,
+          "sourceIndex": 93,
+          "language": "es"
+        },
+        {
+          "value": "un",
+          "start": 96.3,
+          "end": 97,
+          "uncertain": false,
+          "sourceIndex": 94,
+          "language": "es"
+        },
+        {
+          "value": "poco",
+          "start": 96.5,
+          "end": 97.5,
+          "uncertain": false,
+          "sourceIndex": 95,
+          "language": "es"
+        },
+        {
+          "value": "Un",
+          "start": 98,
+          "end": 98.7,
+          "uncertain": false,
+          "sourceIndex": 100,
+          "language": "es"
+        },
+        {
+          "value": "poco",
+          "start": 98.2,
+          "end": 99,
+          "uncertain": false,
+          "sourceIndex": 101,
+          "language": "es"
+        },
+        {
+          "value": "más",
+          "start": 98.5,
+          "end": 99.5,
+          "uncertain": false,
+          "sourceIndex": 102,
+          "language": "es"
+        },
+        {
+          "value": "Tensión",
+          "start": 100.1,
+          "end": 101.2,
+          "uncertain": false,
+          "sourceIndex": 106,
+          "language": "es"
+        },
+        {
+          "value": "alta",
+          "start": 100.7,
+          "end": 101.7,
+          "uncertain": false,
+          "sourceIndex": 107,
+          "language": "es"
+        },
+        {
+          "value": "Cuerda",
+          "start": 102.2,
+          "end": 103.2,
+          "uncertain": false,
+          "sourceIndex": 110,
+          "language": "es"
+        },
+        {
+          "value": "rota",
+          "start": 102.7,
+          "end": 103.8,
+          "uncertain": false,
+          "sourceIndex": 111,
+          "language": "es"
+        },
+        {
+          "value": "Tu",
+          "start": 104.3,
+          "end": 105,
+          "uncertain": false,
+          "sourceIndex": 114,
+          "language": "es"
+        },
+        {
+          "value": "energía",
+          "start": 104.5,
+          "end": 105.7,
+          "uncertain": false,
+          "sourceIndex": 115,
+          "language": "es"
+        },
+        {
+          "value": "Se",
+          "start": 106.3,
+          "end": 107.1,
+          "uncertain": false,
+          "sourceIndex": 118,
+          "language": "es"
+        },
+        {
+          "value": "agota",
+          "start": 106.6,
+          "end": 107.6,
+          "uncertain": false,
+          "sourceIndex": 119,
+          "language": "es"
+        },
+        {
+          "value": "Sangre",
+          "start": 108.05,
+          "end": 109.25,
+          "uncertain": false,
+          "sourceIndex": 122,
+          "language": "es"
+        },
+        {
+          "value": "y",
+          "start": 108.75,
+          "end": 109.45,
+          "uncertain": false,
+          "sourceIndex": 123,
+          "language": "es"
+        },
+        {
+          "value": "aceite",
+          "start": 108.95,
+          "end": 110.45,
+          "uncertain": false,
+          "sourceIndex": 124,
+          "language": "es"
+        },
+        {
+          "value": "Bebiendo",
+          "start": 112.25,
+          "end": 113.45,
+          "uncertain": false,
+          "sourceIndex": 131,
+          "language": "es"
+        },
+        {
+          "value": "todo",
+          "start": 112.95,
+          "end": 114.15,
+          "uncertain": false,
+          "sourceIndex": 132,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Glass",
+          "start": 92.9,
+          "end": 93.9,
+          "uncertain": false,
+          "sourceIndex": 87,
+          "language": "en"
+        },
+        {
+          "value": "eyes",
+          "start": 93.4,
+          "end": 94.4,
+          "uncertain": false,
+          "sourceIndex": 88,
+          "language": "en"
+        },
+        {
+          "value": "Gaslight",
+          "start": 95.1,
+          "end": 96.2,
+          "uncertain": false,
+          "sourceIndex": 92,
+          "language": "en"
+        },
+        {
+          "value": "Give",
+          "start": 97,
+          "end": 97.8,
+          "uncertain": false,
+          "sourceIndex": 96,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 97.3,
+          "end": 97.95,
+          "uncertain": false,
+          "sourceIndex": 97,
+          "language": "en"
+        },
+        {
+          "value": "a",
+          "start": 97.45,
+          "end": 98.1,
+          "uncertain": false,
+          "sourceIndex": 98,
+          "language": "en"
+        },
+        {
+          "value": "little",
+          "start": 97.6,
+          "end": 98.5,
+          "uncertain": false,
+          "sourceIndex": 99,
+          "language": "en"
+        },
+        {
+          "value": "A",
+          "start": 99,
+          "end": 99.65,
+          "uncertain": false,
+          "sourceIndex": 103,
+          "language": "en"
+        },
+        {
+          "value": "little",
+          "start": 99.15,
+          "end": 100.05,
+          "uncertain": false,
+          "sourceIndex": 104,
+          "language": "en"
+        },
+        {
+          "value": "more",
+          "start": 99.55,
+          "end": 100.5,
+          "uncertain": false,
+          "sourceIndex": 105,
+          "language": "en"
+        },
+        {
+          "value": "High",
+          "start": 101.3,
+          "end": 102.1,
+          "uncertain": false,
+          "sourceIndex": 108,
+          "language": "en"
+        },
+        {
+          "value": "tension",
+          "start": 101.6,
+          "end": 102.6,
+          "uncertain": false,
+          "sourceIndex": 109,
+          "language": "en"
+        },
+        {
+          "value": "Broken",
+          "start": 103.3,
+          "end": 104.2,
+          "uncertain": false,
+          "sourceIndex": 112,
+          "language": "en"
+        },
+        {
+          "value": "string",
+          "start": 103.7,
+          "end": 104.7,
+          "uncertain": false,
+          "sourceIndex": 113,
+          "language": "en"
+        },
+        {
+          "value": "Your",
+          "start": 105.3,
+          "end": 106.1,
+          "uncertain": false,
+          "sourceIndex": 116,
+          "language": "en"
+        },
+        {
+          "value": "energy",
+          "start": 105.6,
+          "end": 106.7,
+          "uncertain": false,
+          "sourceIndex": 117,
+          "language": "en"
+        },
+        {
+          "value": "Runs",
+          "start": 107.1,
+          "end": 108,
+          "uncertain": false,
+          "sourceIndex": 120,
+          "language": "en"
+        },
+        {
+          "value": "out",
+          "start": 107.5,
+          "end": 108.5,
+          "uncertain": false,
+          "sourceIndex": 121,
+          "language": "en"
+        },
+        {
+          "value": "Blood",
+          "start": 110.05,
+          "end": 110.95,
+          "uncertain": false,
+          "sourceIndex": 125,
+          "language": "en"
+        },
+        {
+          "value": "and",
+          "start": 110.45,
+          "end": 111.15,
+          "uncertain": false,
+          "sourceIndex": 126,
+          "language": "en"
+        },
+        {
+          "value": "oil",
+          "start": 110.65,
+          "end": 111.65,
+          "uncertain": false,
+          "sourceIndex": 127,
+          "language": "en"
+        },
+        {
+          "value": "Mix",
+          "start": 111.25,
+          "end": 112,
+          "uncertain": false,
+          "sourceIndex": 128,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 111.5,
+          "end": 112.2,
+          "uncertain": false,
+          "sourceIndex": 129,
+          "language": "en"
+        },
+        {
+          "value": "up",
+          "start": 111.7,
+          "end": 112.65,
+          "uncertain": false,
+          "sourceIndex": 130,
+          "language": "en"
+        },
+        {
+          "value": "Drinking",
+          "start": 113.75,
+          "end": 114.65,
+          "uncertain": false,
+          "sourceIndex": 133,
+          "language": "en"
+        },
+        {
+          "value": "it",
+          "start": 114.15,
+          "end": 114.85,
+          "uncertain": false,
+          "sourceIndex": 134,
+          "language": "en"
+        },
+        {
+          "value": "all",
+          "start": 114.35,
+          "end": 115.25,
+          "uncertain": false,
+          "sourceIndex": 135,
+          "language": "en"
+        },
+        {
+          "value": "From",
+          "start": 114.85,
+          "end": 115.65,
+          "uncertain": false,
+          "sourceIndex": 136,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 115.15,
+          "end": 115.85,
+          "uncertain": false,
+          "sourceIndex": 137,
+          "language": "en"
+        },
+        {
+          "value": "cup",
+          "start": 115.35,
+          "end": 116.35,
+          "uncertain": false,
+          "sourceIndex": 138,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-5",
+      "start": 116.6,
+      "end": 142,
+      "primary": "Baila la máquina Cables eléctricos",
+      "translation": "The machine dances Hold me tight Electrical cables In the night Don't lose the rhythm Don't lose the rhythm",
+      "words": [
+        {
+          "value": "Baila",
+          "start": 116.6,
+          "end": 117.7,
+          "uncertain": false,
+          "sourceIndex": 139,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 117.2,
+          "end": 117.9,
+          "uncertain": false,
+          "sourceIndex": 140,
+          "language": "es"
+        },
+        {
+          "value": "máquina",
+          "start": 117.4,
+          "end": 118.9,
+          "uncertain": false,
+          "sourceIndex": 141,
+          "language": "es"
+        },
+        {
+          "value": "Cables",
+          "start": 120.9,
+          "end": 122.1,
+          "uncertain": false,
+          "sourceIndex": 148,
+          "language": "es"
+        },
+        {
+          "value": "eléctricos",
+          "start": 121.6,
+          "end": 123.3,
+          "uncertain": false,
+          "sourceIndex": 149,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "The",
+          "start": 118.5,
+          "end": 119.2,
+          "uncertain": false,
+          "sourceIndex": 142,
+          "language": "en"
+        },
+        {
+          "value": "machine",
+          "start": 118.7,
+          "end": 119.7,
+          "uncertain": false,
+          "sourceIndex": 143,
+          "language": "en"
+        },
+        {
+          "value": "dances",
+          "start": 119.2,
+          "end": 120.3,
+          "uncertain": false,
+          "sourceIndex": 144,
+          "language": "en"
+        },
+        {
+          "value": "Hold",
+          "start": 119.9,
+          "end": 120.7,
+          "uncertain": false,
+          "sourceIndex": 145,
+          "language": "en"
+        },
+        {
+          "value": "me",
+          "start": 120.2,
+          "end": 120.9,
+          "uncertain": false,
+          "sourceIndex": 146,
+          "language": "en"
+        },
+        {
+          "value": "tight",
+          "start": 120.4,
+          "end": 121.3,
+          "uncertain": false,
+          "sourceIndex": 147,
+          "language": "en"
+        },
+        {
+          "value": "Electrical",
+          "start": 122.9,
+          "end": 124,
+          "uncertain": false,
+          "sourceIndex": 150,
+          "language": "en"
+        },
+        {
+          "value": "cables",
+          "start": 123.5,
+          "end": 124.7,
+          "uncertain": false,
+          "sourceIndex": 151,
+          "language": "en"
+        },
+        {
+          "value": "In",
+          "start": 124.4,
+          "end": 125.1,
+          "uncertain": false,
+          "sourceIndex": 152,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 124.6,
+          "end": 125.3,
+          "uncertain": false,
+          "sourceIndex": 153,
+          "language": "en"
+        },
+        {
+          "value": "night",
+          "start": 124.8,
+          "end": 125.9,
+          "uncertain": false,
+          "sourceIndex": 154,
+          "language": "en"
+        },
+        {
+          "value": "Don't",
+          "start": 132.7,
+          "end": 133.4,
+          "uncertain": false,
+          "sourceIndex": 155,
+          "language": "en"
+        },
+        {
+          "value": "lose",
+          "start": 132.9,
+          "end": 133.6,
+          "uncertain": false,
+          "sourceIndex": 156,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 133.1,
+          "end": 133.7,
+          "uncertain": false,
+          "sourceIndex": 157,
+          "language": "en"
+        },
+        {
+          "value": "rhythm",
+          "start": 133.2,
+          "end": 134.2,
+          "uncertain": false,
+          "sourceIndex": 158,
+          "language": "en"
+        },
+        {
+          "value": "Don't",
+          "start": 140.5,
+          "end": 141.2,
+          "uncertain": false,
+          "sourceIndex": 159,
+          "language": "en"
+        },
+        {
+          "value": "lose",
+          "start": 140.7,
+          "end": 141.4,
+          "uncertain": false,
+          "sourceIndex": 160,
+          "language": "en"
+        },
+        {
+          "value": "the",
+          "start": 140.9,
+          "end": 141.5,
+          "uncertain": false,
+          "sourceIndex": 161,
+          "language": "en"
+        },
+        {
+          "value": "rhythm",
+          "start": 141,
+          "end": 142,
+          "uncertain": false,
+          "sourceIndex": 162,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    },
+    {
+      "id": "seg-6",
+      "start": 165.3,
+      "end": 168.5,
+      "primary": "Se acabó la cuerda",
+      "translation": "Stop",
+      "words": [
+        {
+          "value": "Se",
+          "start": 165.3,
+          "end": 165.6,
+          "uncertain": false,
+          "sourceIndex": 163,
+          "language": "es"
+        },
+        {
+          "value": "acabó",
+          "start": 165.6,
+          "end": 166,
+          "uncertain": false,
+          "sourceIndex": 164,
+          "language": "es"
+        },
+        {
+          "value": "la",
+          "start": 166,
+          "end": 166.2,
+          "uncertain": false,
+          "sourceIndex": 165,
+          "language": "es"
+        },
+        {
+          "value": "cuerda",
+          "start": 166.2,
+          "end": 167,
+          "uncertain": false,
+          "sourceIndex": 166,
+          "language": "es"
+        }
+      ],
+      "translationWords": [
+        {
+          "value": "Stop",
+          "start": 168,
+          "end": 168.5,
+          "uncertain": false,
+          "sourceIndex": 167,
+          "language": "en"
+        }
+      ],
+      "translationTiming": "sung",
+      "language_code": "es"
+    }
+  ]
+}
